@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T05:40:20Z",
+  "generated": "2026-08-08T06:11:03Z",
   "lead": {
     "title": "Child among three killed in Russian missile attacks near Kyiv",
     "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -11,34 +11,61 @@
   },
   "top": [
     {
-      "title": "Delaware court blocks Verisk’s exit from $2.35 billion AccuLynx deal",
-      "link": "https://www.investing.com/news/stock-market-news/delaware-court-blocks-verisks-exit-from-235-billion-acculynx-deal-4847609",
-      "summary": "",
-      "published": "2026-08-08T05:19:35Z",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "How can landscape recover after devastating fires?",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv2wd7e66o?at_medium=RSS&at_campaign=rss",
+      "summary": "Conservationists are working to restore wildlife after recent wildfires devastated habitats.",
+      "published": "2026-08-08T06:06:00Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f152/live/6923ba10-9264-11f1-bb9b-3bdc4098a990.png",
+      "source": "BBC News",
+      "section": "Science"
     },
     {
-      "title": "TV tonight: a joyous night of live music with Paul Heaton",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/aug/08/tv-tonight-a-joyous-night-of-live-music-with-paul-heaton",
-      "summary": "A hugely fun performance of all the Beautiful South and Housemartins hits. Plus: how deep were Elvis Presley’s connections to organised crime? Here’s what to watch this evening 10.10pm, BBC Two Continue reading...",
-      "published": "2026-08-08T05:15:37Z",
-      "image": "https://i.guim.co.uk/img/media/9a875bbcd37298d99f41aa3b8fbc4070516cc038/663_414_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=8c4c1a40cdc9e1316034a2aa10a2a296",
+      "title": "Human Centipede director Tom Six reveals multiple sclerosis diagnosis in ‘final film’",
+      "link": "https://www.theguardian.com/film/2026/aug/08/human-centipede-director-tom-six-multiple-sclerosis-diagnosis-final-film",
+      "summary": "The Dutch creator of the controversial trilogy set to detail struggles with neurological disease in homemade documentary, after spending six years ‘as a recluse’ Tom Six, the film-maker behind schlock horror phenomenon The Human Centipede, has revealed that he has been living as “a full-blown recluse” in a darkened Amsterdam apartment for six years after being diagnosed with multiple sclerosis. In The End of Tom Six, a homemade documentary that the Dutch director said would be his final film, he says that the stress over his failure to find a distributor for the follow-up to the Centipede trilogy significantly exacerbated his condition. Continue reading...",
+      "published": "2026-08-08T06:00:39Z",
+      "image": "https://i.guim.co.uk/img/media/dd11371ef01aee34b2d083c0afd435ad433a93e7/344_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=2c1742905da6faa814b59b52361dda12",
       "source": "The Guardian",
       "section": "Culture"
     },
     {
-      "title": "Life as a Wag in the transfer window",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
-      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-      "published": "2026-08-08T05:15:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
+      "title": "Martin & Roman’s Irish Road Trip: the choice of presenters for this travelogue is utterly baffling",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/aug/08/martin-romans-irish-road-trip-the-choice-of-presenters-for-this-travelogue-is-utterly-baffling",
+      "summary": "Spandau Ballet bassist Martin Kemp and his son Roman embark on a journey around the Emerald Isle. For what reason, nobody really knows If you’re someone who believes the celebrity travelogue genre has been pushed too far, Martin & Roman’s Irish Road Trip (Monday, 8pm, Channel 4) is here to push you to the edge. Then continue pushing until you’re falling off a cliff into the Irish Sea. It is unclear why exactly the producers chose Martin Kemp and his son, Roman, to take viewers on a tour of Ireland. Which to be fair, the two men address in the first three minutes. Martin lived in the country briefly in the 80s during his Spandau Ballet era, we’re told. His mum “always said” she was half Irish but – as Roman points out – the family did an ancestral DNA test and they’re actually Germanic. Continue reading...",
+      "published": "2026-08-08T06:00:38Z",
+      "image": "https://i.guim.co.uk/img/media/f4bca25e0d4b9760abfbfb2f0c63c812ffd9d97e/325_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2379198e9986ae1be286a0dfc188771b",
+      "source": "The Guardian",
+      "section": "Culture"
     }
   ],
   "latest": [
+    {
+      "title": "Man City agree deal to sign Marseille keeper Rulli",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
+      "published": "2026-08-08T06:00:37Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Inside Newcastle 2.0 - how the project is changing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
+      "published": "2026-08-08T05:50:20Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98a/live/662c2c80-9286-11f1-9985-cdf6a137096d.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+      "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+      "summary": "After a fire broke out, the building was cleared in what activists say was a politically motivated move.",
+      "published": "2026-08-08T05:45:58Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
     {
       "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
       "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
@@ -67,6 +94,33 @@
       "section": "World"
     },
     {
+      "title": "Delaware court blocks Verisk’s exit from $2.35 billion AccuLynx deal",
+      "link": "https://www.investing.com/news/stock-market-news/delaware-court-blocks-verisks-exit-from-235-billion-acculynx-deal-4847609",
+      "summary": "",
+      "published": "2026-08-08T05:19:35Z",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "TV tonight: a joyous night of live music with Paul Heaton",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/aug/08/tv-tonight-a-joyous-night-of-live-music-with-paul-heaton",
+      "summary": "A hugely fun performance of all the Beautiful South and Housemartins hits. Plus: how deep were Elvis Presley’s connections to organised crime? Here’s what to watch this evening 10.10pm, BBC Two Continue reading...",
+      "published": "2026-08-08T05:15:37Z",
+      "image": "https://i.guim.co.uk/img/media/9a875bbcd37298d99f41aa3b8fbc4070516cc038/663_414_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=8c4c1a40cdc9e1316034a2aa10a2a296",
+      "source": "The Guardian",
+      "section": "Culture"
+    },
+    {
+      "title": "Life as a Wag in the transfer window",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+      "published": "2026-08-08T05:15:34Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
       "title": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
       "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss",
       "summary": "FIFA president Gianni Infantino gets South American football's backing while at Abelardo de la Espriella's inauguration.",
@@ -74,64 +128,19 @@
       "image": null,
       "source": "Al Jazeera",
       "section": "World"
-    },
-    {
-      "title": "‘I’ve always felt too old and too young at the same time’: The Last of Us star Bella Ramsey on swapping child stardom for cult television – and Celebrity Traitors",
-      "link": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
-      "summary": "At 22, Ramsey has already been on our screens for a decade, and nominated for every award going. So why do they find it strange to be called an actor? Bella Ramsey often feels more comfortable around older people. The actor, 22, who is non-binary and uses they/them pronouns, has been working professionally since they were 11, when they got their first TV job as the child noblewoman Lyanna Mormont in Game of Thrones. For half of their life, they have been in adult environments, talking to adults, working with adults. Even so, the London cafe in which Ramsey has chosen to meet makes any retirement home look like a creche. It is full of old men with their dogs, popping in for a cup of tea and a morning chat. “It feels like it belongs in the Midlands. It feels a bit, like, shit and familiar,” says Ramsey, who grew up in the East Midlands and can say that with affection. Their curly hair is short, pushed back off their face, and they have a single gold hoop in one ear. The plan had been to go for a walk this morning, but it is raining so we have a cup of tea and wait for the drizzle to pass. Ramsey seems both younger and older than 22, depending on the moment. Sometimes, within a single sentence, they sound ancient and wise, and also like a bookish teenager, discovering with amazement how they think they might feel about the world. Continue reading...",
-      "published": "2026-08-08T05:00:40Z",
-      "image": "https://i.guim.co.uk/img/media/65730c8a83ebd23b43250d20a96777e1f3e34725/0_807_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=7e889fb472e4184bef5802f6c0fef0eb",
-      "source": "The Guardian",
-      "section": "Culture"
-    },
-    {
-      "title": "From Love Me Tender to Kevin Bridges: your complete entertainment guide to the week ahead",
-      "link": "https://www.theguardian.com/culture/2026/aug/08/entertainment-week-ahead-love-me-tender-kevin-bridges-flo-joji-warrens-vortex",
-      "summary": "Vicky Krieps puts her heart on the line in Anna Cazenave Cambet’s romantic drama, and the Glaswegian comedy superstar is back on stage for a massive UK tour Love Me Tender Out now Vicky Krieps heads up Anna Cazenave Cambet’s drama about a woman who splits amicably from her husband to follow her dream of becoming a writer, but then falls for a woman – at which point, the ex-hubby files for sole custody of their child. Also starring Monia Chokri and Antoine Reinartz. Continue reading...",
-      "published": "2026-08-08T05:00:38Z",
-      "image": "https://i.guim.co.uk/img/media/09f81c07b953405df6d6615f8acaa80f923f8ed1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=aecd505c9369da331bc40d63e6245436",
-      "source": "The Guardian",
-      "section": "Culture"
-    },
-    {
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "summary": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalent A thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Erin O’Connor watched the sky above Canada’s biggest city turn an “almost post-apocalyptic” orange as it filled with light-scattering particles of soot and ash. Stepping outside the halls of Toronto General hospital, where air filters were keeping patients safe from the worst of the fumes, she was struck by a smell so strong it felt like standing by a campfire. “It really hit you in the face as soon as you walked outside,” said O’Connor, who runs University Health Network’s emergency department and saw a rise in patients presenting with allergies and shortness of breath. “As the days progressed, it was like that everywhere. It seemed even inside you could smell that burning.” Continue reading...",
-      "published": "2026-08-08T05:00:37Z",
-      "image": "https://i.guim.co.uk/img/media/6adb7135edd65d6b009bdc318353c7ef7283e8b4/551_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3a8a158b7b12e78a0a2475d751c62eec",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "From The Shards to Phoebe Bridgers: the week in rave reviews",
-      "link": "https://www.theguardian.com/culture/2026/aug/08/the-week-in-rave-reviews-shards-phoebe-bridgers-bouchra-child-my-own-netflix-salisbury-poisonings",
-      "summary": "Ryan Murphy and Brett Easton Ellis team up for a retro serial-killer drama, and the California songsmith is back with a remarkable new album. Here’s the pick of the week’s culture, taken from the Guardian’s best-rated reviews Continue reading...",
-      "published": "2026-08-08T05:00:36Z",
-      "image": "https://i.guim.co.uk/img/media/d168cf43a4829801169c0473a1325df83db64bd9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f6b0a256e24895655ce3e1642d8c9e80",
-      "source": "The Guardian",
-      "section": "Culture"
-    },
-    {
-      "title": "Australia unions push on with strike at BHP’s Port Hedland iron ore operations",
-      "link": "https://www.investing.com/news/stock-market-news/twoday-strike-begins-at-bhps-port-hedland-iron-ore-operations-4847364",
-      "summary": "",
-      "published": "2026-08-08T04:54:29Z",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Situational Awareness invested $500 million in chip startup Source Foundry",
-      "link": "https://www.investing.com/news/stock-market-news/situational-awareness-invested-500-million-in-chip-startup-source-foundry-4847607",
-      "summary": "",
-      "published": "2026-08-08T04:53:25Z",
-      "image": "https://content-media.investing.com/news/LeopoldAschenbrenner_800x533_L_1785422372.png",
-      "source": "Investing.com",
-      "section": "Markets"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+        "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+        "summary": "After a fire broke out, the building was cleared in what activists say was a politically motivated move.",
+        "published": "2026-08-08T05:45:58Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
       {
         "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
         "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
@@ -191,15 +200,6 @@
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
         "summary": "Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
         "published": "2026-08-08T04:31:42Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
-        "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-        "summary": "For many Congolese, the census is about identity, recognition and finally being recorded by the state.",
-        "published": "2026-08-08T04:29:46Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
@@ -281,6 +281,15 @@
     ],
     "Markets": [
       {
+        "title": "Delaware court blocks Verisk’s exit from $2.35 billion AccuLynx deal",
+        "link": "https://www.investing.com/news/stock-market-news/delaware-court-blocks-verisks-exit-from-235-billion-acculynx-deal-4847609",
+        "summary": "",
+        "published": "2026-08-08T05:19:35Z",
+        "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
         "title": "Australia unions push on with strike at BHP’s Port Hedland iron ore operations",
         "link": "https://www.investing.com/news/stock-market-news/twoday-strike-begins-at-bhps-port-hedland-iron-ore-operations-4847364",
         "summary": "",
@@ -340,15 +349,6 @@
         "summary": "",
         "published": "2026-08-08T02:12:26Z",
         "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Data center operator Switch plans return to public markets via a $50bn IPO",
-        "link": "https://www.investing.com/news/stock-market-news/data-center-operator-switch-plans-return-to-public-markets-in-a-50bn-ipo-4847560",
-        "summary": "",
-        "published": "2026-08-08T00:39:21Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL6E0BZ_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
@@ -503,6 +503,33 @@
     ],
     "Sports": [
       {
+        "title": "Man City agree deal to sign Marseille keeper Rulli",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille.",
+        "published": "2026-08-08T06:00:37Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Inside Newcastle 2.0 - how the project is changing",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins.",
+        "published": "2026-08-08T05:50:20Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98a/live/662c2c80-9286-11f1-9985-cdf6a137096d.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Life as a Wag in the transfer window",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss",
+        "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
+        "published": "2026-08-08T05:15:34Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Liverpool close to signing Barcelona's Araujo on loan",
         "link": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
         "summary": "Liverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to purchase.",
@@ -546,36 +573,18 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/498b/live/a4ee0bd0-92a1-11f1-ad1c-3bd57e0f041e.jpg",
         "source": "BBC Sport",
         "section": "Sports"
-      },
-      {
-        "title": "Partick Thistle beat Livingston in Scottish Championship",
-        "link": "https://www.bbc.co.uk/sport/videos/c98vppyny3go?at_medium=RSS&at_campaign=rss",
-        "summary": "An early Robbie Crawford back-heel and a Cammy MacPherson own goal give Partick Thistle victory over Livingston as two of the promotion favourites meet in the Scottish Championship at Firhill.",
-        "published": "2026-08-07T21:25:41Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7161/live/b7e91bd0-92a6-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Will Lankshear starts off in style to see Middlesbrough past Wrexham",
-        "link": "https://www.theguardian.com/football/2026/aug/07/middlesbrough-wrexham-carabao-cup-match-report",
-        "summary": "Will Lankshear’s debut strike ensured Middlesbrough made a winning start to the season as they beat Wrexham 1-0 in the Carabao Cup first round. Lankshear, a £10m summer signing from Tottenham, scored the only goal of the game in the 61st minute as he hooked home an excellent first-time volley. Middlesbrough almost claimed a seventh-minute opener but when Adilson Malanda prodded Sebastian Berhalter’s cross goalwards from close range, Danny Ward kept the ball out with a superb point-blank save. Continue reading...",
-        "published": "2026-08-07T21:20:40Z",
-        "image": "https://i.guim.co.uk/img/media/9d2a4f06ee45f8b9ec70b331e1be2e675b1efb29/422_0_3094_2476/master/3094.jpg?width=140&quality=85&auto=format&fit=max&s=1d46eb79ac58722fcc764cdb7e6d4db6",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Leeds extend lead at top of Super League after thrilling late win at Wakefield",
-        "link": "https://www.theguardian.com/sport/2026/aug/07/wakefield-leeds-super-league-match-report",
-        "summary": "Wakefield 22-24 Leeds Hankinson’s try seals victory after 16-point deficit Whisper it but perhaps that was the performance of a champion side. All week the talk had been about Wakefield Trinity and whether this could be the night they declared themselves as a Super League force in front of a sell-out crowd against Leeds Rhinos. In the end, they probably did that, despite the result. These two West Yorkshire rivals served up a classic under the Belle Vue lights but in the end, despite never leading until the 77th minute, Leeds mustered up all their strength and championship credentials to complete a comeback which began when they trailed by 16 points with half an hour left. Continue reading...",
-        "published": "2026-08-07T21:12:26Z",
-        "image": "https://i.guim.co.uk/img/media/f9c6fd023318202fb598f711fe520095d0139153/279_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=fbcdef3a8560a70bdbf57ba24dc7ae56",
-        "source": "The Guardian",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "TV tonight: a joyous night of live music with Paul Heaton",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/aug/08/tv-tonight-a-joyous-night-of-live-music-with-paul-heaton",
+        "summary": "A hugely fun performance of all the Beautiful South and Housemartins hits. Plus: how deep were Elvis Presley’s connections to organised crime? Here’s what to watch this evening 10.10pm, BBC Two Continue reading...",
+        "published": "2026-08-08T05:15:37Z",
+        "image": "https://i.guim.co.uk/img/media/9a875bbcd37298d99f41aa3b8fbc4070516cc038/663_414_2690_2152/master/2690.jpg?width=140&quality=85&auto=format&fit=max&s=8c4c1a40cdc9e1316034a2aa10a2a296",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "‘I’ve always felt too old and too young at the same time’: The Last of Us star Bella Ramsey on swapping child stardom for cult television – and Celebrity Traitors",
         "link": "https://www.theguardian.com/culture/2026/aug/08/bella-ramsey-actor-the-last-of-us-sunny-dancer-maya-celebrity-traitors",
@@ -637,15 +646,6 @@
         "published": "2026-08-07T19:49:41Z",
         "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07xp-smith-obit/07xp-smith-obit-mediumSquareAt3X.jpg",
         "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Singer Self Esteem to make cinematic debut in film set in 1980s",
-        "link": "https://www.bbc.co.uk/news/articles/c0l5x1xn8dno?at_medium=RSS&at_campaign=rss",
-        "summary": "Pop singer Self Esteem is set to star in upcoming film Mountain from Welsh director Celyn Jones.",
-        "published": "2026-08-07T17:14:01Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a037/live/2335a300-9251-11f1-b4dc-f3d0b9f07ec5.jpg",
-        "source": "BBC News",
         "section": "Culture"
       }
     ]
