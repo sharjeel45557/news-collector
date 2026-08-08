@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="900">
+<meta name="description" content="News from all over the web, gathered every hour.">
+<title>The Daily Dispatch — Saturday, 08 August 2026</title>
+<style>
+:root {
+  --paper: #fff1e5; --paper-deep: #f2e5da; --ink: #33302e; --ink-soft: #66605c;
+  --accent: #990f3d; --rule: #ccc1b7; --rule-dark: #33302e; --link-hover: #0d7680;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.45; -webkit-font-smoothing: antialiased;
+}
+.wrap { max-width: 1220px; margin: 0 auto; padding: 0 20px; }
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--link-hover); }
+img { max-width: 100%; display: block; }
+
+.topbar {
+  display: flex; justify-content: space-between; align-items: center;
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px;
+  letter-spacing: .04em; color: var(--ink-soft);
+  padding: 10px 0; border-bottom: 1px solid var(--rule);
+}
+.masthead { text-align: center; padding: 26px 0 14px; }
+.masthead h1 {
+  font-size: clamp(40px, 7vw, 74px); font-weight: 400; letter-spacing: .01em;
+  font-variant: small-caps;
+}
+.masthead .tagline {
+  font-style: italic; color: var(--ink-soft); font-size: 15px; margin-top: 4px;
+}
+.nav {
+  border-top: 1px solid var(--rule-dark); border-bottom: 3px double var(--rule-dark);
+  margin-top: 16px;
+}
+.nav ul {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 30px;
+  list-style: none; padding: 10px 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px;
+  letter-spacing: .12em; text-transform: uppercase;
+}
+.nav a:hover { color: var(--accent); }
+
+.front { display: grid; grid-template-columns: 1fr 300px; gap: 34px; padding: 30px 0; }
+.lead-story { display: grid; grid-template-columns: 1fr 1fr; gap: 26px; align-items: start; }
+.lead-story.no-image { grid-template-columns: 1fr; }
+.kicker {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--accent);
+  margin-bottom: 8px;
+}
+.lead-story h2 { font-size: clamp(28px, 3.4vw, 42px); font-weight: 500; line-height: 1.12; margin-bottom: 14px; }
+.standfirst { font-size: 18px; color: var(--ink-soft); margin-bottom: 12px; }
+.meta {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 12px;
+  color: var(--ink-soft); margin-top: 6px;
+}
+.meta .source { font-weight: 600; }
+.lead-figure { border: 1px solid var(--rule); }
+.lead-img, .card-img, .section-img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; }
+
+.latest { border-left: 1px solid var(--rule); padding-left: 26px; }
+.latest h3, .section-title {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 13px;
+  letter-spacing: .14em; text-transform: uppercase; font-weight: 700;
+}
+.latest h3 { margin-bottom: 14px; padding-bottom: 8px; border-bottom: 3px solid var(--rule-dark); }
+.latest ul { list-style: none; }
+.latest li { padding: 11px 0; border-bottom: 1px dotted var(--rule); font-size: 15px; line-height: 1.3; }
+.latest li:last-child { border-bottom: none; }
+
+.top-row {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px;
+  padding: 26px 0 30px; border-top: 1px solid var(--rule-dark);
+}
+.top-card h3 { font-size: 20px; font-weight: 500; line-height: 1.2; margin: 8px 0; }
+.top-card .card-img { margin-bottom: 12px; border: 1px solid var(--rule); }
+.card-summary { font-size: 14px; color: var(--ink-soft); }
+
+.news-section { border-top: 1px solid var(--rule-dark); padding: 20px 0 30px; }
+.section-title { margin-bottom: 18px; }
+.section-title span { color: var(--accent); }
+.section-grid { display: grid; grid-template-columns: 340px 1fr; gap: 34px; }
+.section-lead h4 { font-size: 21px; font-weight: 500; line-height: 1.2; margin: 10px 0 8px; }
+.section-img { border: 1px solid var(--rule); }
+.section-list { list-style: none; columns: 2; column-gap: 34px; }
+.section-list li {
+  break-inside: avoid; padding: 10px 0; border-bottom: 1px dotted var(--rule);
+  font-size: 16px; line-height: 1.3;
+}
+
+.foot {
+  border-top: 3px double var(--rule-dark); margin-top: 10px; padding: 22px 0 44px;
+  text-align: center; font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 12px; color: var(--ink-soft);
+}
+.foot a { text-decoration: underline; }
+
+@media (max-width: 980px) {
+  .front { grid-template-columns: 1fr; }
+  .latest { border-left: none; padding-left: 0; border-top: 1px solid var(--rule-dark); padding-top: 18px; }
+  .top-row { grid-template-columns: 1fr; }
+  .section-grid { grid-template-columns: 1fr; }
+  .section-list { columns: 1; }
+}
+@media (max-width: 700px) {
+  .lead-story { grid-template-columns: 1fr; }
+  .lead-figure { order: -1; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="topbar">
+      <span class="dateline">Saturday, 08 August 2026</span>
+      <span>Updated <time datetime="2026-08-08T05:01:47Z">05:01 UTC</time></span>
+    </div>
+    <div class="masthead">
+      <h1>The Daily Dispatch</h1>
+      <p class="tagline">News from all over the web, gathered every hour</p>
+    </div>
+    <nav class="nav" aria-label="Sections"><ul>
+<li><a href="#world">World</a></li>
+<li><a href="#business">Business</a></li>
+<li><a href="#markets">Markets</a></li>
+<li><a href="#technology">Technology</a></li>
+<li><a href="#science">Science</a></li>
+<li><a href="#sports">Sports</a></li>
+<li><a href="#culture">Culture</a></li>
+    </ul></nav>
+  </header>
+
+  <main>
+    <div class="front">
+      <div class="front-main">
+
+    <article class="lead-story">
+      <div class="lead-text">
+        <p class="kicker">World</p>
+        <h2><a href="https://example.com/world-news-network/0">Leaders gather for emergency summit on regional security pact</a></h2>
+        <p class="standfirst">Heads of state from twelve nations convened late on Thursday to negotiate a new framework for regional security cooperation, with observers calling it the most consequential diplomatic gathering in a decade.</p>
+        <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+      </div>
+      <figure class="lead-figure"><img class="lead-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzFmM2E1ZiIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+VzwvdGV4dD48L3N2Zz4=" alt="Leaders gather for emergency summit on regional security pact" loading="lazy" onerror="this.remove()"></figure>
+    </article>
+      </div>
+      <aside class="latest" aria-label="Latest news">
+        <h3>Latest</h3>
+        <ul>
+
+        <li>
+          <a href="https://example.com/science-observer/0">Astronomers detect water vapour on distant rocky exoplanet</a>
+          <p class="meta"><span class="source">Science Observer</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/sports-tribune/0">Underdogs stun champions in extra-time thriller</a>
+          <p class="meta"><span class="source">Sports Tribune</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/tech-chronicle/0">Breakthrough chip design promises fourfold gain in AI efficiency</a>
+          <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T04:30:01Z" data-reltime>04:30 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/world-news-network/1">Historic ceasefire agreement signed after marathon negotiations</a>
+          <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/arts-and-letters/1">Film festival opens with restored silent-era classic</a>
+          <p class="meta"><span class="source">Arts And Letters</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/global-business-review/1">Airline megamerger clears final regulatory hurdle</a>
+          <p class="meta"><span class="source">Global Business Review</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/market-watch-daily/1">Oil slides on inventory build and demand worries</a>
+          <p class="meta"><span class="source">Market Watch Daily</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/science-observer/1">Gene therapy trial restores partial vision in landmark study</a>
+          <p class="meta"><span class="source">Science Observer</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/sports-tribune/1">Record transfer fee agreed for teenage striker</a>
+          <p class="meta"><span class="source">Sports Tribune</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </li>
+
+        <li>
+          <a href="https://example.com/tech-chronicle/1">Major platform rolls out end-to-end encryption by default</a>
+          <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T03:37:01Z" data-reltime>03:37 UTC</time></p>
+        </li>
+        </ul>
+      </aside>
+    </div>
+
+    <div class="top-row">
+
+      <article class="top-card">
+        <img class="card-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzc4MzUwZiIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+QTwvdGV4dD48L3N2Zz4=" alt="Long-lost manuscript by celebrated novelist discovered in archive" loading="lazy" onerror="this.remove()">
+        <p class="kicker">Culture</p>
+        <h3><a href="https://example.com/arts-and-letters/0">Long-lost manuscript by celebrated novelist discovered in archive</a></h3>
+        <p class="card-summary">Scholars authenticated the handwritten draft, which predates the author&#x27;s debut by six years and will be published next spring.</p>
+        <p class="meta"><span class="source">Arts And Letters</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+      </article>
+
+      <article class="top-card">
+        <img class="card-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzVjM2QyZSIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+RzwvdGV4dD48L3N2Zz4=" alt="Central bank holds rates steady but signals cuts ahead" loading="lazy" onerror="this.remove()">
+        <p class="kicker">Business</p>
+        <h3><a href="https://example.com/global-business-review/0">Central bank holds rates steady but signals cuts ahead</a></h3>
+        <p class="card-summary">Policymakers voted unanimously to keep the benchmark rate unchanged while revising inflation forecasts downward for the third consecutive…</p>
+        <p class="meta"><span class="source">Global Business Review</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+      </article>
+
+      <article class="top-card">
+        <img class="card-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzJkNTAxNiIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+TTwvdGV4dD48L3N2Zz4=" alt="Global stocks rally as inflation data comes in cooler than expected" loading="lazy" onerror="this.remove()">
+        <p class="kicker">Markets</p>
+        <h3><a href="https://example.com/market-watch-daily/0">Global stocks rally as inflation data comes in cooler than expected</a></h3>
+        <p class="card-summary">Equity benchmarks climbed across Europe and Asia after consumer price growth slowed more than forecast, boosting bets on earlier rate cuts.</p>
+        <p class="meta"><span class="source">Market Watch Daily</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+      </article>
+    </div>
+
+
+    <section class="news-section" id="world" aria-label="World">
+      <h3 class="section-title"><span>World</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          <img class="section-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzI3NDk2ZCIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+VzwvdGV4dD48L3N2Zz4=" alt="Historic ceasefire agreement signed after marathon negotiations" loading="lazy" onerror="this.remove()">
+          <h4><a href="https://example.com/world-news-network/1">Historic ceasefire agreement signed after marathon negotiations</a></h4>
+          <p class="card-summary">Negotiators announced a comprehensive ceasefire following eighteen hours of continuous talks mediated by neutral parties.</p>
+          <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/world-news-network/2">Election observers report record turnout in national vote</a>
+            <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/world-news-network/3">Flooding displaces thousands as rivers crest at record levels</a>
+            <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T02:14:01Z" data-reltime>02:14 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/world-news-network/4">Trade corridor reopens after months of border closures</a>
+            <p class="meta"><span class="source">World News Network</span> · <time datetime="2026-08-08T01:27:01Z" data-reltime>01:27 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="business" aria-label="Business">
+      <h3 class="section-title"><span>Business</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          
+          <h4><a href="https://example.com/global-business-review/1">Airline megamerger clears final regulatory hurdle</a></h4>
+          <p class="card-summary">The combined carrier will become the largest in the region by fleet size after regulators accepted concessions on landing slots.</p>
+          <p class="meta"><span class="source">Global Business Review</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/global-business-review/2">Retail giant posts surprise profit on cost discipline</a>
+            <p class="meta"><span class="source">Global Business Review</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/global-business-review/3">Startup funding rebounds to strongest quarter in two years</a>
+            <p class="meta"><span class="source">Global Business Review</span> · <time datetime="2026-08-08T02:14:01Z" data-reltime>02:14 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="markets" aria-label="Markets">
+      <h3 class="section-title"><span>Markets</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          
+          <h4><a href="https://example.com/market-watch-daily/1">Oil slides on inventory build and demand worries</a></h4>
+          <p class="card-summary">Crude futures fell for a fourth session as stockpiles rose unexpectedly.</p>
+          <p class="meta"><span class="source">Market Watch Daily</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/market-watch-daily/2">Bond yields retreat from multi-year highs</a>
+            <p class="meta"><span class="source">Market Watch Daily</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/market-watch-daily/3">Gold touches fresh record as investors seek havens</a>
+            <p class="meta"><span class="source">Market Watch Daily</span> · <time datetime="2026-08-08T02:14:01Z" data-reltime>02:14 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="technology" aria-label="Technology">
+      <h3 class="section-title"><span>Technology</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          <img class="section-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzNjMTM2MSIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+VDwvdGV4dD48L3N2Zz4=" alt="Breakthrough chip design promises fourfold gain in AI efficiency" loading="lazy" onerror="this.remove()">
+          <h4><a href="https://example.com/tech-chronicle/0">Breakthrough chip design promises fourfold gain in AI efficiency</a></h4>
+          <p class="card-summary">Researchers unveiled a processor architecture that dramatically reduces power consumption for machine learning workloads, with production slated for…</p>
+          <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T04:30:01Z" data-reltime>04:30 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/tech-chronicle/1">Major platform rolls out end-to-end encryption by default</a>
+            <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T03:37:01Z" data-reltime>03:37 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/tech-chronicle/2">Open-source model tops benchmarks in surprise release</a>
+            <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T02:44:01Z" data-reltime>02:44 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/tech-chronicle/3">Satellite internet constellation reaches global coverage milestone</a>
+            <p class="meta"><span class="source">Tech Chronicle</span> · <time datetime="2026-08-08T01:51:01Z" data-reltime>01:51 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="science" aria-label="Science">
+      <h3 class="section-title"><span>Science</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          <img class="section-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzFiNDk2NSIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+UzwvdGV4dD48L3N2Zz4=" alt="Astronomers detect water vapour on distant rocky exoplanet" loading="lazy" onerror="this.remove()">
+          <h4><a href="https://example.com/science-observer/0">Astronomers detect water vapour on distant rocky exoplanet</a></h4>
+          <p class="card-summary">The discovery marks the strongest evidence yet for atmospheric water on a terrestrial world beyond our solar system, researchers report.</p>
+          <p class="meta"><span class="source">Science Observer</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/science-observer/1">Gene therapy trial restores partial vision in landmark study</a>
+            <p class="meta"><span class="source">Science Observer</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/science-observer/2">Antarctic expedition returns with oldest ice core ever drilled</a>
+            <p class="meta"><span class="source">Science Observer</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="sports" aria-label="Sports">
+      <h3 class="section-title"><span>Sports</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          <img class="section-img" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzdmMWQxZCIvPjx0ZXh0IHg9IjMwMCIgeT0iMjEwIiBmb250LXNpemU9IjQwIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iR2VvcmdpYSI+UzwvdGV4dD48L3N2Zz4=" alt="Underdogs stun champions in extra-time thriller" loading="lazy" onerror="this.remove()">
+          <h4><a href="https://example.com/sports-tribune/0">Underdogs stun champions in extra-time thriller</a></h4>
+          <p class="card-summary">A stoppage-time equaliser and a composed penalty shoot-out sealed one of the great cup upsets.</p>
+          <p class="meta"><span class="source">Sports Tribune</span> · <time datetime="2026-08-08T04:35:01Z" data-reltime>04:35 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/sports-tribune/1">Record transfer fee agreed for teenage striker</a>
+            <p class="meta"><span class="source">Sports Tribune</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+          </li>
+
+          <li>
+            <a href="https://example.com/sports-tribune/2">Marathon world record falls by nineteen seconds</a>
+            <p class="meta"><span class="source">Sports Tribune</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+
+    <section class="news-section" id="culture" aria-label="Culture">
+      <h3 class="section-title"><span>Culture</span></h3>
+      <div class="section-grid">
+        
+        <article class="section-lead">
+          
+          <h4><a href="https://example.com/arts-and-letters/1">Film festival opens with restored silent-era classic</a></h4>
+          <p class="card-summary">The restoration took eight years and drew a standing ovation.</p>
+          <p class="meta"><span class="source">Arts And Letters</span> · <time datetime="2026-08-08T03:48:01Z" data-reltime>03:48 UTC</time></p>
+        </article>
+        <ul class="section-list">
+          <li>
+            <a href="https://example.com/arts-and-letters/2">Museum returns disputed artefacts in landmark repatriation</a>
+            <p class="meta"><span class="source">Arts And Letters</span> · <time datetime="2026-08-08T03:01:01Z" data-reltime>03:01 UTC</time></p>
+          </li></ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>The Daily Dispatch is generated automatically from public RSS feeds. Headlines link to the
+    original publishers, who retain all rights to their content.</p>
+    <p>Built with <a href="https://github.com/sharjeel45557/news-collector">news-collector</a>.
+    Page regenerates hourly; last build Saturday, 08 August 2026 at 05:01 UTC.</p>
+  </footer>
+</div>
+<script>
+(function () {
+  var units = [[86400, 'day'], [3600, 'hour'], [60, 'minute']];
+  function rel(iso) {
+    var s = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (s < 60) return 'just now';
+    for (var i = 0; i < units.length; i++) {
+      var n = Math.floor(s / units[i][0]);
+      if (n >= 1) return n + ' ' + units[i][1] + (n > 1 ? 's' : '') + ' ago';
+    }
+    return 'just now';
+  }
+  document.querySelectorAll('time[data-reltime]').forEach(function (el) {
+    var iso = el.getAttribute('datetime');
+    if (iso) el.textContent = rel(iso);
+  });
+})();
+</script>
+</body>
+</html>
