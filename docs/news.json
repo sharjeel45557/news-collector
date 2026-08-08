@@ -1,15 +1,80 @@
 {
-  "generated": "2026-08-08T21:44:51Z",
+  "generated": "2026-08-08T22:45:47Z",
   "lead": {
-    "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
+    "title": "Bald Range Wildfire Forces Evacuation of 18,000 in British Columbia",
     "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-    "summary": "The Bald Range fire, which started on Friday, has burned more than 23,000 acres near the Districts of Summerland and Peachland in British Columbia, officials said.",
-    "published": "2026-08-08T21:23:41Z",
+    "summary": "The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.",
+    "published": "2026-08-08T22:08:08Z",
     "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
     "source": "The New York Times",
     "section": "World"
   },
   "top": [
+    {
+      "title": "Fifa launches new attack on media over alleged ‘concerted effort’ to undermine Gianni Infantino",
+      "link": "https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino",
+      "summary": "Fifa issues statement defending under-fire president ‘Insinuation should not be presented as fact’ Fifa has issued a new statement alleging there is a “concerted and ongoing effort by some to undermine Fifa and its president” as pressure increases on Gianni Infantino. The governing body issued the statement in response to Uefa confirming on Saturday that a “departure payment” was made to a female employee who is alleged to have been in a relationship with Infantino while he was the organisation’s general secretary – allegations Fifa dismissed as “categorically untrue”. Continue reading...",
+      "published": "2026-08-08T22:17:25Z",
+      "image": "https://i.guim.co.uk/img/media/4733675dc04aba4b3bc424ef8912d4acf1a6eb7e/20_0_1682_1346/master/1682.jpg?width=140&quality=85&auto=format&fit=max&s=46ea278d560db0a3bcb0e148942f1cc3",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+      "link": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
+      "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
+      "published": "2026-08-08T22:12:21Z",
+      "image": "https://static01.nyt.com/images/2026/08/15/business/15DB-LOAFERS-02/15DB-LOAFERS-02-mediumSquareAt3X-v2.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "published": "2026-08-08T22:06:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c0/live/9ee807b0-9371-11f1-abe5-1bac9be07573.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+      "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+      "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
+      "published": "2026-08-08T22:22:36Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "National Indigenous Music awards 2026: Baker Boy wins big, including album and song of the year",
+      "link": "https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay",
+      "summary": "Yolŋu hip-hop artist dominates, while Butchulla duo and cousins Birdz and Fred Leone win artist of the year and Drifting Clouds takes home best new talent Baker Boy has won album, song and film clip of the year at the 2026 National Indigenous Music Awards (Nimas) , paying tribute to his late grandmother who his album Djandjay is named for. The Yolŋu hip-hop artist, whose name is Danzal Baker, won three awards for his sophomore album Djandjay , including song of the year and film clip of the year for its hit single Thick Skin, which features Indigenous artists Thelma Plum, Emma Donovan, Kee’ahn and Jada Weazel. Continue reading...",
+      "published": "2026-08-08T22:06:17Z",
+      "image": "https://i.guim.co.uk/img/media/5b67c396b515014142b51c484bb2dc17c2248715/0_560_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8d2133428b2f8ea590ebd280a1be6926",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "published": "2026-08-08T22:01:54Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "William Orbit, Producer for Madonna’s ‘Ray of Light,’ Dies at 69",
+      "link": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
+      "summary": "A three-time Grammy winner who was renowned for his mastery of electronic music styles, he also worked with Blur, Pink, Britney Spears and All Saints.",
+      "published": "2026-08-08T21:53:59Z",
+      "image": null,
+      "source": "The New York Times",
+      "section": "Culture"
+    },
     {
       "title": "Ulster 'need to execute more' after Connacht loss - Tuite",
       "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cre407983wpo?at_medium=RSS&at_campaign=rss",
@@ -18,6 +83,33 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fec1/live/115d49f0-9371-11f1-af0a-cf56f479eb36.jpg",
       "source": "BBC Sport",
       "section": "Sports"
+    },
+    {
+      "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+      "link": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+      "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
+      "published": "2026-08-08T21:28:12Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Sky’s Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+      "link": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+      "summary": "Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected Saturday after being called for a Flagrant 2 foul on Sophie Cunningham of the Indiana Fever. Minutes later, Carrington posted on social media the words “WHITE PRIVILEGE” and tagged the Fever. Cunningham, who is white, was shooting a fast-break layup in the first quarter when Carrington, who is Black, came from behind and hit her in the head and neck, knocking her to the court as the shot went in. Continue reading...",
+      "published": "2026-08-08T21:26:24Z",
+      "image": "https://i.guim.co.uk/img/media/83d5de60de182871584900a10585b4f62b1f594f/448_0_2440_1952/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=cd11efe94732a8d7f113197dbb33a2b8",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "published": "2026-08-08T21:24:02Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
     },
     {
       "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
@@ -29,116 +121,60 @@
       "section": "Markets"
     },
     {
-      "title": "Wissa & Toure star as Jaissle wins first Newcastle friendly - ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gk75keg1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?",
-      "published": "2026-08-08T21:11:46Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279b/live/39d944c0-936b-11f1-9e56-57116c7a4d90.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "published": "2026-08-08T21:24:02Z",
+      "title": "Tanker sailors still face danger in the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+      "summary": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
+      "published": "2026-08-08T21:19:54Z",
       "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
-      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
-      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified followers and at least 500,000 Home Timeline impressions from verified users in […]",
-      "published": "2026-08-08T21:15:12Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-      "published": "2026-08-08T21:06:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
+      "source": "NPR",
       "section": "World"
-    },
-    {
-      "title": "Trump’s Former Lawyer Is Now Attorney General",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/aje-onl-nf_todd-blanche-ag-080826?traffic_source=rss",
-      "summary": "Todd Blanche, President Trump’s former lawyer, is now US attorney general.",
-      "published": "2026-08-08T21:04:54Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Iran issues tough demands to reopen strait of Hormuz as deal remains out of reach",
-      "link": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-      "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open the strategic waterway remained out of reach on Saturday. Iran’s politburo-like body known as the supreme national security council said the strait of Hormuz will not open until the United States “corrects its behaviour”, with its state broadcaster publishing a statement from the council’s secretary, Mohammad Bagher Zolghadr, who is also a commander in the Islamic Revolutionary Guard Corps IRGC. Continue reading...",
-      "published": "2026-08-08T21:01:28Z",
-      "image": "https://i.guim.co.uk/img/media/9a2dd4d056c3cea5b1abce300c89805025bdd516/526_0_6002_4800/master/6002.jpg?width=140&quality=85&auto=format&fit=max&s=3d29fb4e31cea34b37d559f21a1b0e75",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Iran issues long list of steep demands the U.S. must satisfy before the Strait of Hormuz will be reopened, including total compensation for war damage",
-      "link": "https://fortune.com/2026/08/08/iran-demands-strait-of-hormuz-us-conditions-total-compensation-war-damage/",
-      "summary": "The Supreme National Security Council said the Strait of Hormuz will not open until the United States \"corrects its behavior.\"",
-      "published": "2026-08-08T20:58:19Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2288486958-e1786222225153.jpg?w=2048",
-      "source": "Fortune",
-      "section": "Business"
-    },
-    {
-      "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
-      "link": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
-      "summary": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
-      "published": "2026-08-08T20:52:22Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e81/live/4851bbe0-9249-11f1-a7ab-8b30adf0800a.png",
-      "source": "BBC News",
-      "section": "Science"
-    },
-    {
-      "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
-      "link": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
-      "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
-      "published": "2026-08-08T20:51:36Z",
-      "image": "https://static01.nyt.com/images/2026/08/15/business/15DB-LOAFERS-02/15DB-LOAFERS-02-mediumSquareAt3X-v2.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Barca make second bid for Rodri - Sunday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
-      "summary": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
-      "published": "2026-08-08T20:37:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93bd/live/af99c1c0-9367-11f1-870d-5d08c49babb2.png",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
-      "link": "https://www.investing.com/news/stock-market-news/what-would-it-take-for-mercedes-benz-stock-to-rerate-higher-citi-weighs-in-4847687",
-      "summary": "",
-      "published": "2026-08-08T20:33:28Z",
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA740HR_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
     }
   ],
   "sections": {
     "World": [
       {
+        "title": "Car bomb attack rattles Colombia after inauguration of hardline president",
+        "link": "https://www.aljazeera.com/news/2026/8/8/car-bomb-attack-rattles-colombia-after-inauguration-of-hardline-president?traffic_source=rss",
+        "summary": "Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.",
+        "published": "2026-08-08T22:22:36Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "National Indigenous Music awards 2026: Baker Boy wins big, including album and song of the year",
+        "link": "https://www.theguardian.com/music/2026/aug/09/nimas-2026-winners-national-indigenous-music-awards-baker-boy-djandjay",
+        "summary": "Yolŋu hip-hop artist dominates, while Butchulla duo and cousins Birdz and Fred Leone win artist of the year and Drifting Clouds takes home best new talent Baker Boy has won album, song and film clip of the year at the 2026 National Indigenous Music Awards (Nimas) , paying tribute to his late grandmother who his album Djandjay is named for. The Yolŋu hip-hop artist, whose name is Danzal Baker, won three awards for his sophomore album Djandjay , including song of the year and film clip of the year for its hit single Thick Skin, which features Indigenous artists Thelma Plum, Emma Donovan, Kee’ahn and Jada Weazel. Continue reading...",
+        "published": "2026-08-08T22:06:17Z",
+        "image": "https://i.guim.co.uk/img/media/5b67c396b515014142b51c484bb2dc17c2248715/0_560_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8d2133428b2f8ea590ebd280a1be6926",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
         "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
         "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
         "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-        "published": "2026-08-08T21:06:48Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
+        "published": "2026-08-08T22:01:54Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
         "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+        "link": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy?traffic_source=rss",
+        "summary": "Some experts say the deal precipitates a larger strategic shift in Middle East while others say it reinforces US goals.",
+        "published": "2026-08-08T21:28:12Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Tanker sailors still face danger in the Strait of Hormuz",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+        "summary": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
+        "published": "2026-08-08T21:19:54Z",
+        "image": null,
+        "source": "NPR",
         "section": "World"
       },
       {
@@ -151,9 +187,9 @@
         "section": "World"
       },
       {
-        "title": "Iran issues tough demands to reopen strait of Hormuz as deal remains out of reach",
+        "title": "Iran issues tough demands to reopen strait of Hormuz as deal still out of reach",
         "link": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
-        "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open the strategic waterway remained out of reach on Saturday. Iran’s politburo-like body known as the supreme national security council said the strait of Hormuz will not open until the United States “corrects its behaviour”, with its state broadcaster publishing a statement from the council’s secretary, Mohammad Bagher Zolghadr, who is also a commander in the Islamic Revolutionary Guard Corps IRGC. Continue reading...",
+        "summary": "Tehran urges US to ‘correct its behaviour’ as UAE says one of its ships targeted by Iranian missile Iran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open the strategic waterway remained out of reach on Saturday. Iran’s politburo-like body known as the supreme national security council said the strait of Hormuz will not open until the United States “corrects its behaviour”, and its state broadcaster published a statement from the council’s secretary, Mohammad Bagher Zolghadr, who is also a commander in the Islamic Revolutionary Guard Corps (IRGC). Continue reading...",
         "published": "2026-08-08T21:01:28Z",
         "image": "https://i.guim.co.uk/img/media/9a2dd4d056c3cea5b1abce300c89805025bdd516/526_0_6002_4800/master/6002.jpg?width=140&quality=85&auto=format&fit=max&s=3d29fb4e31cea34b37d559f21a1b0e75",
         "source": "The Guardian",
@@ -167,42 +203,6 @@
         "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08CANADA-WILDFIRES-01-SWAP-zjhm/08CANADA-WILDFIRES-01-SWAP-zjhm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
-      },
-      {
-        "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
-        "link": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-        "summary": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
-        "published": "2026-08-08T20:29:48Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "What are the challenges facing the Mecca agreement?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/8/8/challenges-facing-mecca-agreement?traffic_source=rss",
-        "summary": "Saudi Arabia turns to Turkiye and Pakistan for defence ties, raising questions overreliance on the US.",
-        "published": "2026-08-08T20:25:43Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-        "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
-        "published": "2026-08-08T20:18:28Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/c4d00470-935b-11f1-9437-5f05e843ddc4.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Navy says it is spending 25% more time monitoring Russian vessels around UK waters",
-        "link": "https://www.theguardian.com/uk-news/2026/aug/08/navy-says-it-is-spending-25-more-time-monitoring-russian-vessels-around-uk-waters",
-        "summary": "Warning of increased activity as patrols spent 21 days in July shadowing Moscow’s ships in Dover Strait and North Sea The Royal Navy has warned of increasing Russian activity around the UK’s waters after it spent 21 days in July monitoring Moscow’s ships. Naval operations to monitor Russian vessels increased by 25% last month compared with the previous year, with warships making repeated voyages through the strait of Dover and the North Sea. Continue reading...",
-        "published": "2026-08-08T20:03:34Z",
-        "image": "https://i.guim.co.uk/img/media/b343ffd35e7f931485cbcbdd23da90ff491a8766/0_0_4561_3648/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=c28048c99de80df832288c3d2f310bc8",
-        "source": "The Guardian",
-        "section": "World"
       }
     ],
     "Business": [
@@ -213,15 +213,6 @@
         "published": "2026-08-08T20:58:19Z",
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2288486958-e1786222225153.jpg?w=2048",
         "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
-        "link": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
-        "summary": "After years of office casual, young people are embracing loafers, derbies and oxfords.",
-        "published": "2026-08-08T20:51:36Z",
-        "image": "https://static01.nyt.com/images/2026/08/15/business/15DB-LOAFERS-02/15DB-LOAFERS-02-mediumSquareAt3X-v2.jpg",
-        "source": "The New York Times",
         "section": "Business"
       },
       {
@@ -277,9 +268,27 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1434956815-e1786206012278.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
+      },
+      {
+        "title": "Trump’s lawyers in BBC lawsuit open the door to exposing all of his financial records — and scramble to close it",
+        "link": "https://fortune.com/2026/08/08/trump-bbc-lawsuit-reputation-election-contradiction/",
+        "summary": "A Florida judge ruled Trump's own complaint made his finances fair game — now he's rewriting the suit rather than let BBC see the books.",
+        "published": "2026-08-08T16:16:26Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26218742331262-e1786205764129.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
       }
     ],
     "Markets": [
+      {
+        "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+        "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847688",
+        "summary": "",
+        "published": "2026-08-08T21:20:03Z",
+        "image": "https://i-invdn-com.investing.com/news/MoscowExchange_800x533_L_1629375001.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
       {
         "title": "What would it take for Mercedes Benz stock to re-rate higher? Citi weighs in",
         "link": "https://www.investing.com/news/stock-market-news/what-would-it-take-for-mercedes-benz-stock-to-rerate-higher-citi-weighs-in-4847687",
@@ -340,15 +349,6 @@
         "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
         "published": "2026-08-08T19:00:00Z",
         "image": "https://images.mktw.net/im-76384451",
-        "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-        "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-        "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
-        "published": "2026-08-08T18:37:00Z",
-        "image": "https://images.mktw.net/im-85078535",
         "source": "MarketWatch",
         "section": "Markets"
       }
@@ -503,6 +503,33 @@
     ],
     "Sports": [
       {
+        "title": "Ulster 'need to execute more' after Connacht loss - Tuite",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cre407983wpo?at_medium=RSS&at_campaign=rss",
+        "summary": "Ulster second row Fiona Tuite says her side \"need to execute more\" after their narrow 15-10 defeat against Connacht in the first round of their Interprovincial Championship.",
+        "published": "2026-08-08T21:37:18Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fec1/live/115d49f0-9371-11f1-af0a-cf56f479eb36.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Sky’s Carrington posts ‘white privilege’ after ejection for hard foul on Sophie Cunningham",
+        "link": "https://www.theguardian.com/sport/2026/aug/08/sophie-cunningham-foul-dijonai-carrington-ejected-wnba",
+        "summary": "Carrington tossed for Flagrant 2 on Cunningham Chicago player tags Fever in social media post Clark’s eighth technical triggers one-game ban DiJonai Carrington of the Chicago Sky was ejected Saturday after being called for a Flagrant 2 foul on Sophie Cunningham of the Indiana Fever. Minutes later, Carrington posted on social media the words “WHITE PRIVILEGE” and tagged the Fever. Cunningham, who is white, was shooting a fast-break layup in the first quarter when Carrington, who is Black, came from behind and hit her in the head and neck, knocking her to the court as the shot went in. Continue reading...",
+        "published": "2026-08-08T21:26:24Z",
+        "image": "https://i.guim.co.uk/img/media/83d5de60de182871584900a10585b4f62b1f594f/448_0_2440_1952/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=cd11efe94732a8d7f113197dbb33a2b8",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Wissa & Toure star as Jaissle wins first Newcastle friendly - ratings",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gk75keg1lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Newcastle United forward Yoane Wissa scores twice in a 2-1 win against Valencia in Matthias Jaissle's first game in charge - but how did the Magpies players perform?",
+        "published": "2026-08-08T21:11:46Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e19/live/a4587d50-9377-11f1-bdc9-878173fccee2.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Barca make second bid for Rodri - Sunday's gossip",
         "link": "https://www.bbc.co.uk/sport/football/articles/c05qvj0yj46o?at_medium=RSS&at_campaign=rss",
         "summary": "Barcelona increase their Rodri bid, Cristian Romero wants to join Arsenal, Forest are set to sign Ousmane Diomande, plus more.",
@@ -546,36 +573,18 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/2bd52180-9354-11f1-8661-598e135a2da7.jpg",
         "source": "BBC Sport",
         "section": "Sports"
-      },
-      {
-        "title": "'They are falling apart' - Super Giants lose eight wickets for 30 runs",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o?at_medium=RSS&at_campaign=rss",
-        "summary": "From being 119-0, Manchester Super Giants lose eight wickets for 30 runs to stumble to 149-8 in their men's Hundred match against Southern Brave in Southampton.",
-        "published": "2026-08-08T19:24:39Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/c381ab20-935e-11f1-b2ab-0dd01740f9f6.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Tielemans cameo against PSG hints at Man Utd future",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
-        "published": "2026-08-08T19:15:24Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef15/live/44742c80-935a-11f1-9165-3913cf361277.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
-        "link": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg",
-        "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with the European champions, Paris Saint-Germain, in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023 , has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG. Continue reading...",
-        "published": "2026-08-08T19:10:23Z",
-        "image": "https://i.guim.co.uk/img/media/2ab739adca642ca1865b7220ea9565e27319088c/27_0_1812_1449/master/1812.jpg?width=140&quality=85&auto=format&fit=max&s=c52d58be4b399ab22a9d698b6c505ec2",
-        "source": "The Guardian",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "William Orbit, Producer for Madonna’s ‘Ray of Light,’ Dies at 69",
+        "link": "https://www.nytimes.com/2026/08/08/arts/music/william-orbit-dead.html",
+        "summary": "A three-time Grammy winner who was renowned for his mastery of electronic music styles, he also worked with Blur, Pink, Britney Spears and All Saints.",
+        "published": "2026-08-08T21:53:59Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "Water Colour review – an elegant, expertly handled study of depression",
         "link": "https://www.theguardian.com/stage/2026/aug/08/water-colour-review-traverse-theatre-edinburgh",
@@ -637,15 +646,6 @@
         "published": "2026-08-08T12:25:30Z",
         "image": "https://i.guim.co.uk/img/media/8cd9a695a111b5e46f9f2a41efeb5f36da58ea4c/340_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=1035a7f44bcbb4782cb37424583f0e6e",
         "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Kacey Musgraves Just Wants to Find the Perfect Dirty Martini",
-        "link": "https://www.nytimes.com/2026/08/08/arts/music/kacey-musgraves-middle-of-nowhere.html",
-        "summary": "“I need an ice-cold, perfect balance of dirty, and I think people don’t go dirty enough,” the country singer said.",
-        "published": "2026-08-08T11:36:08Z",
-        "image": "https://static01.nyt.com/images/2026/08/16/arts/16CUL-MY10-MUSGRAVES/16CUL-MY10-MUSGRAVES-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
         "section": "Culture"
       }
     ]
