@@ -1,0 +1,10 @@
+[project]
+name = "news-collector"
+version = "1.0.0"
+description = "Collects news from RSS feeds across the web and renders an FT-style front page"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["."]
