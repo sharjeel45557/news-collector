@@ -1,137 +1,200 @@
 {
-  "generated": "2026-08-08T18:57:26Z",
+  "generated": "2026-08-08T19:43:44Z",
   "lead": {
-    "title": "MacKenzie Scott Steps Back Into Spotlight With New Book",
-    "link": "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html",
-    "summary": "She posted four pages of a manuscript on a newly started Substack newsletter on Saturday and said that the novel would be released serially throughout August.",
-    "published": "2026-08-08T18:16:03Z",
-    "image": "https://static01.nyt.com/images/2026/08/08/world/08biz-scott-novel-001/08biz-scott-novel-001-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
-    "section": "Business"
+    "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+    "link": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+    "summary": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027 El Niño , a recurring climate phenomenon marked by above-average sea surface temperatures, when changes in wind patterns allow warmer water to spread across the central and eastern equatorial Pacific, could spell a wet winter for portions of the western and south-eastern US, climate models show. Coastal areas may be at elevated risk of flooding, experts warn. Climate scientists predict this year’s “super” El Niño, a label assigned when sea surface temperatures climb by at least 2C , will be the strongest of the century. The weather system is expected to intensify in the fall and winter, persisting until early spring 2027, according to the US National Oceanic and Atmospheric Administration (Noaa). Continue reading...",
+    "published": "2026-08-08T19:21:14Z",
+    "image": "https://i.guim.co.uk/img/media/d541f1c7d8389bb77ee6878e84d649bbab674a95/366_0_3257_2606/master/3257.jpg?width=140&quality=85&auto=format&fit=max&s=15dc9533fdf4898dc74f1adc07fd0126",
+    "source": "The Guardian",
+    "section": "World"
   },
   "top": [
     {
-      "title": "Saturday's Scottish Premiership highlights",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&at_campaign=rss",
-      "summary": "Highlights of Dundee v Aberdeen and St Mirren v St Johnstone.",
-      "published": "2026-08-08T19:01:26Z",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3g082.jpg",
+      "title": "St Mirren start strongly using relegation scare as 'fuel'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1k1g7ylyrko?at_medium=RSS&at_campaign=rss",
+      "summary": "St Mirren were many people's favourites for relegation, so how come they have started with two opening wins in the Scottish Premiership?",
+      "published": "2026-08-08T19:31:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/2bd52180-9354-11f1-8661-598e135a2da7.jpg",
       "source": "BBC Sport",
       "section": "Sports"
     },
     {
-      "title": "Brilliant Ballymena shock Blues to lay down early marker",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c86nv86x595o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport NI takes a look at some of the talking points from the match when the much-changed Sky Blues shocked David Healy's side.",
-      "published": "2026-08-08T18:53:00Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc0e/live/5870e950-9344-11f1-a35f-039358cea467.jpg",
+      "title": "'They are falling apart' - Super Giants lose eight wickets for 30 runs",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gxez068g2o?at_medium=RSS&at_campaign=rss",
+      "summary": "From being 119-0, Manchester Super Giants lose eight wickets for 30 runs to stumble to 149-8 in their men's Hundred match against Southern Brave in Southampton.",
+      "published": "2026-08-08T19:24:39Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb9/live/c381ab20-935e-11f1-b2ab-0dd01740f9f6.jpg",
       "source": "BBC Sport",
       "section": "Sports"
     },
     {
-      "title": "'What a throw!' - Southern Brave's two stunning run outs",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno?at_medium=RSS&at_campaign=rss",
-      "summary": "Moeen Ali and Tristan Stubbs produce two moments of magic in the field as they run out Tim Seifert and Leus du Plooy respectively, with two superb direct hits as Southern Brave fight back against Manchester Super Giants in Southampton.",
-      "published": "2026-08-08T18:47:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/486c/live/721267d0-9358-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "published": "2026-08-08T19:18:57Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
+      "source": "BBC News",
+      "section": "World"
     }
   ],
   "latest": [
     {
-      "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
-      "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
-      "summary": "Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.",
-      "published": "2026-08-08T18:43:20Z",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "published": "2026-08-08T19:41:13Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "US Senate advances landmark crypto bill before heading on August recess",
+      "link": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+      "summary": "",
+      "published": "2026-08-08T19:18:25Z",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
+      "link": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
+      "summary": "Joe Biden’s prostate cancer is reportedly ‘debilitating’, even as ex-president continues to speak out on public issues Former US president Joe Biden ’s prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, his son Hunter said in an interview. In a wide-ranging interview with the BBC broadcast late on Friday, Hunter Biden grew emotional as he discussed his father’s condition, describing it as very sad to watch. Continue reading...",
+      "published": "2026-08-08T19:17:01Z",
+      "image": "https://i.guim.co.uk/img/media/5e5dc14b92252ea246f53251de2837de2a232ec9/817_4_2203_1762/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=ee4d187ff5ee41c80a0cf2bec0b0c120",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Tielemans cameo against PSG hints at Man Utd future",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
+      "published": "2026-08-08T19:15:24Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef15/live/44742c80-935a-11f1-9165-3913cf361277.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+      "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+      "published": "2026-08-08T19:13:03Z",
       "image": null,
       "source": "Al Jazeera",
       "section": "World"
     },
     {
-      "title": "Carabao Cup: Millwall keeper saves four penalties, Preston prevail in Goodison home game",
-      "link": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties",
-      "summary": "Lukas Jensen the shootout hero for Millwall at QPR Kyle Walker hits winner in Burnley shootout victory Alex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all four QPR penalties to take Millwall through to the second round of the Carabao Cup. After a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener, Millwall won 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku. Continue reading...",
-      "published": "2026-08-08T18:37:44Z",
-      "image": "https://i.guim.co.uk/img/media/b692fb6d79a0e311d781b28ae14faf4e6def0357/636_161_4767_3813/master/4767.jpg?width=140&quality=85&auto=format&fit=max&s=80e2e07c00e5e42abd761784b1af67e6",
+      "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
+      "link": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg",
+      "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with European champions Paris Saint-Germain in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023 , has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG. Continue reading...",
+      "published": "2026-08-08T19:10:23Z",
+      "image": "https://i.guim.co.uk/img/media/2ab739adca642ca1865b7220ea9565e27319088c/27_0_1812_1449/master/1812.jpg?width=140&quality=85&auto=format&fit=max&s=c52d58be4b399ab22a9d698b6c505ec2",
       "source": "The Guardian",
       "section": "Sports"
     },
     {
-      "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
-      "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
-      "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
-      "published": "2026-08-08T18:37:00Z",
-      "image": "https://images.mktw.net/im-85078535",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "Eight-try Wigan thump Toulouse to move into second",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Try-machine Zach Eckersley and Liam Marshall both score twice as Wigan Warriors beat Toulouse Olympique 48-18 to go second in Super League.",
-      "published": "2026-08-08T18:36:13Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7878/live/71a8d190-934d-11f1-8654-453c05ccaef9.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "summary": "“He has never been particularly generous or nurturing.”",
-      "published": "2026-08-08T18:30:00Z",
-      "image": "https://images.mktw.net/im-96138603",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-      "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
-      "published": "2026-08-08T18:30:00Z",
-      "image": "https://images.mktw.net/im-03670181",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-      "published": "2026-08-08T18:30:00Z",
-      "image": "https://images.mktw.net/im-90698990",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "Stubbs 'fuming' about stunning elbow catch is overturned",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c934jpex2ddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tristan Stubbs is left \"fuming\" after taking a brilliant catch with his elbow, only for the decision to be given not out after review in Southern Brave's match against the Manchester Super Giants in Southampton.",
-      "published": "2026-08-08T18:26:30Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba2/live/2941d700-9355-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-      "published": "2026-08-08T18:13:49Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
+      "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+      "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+      "published": "2026-08-08T19:04:40Z",
+      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "World"
     },
     {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "published": "2026-08-08T18:06:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+      "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+      "link": "https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
+      "summary": "",
+      "published": "2026-08-08T19:02:19Z",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHA40JZ_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+      "summary": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+      "published": "2026-08-08T19:00:43Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "published": "2026-08-08T19:00:22Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
       "source": "BBC News",
       "section": "World"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "Hunter Biden talks about how his father’s cancer has spread and is causing him pain",
+        "link": "https://www.theguardian.com/us-news/2026/aug/08/joe-biden-hunter-cancer",
+        "summary": "Joe Biden’s prostate cancer is reportedly ‘debilitating’, even as ex-president continues to speak out on public issues Former US president Joe Biden ’s prostate cancer has spread to other parts of his body and is causing him pain, even as he continues to speak out on public issues, his son Hunter said in an interview. In a wide-ranging interview with the BBC broadcast late on Friday, Hunter Biden grew emotional as he discussed his father’s condition, describing it as very sad to watch. Continue reading...",
+        "published": "2026-08-08T19:17:01Z",
+        "image": "https://i.guim.co.uk/img/media/5e5dc14b92252ea246f53251de2837de2a232ec9/817_4_2203_1762/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=ee4d187ff5ee41c80a0cf2bec0b0c120",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+        "summary": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+        "published": "2026-08-08T19:13:03Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+        "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
+        "published": "2026-08-08T19:04:40Z",
+        "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+        "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+        "summary": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+        "published": "2026-08-08T19:00:43Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+        "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+        "published": "2026-08-08T19:00:22Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+        "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
+        "summary": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+        "published": "2026-08-08T18:57:53Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+        "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss",
+        "summary": "The younger Biden son has addressed his father's debate performance and the pardon he received after felony convictions.",
+        "published": "2026-08-08T18:55:20Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
       {
         "title": "Yemen’s government forces attack Houthis amid renewed shelling of Marib",
         "link": "https://www.aljazeera.com/news/2026/8/8/yemens-government-forces-attack-houthis-amid-renewed-shelling-of-marib?traffic_source=rss",
@@ -140,72 +203,18 @@
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
-      },
-      {
-        "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
-        "published": "2026-08-08T18:13:49Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/4d3d52c0-934f-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "published": "2026-08-08T18:06:25Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "The influencers taking on far-right leader Nigel Farage",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/the-influencers-taking-on-far-right-leader-nigel-farage?traffic_source=rss",
-        "summary": "The UK media has been accused of giving far-right leader Nigel Farage an easy ride",
-        "published": "2026-08-08T18:05:44Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-        "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-        "published": "2026-08-08T17:58:42Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab46/live/d545e110-931c-11f1-870d-5d08c49babb2.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Wildfire Forces Evacuation of 18,000 From Summerland, British Columbia",
-        "link": "https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html",
-        "summary": "The Bald Range fire, which started on Friday, has burned more than 23,000 acres near the Districts of Summerland and Peachland in British Columbia, officials said.",
-        "published": "2026-08-08T17:56:33Z",
-        "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Ukraine mourns 'collector of souls' Oleksiy Yukov, killed recovering war dead",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
-        "summary": "Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine.",
-        "published": "2026-08-08T17:46:05Z",
-        "image": null,
-        "source": "NPR",
-        "section": "World"
-      },
-      {
-        "title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late",
-        "link": "https://www.aljazeera.com/news/2026/8/8/gaza-health-chief-urges-action-to-save-dr-abu-safia-before-its-too-late?traffic_source=rss",
-        "summary": "Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.",
-        "published": "2026-08-08T17:26:59Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "MacKenzie Scott Steps Back Into Spotlight With New Book",
+        "link": "https://www.nytimes.com/2026/08/08/business/mackenzie-scott-new-book.html",
+        "summary": "She posted four pages of a manuscript on a newly started Substack newsletter on Saturday and said that the novel would be released serially throughout August.",
+        "published": "2026-08-08T18:16:04Z",
+        "image": "https://static01.nyt.com/images/2026/08/08/world/08biz-scott-novel-001/08biz-scott-novel-001-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
       {
         "title": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
         "link": "https://fortune.com/2026/08/08/trump-tariffs-100-percent-russia-sanctions-bill-congress-import-taxes/",
@@ -268,18 +277,45 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26220008573430-e1786204723301.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
-      },
-      {
-        "title": "Britain’s Jurassic gold rush: the fossil hunters chasing fortunes on Dorset’s beaches",
-        "link": "https://www.theguardian.com/science/2026/aug/09/britain-jurassic-fossil-hunters-dorset-beaches",
-        "summary": "Social media and soaring prices are fuelling a fossil-hunting boom, with rare discoveries worth thousands of pounds Bent double at the waist, Martin Curtis combs a stretch of a Dorset beach with the concentration of a man searching for a lost cufflink or wedding ring. The search is meticulous – and with good reason. What he hopes to find could be far more valuable than an errant piece of jewellery. Curtis is searching instead for the telltale spiral of an ammonite, the star-shaped rod of a crinoid or rocks of a particular shape and colour that suggests there is something very special inside. He is hunting fossils. Continue reading...",
-        "published": "2026-08-08T16:00:01Z",
-        "image": "https://i.guim.co.uk/img/media/d6ad1fedb84ab72dbeab52721601bb1128e6d93f/982_0_4005_3204/master/4005.jpg?width=140&quality=85&auto=format&fit=max&s=007ed7c96c1c8dea669dab0f9d6a7fe8",
-        "source": "The Guardian",
-        "section": "Business"
       }
     ],
     "Markets": [
+      {
+        "title": "US Senate advances landmark crypto bill before heading on August recess",
+        "link": "https://www.investing.com/news/stock-market-news/us-senate-advances-landmark-crypto-bill-before-heading-on-august-recess-4847679",
+        "summary": "",
+        "published": "2026-08-08T19:18:25Z",
+        "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "European software rally leaves next leg to long-only investors, Deutsche Bank says",
+        "link": "https://www.investing.com/news/stock-market-news/european-software-rally-leaves-next-leg-to-longonly-investors-deutsche-bank-says-4847680",
+        "summary": "",
+        "published": "2026-08-08T19:02:19Z",
+        "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHA40JZ_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+        "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+        "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+        "published": "2026-08-08T19:00:00Z",
+        "image": "https://images.mktw.net/im-45400458",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
+      {
+        "title": "How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?",
+        "link": "https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories",
+        "summary": "Timing is everything when balancing retirement distributions and moving across state lines.",
+        "published": "2026-08-08T19:00:00Z",
+        "image": "https://images.mktw.net/im-76384451",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
       {
         "title": "Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.",
         "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
@@ -315,45 +351,18 @@
         "image": "https://images.mktw.net/im-90698990",
         "source": "MarketWatch",
         "section": "Markets"
-      },
-      {
-        "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
-        "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-        "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
-        "published": "2026-08-08T17:58:00Z",
-        "image": "https://images.mktw.net/im-96661868",
-        "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-        "link": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html",
-        "summary": "Iran's military stressed that the crucial waterway would only be reopened when the U.S. accepts Iran's conditions.",
-        "published": "2026-08-08T17:41:31Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’",
-        "link": "https://www.cnbc.com/2026/08/08/hunter-biden-says-joe-bidens-cancer-has-spread-is-very-debilitating.html",
-        "summary": "\"The cancer has spread, is metastasized into his bones and further. It's very painful. It's very debilitating in many respects,\" Hunter Biden said.",
-        "published": "2026-08-08T17:25:25Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-        "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-        "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
-        "published": "2026-08-08T17:23:00Z",
-        "image": "https://images.mktw.net/im-11672138",
-        "source": "MarketWatch",
-        "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "summary": "NextSlide says its team members are now working on ChatGPT.",
+        "published": "2026-08-08T19:41:13Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
       {
         "title": "An Amazon data center could have the worst polluting power plant in the country",
         "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
@@ -414,15 +423,6 @@
         "summary": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
         "published": "2026-08-08T14:03:58Z",
         "image": "https://media.wired.com/photos/6a7630b55d2ebc1c5247b509/master/pass/GettyImages-157580450-edited.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-        "link": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-        "summary": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
-        "published": "2026-08-08T13:00:00Z",
-        "image": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
         "source": "Wired",
         "section": "Technology"
       }
@@ -503,6 +503,60 @@
     ],
     "Sports": [
       {
+        "title": "Tielemans cameo against PSG hints at Man Utd future",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce34k3qve4no?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United's £35m signing Youri Tielemans makes an impressive debut in the 1-1 friendly draw against Paris St-Germain in Gothenburg.",
+        "published": "2026-08-08T19:15:24Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef15/live/44742c80-935a-11f1-9165-3913cf361277.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
+        "link": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg",
+        "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with European champions Paris Saint-Germain in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023 , has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG. Continue reading...",
+        "published": "2026-08-08T19:10:23Z",
+        "image": "https://i.guim.co.uk/img/media/2ab739adca642ca1865b7220ea9565e27319088c/27_0_1812_1449/master/1812.jpg?width=140&quality=85&auto=format&fit=max&s=c52d58be4b399ab22a9d698b6c505ec2",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
+        "link": "https://www.theguardian.com/football/2026/aug/08/premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs",
+        "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that the only other seasons which started with so many men making their managerial debut for top flight clubs were 1888-89 and 1946-47; the inaugural season of league football and the first following the second world war. Neither occurred under normal circumstances yet the level of turnover this summer does not feel unusual. Job security has never meant less in the Premier League. Adding in the recently appointed pair of Roberto De Zerbi and Michael Carrick – confirmed in March and May respectively – means this season will start with 11 teams led by coaches with less than a year in their hotseat. The median tenure of Premier League managers at the start of each season has never been so low. Continue reading...",
+        "published": "2026-08-08T19:00:05Z",
+        "image": "https://i.guim.co.uk/img/media/0533c86c24f4d1e6af48a84648d45e2bf5d2033f/0_0_4853_3882/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=b6e38bceda583766d99dc8651965096e",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+        "link": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield",
+        "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.” After more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for the Seleção in their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity. Continue reading...",
+        "published": "2026-08-08T19:00:05Z",
+        "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=d44d81286da02cc50c955f2d9787e01b",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Eight-try Wigan thump Toulouse to move into second",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Try-machine Zach Eckersley and Liam Marshall both score twice as Wigan Warriors beat Toulouse Olympique 48-18 to go second in Super League.",
+        "published": "2026-08-08T18:59:45Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7878/live/71a8d190-934d-11f1-8654-453c05ccaef9.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "'What a throw!' - Southern Brave's two stunning run outs",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cr495lxveyno?at_medium=RSS&at_campaign=rss",
+        "summary": "Moeen Ali and Tristan Stubbs produce two moments of magic in the field as they run out Tim Seifert and Leus du Plooy respectively, with two superb direct hits as Southern Brave fight back against Manchester Super Giants in Southampton.",
+        "published": "2026-08-08T18:47:12Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b1/live/e091b060-935a-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Carabao Cup: Millwall keeper saves four penalties, Preston prevail in Goodison home game",
         "link": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties",
         "summary": "Lukas Jensen the shootout hero for Millwall at QPR Kyle Walker hits winner in Burnley shootout victory Alex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all four QPR penalties to take Millwall through to the second round of the Carabao Cup. After a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener, Millwall won 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku. Continue reading...",
@@ -512,70 +566,34 @@
         "section": "Sports"
       },
       {
-        "title": "Eight-try Wigan thump Toulouse to move into second",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Try-machine Zach Eckersley and Liam Marshall both score twice as Wigan Warriors beat Toulouse Olympique 48-18 to go second in Super League.",
-        "published": "2026-08-08T18:36:13Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7878/live/71a8d190-934d-11f1-8654-453c05ccaef9.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Stubbs 'fuming' about stunning elbow catch is overturned",
+        "title": "Stubbs 'fuming' after stunning elbow catch is overturned",
         "link": "https://www.bbc.co.uk/sport/cricket/videos/c934jpex2ddo?at_medium=RSS&at_campaign=rss",
         "summary": "Tristan Stubbs is left \"fuming\" after taking a brilliant catch with his elbow, only for the decision to be given not out after review in Southern Brave's match against the Manchester Super Giants in Southampton.",
         "published": "2026-08-08T18:26:30Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba2/live/2941d700-9355-11f1-a7ab-8b30adf0800a.jpg",
         "source": "BBC Sport",
         "section": "Sports"
-      },
-      {
-        "title": "Super Giants close in on knockout stages after beating Brave",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cpq8wzej8vvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Richa Ghosh scores a quickfire half-century as Manchester Super Giants beat Southern Brave by 27 runs to boost their chances of reaching the knockout stages of The Hundred women's competition.",
-        "published": "2026-08-08T17:34:10Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad5b/live/364ff290-934d-11f1-870d-5d08c49babb2.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Swansea fear serious injury to key man Burgess",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ce34gz06p5zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Swansea City fear Cameron Burgess has a significant Achilles injury after the centre-back limps off in their Carabao Cup defeat to Birmingham City.",
-        "published": "2026-08-08T17:27:29Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e2/live/5b86dbe0-9344-11f1-a35f-039358cea467.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Vollering wins stage to claim Tour lead before final day",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/cvg8jedd8x1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Demi Vollering races clear to win stage eight of the Tour de France Femmes and snatch the leader's yellow jersey with just one stage remaining.",
-        "published": "2026-08-08T17:24:40Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efd/live/7395aa40-9349-11f1-a35f-039358cea467.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "WNBA commissioner says league will continue discussing issue of transgender eligibility",
-        "link": "https://www.theguardian.com/sport/2026/aug/08/wnba-transgender-eligibility-cathy-engelbert-sophie-cunningham",
-        "summary": "Commissioner sends memo to teams on eligibility rules Players’ union refuses to be used as a political pawn Cunningham remarks have prompted rallies and protests WNBA commissioner Cathy Engelbert has sent a memo to teams that addresses ongoing discussions around transgender athletes in women’s basketball. “I know many of you have received questions in recent weeks regarding transgender athlete participation in women’s basketball, and I expect this topic will continue to receive significant attention,” Engelbert wrote in the memo, which was sent Friday afternoon and obtained by the Associated Press. “I wanted to reach out to share how we are approaching these conversations at the league office and to thank those of you who have responded to questions from the media with thoughtfulness and professionalism.” Continue reading...",
-        "published": "2026-08-08T17:24:21Z",
-        "image": "https://i.guim.co.uk/img/media/1336798f31ee02b869c715f0bcad06ba10f8c0f8/335_0_3334_2669/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=b904da9c267dfca3339600c4398ffd21",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Tour de France Femmes: Vollering’s late escape for yellow leaves Niewiadoma fuming",
-        "link": "https://www.theguardian.com/sport/2026/aug/08/tour-de-france-femmes-demi-vollering-takes-eight-second-lead-into-final-stage",
-        "summary": "Victory on penultimate stage secures eight-second lead Previous leader claims she was blocked by rival’s team Demi Vollering took the overall lead from Kasia Niewiadoma in the Tour de France Femmes with a vicious attack in the hills behind Nice to lead the race by eight seconds from the 2024 winner, with just one stage remaining. “It’s very special to be back in yellow,” Vollering, leader of French team FDJ United-Suez said. “Tomorrow I start in yellow and I will do everything in my power to keep it. So much can happen – it’s still a big fight.” Continue reading...",
-        "published": "2026-08-08T17:09:14Z",
-        "image": "https://i.guim.co.uk/img/media/08d5506aca26513290efd7e4f42c683616083ec0/0_0_6523_5219/master/6523.jpg?width=140&quality=85&auto=format&fit=max&s=d08aeb3565f89568476fca00d3c7aea2",
-        "source": "The Guardian",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Water Colour review – an elegant, expertly handled study of depression",
+        "link": "https://www.theguardian.com/stage/2026/aug/08/water-colour-review-traverse-theatre-edinburgh",
+        "summary": "Traverse theatre, Edinburgh Milly Sweeney’s award-winning two-hander about an art student and a kitchen porter draws power from its clever structure and light touch It is rare to come out of a show raving about the structure, but the unusual plotting distinguishes Milly Sweeney’s two-hander. The young playwright’s theme is the way everyday social pressures – the stress of completing an art degree show, the anxiety of starting a job – can take a toll on mental health. With sensitivity, she traces the step-by-step process that might take someone from depression, compounded by circumstance, to thoughts of suicide. Her characters are Esme (Molly Geddes) – friendless at Prestwick Academy, isolated at Glasgow School of Art – and Harris (Ryan J Mackay), seemingly on the up after landing a job as a kitchen porter in a Michelin-star restaurant. Continue reading...",
+        "published": "2026-08-08T19:00:04Z",
+        "image": "https://i.guim.co.uk/img/media/708655c449249a35ed67983f657e81a72638fbbb/344_0_1343_1075/master/1343.jpg?width=140&quality=85&auto=format&fit=max&s=f2c57a630436ae9dad823f1ae0c06db9",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
+      {
+        "title": "‘Teenage Sex and Death at Camp Miasma’ Makes a Case For Embracing Beloved Problematic Films",
+        "link": "https://www.nytimes.com/video/movies/100000011022361/teenage-sex-and-death-at-camp-miasma-makes-a-case-for-embracing-beloved-problematic-films.html",
+        "summary": "Our film critic Alissa Wilkinson reviews “Teenage Sex and Death at Camp Miasma,” dissecting its argument not to discard your favorite films that may not have aged well.",
+        "published": "2026-08-08T18:58:51Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "Supposing: review – only ancient Greek rage will suffice in our exasperating times",
         "link": "https://www.theguardian.com/stage/2026/aug/08/supposing-review-traverse-theatre-edinburgh",
@@ -628,24 +646,6 @@
         "published": "2026-08-08T11:36:08Z",
         "image": "https://static01.nyt.com/images/2026/08/16/arts/16CUL-MY10-MUSGRAVES/16CUL-MY10-MUSGRAVES-mediumSquareAt3X.jpg",
         "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "A kids’ film taught me the power of delusion – and helped me chase my standup dreams",
-        "link": "https://www.theguardian.com/culture/2026/aug/08/my-cultural-awakening-kids-film-taught-me-the-power-of-delusion-and-helped-me-chase-my-standup-dreams",
-        "summary": "The protagonist of A Little Princess wills reality to bend to her desires. Comedians need that same idiot confidence when we’re starting out, or else we’d all give up Explore the rest of our coverage of the Edinburgh festival 2026 I was 28 the first time I did standup. It was an open-mic competition where the audience decided the winner. As I held the tiny gold trophy, I decided to quit my job the next day. Some people might call that crazy, and it probably was. But I’d been honing that delusional self-belief since I was eight when I first watched the film adaptation of Frances Hodgson Burnett’s story A Little Princess. I already almost had the same name as its protagonist, Sara, a young girl who is sent off to boarding school while her father fights in the war. I wanted to be exactly like her. She was so sure of herself, and believed so completely in the worlds she created, that all the other girls at school wanted to be her friend. My favourite scene is the one where the girls sit on Sara’s bed, forming a circle round her as she tells fantastical stories. I would watch it and think: I want to tell stories that make people gather round me. Continue reading...",
-        "published": "2026-08-08T11:00:46Z",
-        "image": "https://i.guim.co.uk/img/media/e491d7b91b7bbb354489faa7b5da6ac74cf863c1/29_0_4137_3309/master/4137.jpg?width=140&quality=85&auto=format&fit=max&s=3215153abb74f4a4645ff42d0c86ea5a",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "‘She’s the voice of a really particular moment’: how Phoebe Bridgers became her generation’s defining songwriter",
-        "link": "https://www.theguardian.com/music/2026/aug/08/phoebe-bridgers-songwriter-taylor-swift",
-        "summary": "The US songwriter’s third album has drawn rave reviews, she counts Taylor Swift as a fan and pop bears the imprint of her wit and pathos. Her peers explain how she did it This week, indie star Phoebe Bridgers releases her long-awaited third album, six years since her pandemic-era breakthrough. Alongside a slew of glittering reviews for Lost Weekend, including five stars from the Guardian , with it comes her first solo charting single in the UK – although the Californian musician’s influence runs far deeper than reviews or record sales could measure. Just how did a RuneScape-referencing, Halloween-costumed Berklee drop-out become the most influential songwriter of the 2020s? Bridgers’ idiosyncratic writing has shaped the sound of the decade. Her second album Punisher, released in June 2020 (and recorded many months before), spookily anticipated that strange, lonely year: in her eerie double-tracked vocals (a nod to Bridgers’ musical hero, Elliott Smith), Bridgers sang of empty shopping malls and conspiracy theories over lush, unsettling music made from watery electric guitar, Mellotron, strings, screams and birdsong. Today, Bridgers’ distinctive mix of dry wit and pathos is traceable in the lyrics of pop’s new chart toppers, such as Olivia Rodrigo and Gracie Abrams , while heavyweights across generations and genres, including Paul McCartney, Taylor Swift and SZA, have clamoured for collaborations. “She is the reference now,” Swift told the Guardian in 2022 . Continue reading...",
-        "published": "2026-08-08T11:00:45Z",
-        "image": "https://i.guim.co.uk/img/media/e0dc1064b4683d7f2fd48694a88e117e1bd23e3e/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8cd25423bb14bb2d56a7f8363b816bac",
-        "source": "The Guardian",
         "section": "Culture"
       }
     ]
