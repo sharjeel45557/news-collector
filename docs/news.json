@@ -1,15 +1,107 @@
 {
-  "generated": "2026-08-09T13:14:50Z",
+  "generated": "2026-08-09T13:59:32Z",
   "lead": {
-    "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-    "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-    "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
-    "published": "2026-08-09T13:08:21Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
-    "source": "BBC News",
+    "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+    "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+    "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump One major sticking point between the two sides over the Gaza plan is disagreement over timing commitments. Israel has said that Israeli troops in Gaza would not move before Hamas disarms, while Hamas ‌has insisted that Israel halt attacks before it begins implementing the part of the agreement dealing with its arms. Announcing the agreement in a social media post, Trump said it involved the “complete disarmament” of Hamas and other armed groups in Gaza and was “a monumental step toward ending the fighting”. Israel has pointed to Hamas’s failure to disarm as justification for its continued strikes and refusal to allow any reconstruction in Gaza, and for Israeli forces’ steady edging forward from the demarcation line agreed in October. Continue reading...",
+    "published": "2026-08-09T13:25:58Z",
+    "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
+    {
+      "title": "Tour de France Femmes: Niewiadoma and Vollering fight for yellow on final stage – live updates",
+      "link": "https://www.theguardian.com/sport/live/2026/aug/09/cycling-tour-de-france-femmes-niewiadoma-vollering-nice-stage-nine",
+      "summary": "Live cycling updates from 15.05 BST/16.05 CET Follow us on Instagram | Mail Luke Regarding the telly coverage: As I understand it, without Zwift’s commitment to sponsor the event, there would be no Tour de France Femmes. Most likely there would still be a one-day nod to women’s cycling instead. ( Like La Course .) ASO don’t generate enough revenue from the event to cover every stage in full (again, this is merely as I understand it) so I guess we should be grateful to Zwift for the ploughing in the cash in the first place. Continue reading...",
+      "published": "2026-08-09T13:41:44Z",
+      "image": "https://i.guim.co.uk/img/media/ebde45f113961399d4def6e858a714ea891e3b83/1289_0_6446_5156/master/6446.jpg?width=140&quality=85&auto=format&fit=max&s=fc6a53b9a5fe9358e26d036b5d1d009f",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Eight-try Wigan thump Toulouse to move into second",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ce3qz1p47p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Try-machine Zach Eckersley and Liam Marshall both score twice as Wigan Warriors beat Toulouse Olympique 48-18 to go second in Super League.",
+      "published": "2026-08-09T13:32:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7878/live/71a8d190-934d-11f1-8654-453c05ccaef9.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "published": "2026-08-09T13:30:00Z",
+      "image": "https://images.mktw.net/im-96138603",
+      "source": "MarketWatch",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Why does Iran defeat the empires trying to conquer it?",
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
+      "summary": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
+      "published": "2026-08-09T13:36:24Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
+      "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+      "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+      "published": "2026-08-09T13:34:01Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+      "summary": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+      "published": "2026-08-09T13:28:55Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+      "link": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+      "summary": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+      "published": "2026-08-09T13:23:05Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+      "summary": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+      "published": "2026-08-09T13:15:54Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Corcoran Group CEO says Gen Z’s housing market struggles mirror what boomers faced 30 years ago: ‘Stop buying Starbucks coffee,’ she advises",
+      "link": "https://fortune.com/article/corcoran-group-ceo-gen-z-housing-market-struggles-mirror-what-boomers-faced-30-years-ago/",
+      "summary": "From skipping coffee runs to hosting dinner clubs, Corcoran Group CEO Pamela Liebman has one message for Gen Z: getting your first home takes sacrifices—but it’s doable, even in today’s pricey market.",
+      "published": "2026-08-09T13:15:43Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1240428382-e1761130155762.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
+    },
+    {
+      "title": "Indonesia closes national park in East Java as wildfire expands",
+      "link": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+      "summary": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
+      "published": "2026-08-09T13:13:46Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
     {
       "title": "Huddersfield thrash Catalans to mark Dewsbury move",
       "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ckg4klzznl8o?at_medium=RSS&at_campaign=rss",
@@ -20,120 +112,82 @@
       "section": "Sports"
     },
     {
-      "title": "Welsh Fire eliminated after heavy defeat to Sunrisers Leeds",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gdjpezy8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Welsh Fire are eliminated from The Hundred Women's competition after Phoebe Litchfield makes 55 to give the Sunrisers Leeds a six-wicket victory at Headingley.",
-      "published": "2026-08-09T13:06:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a6d/live/e09e9780-93f0-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Middle East crisis live: Netanyahu rejects US’s Gaza plan and vows no withdrawal until Hamas disarms",
-      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump The US plan that would see Hamas disarmed and Israeli withdrawal from Gaza was announced at the end of July. Here’s a recap of the details of that plan from when it was announced: Announcing the agreement in a social media post, Trump said it involved the “complete disarmament” of Hamas and other armed groups in Gaza and was “a monumental step toward ending the fighting”. Israel has pointed to Hamas’s failure to disarm as justification for its continued strikes and refusal to allow any reconstruction in Gaza, and for Israeli forces’ steady edging forward from the demarcation line agreed in October. Continue reading...",
-      "published": "2026-08-09T13:01:41Z",
-      "image": "https://i.guim.co.uk/img/media/c83b4d0b48941cb84bb6e5152cbb19e557aca147/591_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=245d14a8ebb88a7db295dcc65e3d9b16",
-      "source": "The Guardian",
-      "section": "World"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ across England",
-      "link": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
-      "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’ The parents of a nine-month-old girl who died after being placed in an unsafe sleeping position at nursery said they feared poor practice may be “rife” across England. Genevieve Meehan suffocated when she was strapped face down to a beanbag for an hour and 37 minutes at a nursery in Cheadle Hulme, Stockport, in May 2022. Continue reading...",
-      "published": "2026-08-09T13:00:16Z",
-      "image": "https://i.guim.co.uk/img/media/fa1a8cbbd246dcd48a76127aaf6b02fa52093999/1053_132_7034_5628/master/7034.jpg?width=140&quality=85&auto=format&fit=max&s=1507c4b271b6d75a131023a619b885d5",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
-      "link": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?mod=rss_markets_main",
-      "summary": "Tech stocks zip about on the latest AI expectations. Plus: A Financial Flashback to 55 years ago, when Nixon dropped the gold standard.",
-      "published": "2026-08-09T13:00:00Z",
-      "image": "https://images.wsj.net/im-13291345",
-      "source": "The Wall Street Journal",
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "summary": "The market's attention will be on July inflation data.",
+      "published": "2026-08-09T13:11:52Z",
+      "image": null,
+      "source": "CNBC",
       "section": "Markets"
     },
     {
-      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
-      "published": "2026-08-09T13:00:00Z",
-      "image": "https://images.mktw.net/im-64488863",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "summary": "For the first time in four years, the average stock is beating the stock market.",
-      "published": "2026-08-09T13:00:00Z",
-      "image": "https://images.mktw.net/im-40258482",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-      "published": "2026-08-09T13:00:00Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "Dropbox is a PC builder’s best friend",
-      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
-      "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot […]",
-      "published": "2026-08-09T13:00:00Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
-      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
-      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.",
-      "published": "2026-08-09T12:57:23Z",
-      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    },
-    {
-      "title": "Litchfield helps Sunrisers boost knockout hopes",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2drxj1p72o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sunrisers Leeds keep their hopes of making The Hundred knockout phase alive with a six-wicket win over Welsh Fire, which simultaneously eliminates their opponents.",
-      "published": "2026-08-09T12:56:18Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690a/live/ab839bd0-93ec-11f1-8231-7d4e2048054e.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
-      "summary": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
-      "published": "2026-08-09T12:51:34Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Photos Show England Turning Brown in Drought",
-      "link": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
-      "summary": "Beset by historically dry weather, much of the nation is losing its signature hue.",
-      "published": "2026-08-09T12:49:41Z",
-      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07xp-brown-england-tqbp/07xp-brown-england-tqbp-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
+      "title": "CEO of $49 billion AI company says it’s ‘mind-boggling’ people think you can work 38 hours a week, have work-life balance, and be successful",
+      "link": "https://fortune.com/article/ceo-of-49-billion-ai-company-says-its-mind-boggling-people-think-you-can-work-38-hours-a-week-have-work-life-balance-and-be-successful/",
+      "summary": "Cerebras cofounder Andrew Feldman warned aspiring entrepreneurs they need to be working “every waking minute,” echoing the likes of Zoom CEO Eric Yuan and LinkedIn’s Reid Hoffman.",
+      "published": "2026-08-09T13:11:26Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2157855549-e1760365286201.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ across England",
+        "title": "Why does Iran defeat the empires trying to conquer it?",
+        "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/9/why-does-iran-defeat-the-empires-trying-to-conquer-it?traffic_source=rss",
+        "summary": "On the second episode of Deja Vu, we look at Iran and the great powers that have tried to shape it.",
+        "published": "2026-08-09T13:36:24Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/barzani-says-iraqi-kurdistan-wants-peace-as-regional-tensions-rise?traffic_source=rss",
+        "summary": "Barzani says Iraqi Kurdistan wants peace as regional tensions rise",
+        "published": "2026-08-09T13:28:55Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
+        "link": "https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss",
+        "summary": "Iranians from all walks of life struggle under the weight of rising inflation and war pressure.",
+        "published": "2026-08-09T13:23:05Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
+        "summary": "Israel rejects Trump’s 15-point Gaza plan, Netanyahu says.",
+        "published": "2026-08-09T13:15:54Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Indonesia closes national park in East Java as wildfire expands",
+        "link": "https://www.aljazeera.com/news/2026/8/9/indonesia-closes-national-park-in-east-java-as-wildfire-expands?traffic_source=rss",
+        "summary": "Firefighters struggle to battle the growing blaze near Mount Bromo in thick forest and steep terrain.",
+        "published": "2026-08-09T13:13:46Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+        "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km).",
+        "published": "2026-08-09T13:08:21Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/8ee7ee90-9374-11f1-b2ab-0dd01740f9f6.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
         "link": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
         "summary": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’ The parents of a nine-month-old girl who died after being placed in an unsafe sleeping position at nursery said they feared poor practice may be “rife” across England. Genevieve Meehan suffocated when she was strapped face down to a beanbag for an hour and 37 minutes at a nursery in Cheadle Hulme, Stockport, in May 2022. Continue reading...",
         "published": "2026-08-09T13:00:16Z",
@@ -149,63 +203,27 @@
         "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
-      },
-      {
-        "title": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
-        "summary": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
-        "published": "2026-08-09T12:51:34Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Photos Show England Turning Brown in Drought",
-        "link": "https://www.nytimes.com/2026/08/07/world/europe/england-drought-dry-weather-photos.html",
-        "summary": "Beset by historically dry weather, much of the nation is losing its signature hue.",
-        "published": "2026-08-09T12:49:41Z",
-        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07xp-brown-england-tqbp/07xp-brown-england-tqbp-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "In Munich, it's never too early for a breakfast beer with sausage and pretzels",
-        "link": "https://www.npr.org/2026/08/09/nx-s1-5900954/in-munich-its-never-too-early-for-a-breakfast-beer-with-sausage-and-pretzels",
-        "summary": "Bavarians traditionally wash down a breakfast of boiled veal sausage, sweet mustard and a giant pretzel with beer — all before the church bells ring at midday.",
-        "published": "2026-08-09T12:48:36Z",
-        "image": null,
-        "source": "NPR",
-        "section": "World"
-      },
-      {
-        "title": "La Liga: Five key talking points heading into the 2026-2027 season",
-        "link": "https://www.aljazeera.com/sports/2026/8/9/la-liga-five-key-talking-points-heading-into-the-2026-2027-season?traffic_source=rss",
-        "summary": "Jose Mourinho is back at Madrid, and Barcelona eye third straight title while new rule changes aim to cut time-wasting.",
-        "published": "2026-08-09T12:42:48Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-        "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-        "published": "2026-08-09T12:39:18Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/9e6e94f0-8bfd-11f1-a52a-dba993a97936.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Yemen’s Houthis claim responsibility for attack on Saudi oil refinery",
-        "link": "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-        "summary": "Drone strike comes after Riyadh signs defence pact and Iran issues tough demands to reopen strait of Hormuz Middle East crisis live – latest updates Yemen’s Tehran-aligned Houthis have claimed responsibility for an attack on a refinery in Saudi Arabia, two days after the kingdom signed ⁠a defence pact with Turkey ⁠and Pakistan in response to ​growing regional instability caused by the US-Israel war on Iran. The attack early on Sunday came after Iran issued tough new demands to reopen the strait of Hormuz , and the United Arab Emirates said one of its ships had been targeted by an Iranian missile, as a deal to open the strategic waterway remained out of reach. Continue reading...",
-        "published": "2026-08-09T12:29:39Z",
-        "image": "https://i.guim.co.uk/img/media/4b3ebbb27a298382cf514404f7afc68b64dbe38a/1024_0_7883_6308/master/7883.jpg?width=140&quality=85&auto=format&fit=max&s=b1d67f15bd43054197f8b769c23e99cf",
-        "source": "The Guardian",
-        "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Corcoran Group CEO says Gen Z’s housing market struggles mirror what boomers faced 30 years ago: ‘Stop buying Starbucks coffee,’ she advises",
+        "link": "https://fortune.com/article/corcoran-group-ceo-gen-z-housing-market-struggles-mirror-what-boomers-faced-30-years-ago/",
+        "summary": "From skipping coffee runs to hosting dinner clubs, Corcoran Group CEO Pamela Liebman has one message for Gen Z: getting your first home takes sacrifices—but it’s doable, even in today’s pricey market.",
+        "published": "2026-08-09T13:15:43Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1240428382-e1761130155762.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "CEO of $49 billion AI company says it’s ‘mind-boggling’ people think you can work 38 hours a week, have work-life balance, and be successful",
+        "link": "https://fortune.com/article/ceo-of-49-billion-ai-company-says-its-mind-boggling-people-think-you-can-work-38-hours-a-week-have-work-life-balance-and-be-successful/",
+        "summary": "Cerebras cofounder Andrew Feldman warned aspiring entrepreneurs they need to be working “every waking minute,” echoing the likes of Zoom CEO Eric Yuan and LinkedIn’s Reid Hoffman.",
+        "published": "2026-08-09T13:11:26Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2157855549-e1760365286201.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "Why every company wants an AI model router right now",
         "link": "https://fortune.com/2026/08/09/why-every-company-wants-an-ai-model-router-right-now/",
@@ -259,27 +277,27 @@
         "image": "https://i.guim.co.uk/img/media/e514590b9ba301376c606e843de3a15166385b18/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8d9e476a4354f21104cccc68dc8b4562",
         "source": "The Guardian",
         "section": "Business"
-      },
-      {
-        "title": "Teenagers are shooting out over 50 applications and getting ghosted even for volunteer jobs: ‘I’ll take anything at this point’",
-        "link": "https://fortune.com/2026/08/09/teenager-summer-job-market-internships-volunteering-applications-ghosting/",
-        "summary": "The summer job market has been “soul destroying” for teens in the U.S., Canada, and U.K.—but some are finding a way in.",
-        "published": "2026-08-09T10:00:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2215595712-e1786134602482.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Davidson College President: Is college worth it? Take a look at a new answer",
-        "link": "https://fortune.com/2026/08/09/davidson-college-president-is-college-worth-it-take-a-look-at-a-new-answer/",
-        "summary": "Six months after graduation, 95% of our class of 2025 were employed or in grad school.",
-        "published": "2026-08-09T09:30:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/hicks.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
       }
     ],
     "Markets": [
+      {
+        "title": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
+        "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
+        "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
+        "published": "2026-08-09T13:34:01Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+        "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "summary": "The market's attention will be on July inflation data.",
+        "published": "2026-08-09T13:11:52Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
       {
         "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
         "link": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?mod=rss_markets_main",
@@ -332,24 +350,6 @@
         "published": "2026-08-09T12:30:00Z",
         "image": "https://images.mktw.net/im-58472746",
         "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot",
-        "link": "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-        "summary": "\"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives,\" an analyst told CNBC.",
-        "published": "2026-08-09T12:23:54Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Apple tests China’s CXMT memory chips for iPhones and MacBooks, WSJ reports",
-        "link": "https://www.investing.com/news/stock-market-news/apple-tests-chinas-cxmt-memory-chips-for-iphones-and-macbooks-wsj-reports-4847734",
-        "summary": "",
-        "published": "2026-08-09T12:12:30Z",
-        "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEK9R099_L.jpg",
-        "source": "Investing.com",
         "section": "Markets"
       }
     ],
@@ -503,11 +503,38 @@
     ],
     "Sports": [
       {
+        "title": "Huddersfield thrash Catalans to mark Dewsbury move",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/ckg4klzznl8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Huddersfield Giants celebrate the announcement of their move to Dewsbury from next season by thrashing Catalans Dragons.",
+        "published": "2026-08-09T13:13:41Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397b/live/bab86600-9336-11f1-8c55-af7610e137d7.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Fulham agree £30m fee for Southampton's Charles",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.",
+        "published": "2026-08-09T13:10:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/4ef88fb0-93f1-11f1-bd38-f1deaeb1a5de.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Welsh Fire eliminated after heavy defeat by Sunrisers Leeds",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/c4gdjpezy8go?at_medium=RSS&at_campaign=rss",
+        "summary": "Welsh Fire are eliminated from The Hundred Women's competition after Phoebe Litchfield makes 55 to give the Sunrisers Leeds a six-wicket victory at Headingley.",
+        "published": "2026-08-09T13:06:14Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a6d/live/e09e9780-93f0-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Litchfield helps Sunrisers boost knockout hopes",
         "link": "https://www.bbc.co.uk/sport/cricket/articles/cx2drxj1p72o?at_medium=RSS&at_campaign=rss",
         "summary": "Sunrisers Leeds keep their hopes of making The Hundred knockout phase alive with a six-wicket win over Welsh Fire, which simultaneously eliminates their opponents.",
         "published": "2026-08-09T12:56:18Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690a/live/ab839bd0-93ec-11f1-8231-7d4e2048054e.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ea/live/9dff9020-93f8-11f1-a7ab-8b30adf0800a.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
@@ -544,33 +571,6 @@
         "summary": "Manchester United are working on a deal to sign Leicester teenager Louis Page.",
         "published": "2026-08-09T12:13:59Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/c759ac60-93e6-11f1-8231-7d4e2048054e.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Trump suffers first-round defeat at China Open",
-        "link": "https://www.bbc.co.uk/sport/snooker/articles/cly81lwjvd4o?at_medium=RSS&at_campaign=rss",
-        "summary": "World number one Judd Trump suffers a shock defeat by Thailand's Noppon Saengkham in the first round of the China Open.",
-        "published": "2026-08-09T11:12:42Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c548/live/cb62dcc0-93df-11f1-8231-7d4e2048054e.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Super Furry Animals’ foray into football is not part of Big Music’s money grab | Emma John",
-        "link": "https://www.theguardian.com/football/2026/aug/08/super-furry-animals-mogwai-football-cwmbran-celtic",
-        "summary": "The sponsorship deal between Cwmbran Celtic and the Welsh indie-rockers is a nostalgia trip rather than a cynical attempt to monetise ‘adjacent audiences’ As someone born on the cusp of the gen X-millennial divide, I am the perfect target for today’s 90s nostalgia. I played my modest, teenage part in the Battle of Britpop (verbal skirmisher, Blur division); I fervently sang – and, God help me, believed – that Things Can Only Get Better . Super Furry Animals were a band I knew only distantly, via the transgressive thrill of that song they had with all the swearing in . And yet the news they’ll be shirt sponsor for a Welsh football club this season has managed to whisk me straight back to a time when things seemed simpler, kinder and more hopeful. Nearly three decades have passed since Super Furry Animals last had their logo on a football kit. Back in 1999, their frontman Gruff Rhys and bassist Guto Pryce, both Cardiff City fans, persuaded their Bangor-born bandmates to lay down their north Wales allegiances for the duration of the Bluebirds’ Welsh Cup run – which was, incidentally, all they could afford. The cup shirts cost them £2,000 and were, according to Rhys, knock-offs made for ice hockey. This year’s beneficiaries are a more modest outfit: Cwmbran Celtic, just relegated from Wales’s second tier. Cwmbran is the town where the band send their stage props for repair, and given the props in question are giant inflatable bears, you wonder whether they could get one installed in goal. Continue reading...",
-        "published": "2026-08-09T10:53:14Z",
-        "image": "https://i.guim.co.uk/img/media/715ca4906dd5f20075dac48767dca6d2149fcf9e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=17ba9351fd38576d80dd2d1476f07150",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Carrington makes 'white privilege' post after ejection",
-        "link": "https://www.bbc.co.uk/sport/basketball/articles/cd0x3dye57ko?at_medium=RSS&at_campaign=rss",
-        "summary": "Chicago Sky guard DiJonai Carrington is ejected from her side's defeat by Indiana Fever for committing a hard foul, before taking to social media to post \"white privilege\".",
-        "published": "2026-08-09T09:58:51Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1763/live/fca342e0-93ce-11f1-8a53-8dd26327bf8e.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
