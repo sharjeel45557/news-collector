@@ -1,15 +1,125 @@
 {
-  "generated": "2026-08-09T19:47:46Z",
+  "generated": "2026-08-09T20:50:53Z",
   "lead": {
-    "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-    "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
-    "published": "2026-08-09T19:40:09Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
-    "source": "BBC News",
+    "title": "Netanyahu rejects US-led 15-point Gaza peace plan in rare public break with Trump",
+    "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
+    "summary": "Israeli PM says IDF will not withdraw until Hamas is disarmed and rebukes US pressure to end wars without his country’s buy-in Middle East crisis live – latest updates Israel’s prime minister, Benjamin Netanyahu , has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he was confronting a “wave of rumours about Israeli weakness and Israeli withdrawals on all fronts” and rebuked US pressure to end wars in Gaza, Lebanon, and Iran without Israel’s buy-in. Continue reading...",
+    "published": "2026-08-09T20:00:48Z",
+    "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
+    {
+      "title": "Flesh-eating bacteria infections are surging along the Gulf Coast with five deaths reported in Louisiana",
+      "link": "https://fortune.com/2026/08/09/flesh-eating-bacteria-infections-gulf-coast-deaths-louisiana/",
+      "summary": "“Seek medical care immediately if a wound exposed to brackish or salt water becomes red, swollen, painful, warm or discolored.\"",
+      "published": "2026-08-09T20:33:53Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26221550147955.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
+    },
+    {
+      "title": "Livingstone and Brevis power Spirit to success",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/crl74pjggp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A partnership of 103 between Liam Livingstone and Dewald Brevis, including some huge sixes, sees London Spirit coast to victory over Birmingham Phoenix.",
+      "published": "2026-08-09T20:26:29Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7652/live/a5991bf0-942d-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Were signs always there that Vrancken's Hearts would come good?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdew452xgyko?at_medium=RSS&at_campaign=rss",
+      "summary": "Heart of Midlothian have at last secured their first win under new head coach Wouter Vrancken, but statistics suggested it was only a matter of time.",
+      "published": "2026-08-09T20:23:31Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/909a/live/56b0ce70-9423-11f1-aa3c-4fd5547f7539.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "published": "2026-08-09T20:35:17Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "No Dogs in Space is a music history podcast for true obsessives",
+      "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+      "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a […]",
+      "published": "2026-08-09T20:28:31Z",
+      "image": null,
+      "source": "The Verge",
+      "section": "Technology"
+    },
+    {
+      "title": "Sunrisers thump Fire to close in on qualification",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps London Spirit beat Birmingham Phoenix by seven wickets.",
+      "published": "2026-08-09T20:15:45Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e55/live/369a8580-9410-11f1-bc11-d9696db7ebba.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+      "summary": "‘We're going backwards.’",
+      "published": "2026-08-09T20:02:57Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Game of Thrones: The Mad King review – an action-packed saga of dry ice and fire",
+      "link": "https://www.theguardian.com/stage/2026/aug/09/game-of-thrones-the-mad-king-review-royal-shakespeare-theatre-stratford-upon-avon",
+      "summary": "Royal Shakespeare theatre, Stratford-upon-Avon This prequel to the TV series has one joust after another, spectacular stagecraft and plenty of modern resonance During the RSC’s 65 years, numerous Lears have lost their minds and frequent Caesars been slaughtered by their courts. Now, though, a tyrant new to its stages faces both fates. He is King Aerys II Targaryen, ancestor of one warring bloodline in Game of Thrones , the dramatisation of George RR Martin’s A Song of Ice and Fire series of fantasy novels that helped TV streamers’ rise to global domination during eight HBO seasons from 2011 to 2019. Some may balk at an institution named for England’s greatest dramatist staging an American drama franchise. There is, though, a compelling economic imperative: rising costs due to current wars (a frequent problem for Martin’s ancient oligarchs too) and Covid-era debts now exacerbated by paying back government loans means that the RSC could use another big commercial transfer – as its musical Matilda may not be immortal. Continue reading...",
+      "published": "2026-08-09T20:00:24Z",
+      "image": "https://i.guim.co.uk/img/media/ba4bff8dd37aecaa2814601cb9c1be48055f6357/0_1548_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=b4205e98103e8303396f54bde84a0a82",
+      "source": "The Guardian",
+      "section": "Culture"
+    },
+    {
+      "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+      "published": "2026-08-09T19:57:28Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+      "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+      "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens,” Netanyahu said at a cabinet meeting. Here are the other key updates from today: The US must pressure Israel to accept the next phase of the Gaza plan, a Hamas official said, after Netanyahu rejected the US-backed agreement. “We expect the mediators and the American guarantor to pressure Netanyahu and his government to adhere to the roadmap and not obstruct the process for internal political and electoral reasons,” Hamas political bureau member Bassem Naim said. A Houthi drone salvo targeted a Saudi oil refinery on the Red Sea coast. The Iran-backed group’s military spokesperson Yahya Saree said the Houthis had “succeeded in targeting the Aramco refinery in Jazan on Saudi Arabia’s Red Sea coast with a drone”. Attacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources said. The initial toll came from strikes on the Yemeni city of Mokha and surrounding areas, as well as Khokha, south of the port city of Hodeida, the sources said on condition of anonymity, after the Houthis announced they had targeted military forces and equipment on the Red Sea coast. Iranian president Masoud Pezeshkian met the country’s supreme ⁠leader Mojtaba Khamenei around the start of the president’s third year in office in late July, state ⁠media said, ⁠and ​a paramilitary leader promised footage of Khamenei in the future. Khamenei was reportedly seriously injured in the ​February strike that killed his father and predecessor, Ali Khamenei on the first day of the US-Israeli war on Iran. The promise to release footage of the leader by paramilitary Basij ⁠Organisation deputy Qasem Qoraishi appeared to be aimed ​at quashing speculation about his health. Continue reading...",
+      "published": "2026-08-09T19:54:53Z",
+      "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Middlesex through as One-Day Cup nears tense finale",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ydjxj4z0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "A day of unlikely One-Day Cup results includes defeats for the top three in Group A as Middlesex go through.",
+      "published": "2026-08-09T19:52:54Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8717/live/f2652c10-942a-11f1-ada2-df45b921be12.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+      "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+      "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
+      "published": "2026-08-09T19:48:53Z",
+      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
+    },
     {
       "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
       "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
@@ -18,120 +128,64 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/56e5bbc0-9410-11f1-bc11-d9696db7ebba.jpg",
       "source": "BBC Sport",
       "section": "Sports"
-    },
-    {
-      "title": "Bonding & building - what we learned about Alonso's Chelsea in pre-season",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
-      "published": "2026-08-09T19:41:04Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Guimaraes can ignite something different in us - Arteta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mikel Arteta said the signing of Bruno Guimaraes will \"ignite something different\" in Arsenal and hinted that the Gunners are not done with their summer transfer activity.",
-      "published": "2026-08-09T19:27:03Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b234/live/13b36eb0-9410-11f1-bc11-d9696db7ebba.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Hull lets late lead slip as Huang, 17, wins again",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cy8el1jzn62o?at_medium=RSS&at_campaign=rss",
-      "summary": "England's Charley Hull lets slip a one-shot lead with two holes to play at the PIF London Championship as 17-year-old Anna Huang wins her fourth event on the Ladies' European Tour.",
-      "published": "2026-08-09T19:22:44Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb53/live/db2af320-9422-11f1-aa3c-4fd5547f7539.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "Programming with Claude Code will soon require even less human oversight.",
-      "published": "2026-08-09T19:20:32Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
-      "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
-      "summary": "For the first time in four years, the average stock is beating the stock market.",
-      "published": "2026-08-09T19:11:00Z",
-      "image": "https://images.mktw.net/im-40258482",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
-      "published": "2026-08-09T19:07:35Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Zuckerberg faces questions over why superyacht reportedly declined to help stranded boat",
-      "link": "https://www.theguardian.com/us-news/2026/aug/09/zuckerberg-superyacht-boat-alaska",
-      "summary": "Small cruise ship rescued skiff in south-east Alaska even though Meta billionaire’s $300m megayacht was closer Mark Zuckerberg has faced questions over why a small cruise ship in south-east Alaska rescued a stranded skiff and its crew when his 387ft superyacht had been closer. The Silicon Valley billionaire’s yacht, worth a reported $300m, is said to have “repeatedly” declined to assist when a nearby boat called for help last week. Continue reading...",
-      "published": "2026-08-09T19:06:23Z",
-      "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/432_0_4318_3455/master/4318.jpg?width=140&quality=85&auto=format&fit=max&s=4dcdd7646d245e27d1381c003635eb4d",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Seesaw draw in Malaysia gives Xabi Alonso food for thought at Chelsea",
-      "link": "https://www.theguardian.com/football/2026/aug/09/chelsea-xabi-alonso-jdt-malaysian-champions-preseason-friendly",
-      "summary": "Delap scores twice from spot in 3-3 draw with JDT Manager made 11 changes against Malaysian champions Chelsea’s problems mounted as their pre-season tour came to an end in a strangely fiery draw against the Malaysian champions Johor Darul Ta’zim. The omens do not look promising with a bloated choice of forwards, echoes of their inexperience and indiscipline last season, and fewer than two weeks for the new manager, Xabi Alonso, to reintegrate key players and work with the entirety of his squad before they kick off the Premier League season against Fulham – managed by his old friend Álvaro Arbeloa – on 24 August. Alonso, tasked with transforming a club that finished 10th in the Premier League last season into Champions League qualifiers, made 11 changes for the friendly against JDT. He rested players after beating Milan with a strong lineup only 24 hours earlier, 600 miles away. Continue reading...",
-      "published": "2026-08-09T19:05:58Z",
-      "image": "https://i.guim.co.uk/img/media/735ed4a812d47742a0810e9f29d77490754ce793/466_0_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=8382669a0eaade06667081c81b05cdca",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "Don Nelson, legendary coach and five-time NBA champion as player, dies at 86",
-      "link": "https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86",
-      "summary": "Nelson had second-most coaching wins in NBA history Won five titles with Boston Celtics in 1960s and 70s Helped develop stars Steph Curry and Dirk Nowitzki Don Nelson, the second-winningest coach in NBA history who won five championships as a player with the Boston Celtics, died on Sunday. He was 86. Nelson’s death was announced by the Golden State Warriors, one of the teams he coached. Continue reading...",
-      "published": "2026-08-09T19:01:36Z",
-      "image": "https://i.guim.co.uk/img/media/b00ad3e35b5855c43d7a743d1bc420fba0e7b878/155_0_1544_1235/master/1544.jpg?width=140&quality=85&auto=format&fit=max&s=f0ee39abe07c437ca01f088535e9343a",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "Defiant Hodgkinson says home European title would mean as much as Olympic gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Keely Hodgkinson will seek to prove she is still number one following a \"tricky\" outdoor season when she faces world-class rivals for European 800m gold in Birmingham.",
-      "published": "2026-08-09T19:00:32Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370e/live/da458a60-929c-11f1-b6aa-e1ff997f01b8.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Keely Hodgkinson relishing prospect of winning European gold on home turf",
-      "link": "https://www.theguardian.com/sport/2026/aug/09/keely-hodgkinson-european-athletics-championship-800m-gold-birmingham",
-      "summary": "Birmingham hosting European championships ‘It would mean almost as much as Olympic title’ Keely Hodgkinson says winning a European gold medal in front of her home fans in Birmingham this week will be nearly as special as her Olympic title in Paris. Hodgkinson is the headline act as the European Athletics Champion­ships come to Britain for the first time in its 92-year history, but she insists the intense spotlight on her only increases her determination to win 800m gold. Continue reading...",
-      "published": "2026-08-09T19:00:23Z",
-      "image": "https://i.guim.co.uk/img/media/5cff08980dd219f0bcc9a33fc8bb5f2e7be94bda/226_0_3589_2871/master/3589.jpg?width=140&quality=85&auto=format&fit=max&s=2227d0c2e1bd1f98da7bdb40d53eb8ee",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
-      "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
-      "published": "2026-08-09T18:59:33Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
+        "summary": "‘We're going backwards.’",
+        "published": "2026-08-09T20:02:57Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+        "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+        "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
+        "published": "2026-08-09T19:57:28Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8796/live/272fe5e0-9424-11f1-aa3c-4fd5547f7539.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
+        "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
+        "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israel rejects US-led 15-point Gaza peace plan, says Netanyahu Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens,” Netanyahu said at a cabinet meeting. Here are the other key updates from today: The US must pressure Israel to accept the next phase of the Gaza plan, a Hamas official said, after Netanyahu rejected the US-backed agreement. “We expect the mediators and the American guarantor to pressure Netanyahu and his government to adhere to the roadmap and not obstruct the process for internal political and electoral reasons,” Hamas political bureau member Bassem Naim said. A Houthi drone salvo targeted a Saudi oil refinery on the Red Sea coast. The Iran-backed group’s military spokesperson Yahya Saree said the Houthis had “succeeded in targeting the Aramco refinery in Jazan on Saudi Arabia’s Red Sea coast with a drone”. Attacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources said. The initial toll came from strikes on the Yemeni city of Mokha and surrounding areas, as well as Khokha, south of the port city of Hodeida, the sources said on condition of anonymity, after the Houthis announced they had targeted military forces and equipment on the Red Sea coast. Iranian president Masoud Pezeshkian met the country’s supreme ⁠leader Mojtaba Khamenei around the start of the president’s third year in office in late July, state ⁠media said, ⁠and ​a paramilitary leader promised footage of Khamenei in the future. Khamenei was reportedly seriously injured in the ​February strike that killed his father and predecessor, Ali Khamenei on the first day of the US-Israeli war on Iran. The promise to release footage of the leader by paramilitary Basij ⁠Organisation deputy Qasem Qoraishi appeared to be aimed ​at quashing speculation about his health. Continue reading...",
+        "published": "2026-08-09T19:54:53Z",
+        "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Israel Rejects Trump’s 15-Point Plan to Disarm Hamas",
+        "link": "https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html",
+        "summary": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
+        "published": "2026-08-09T19:48:53Z",
+        "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+        "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
+        "published": "2026-08-09T19:40:09Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d79/live/103a7590-9405-11f1-a3c4-b3ff07dc0ce9.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
+        "summary": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
+        "published": "2026-08-09T19:30:00Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
       {
         "title": "Can the Doha Framework end the conflict in eastern DRC?",
         "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
@@ -149,63 +203,18 @@
         "image": "https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/432_0_4318_3455/master/4318.jpg?width=140&quality=85&auto=format&fit=max&s=4dcdd7646d245e27d1381c003635eb4d",
         "source": "The Guardian",
         "section": "World"
-      },
-      {
-        "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
-        "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
-        "published": "2026-08-09T18:59:33Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Middle East crisis live: Netanyahu rejects Trump’s Gaza plan and vows no withdrawal until Hamas disarms",
-        "link": "https://www.theguardian.com/world/live/2026/aug/09/iran-us-irgc-strait-of-hormuz-israel-netanyahu-trump-gaza-plan-latest-news-updates",
-        "summary": "Israeli prime minister says he will not support 15-point plan hailed by Donald Trump Israeli prime minister Benjamin Netanyahu rejected a Gaza plan hailed by US president Donald Trump, vowing no military pullout of Gaza until Hamas is “genuinely” disarmed. The Israeli military “will not carry out any withdrawal until Hamas is genuinely disarmed and will continue to thwart threats against our forces and our citizens,” Netanyahu said at a cabinet meeting. Here are the other key updates from today: The US must pressure Israel to accept the next phase of the Gaza plan, a Hamas official said, after Netanyahu rejected the US-backed agreement. “We expect the mediators and the American guarantor to pressure Netanyahu and his government to adhere to the roadmap and not obstruct the process for internal political and electoral reasons,” Hamas political bureau member Bassem Naim said. A Houthi drone salvo targeted a Saudi oil refinery on the Red Sea coast. The Iran-backed group’s military spokesperson Yahya Saree said the Houthis had “succeeded in targeting the Aramco refinery in Jazan on Saudi Arabia’s Red Sea coast with a drone”. Attacks by Iran-backed Houthi rebels in Yemen killed at least four troops from the internationally-recognised government forces and injured 20 more personnel, two military sources said. The initial toll came from strikes on the Yemeni city of Mokha and surrounding areas, as well as Khokha, south of the port city of Hodeida, the sources said on condition of anonymity, after the Houthis announced they had targeted military forces and equipment on the Red Sea coast. Iranian president Masoud Pezeshkian met the country’s supreme ⁠leader Mojtaba Khamenei around the start of the president’s third year in office in late July, state ⁠media said, ⁠and ​a paramilitary leader promised footage of Khamenei in the future. Khamenei was reportedly seriously injured in the ​February strike that killed his father and predecessor, Ali Khamenei on the first day of the US-Israeli war on Iran. The promise to release footage of the leader by paramilitary Basij ⁠Organisation deputy Qasem Qoraishi appeared to be aimed ​at quashing speculation about his health. Continue reading...",
-        "published": "2026-08-09T18:55:42Z",
-        "image": "https://i.guim.co.uk/img/media/4361ca7b7d37038576268118c7fbbc57ea38669a/506_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=2df967b419ef04fb11ceb75606cacb16",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-        "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
-        "summary": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
-        "published": "2026-08-09T18:44:28Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Perseid meteor shower set to dazzle northern hemisphere this week",
-        "link": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
-        "summary": "Astronomers say viewing conditions promising for this year’s shower, and 50 to 100 meteors an hour may be visible The Perseid summer light show is back, and viewing conditions are especially promising across the northern hemisphere. The meteor shower’s is expected to peak on Wednesday night into Thursday morning, and coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade – though the best time to view the fireballs will come after totality. Continue reading...",
-        "published": "2026-08-09T18:43:55Z",
-        "image": "https://i.guim.co.uk/img/media/20261b375dd07330ea4b3a2f08b24d050788a8b0/623_0_6225_4980/master/6225.jpg?width=140&quality=85&auto=format&fit=max&s=4cb7037994e5ade5321a3b3483a420c4",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Israel rejects US-led 15-point Gaza peace plan, says Netanyahu",
-        "link": "https://www.theguardian.com/world/2026/aug/09/israel-rejects-us-led-15-point-gaza-peace-plan-says-netanyahu",
-        "summary": "In rare public break with Trump, Israel’s prime minister says IDF will not withdraw until Hamas is disarmed Middle East crisis live – latest updates Israel’s prime minister, Benjamin Netanyahu , has rejected a US-backed 15-point peace plan for Gaza in a rare public break with Donald Trump. In a statement on Sunday, Netanyahu said that he was confronting a “wave of rumours about Israeli weakness and Israeli withdrawals on all fronts” and rebuked US pressure to end wars in Gaza, Lebanon, and Iran without Israel’s buy-in. Continue reading...",
-        "published": "2026-08-09T18:35:06Z",
-        "image": "https://i.guim.co.uk/img/media/abf1b6b87678a98aa666eefdb7ed2e2cd9ea85b7/398_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=e6af5cf00baed2cc316fa8eafb7307d8",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first",
-        "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-        "summary": "Netanyahu's comments come just over a week after President Trump said his Board of Peace had reached a \"historic\" agreement with Hamas to give up its weapons.",
-        "published": "2026-08-09T18:21:45Z",
-        "image": null,
-        "source": "NPR",
-        "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Trump is betting that the U.S. naval blockade choking Iran’s economy can achieve what bombs and missiles couldn’t as more oil sneaks out of the Gulf",
+        "link": "https://fortune.com/2026/08/09/trump-us-naval-blockade-iran-economy-crisis-hormuz-talks-oil-prices/",
+        "summary": "\"We are just watching Iran with its huge inflation and the fact they have no money,\" Trump said.",
+        "published": "2026-08-09T19:41:07Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/9835119-e1786298988452.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
         "link": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
@@ -267,15 +276,6 @@
         "published": "2026-08-09T15:11:23Z",
         "image": null,
         "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Senate candidate Abdul El-Sayed says he got advice from Barack Obama and had a ‘really warm and inspiring’ conversation",
-        "link": "https://fortune.com/2026/08/09/michigan-senate-candidate-abdul-el-sayed-advice-barack-obama-mike-rogers/",
-        "summary": "Asked if he would like to see Obama come to Michigan to drum up support for Democrats before the midterm elections in November, El-Sayed said he “really” hoped so.",
-        "published": "2026-08-09T15:08:27Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26220013843020-e1786287706214.jpg?w=2048",
-        "source": "Fortune",
         "section": "Business"
       }
     ],
@@ -355,6 +355,24 @@
     ],
     "Technology": [
       {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "published": "2026-08-09T20:35:17Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "No Dogs in Space is a music history podcast for true obsessives",
+        "link": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+        "summary": "Sadly, there hasn't been a new episode of No Dogs in Space since July of 2024. Part four of the podcast's series on Can wrapped up an abbreviated season three, which focused on experimental rock. Don't get me wrong, I loved seasons one and two, but the show seemed to be gearing up for a […]",
+        "published": "2026-08-09T20:28:31Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
         "title": "Anthropic is turning Claude Code’s auto mode on by default",
         "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
         "summary": "Programming with Claude Code will soon require even less human oversight.",
@@ -404,24 +422,6 @@
         "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
         "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
         "published": "2026-08-09T14:30:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-        "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-        "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
-        "published": "2026-08-09T14:00:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-        "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-        "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
-        "published": "2026-08-09T13:00:00Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
@@ -503,6 +503,51 @@
     ],
     "Sports": [
       {
+        "title": "Sunrisers thump Fire to close in on qualification",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c70gn1634z7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sunrisers Leeds move closer to securing qualification for The Hundred's knockout stages with a 71-run win over Welsh Fire, while a 101-run partnership helps London Spirit beat Birmingham Phoenix by seven wickets.",
+        "published": "2026-08-09T20:15:45Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e55/live/369a8580-9410-11f1-bc11-d9696db7ebba.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Middlesex through as One-Day Cup nears tense finale",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c5ydjxj4z0mo?at_medium=RSS&at_campaign=rss",
+        "summary": "A day of unlikely One-Day Cup results includes defeats for the top three in Group A as Middlesex go through.",
+        "published": "2026-08-09T19:52:54Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8717/live/f2652c10-942a-11f1-ada2-df45b921be12.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "'Celtic fans are going to fall in love with him' - Hogh makes his mark",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.",
+        "published": "2026-08-09T19:43:56Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/56e5bbc0-9410-11f1-bc11-d9696db7ebba.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Bonding & building - what we learned about Alonso's Chelsea in pre-season",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
+        "published": "2026-08-09T19:41:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Guimaraes can ignite something different in us - Arteta",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mikel Arteta said the signing of Bruno Guimaraes will \"ignite something different\" in Arsenal and hinted that the Gunners are not done with their summer transfer activity.",
+        "published": "2026-08-09T19:27:03Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b234/live/13b36eb0-9410-11f1-bc11-d9696db7ebba.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Hull lets late lead slip as Huang, 17, wins again",
         "link": "https://www.bbc.co.uk/sport/golf/articles/cy8el1jzn62o?at_medium=RSS&at_campaign=rss",
         "summary": "England's Charley Hull lets slip a one-shot lead with two holes to play at the PIF London Championship as 17-year-old Anna Huang wins her fourth event on the Ladies' European Tour.",
@@ -523,59 +568,32 @@
       {
         "title": "Don Nelson, legendary coach and five-time NBA champion as player, dies at 86",
         "link": "https://www.theguardian.com/sport/2026/aug/09/don-nelson-legendary-coach-and-five-time-nba-champion-as-player-dies-at-86",
-        "summary": "Nelson had second-most coaching wins in NBA history Won five titles with Boston Celtics in 1960s and 70s Helped develop stars Steph Curry and Dirk Nowitzki Don Nelson, the second-winningest coach in NBA history who won five championships as a player with the Boston Celtics, died on Sunday. He was 86. Nelson’s death was announced by the Golden State Warriors, one of the teams he coached. Continue reading...",
+        "summary": "Nelson had second-most coaching wins in NBA history Won five titles with Boston Celtics in 1960s and 70s Helped develop stars Steph Curry and Dirk Nowitzki Don Nelson, the second-winningest coach in NBA history who won five championships as a player with the Boston Celtics, died on Sunday. He was 86. “On Sunday morning our beloved husband, dad, grandfather and great-grandfather Don Nelson ⁠peacefully went to be ⁠with the ​Lord, surrounded by his loving family,” a statement from his family read. “Throughout his last week, friends and family encircled him with love, sharing the ⁠blessing of his friendship and revisiting treasured memories.” Continue reading...",
         "published": "2026-08-09T19:01:36Z",
         "image": "https://i.guim.co.uk/img/media/b00ad3e35b5855c43d7a743d1bc420fba0e7b878/155_0_1544_1235/master/1544.jpg?width=140&quality=85&auto=format&fit=max&s=f0ee39abe07c437ca01f088535e9343a",
         "source": "The Guardian",
         "section": "Sports"
-      },
-      {
-        "title": "Defiant Hodgkinson says home European title would mean as much as Olympic gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c5y3djlk7jdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Keely Hodgkinson will seek to prove she is still number one following a \"tricky\" outdoor season when she faces world-class rivals for European 800m gold in Birmingham.",
-        "published": "2026-08-09T19:00:32Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370e/live/da458a60-929c-11f1-b6aa-e1ff997f01b8.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Keely Hodgkinson relishing prospect of winning European gold on home turf",
-        "link": "https://www.theguardian.com/sport/2026/aug/09/keely-hodgkinson-european-athletics-championship-800m-gold-birmingham",
-        "summary": "Birmingham hosting European championships ‘It would mean almost as much as Olympic title’ Keely Hodgkinson says winning a European gold medal in front of her home fans in Birmingham this week will be nearly as special as her Olympic title in Paris. Hodgkinson is the headline act as the European Athletics Champion­ships come to Britain for the first time in its 92-year history, but she insists the intense spotlight on her only increases her determination to win 800m gold. Continue reading...",
-        "published": "2026-08-09T19:00:23Z",
-        "image": "https://i.guim.co.uk/img/media/5cff08980dd219f0bcc9a33fc8bb5f2e7be94bda/226_0_3589_2871/master/3589.jpg?width=140&quality=85&auto=format&fit=max&s=2227d0c2e1bd1f98da7bdb40d53eb8ee",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Arteta expects Guimarães to ‘ignite’ Arsenal and help take team to new level",
-        "link": "https://www.theguardian.com/football/2026/aug/09/arteta-guimaraes-ignite-arsenal-maresca-manchester-city",
-        "summary": "Arsenal lose 3-2 to Borussia Dortmund in Emirates Cup Enzo Maresca impressed by Manchester City’s wide players The Arsenal manager, Mikel Arteta, has backed “warrior” Bruno Guimarães, who to “ignite something different” in the Premier League champions. The Brazil midfielder was introduced to fans ahead of Sunday’s 3-2 defeat by Borussia Dortmund in the Emirates Cup after completing his £75m move from Newcastle. The 28-year-old, who has signed a four-year deal , bolsters a midfield which already includes Declan Rice, Martin Ødegaard, Mikel Merino, Martin Zubimendi and Eberechi Eze. Continue reading...",
-        "published": "2026-08-09T18:46:58Z",
-        "image": "https://i.guim.co.uk/img/media/1fc181320e0e7ba1bc33ea5636a9752781ac7d4e/414_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0a2e5cad0d0bb76ab50f0235b8993a7d",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Tour de France Femmes: Vollering wins second title but tactics row rumbles on",
-        "link": "https://www.theguardian.com/sport/2026/aug/09/tour-de-france-femmes-demi-vollering-cycling",
-        "summary": "Dutch cyclist finishes 1:18 clear of Kasia Niewiadoma ‘I know what’s right and what’s not,’ runner-up says In the end, there was no debate. Demi Vollering went clear on the Col d’Èze, overlooking Nice, to win her second Tour de France Femmes from rival Kasia Niewiadoma, champion in 2024, by one minute and 18 seconds. The decisive attacks came on the narrow snaking climb of the Chemin du Vinaigrier, past swimming pools and art deco villas, where breakaway rider Isabella Holmgren was finally overhauled and ­Vollering and Niewiadoma again went head-to-head. Continue reading...",
-        "published": "2026-08-09T18:32:18Z",
-        "image": "https://i.guim.co.uk/img/media/5f7795f743d565f079fe87586740967e411d22c2/427_0_5038_4032/master/5038.jpg?width=140&quality=85&auto=format&fit=max&s=4077c733659d3d28e7ff1dff93c8b8ec",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Email 'hoax' nearly ended Falconer's Hundred hopes",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c07r9zp8021o?at_medium=RSS&at_campaign=rss",
-        "summary": "How concerns over phishing online, rather than fishing outside off stump, nearly scuppered Caleb Falconer's hopes of a contract in The Hundred.",
-        "published": "2026-08-09T18:12:32Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55b1/live/e51d9950-93d7-11f1-8568-7dd649a743dc.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Game of Thrones: The Mad King review – an action-packed saga of dry ice and fire",
+        "link": "https://www.theguardian.com/stage/2026/aug/09/game-of-thrones-the-mad-king-review-royal-shakespeare-theatre-stratford-upon-avon",
+        "summary": "Royal Shakespeare theatre, Stratford-upon-Avon This prequel to the TV series has one joust after another, spectacular stagecraft and plenty of modern resonance During the RSC’s 65 years, numerous Lears have lost their minds and frequent Caesars been slaughtered by their courts. Now, though, a tyrant new to its stages faces both fates. He is King Aerys II Targaryen, ancestor of one warring bloodline in Game of Thrones , the dramatisation of George RR Martin’s A Song of Ice and Fire series of fantasy novels that helped TV streamers’ rise to global domination during eight HBO seasons from 2011 to 2019. Some may balk at an institution named for England’s greatest dramatist staging an American drama franchise. There is, though, a compelling economic imperative: rising costs due to current wars (a frequent problem for Martin’s ancient oligarchs too) and Covid-era debts now exacerbated by paying back government loans means that the RSC could use another big commercial transfer – as its musical Matilda may not be immortal. Continue reading...",
+        "published": "2026-08-09T20:00:24Z",
+        "image": "https://i.guim.co.uk/img/media/ba4bff8dd37aecaa2814601cb9c1be48055f6357/0_1548_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=b4205e98103e8303396f54bde84a0a82",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
+      {
+        "title": "OnlyFans for Therapy review – a brave and unsettling emotional exposure",
+        "link": "https://www.theguardian.com/stage/2026/aug/09/onlyfans-for-therapy-review-zoo-playground-edinburgh",
+        "summary": "Zoo Playground, Edinburgh Veering from confident to crumbling, Verona Verbakel delivers a vivid show mixing humour with trauma We are all familiar with the cliche of the influencer narrating their daily routines – or should I say, their journey? – and trying to convince us, and perhaps themselves, they are living their best life. We know, too, about the websites offering intimate access in exchange for cash. But what if the online medium were put to more honest purposes? What if, instead of endless positivity, it presented a painful recovery from trauma? Continue reading...",
+        "published": "2026-08-09T19:00:22Z",
+        "image": "https://i.guim.co.uk/img/media/4fbd3bb739d91e138afa03d407a1548faccca6e3/0_285_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=24c0af227ee8977b2a1c2f8ef91786c5",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "Prophets review – a mysterious tale of faith at the end of the world",
         "link": "https://www.theguardian.com/stage/2026/aug/09/prophets-review-assembly-roxy-edinburgh",
@@ -627,24 +645,6 @@
         "summary": "The benefits of all three come down to a crucial piece of cellular kit Sleep. Exercise. Eat well. It’s the oldest recommendation in medicine, repeated so often it’s become a cliche. We know the advice, even if we don’t always follow it. But have you ever stopped to wonder why these three seemingly different habits have such remarkably similar effects on our brains and bodies? For generations we’ve treated them as separate prescriptions – sleep restores us, exercise strengthens us and food fuels us. Yet neuroscience is beginning to suggest something rather more elegant: they’re all essentially doing the same job. Continue reading...",
         "published": "2026-08-09T11:00:15Z",
         "image": "https://i.guim.co.uk/img/media/e524122dfdb91fbc969bdf1f2f2d35c4466fce64/212_5_1523_1219/master/1523.jpg?width=140&quality=85&auto=format&fit=max&s=431fbcc32f7e56f793c776822db47eb1",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "‘Grief became my brand’: Freya Bromley on writing about personal tragedy",
-        "link": "https://www.theguardian.com/books/2026/aug/09/grief-became-my-brand-freya-bromley-on-writing-about-personal-tragedy",
-        "summary": "Touring her memoir and talking to others helped the author come to terms with her brother’s death, but the book’s success left her feeling guilty. Had she commodified her family’s pain? When my memoir about my life after my brother’s death was published, I was very fortunate that people connected with it. It’s not easy to feel good fortune from the worst thing that’s ever happened to you. But I suppose I felt pleased when the experience that had once made me so lonely suddenly became a point of connection. I had not always been an open book. I was 22 when my brother died from a rare bone cancer. The people around me didn’t know what to say about this awful thing, so they pretended it hadn’t happened and I pretended, too. For a few years I was a ghost in my own life. Nothing felt real. I got very good at imitating normality, imagining I was in a video game called Office. Continue reading...",
-        "published": "2026-08-09T11:00:13Z",
-        "image": "https://i.guim.co.uk/img/media/b95d81c965d4c05f69754a3066cbac25bd97340e/0_910_2075_1658/master/2075.jpg?width=140&quality=85&auto=format&fit=max&s=9aa96eb5ad78379f96068faa1dcb7d84",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Hostile review – surreal spaghetti western is a wild and wordless ride",
-        "link": "https://www.theguardian.com/stage/2026/aug/09/hostile-review-church-hill-theatre-edinburgh",
-        "summary": "Church Hill theatre, Edinburgh At the Edinburgh international festival, Olivier Rannou’s lone cowboy encounters desert dangers in a mix of clowning, mime and visual trickery The lone ranger at the centre of Olivier Rannou’s family-friendly western initially appears as stranded and desolate as one of Samuel Beckett’s anti-heroes. Parched and prone across a table, with a knotted handkerchief on his head, he is marooned in a desert landscape with a water bottle full of sand, a desperate thirst and a scattering of human skeletal remains. He retains an edge of existential angst, struggling to survive in extremis, but also becomes more clown-like by turns. Rannou shows us, through movement, expression and sound, that this cowboy is a wanted man, on the run, wrestling with the dangers of his barren, unpeopled surroundings. Continue reading...",
-        "published": "2026-08-09T10:39:23Z",
-        "image": "https://i.guim.co.uk/img/media/ef7ef87876add4efc816a511312151e23772cf89/708_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=649c49c7ba53f9d9cd09e6420cadf910",
         "source": "The Guardian",
         "section": "Culture"
       }
