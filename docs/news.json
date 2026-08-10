@@ -1,169 +1,142 @@
 {
-  "generated": "2026-08-10T16:10:32Z",
+  "generated": "2026-08-10T17:07:58Z",
   "lead": {
     "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia",
     "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
-    "summary": "The quake shook several major cities, including Bogotá, Cali and Medellín. At least 20 people were reported dead in the city of Pereira, about 35 miles from the epicenter.",
-    "published": "2026-08-10T16:06:59Z",
+    "summary": "The quake shook several major cities, including Bogotá, Cali and Medellín. At least 28 people were reported dead as rescuers continued to search damaged buildings.",
+    "published": "2026-08-10T16:59:37Z",
     "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-colombia-quake-hjvt/10int-colombia-quake-hjvt-mediumSquareAt3X.jpg",
     "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
-      "title": "How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Line",
-      "link": "https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html",
-      "summary": "Here lies Dobby, a free elf. There will be no electricity cables in sight.",
-      "published": "2026-08-10T16:03:11Z",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10xp-dobby-qkpm/10xp-dobby-qkpm-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    },
-    {
-      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
-      "published": "2026-08-10T16:01:00Z",
-      "image": "https://images.mktw.net/im-64488863",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "link": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-      "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
-      "published": "2026-08-10T15:59:01Z",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-typhoon-dolphin-01-hctb/10int-typhoon-dolphin-01-hctb-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    }
-  ],
-  "latest": [
-    {
-      "title": "At Juilliard, 75 Years of Building the Complete Dancer",
-      "link": "https://www.nytimes.com/2026/08/10/arts/dance/juilliard-dance-division-archive-75th-anniversary.html",
-      "summary": "A trip through the archives on the Dance Division’s 75th anniversary shows how its history reflects the arc of American dance in the 20th century.",
-      "published": "2026-08-10T16:09:07Z",
-      "image": null,
+      "title": "Elizabeth Smith, Voice Coach and Juilliard Professor, Dies at 91",
+      "link": "https://www.nytimes.com/2026/08/07/theater/elizabeth-smith-dead-juilliard-broadway.html",
+      "summary": "A founding faculty member of Juilliard Drama, she helped the actors Kevin Kline, Patti LuPone, Wendell Pierce and others find their voices, quite literally.",
+      "published": "2026-08-10T17:04:50Z",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/07xp-smith-obit/07xp-smith-obit-mediumSquareAt3X-v2.jpg",
       "source": "The New York Times",
       "section": "Culture"
     },
     {
-      "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-      "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-      "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
-      "published": "2026-08-10T16:08:06Z",
-      "image": null,
-      "source": "NPR",
-      "section": "World"
+      "title": "European stocks subdued as traders weigh oil risk and packed data week",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-drift-as-traders-weigh-hormuz-conditions-and-upcoming-us-data-4847846",
+      "summary": "",
+      "published": "2026-08-10T16:59:12Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEB610J1_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     },
+    {
+      "title": "OpenAI launches Premium tier for ChatGPT Business at $125 monthly",
+      "link": "https://www.investing.com/news/stock-market-news/openai-launches-premium-tier-for-chatgpt-business-at-125-monthly-93CH-4849936",
+      "summary": "",
+      "published": "2026-08-10T16:52:40Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
     {
       "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
       "link": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-      "summary": "",
-      "published": "2026-08-10T16:04:30Z",
+      "summary": "U.S. presidents have ordered massive releases from the SPR with growing frequence in recent years.",
+      "published": "2026-08-10T17:06:58Z",
       "image": null,
       "source": "CNBC",
       "section": "Markets"
     },
     {
-      "title": "Why Are So Many People Upset About Flock Cameras?",
-      "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-      "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-      "published": "2026-08-10T15:58:27Z",
-      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61",
-      "link": "https://www.nytimes.com/2026/08/09/obituaries/maura-l-gillison-dead.html",
-      "summary": "She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.",
-      "published": "2026-08-10T15:58:11Z",
+      "title": "‘Ted Lasso’ Season 4 Premiere Recap: Begin Again",
+      "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
+      "summary": "Ted is back in Kansas City. But how long will he stay there?",
+      "published": "2026-08-10T17:01:33Z",
       "image": null,
       "source": "The New York Times",
-      "section": "Science"
+      "section": "Culture"
     },
     {
-      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "published": "2026-08-10T15:54:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc0/live/a63cd190-94d3-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC News",
-      "section": "World"
+      "title": "DoorDash Reiterated as Top Pick by Cantor Fitzgerald",
+      "link": "https://www.investing.com/news/stock-market-news/doordash-reiterated-as-top-pick-by-cantor-fitzgerald-93CH-4849935",
+      "summary": "",
+      "published": "2026-08-10T16:51:56Z",
+      "image": "https://content-media.investing.com/news/DoorDash_800x533_L_1606839883.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     },
     {
-      "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-      "summary": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’ Farage and Yusuf are now taking questions. Q: [From Jack Fenwick from the BBC] Are there other countries where you might send foreign offenders? And how much would this cost? We have to admit that there might not be too many colour TVs. It’s not going to be a summer camp. It’s not going to be particularly fun. But it won’t be cruel and it won’t be unreasonable. We will rapidly build capacity. We will take advantage of new prefabricated modular technology and build 12,000 prison places in the form of Nightingale prisons on Ministry of Defence land. And the army will be called in to assist. Together, these measures will create an additional 22,000 prison places compared to Andy Burnham’s plans. Continue reading...",
-      "published": "2026-08-10T15:51:18Z",
-      "image": "https://i.guim.co.uk/img/media/52bdfb905d42adb29f4e19e3d700935046d669ee/486_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=29edb93653f19a4983340cac5bcc9055",
-      "source": "The Guardian",
-      "section": "World"
+      "title": "Derby 'off market' as takeover deal collapses",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
+      "published": "2026-08-10T16:51:34Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
     },
     {
-      "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
-      "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-      "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Colombia’s Geological Service said that it had been “the highest magnitude earthquake registered in Colombia in the last decade” and that it had been followed by two 2.8 and 4.8 magnitude aftershocks. Authorities also reported that flights were suspended in the airports of Manizales, Quibdo, Armenia, Cartago y Buenaventura and Pereira. Continue reading...",
-      "published": "2026-08-10T15:49:47Z",
-      "image": "https://i.guim.co.uk/img/media/e69966377a5fb5d9366de0a4bc74959c781a50c1/0_241_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=d25d910349df220a7bfa2046655f3e38",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Jeff Bezos and Liverpool explained",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport's Sam Harris breaks down the potential new investment of Jeff Bezos into Liverpool.",
-      "published": "2026-08-10T15:48:35Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f271/live/2f604f80-94d2-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
+      "title": "Oil Prices Climb on Stalemate in Strait of Hormuz",
+      "link": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+      "summary": "Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.",
+      "published": "2026-08-10T16:51:22Z",
+      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Business"
     },
     {
-      "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
-      "link": "https://www.investing.com/news/stock-market-news/kalshi-ties-up-with-nasdaq-to-bolster-trade-surveillance-4848145",
+      "title": "This ‘Heated Rivalry’ Musical Parody Skates a Fine and Funny Line",
+      "link": "https://www.nytimes.com/2026/08/10/theater/heated-rivalry-musical-parody.html",
+      "summary": "Shining a spotlight on the steamiest popular TV show of the season, the creators and cast of this stage production seem to be having serious fun.",
+      "published": "2026-08-10T16:51:21Z",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10cul-heatedrivalry-QA-01-mwbc/10cul-heatedrivalry-QA-01-mwbc-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Culture"
+    },
+    {
+      "title": "Nvidia and Wall Street giants plan $500B AI funding deal, FT reports",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933",
       "summary": "",
-      "published": "2026-08-10T15:48:31Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-08-10T16:49:56Z",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L01K_L.jpg",
       "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
+      "link": "https://www.investing.com/news/stock-market-news/berkshire-shares-rise-to-highest-since-abel-replaced-buffett-after-stock-buybacks-strong-earnings-4849837",
+      "summary": "",
+      "published": "2026-08-10T16:49:22Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEA7U07N_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports",
+      "link": "https://www.investing.com/news/stock-market-news/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal-ft-reports-4849929",
+      "summary": "",
+      "published": "2026-08-10T16:48:31Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
+      "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+      "summary": "Here’s how the Protect College Sports Act could impact the economics of college sports.",
+      "published": "2026-08-10T16:48:00Z",
+      "image": "https://images.mktw.net/im-80172973",
+      "source": "MarketWatch",
       "section": "Markets"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
-        "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
-        "summary": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival",
-        "published": "2026-08-10T16:08:06Z",
-        "image": null,
-        "source": "NPR",
-        "section": "World"
-      },
-      {
-        "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
-        "link": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-        "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-        "published": "2026-08-10T15:54:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc0/live/a63cd190-94d3-11f1-b2ab-0dd01740f9f6.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "summary": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’ Farage and Yusuf are now taking questions. Q: [From Jack Fenwick from the BBC] Are there other countries where you might send foreign offenders? And how much would this cost? We have to admit that there might not be too many colour TVs. It’s not going to be a summer camp. It’s not going to be particularly fun. But it won’t be cruel and it won’t be unreasonable. We will rapidly build capacity. We will take advantage of new prefabricated modular technology and build 12,000 prison places in the form of Nightingale prisons on Ministry of Defence land. And the army will be called in to assist. Together, these measures will create an additional 22,000 prison places compared to Andy Burnham’s plans. Continue reading...",
-        "published": "2026-08-10T15:51:18Z",
-        "image": "https://i.guim.co.uk/img/media/52bdfb905d42adb29f4e19e3d700935046d669ee/486_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=29edb93653f19a4983340cac5bcc9055",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "At least 20 dead after 7.4 magnitude earthquake shakes Colombia – latest news",
+        "title": "At least 47 dead and buildings collapsed after 7.4-magnitude earthquake shakes western Colombia – latest news",
         "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
-        "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations Colombia’s Geological Service said that it had been “the highest magnitude earthquake registered in Colombia in the last decade” and that it had been followed by two 2.8 and 4.8 magnitude aftershocks. Authorities also reported that flights were suspended in the airports of Manizales, Quibdo, Armenia, Cartago y Buenaventura and Pereira. Continue reading...",
-        "published": "2026-08-10T15:49:47Z",
+        "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuations People remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌ He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading...",
+        "published": "2026-08-10T16:47:19Z",
         "image": "https://i.guim.co.uk/img/media/e69966377a5fb5d9366de0a4bc74959c781a50c1/0_241_3172_2537/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=d25d910349df220a7bfa2046655f3e38",
         "source": "The Guardian",
         "section": "World"
@@ -172,40 +145,112 @@
         "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – latest updates",
         "link": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
         "summary": "The upgraded alerts will be in place from 9am on Tuesday until 9pm on Friday An 18-year-old died after getting into difficulty in the sea at Camber Sands beach, East Sussex, yesterday, bringing the number of deaths in open-water incidents over the hot, dry summer to over 40, according to estimates compiled by the Press Association. The UK Health Security Agency (UKHSA) has updated heat-health alerts for nine regions in England, warning that rising temperatures this week may increase health risks, particularly for vulnerable groups. It’s important that everyone is aware of the simple steps they can take to stay safe during periods of hot weather. Drinking plenty of water, avoiding the sun during the hottest part of the day and keeping indoor spaces cool are all things you can do to keep yourself and others safe. For vulnerable groups including older adults and those with existing health conditions, warmer weather than result in serious health outcomes. Continue reading...",
-        "published": "2026-08-10T15:48:20Z",
+        "published": "2026-08-10T16:45:31Z",
         "image": "https://i.guim.co.uk/img/media/9ae1bd651bf7141c9a892835125b2961df0e7c68/228_0_4365_3491/master/4365.jpg?width=140&quality=85&auto=format&fit=max&s=246ec09c06e1576b4327396487da572a",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "From ticket booking fees to shrinkflation, six other ways Burnham could cut cost of living",
-        "link": "https://www.theguardian.com/money/2026/aug/10/after-burnhams-rip-offs-crackdown-what-more-could-pm-do-to-help-us-save-money",
-        "summary": "The prime minister is promising to crack down on ‘rip-off’ business practices Andy Burnham has announced he will ban fake discounts and make it easier to cancel unwanted subscriptions in an effort to improve life for UK consumers. In the long run, these so-called “everyday fixes” may not make as much difference to your wealth as increasing mandatory contributions on pensions or capping rents, but they will get rid of some day-to-day frustrations. Here are six other things he could fix while he is in the mood: Continue reading...",
-        "published": "2026-08-10T15:47:19Z",
-        "image": "https://i.guim.co.uk/img/media/0eebd53c91c7f8116877bee08d00bdff84693c4e/672_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fe54d0a415dc7bae9566a1ed054c75ff",
+        "title": "At least 47 dead as powerful earthquake strikes western Colombia",
+        "link": "https://www.theguardian.com/world/2026/aug/10/colombia-earthquake-cali-pereira-choco",
+        "summary": "Quake of 7.4 magnitude collapses and severely damages buildings in several major cities, including Cali and Pereira Colombia earthquake live – latest updates At least 47 people have died after a powerful earthquake struck western Colombia, collapsing and severely damaging buildings in major cities including Cali and Pereira. The US and Colombian geological surveys reported that a 7.4-magnitude earthquake struck at 7.34am local time (13.34 BST) on Monday, with its epicentre in the western department of Chocó. It was also felt in neighbouring Venezuela, which is still reeling from a deadly double earthquake on 24 June. Continue reading...",
+        "published": "2026-08-10T16:40:12Z",
+        "image": "https://i.guim.co.uk/img/media/18957e6c34be30efa7537d3518bf9de153e9b7e7/96_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f03cb21758e8e706a5cbff5815ac9f46",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "FDA proposes new food ingredient rule but skips defining ‘ultra-processed’",
-        "link": "https://www.theguardian.com/us-news/2026/aug/10/fda-rfk-jr-food-manufacturer-loophole",
-        "summary": "Move closes loophole but doesn’t include definition of ultra-processed foods, promised earlier this year The US Food and Drug Administration (FDA) is changing its rules on how food manufacturers notify them of ingredients brought to the market – but the Trump administration has once again punted on defining “ultra-processed foods”, promising more details later. While the move would close a regulatory loophole, it falls short of the administration’s promises to reform food regulations dramatically even as one of the biggest foodborne illness outbreaks unfolds. Continue reading...",
-        "published": "2026-08-10T15:46:18Z",
-        "image": "https://i.guim.co.uk/img/media/852aa5b65157809a94a4748a9126a78ced103c1c/701_0_4501_3600/master/4501.jpg?width=140&quality=85&auto=format&fit=max&s=9b89ec6cf0a56ce5bdb9f6270db6093b",
+        "title": "Trump administration continues to ‘attack an innocent man’ over reflecting pool, say lawyers for Olympian – live",
+        "link": "https://www.theguardian.com/us-news/live/2026/aug/10/ohio-republicans-max-miller-domestic-abuse-allegations-us-politics-live-latest-news",
+        "summary": "Vandalism charges were dropped against David Hearn over damage to reflecting pool but Donald Trump continues to claim Hearn is guilty Sign up for the Breaking News US email Wisconsin is not the only state with high stakes primary races on 11 August. We’ll also be bringing you the latest on a number of pivotal contests. In Minnesota, the closely watched and crowded Democratic primary for US Senate seems to be a competition between lieutenant governor Peggy Flanagan and congresswoman Angie Craig . Continue reading...",
+        "published": "2026-08-10T16:34:49Z",
+        "image": "https://i.guim.co.uk/img/media/bb9d6048c550a97efc2143fb978d76f70a3a3266/508_0_3836_3067/master/3836.jpg?width=140&quality=85&auto=format&fit=max&s=5214291f1769474c8782e177fa1ac53c",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Police in India Use Tear Gas to Break Youth Protest",
-        "link": "https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html",
-        "summary": "Thousands of protesters in the eastern state of Jharkhand claim irregularities in qualifying exams for government jobs and are demanding an overhaul of the system.",
-        "published": "2026-08-10T15:41:28Z",
-        "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-india-01-zhlj/10int-india-01-zhlj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
+        "title": "Almost three-quarters of England now in drought ahead of summer’s fifth heatwave",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+        "summary": "Four more regions given drought status, with 27 million people now living with restrictions on water use Almost three-quarters of England is now in drought, as much of Europe braces for its fifth climate crisis-driven heatwave this summer. Four more regions of England have officially been declared to be in drought: the east Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs. Continue reading...",
+        "published": "2026-08-10T16:32:53Z",
+        "image": "https://i.guim.co.uk/img/media/96c704e5a1217addbc8801161217f529da72ab5a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0e9cbc050cdea7cc690900fa0e8992f2",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Reform donor Arron Banks urged to set out extent of surveillance of journalists",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
+        "summary": "Industry body says use of private investigators against reporters is ‘attack on our democracy’ after Banks apparently admitted doing so The businessman and Reform UK donor Arron Banks is facing calls to lay out the extent of his surveillance of journalists, described by an industry body as an “attack on our democracy”. The News Media Association (NMA), which represents regional and national media, raised concerns after Banks appeared to admit over the weekend to hiring private investigators to spy on a Sunday Times journalist . Continue reading...",
+        "published": "2026-08-10T16:30:47Z",
+        "image": "https://i.guim.co.uk/img/media/a571311b148e6ebdea7894a798b1a191c819f9d9/274_5_2641_2113/master/2641.jpg?width=140&quality=85&auto=format&fit=max&s=48dd34d4234bc64f198b9aa4157791db",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "DRC’s Ebola outbreak began months before it was officially declared, says WHO",
+        "link": "https://www.aljazeera.com/news/2026/8/10/drcs-ebola-outbreak-began-months-before-officially-declared-says-who?traffic_source=rss",
+        "summary": "Earlier cases of the disease were wrongly attributed to malaria and typhoid, the WHO said.",
+        "published": "2026-08-10T16:28:34Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
+        "link": "https://www.theguardian.com/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+        "summary": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economy A Ukrainian drone strike on an industrial city deep inside Russia has killed at least 13 people, according to the local mayor, as Kyiv steps up its campaign of long-range strikes on targets far from the frontline. Kyiv said it hit the Taneco refinery in the city of Nizhnekamsk, about 750 miles (1,200km) from the Ukrainian border. Footage circulating online appeared to show smoke rising from the refinery. Continue reading...",
+        "published": "2026-08-10T16:25:30Z",
+        "image": "https://i.guim.co.uk/img/media/c3ddc8f9aef2cdda8bb7bbbca0d04cc087cae526/0_600_1214_971/master/1214.jpg?width=140&quality=85&auto=format&fit=max&s=b08feff7dd241b02615f4eec4df805eb",
+        "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Oil Prices Climb on Stalemate in Strait of Hormuz",
+        "link": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+        "summary": "Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.",
+        "published": "2026-08-10T16:51:22Z",
+        "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "How Small, Independent Newspapers Are Still Finding Readers",
+        "link": "https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glen-falls.html",
+        "summary": "In a world of failing newspapers, free weeklies like The Chronicle of Glens Falls, N.Y., are still finding readers. All it takes is owners who do absolutely everything.",
+        "published": "2026-08-10T16:43:06Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Martin Rowson on the drought and Britain’s water companies – cartoon",
+        "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/10/martin-rowson-drought-britain-water-companies-cartoon",
+        "summary": "Continue reading...",
+        "published": "2026-08-10T16:28:17Z",
+        "image": "https://i.guim.co.uk/img/media/a0d352fe99ca7c1a5f85a048feb1f6a09faa777e/17_0_4125_3298/master/4125.jpg?width=140&quality=85&auto=format&fit=max&s=4ee24b1825c74e5d2a7f34e792d6a312",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Medicare Advantage’s Perks Are Getting Scrutiny",
+        "link": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
+        "summary": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.",
+        "published": "2026-08-10T16:21:12Z",
+        "image": "https://static01.nyt.com/images/2026/08/09/business/09retiring-illo-sub/09retiring-illo-sub-mediumSquareAt3X.png",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "The stock market may be doing so well that it’s causing more Baby Boomers and Gen Xers to drop out of the labor force",
+        "link": "https://fortune.com/2026/08/10/the-stock-market-may-be-doing-so-well-that-its-causing-more-baby-boomers-and-gen-xers-to-drop-out-of-the-labor-force/",
+        "summary": "\"My hunch is that this is as at least partially attributable to wealth effects from record highs in the stock market.\"",
+        "published": "2026-08-10T16:09:32Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1439682718-e1786371753742.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "Why Are So Many People Upset About Flock Cameras?",
         "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
@@ -216,6 +261,15 @@
         "section": "Business"
       },
       {
+        "title": "Strategy dumps yet more Bitcoin, latest $109 million sell-off comes amid a seven-week buying hiatus",
+        "link": "https://fortune.com/2026/08/10/strategy-bitcoin-109-million-sell-off-seven-week-buying-hiatus/",
+        "summary": "The company’s fourth Bitcoin sale since June underscores its push to build cash and reassure investors.",
+        "published": "2026-08-10T15:58:26Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2274862431-e1786377369856.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
         "title": "Jeff Bezos and Liverpool explained",
         "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
         "summary": "BBC Sport's Sam Harris breaks down the potential new investment of Jeff Bezos into Liverpool.",
@@ -223,137 +277,92 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f271/live/2f604f80-94d2-11f1-a7ab-8b30adf0800a.jpg",
         "source": "BBC News",
         "section": "Business"
-      },
-      {
-        "title": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
-        "link": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-        "summary": "The president and his top aides have been especially bullish about data centers, despite national blowback against the facilities.",
-        "published": "2026-08-10T15:48:18Z",
-        "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10dc-trump-ai-fvtl/10dc-trump-ai-fvtl-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
-        "link": "https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html",
-        "summary": "President Trump’s social media platform has had double-digit declines in visitors in June and July, according to estimates from a widely cited online tracking firm.",
-        "published": "2026-08-10T15:43:14Z",
-        "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09Truth-Social-vtzb/09Truth-Social-vtzb-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Taylor Fresh Foods recalls jalapeños after supplier discloses potential salmonella contamination",
-        "link": "https://fortune.com/2026/08/10/taylor-fresh-foods-recalls-jalapenos-after-supplier-discloses-potential-salmonella-contamination/",
-        "summary": "The announcement comes a few weeks after Taylor Farms voluntarily recalled its iceberg lettuce products.",
-        "published": "2026-08-10T15:24:41Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26222464283872-e1786374159676.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "MacKenzie Scott has given away $26 billion and rarely speaks publicly. Now she’s releasing a novel—but you won’t find it on Amazon",
-        "link": "https://fortune.com/2026/08/10/mackenzie-scott-philanthropy-billions-novel-substack-amazon/",
-        "summary": "The billionaire philanthropist and novelist studied under Toni Morrison and is releasing her first novel since 2013.",
-        "published": "2026-08-10T15:21:22Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2100039841-8-e1786374186918.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Global wildfire surge hits U.S., propelled by rising temperatures",
-        "link": "https://fortune.com/2026/08/10/why-so-many-wildfires/",
-        "summary": "Fire country is becoming hotter and drier with flammable landscapes—forcing more than 60,000 residents from their homes.",
-        "published": "2026-08-10T15:17:29Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2287175814-e1786374141197.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
-        "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
-        "summary": "HHS moves to tighten oversight of food ingredients and define ultra-processed foods as food safety concerns raise questions about FDA visibility.",
-        "published": "2026-08-10T15:03:24Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
       }
     ],
     "Markets": [
       {
         "title": "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
         "link": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-        "summary": "",
-        "published": "2026-08-10T16:04:30Z",
+        "summary": "U.S. presidents have ordered massive releases from the SPR with growing frequence in recent years.",
+        "published": "2026-08-10T17:06:58Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Kalshi ties up with Nasdaq to bolster trade surveillance",
-        "link": "https://www.investing.com/news/stock-market-news/kalshi-ties-up-with-nasdaq-to-bolster-trade-surveillance-4848145",
+        "title": "DoorDash Reiterated as Top Pick by Cantor Fitzgerald",
+        "link": "https://www.investing.com/news/stock-market-news/doordash-reiterated-as-top-pick-by-cantor-fitzgerald-93CH-4849935",
         "summary": "",
-        "published": "2026-08-10T15:48:31Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+        "published": "2026-08-10T16:51:56Z",
+        "image": "https://content-media.investing.com/news/DoorDash_800x533_L_1606839883.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "XLI leads defensive industrial ETFs with lowest beta and expense ratio",
-        "link": "https://www.investing.com/news/stock-market-news/xli-leads-defensive-industrial-etfs-with-lowest-beta-and-expense-ratio-93CH-4849855",
+        "title": "Nvidia and Wall Street giants plan $500B AI funding deal, FT reports",
+        "link": "https://www.investing.com/news/stock-market-news/nvidia-and-wall-street-giants-plan-500b-ai-funding-deal-ft-reports-4849933",
         "summary": "",
-        "published": "2026-08-10T15:45:40Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEA7E0LA_M.jpg",
+        "published": "2026-08-10T16:49:56Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXNPEK1L01K_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Shein reportedly seeks investors at valuation below $30 billion for IPO",
-        "link": "https://www.investing.com/news/stock-market-news/shein-reportedly-seeks-investors-at-valuation-below-30-billion-for-ipo-93CH-4849854",
+        "title": "Berkshire shares rise to highest since Abel replaced Buffett after stock buybacks, strong earnings",
+        "link": "https://www.investing.com/news/stock-market-news/berkshire-shares-rise-to-highest-since-abel-replaced-buffett-after-stock-buybacks-strong-earnings-4849837",
         "summary": "",
-        "published": "2026-08-10T15:44:50Z",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+        "published": "2026-08-10T16:49:22Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEA7U07N_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Colombia stocks fall after deadly earthquake strikes",
-        "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-fall-after-deadly-earthquake-strikes-93CH-4849853",
+        "title": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports",
+        "link": "https://www.investing.com/news/stock-market-news/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal-ft-reports-4849929",
         "summary": "",
-        "published": "2026-08-10T15:43:41Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
+        "published": "2026-08-10T16:48:31Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEM180MW_1200_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Archer to buy Boeing’s Wisk, two other units for nearly 20% equity stake",
-        "link": "https://www.investing.com/news/stock-market-news/archer-to-acquire-boeings-wisk-and-two-subsidiaries-for-near-20-equity-stake-4849069",
-        "summary": "",
-        "published": "2026-08-10T15:42:28Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL4E02U_L.jpg",
-        "source": "Investing.com",
+        "title": "Protect College Sports Act to be voted on next month: What it means for transfers and team spending",
+        "link": "https://www.marketwatch.com/story/senate-vote-on-the-protect-college-sports-act-could-come-this-week-what-it-means-for-transfers-and-salary-caps-58088560?mod=mw_rss_topstories",
+        "summary": "Here’s how the Protect College Sports Act could impact the economics of college sports.",
+        "published": "2026-08-10T16:48:00Z",
+        "image": "https://images.mktw.net/im-80172973",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Why is Bitdeer Technologies stock sliding today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-sliding-today-93CH-4849852",
-        "summary": "",
-        "published": "2026-08-10T15:41:16Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-        "source": "Investing.com",
+        "title": "Wednesday’s crucial CPI report will show tamer inflation, according to prediction markets",
+        "link": "https://www.cnbc.com/2026/08/10/crucial-cpi-report-will-show-tame-inflation-prediction-markets-show.html",
+        "summary": "Monday's odds on prediction market platform Kalshi show tamer inflation and little chance of exceeding economists' consensus for July.",
+        "published": "2026-08-10T16:42:04Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Caterpillar vs Cummins: valuation, margins, and growth compared",
-        "link": "https://www.investing.com/news/stock-market-news/caterpillar-vs-cummins-valuation-margins-and-growth-compared-93CH-4849851",
-        "summary": "",
-        "published": "2026-08-10T15:41:11Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEA9M0HQ_M.jpg",
-        "source": "Investing.com",
+        "title": "U.S. Stocks Hover Near Records",
+        "link": "https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main",
+        "summary": "U.S. stocks swung between small gains and losses at the start of the new trading week.",
+        "published": "2026-08-10T16:40:00Z",
+        "image": "https://images.wsj.net/im-28764665",
+        "source": "The Wall Street Journal",
         "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+        "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+        "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+        "published": "2026-08-10T16:20:13Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
       {
         "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
         "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
@@ -416,23 +425,23 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/5F3A8338-1152x648.jpg",
         "source": "Ars Technica",
         "section": "Technology"
-      },
-      {
-        "title": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
-        "link": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/",
-        "summary": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it's the juicy iconic colorway WIRED's been waiting for.",
-        "published": "2026-08-10T14:47:52Z",
-        "image": "https://media.wired.com/photos/6a79b172b19caad303cc1768/master/pass/081026_Orange-TAG-Release-01.jpg",
-        "source": "Wired",
-        "section": "Technology"
       }
     ],
     "Science": [
       {
+        "title": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+        "link": "https://www.nasa.gov/news-release/nasa-debuts-on-discovery-coming-soon-to-hbo-max/",
+        "summary": "As NASA+ continues its expansion across multiple streaming platforms to bring space closer to home, NASA announced Monday programming is next heading to discovery+ and HBO Max. A continuous live feed of NASA+ programming is streaming on discovery+ live channels, while HBO Max will stream NASA’s special events, including the Artemis III mission in 2027. […]",
+        "published": "2026-08-10T16:30:13Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
         "title": "Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61",
-        "link": "https://www.nytimes.com/2026/08/09/obituaries/maura-l-gillison-dead.html",
+        "link": "https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html",
         "summary": "She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.",
-        "published": "2026-08-10T15:58:11Z",
+        "published": "2026-08-10T15:58:12Z",
         "image": null,
         "source": "The New York Times",
         "section": "Science"
@@ -490,18 +499,27 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "Launch Into a New School Year With NASA",
-        "link": "https://www.nasa.gov/learning-resources/launch-into-a-new-school-year-with-nasa/",
-        "summary": "A new school year brings fresh opportunities to get involved with NASA. Whether you’re curious about space or eager to build real STEM skills, NASA offers a world of experiences putting you close to the action. As we enter a new golden age of exploration, there’s no better time to jump in, try something bold, […]",
-        "published": "2026-08-10T13:59:28Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
       }
     ],
     "Sports": [
+      {
+        "title": "Derby 'off market' as takeover deal collapses",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.",
+        "published": "2026-08-10T16:51:34Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "New filming guidelines used at Europeans for first time",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgj55npzdzo?at_medium=RSS&at_campaign=rss",
+        "summary": "New guidelines advising broadcasters on more respectful camera angles at live athletics events are used at the European Athletics Championships for the first time",
+        "published": "2026-08-10T15:58:29Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1938/live/da8a1270-94d6-11f1-9229-0f9d840c190e.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
       {
         "title": "Villa in talks to sign Bayern's Palhinha",
         "link": "https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&at_campaign=rss",
@@ -530,9 +548,9 @@
         "section": "Sports"
       },
       {
-        "title": "Jordan Nobbs ready to wrap wishlist with Newcastle WSL dream: ‘It would be job done’",
+        "title": "Jordan Nobbs ready to complete wishlist with Newcastle WSL dream",
         "link": "https://www.theguardian.com/football/2026/aug/10/jordan-nobbs-newcastle-united-wsl2-sunderland-promotion-womens-football",
-        "summary": "Former England midfielder keen for north-east to thrive Newcastle have made ambitious signings this summer Jordan Nobbs says winning promotion to the Women’s Super League with Newcastle would be “job done” for her footballing wishlist and would fulfil a personal ambition to see a club from the north-east play in the top tier. Nobbs, who has 71 England caps, was born in Stockton-on-Tees and believes women’s football in the region would benefit immensely from top-flight representation. Newcastle finished sixth in WSL2 last term, 11 points behind the title winners, Birmingham, and nine points off the playoffs, but this summer they have made their promotion hopes clear with a flurry of high-calibre signings from the top division, including the striker Martha Thomas from Tottenham and the Liverpool duo Leanne Kiernan and Gemma Evans. Continue reading...",
+        "summary": "Former England midfielder keen for north-east to thrive Newcastle have made ambitious signings this summer Jordan Nobbs says winning promotion to the Women’s Super League with Newcastle would fulfil her ambition for a club from the north-east to be in the top tier. Nobbs, who has 71 England caps, was born in Stockton-on-Tees and believes women’s football in the region would benefit immensely from top-flight representation. ­Newcastle finished sixth in WSL2 last term, 11 points behind the title ­winners, ­Birmingham, and nine points off the playoffs, but this ­summer they have made their hopes clear with high-calibre signings from the top division, including the striker ­Martha Thomas from Tottenham and the Liverpool duo Leanne Kiernan and Gemma Evans. Continue reading...",
         "published": "2026-08-10T15:31:13Z",
         "image": "https://i.guim.co.uk/img/media/69bf217906795ded8a5a0430b5d9a492536c6a1a/326_0_2172_1737/master/2172.jpg?width=140&quality=85&auto=format&fit=max&s=3612edb653a0f31125770f687ece1048",
         "source": "The Guardian",
@@ -555,27 +573,36 @@
         "image": "https://i.guim.co.uk/img/media/422eb77e8778eb3962dabf160dc210f66ab04b26/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=30627c4d9ed55b008e4e70a88b7e4ae7",
         "source": "The Guardian",
         "section": "Sports"
-      },
-      {
-        "title": "Sirens call: Super Netball heading for wrangle over name of new Sydney team",
-        "link": "https://www.theguardian.com/sport/2026/aug/11/sirens-call-super-netball-heading-for-wrangle-over-name-of-new-sydney-team",
-        "summary": "New owners SEN have lodged trademark application for ‘Sirens’ But Sydney ice hockey team with 20-year history has same name It is David versus Goliath – meets Odysseus – in a looming legal stoush on the fringes of Australian sport. One one side, there is an amateur women’s ice hockey team, long-established if under-resourced. On the other is one of Australia’s most influential sporting owners. At stake is the legal right to use the name Sirens, the mythological creatures whose profile has exploded following the release of box-office smash The Odyssey. Continue reading...",
-        "published": "2026-08-10T15:00:48Z",
-        "image": "https://i.guim.co.uk/img/media/ad05be53226ccbbfefc726c828ca7b3cf069451c/582_0_3301_2641/master/3301.jpg?width=140&quality=85&auto=format&fit=max&s=3726296f4667d16fefef03bce06037f4",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Should Liverpool fans be worried about Iraola's fitness comments?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cy071ngvnzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Should Liverpool fans be worried about Andoni Iraola's comments concerning the squad's fitness?",
-        "published": "2026-08-10T14:54:09Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3060/live/83fd9be0-94c5-11f1-9730-59a19ad5a9b7.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "‘Ted Lasso’ Season 4 Premiere Recap: Begin Again",
+        "link": "https://www.nytimes.com/2026/08/05/arts/television/ted-lasso-recap-season-4-premiere.html",
+        "summary": "Ted is back in Kansas City. But how long will he stay there?",
+        "published": "2026-08-10T17:01:33Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "This ‘Heated Rivalry’ Musical Parody Skates a Fine and Funny Line",
+        "link": "https://www.nytimes.com/2026/08/10/theater/heated-rivalry-musical-parody.html",
+        "summary": "Shining a spotlight on the steamiest popular TV show of the season, the creators and cast of this stage production seem to be having serious fun.",
+        "published": "2026-08-10T16:51:21Z",
+        "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10cul-heatedrivalry-QA-01-mwbc/10cul-heatedrivalry-QA-01-mwbc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Geraldine de Haas, the ‘First Lady’ of Chicago Jazz, Dies at 91",
+        "link": "https://www.nytimes.com/2026/08/09/arts/music/geraldine-de-haas-dead.html",
+        "summary": "After a successful singing career, she led the revival of jazz in the Windy City in the 1970s and ’80s, organizing festivals and concert series.",
+        "published": "2026-08-10T16:21:06Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "At Juilliard, 75 Years of Building the Complete Dancer",
         "link": "https://www.nytimes.com/2026/08/10/arts/dance/juilliard-dance-division-archive-75th-anniversary.html",
@@ -604,7 +631,7 @@
         "section": "Culture"
       },
       {
-        "title": "Joby Talbot’s Path of Miracles / György Kurtág’s Kafka Fragments – Bristol Proms reach for the heavenly",
+        "title": "Joby Talbot’s Path of Miracles / György Kurtág’s Kafka Fragments review – Bristol Proms reach for the heavenly",
         "link": "https://www.theguardian.com/music/2026/aug/10/joby-talbots-path-of-miracles-gyorgy-kurtags-kafka-fragments-bristol-proms-reach-for-the-heavenly",
         "summary": "Tenebrae, Nigel Short / Anu Komsi and Sakari Oramo St George’s Bristol / Bristol Beacon Sunday afternoon’s two concerts, closing the Proms’ Bristol weekend, brought the superlative Tenebrae, and Sakari Oramo swapping baton for bow to duet with his wife Ritual can be a choir in procession in a great cathedral or the simple act of putting down a violin bow. At the BBC Proms’ Bristol performances this weekend, it was both – and to strikingly different effect. First, grandeur and spectacle, as Nigel Short and his chamber choir Tenebrae celebrated their 25th anniversary with a return to their 2005 commission: Joby Talbot’s Path of Miracles. Inspired by the Catholic pilgrimage to Santiago, it’s a piece with a cult following, a phenomenon as much as a score, and one that only comes to life fully in live performance. Continue reading...",
         "published": "2026-08-10T15:28:25Z",
@@ -618,33 +645,6 @@
         "summary": "From poignant farewells to adorable cuddly toy monkeys, these are the televisual finales that turn Guardian readers into puddles of joy A missing monkey, a token tennis bracelet, and the end of the Korean war! These are the most uplifting and moving finales in TV history, according to Guardian readers. Warning, spoilers lie ahead. Continue reading...",
         "published": "2026-08-10T15:27:31Z",
         "image": "https://i.guim.co.uk/img/media/07e6b2a8269a7d26a962f50567a59d1d00958aa1/199_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9e975d5f73bf7b29c68f5d06fbf4b01b",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "‘My Brilliant Career’ and 5 More Shows to Watch on TV This Week",
-        "link": "https://www.nytimes.com/2026/08/10/arts/television/my-brilliant-career-and-5-more-shows-to-watch-on-tv-this-week.html",
-        "summary": "Let’s take a look at an Australian series set in 1900 airs and revisit some classic TV episodes that evoke the feeling of summer.",
-        "published": "2026-08-10T15:17:43Z",
-        "image": "https://static01.nyt.com/images/2026/08/10/arts/10cul-tvcol-brilliantcareer/10cul-tvcol-brilliantcareer-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Sheila Ballantine obituary",
-        "link": "https://www.theguardian.com/stage/2026/aug/10/sheila-ballantine-obituary",
-        "summary": "Actor with a long career that included Joe Orton’s Loot, an Alan Ayckbourn trilogy and seasons at the Old Vic and the National When Sheila Ballantine was offered a role in Kenneth Tynan’s 1970 erotic revue, Oh! Calcutta!, she averred that “I don’t mind being naked on stage, but I draw the line at being naked with bad material.” In her significant, wide-ranging stage career, Ballantine, who has died aged 98, knew where to find the real action and was consistently drawn, over 70 years, to the highest quality company of writers, directors and actors at the Old Vic, the Royal Court, the National Theatre and the Royal Shakespeare Company, appearing in plays by John Osborne, Simon Gray , Joe Orton and David Storey . Continue reading...",
-        "published": "2026-08-10T15:13:52Z",
-        "image": "https://i.guim.co.uk/img/media/25d69ec4f9591908226684343dfaf1931611daf6/338_0_4624_3699/master/4624.jpg?width=140&quality=85&auto=format&fit=max&s=508bd07e05aa3a43768c3beaec9f48aa",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "John Cameron Mitchell: ‘It’s punk to turn off your phone – you’re walking away from the herd’",
-        "link": "https://www.theguardian.com/stage/2026/aug/11/john-cameron-mitchell-actor-performer-interview",
-        "summary": "The writer, director and star of Hedwig and the Angry Inch on turning down David Bowie, falling off a Broadway stage, and a cringeworthy moment with Nicole Kidman The film adaptation of Hedwig and the Angry Inch has such a cult following. What’s been your most memorable interaction with a fan? It’s interesting, Hedwig wasn’t famous, it was a film that so many people found because a friend told them about it. So people don’t come up to you because you’re famous, it’s because they were touched. The most intense interaction was when I was on the subway platform and a kid gave me a tiny piece of paper and hopped on a train. I opened it and it said, “Thank you. Hedwig saved my life”. I don’t know what happened – maybe they felt lonely and then the film made them feel like “There’s other people for me out there”. Continue reading...",
-        "published": "2026-08-10T15:00:49Z",
-        "image": "https://i.guim.co.uk/img/media/f793bf82cd31954547a6155acf9a9886a69947fd/0_224_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=2e0a4bc7ab881f2773908bf62915fdaa",
         "source": "The Guardian",
         "section": "Culture"
       }
