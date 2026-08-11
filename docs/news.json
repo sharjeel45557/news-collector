@@ -1,217 +1,235 @@
 {
-  "generated": "2026-08-11T11:56:01Z",
+  "generated": "2026-08-11T13:42:02Z",
   "lead": {
-    "title": "Russian Civilian Deaths Are Growing Rapidly as Ukraine Expands Its Air War",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-ukraine-civilian-casualties.html",
-    "summary": "The higher tempo of Ukrainian strikes has fueled discontent among Russians, but it is far from clear that it will change the Kremlin’s calculus about the war.",
-    "published": "2026-08-11T11:43:18Z",
-    "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-russia-deaths-01-hwpz/11int-russia-deaths-01-hwpz-mediumSquareAt3X.jpg",
+    "title": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
+    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
+    "summary": "Rooms were booked years ago, and officials have been making plans. But there’s no telling where, exactly, Icelanders might go to find the best possible view.",
+    "published": "2026-08-11T13:39:08Z",
+    "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-iceland-eclipse-top-twqp/11int-iceland-eclipse-top-twqp-mediumSquareAt3X.jpg",
     "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
-      "title": "U.S. Stock Futures Climb",
-      "link": "https://www.wsj.com/finance/stocks/u-s-futures-mostly-lower-oil-price-rises-on-middle-east-tension-38e37f9b?mod=rss_markets_main",
-      "summary": "U.S. stock futures were ticking up following yesterday’s small losses for major markets.",
-      "published": "2026-08-11T11:52:00Z",
-      "image": "https://images.wsj.net/im-52497742",
-      "source": "The Wall Street Journal",
+      "title": "This fund manager tunes out AI hype to flag the infrastructure stocks to buy now. Think roads, water and telecom towers.",
+      "link": "https://www.marketwatch.com/story/roads-water-and-telecom-towers-can-beat-the-ai-hype-this-fund-manager-flags-the-infrastructure-stocks-to-buy-now-54c62a77?mod=mw_rss_topstories",
+      "summary": "Lazard portfolio manager Bertrand Cliquet says infrastructure companies are worth more than the AI hype sometimes linked to them.",
+      "published": "2026-08-11T13:39:00Z",
+      "image": "https://images.mktw.net/im-36642300",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "Ulster skipper Henderson to miss start of season",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74gvd10kkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ulster captain Iain Henderson will miss \"several months\" of the new season after hip surgery during the summer.",
+      "published": "2026-08-11T13:38:52Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f85f/live/9f84f350-9587-11f1-8636-978a48bd79b6.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Plymouth boss Cleverley will improve Evans' finishing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq89wp7d4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "Plymouth Argyle boss Tom Cleverley says he will work to improve the finishing of new signing Will Evans.",
+      "published": "2026-08-11T13:38:07Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/6b8adeb0-9588-11f1-866f-8beeb046eb2c.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    }
+  ],
+  "latest": [
+    {
+      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+      "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
+      "published": "2026-08-11T13:40:30Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "published": "2026-08-11T13:36:53Z",
+      "image": null,
+      "source": "CNBC",
       "section": "Markets"
     },
     {
       "title": "Eclipse chasers scramble for glasses as stocks run low",
       "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
       "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
-      "published": "2026-08-11T11:49:20Z",
+      "published": "2026-08-11T13:35:51Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg",
       "source": "BBC News",
-      "section": "Science"
-    },
-    {
-      "title": "As Lumentum gears up for earnings, here’s a sign the optical trade is clawing back",
-      "link": "https://www.marketwatch.com/story/as-lumentum-gears-up-for-earnings-heres-a-sign-the-optical-trade-is-clawing-back-de284355?mod=mw_rss_topstories",
-      "summary": "A photonics-themed ETF saw better demand in its first trading day than a popular memory ETF did at the same point in its life cycle.",
-      "published": "2026-08-11T11:46:00Z",
-      "image": "https://images.mktw.net/im-93320117",
-      "source": "MarketWatch",
-      "section": "Markets"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
-      "summary": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’ In his pooled TV interview, Andy Burnham repeated the point he made in his Facebook post earlier (see 9.58am ), saying he was confident that more could be done to free up space in the prison system (which would allow the early release system to be changed so that PC Andrew Harper’s killers are excluded). Burnham said that since becoming PM he had been pushing the system “every single day” to go further. Explaining how extra space could be found (see 9.19am ), he particularly singled out the more than 2,000 prisoners on indeterminate IPP (imprisonment for public protection) sentences. He said: [The] plan will include issues like returning more foreign national offenders to their country of origin, and looking at the injustice of IPP sentences, which have led to young people, or young when they were imprisoned, being imprisoned indeterminately, and that clearly is unfair. My office was in touch with the family last night [see 10.04am ], and I know the justice secretary is in regular touch as well. So, we will keep close to the family through this whole process because we understand how difficult this process has been for them. Continue reading...",
-      "published": "2026-08-11T11:42:58Z",
-      "image": "https://i.guim.co.uk/img/media/a848cae00f5edd76a7ad9ed42eb7a08aa6cc555e/750_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=b31c9263bc870c3f339d634eebf0088b",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-      "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-      "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
-      "published": "2026-08-11T11:41:52Z",
-      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    },
-    {
-      "title": "Are Man Utd judged differently to other WSL sides?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9d84y02v7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester United are one of the biggest clubs in the world, but is the women's team really judged differently as a result?",
-      "published": "2026-08-11T11:37:56Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a2/live/8686b880-9559-11f1-b96f-3d43158251d5.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate",
-      "link": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-      "summary": "The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.",
-      "published": "2026-08-11T11:37:46Z",
-      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11biz-oil-prices-lbph/11biz-oil-prices-lbph-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
       "section": "Business"
     },
     {
-      "title": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
-      "link": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html",
-      "summary": "A rise in home equity to record levels has led many Americans to refinance their mortgages to pay their bills.",
-      "published": "2026-08-11T11:36:34Z",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/00biz-home-equity-01-mjpw/00biz-home-equity-01-mjpw-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
+      "title": "Amanda Knox comedy show 'sincere' but not 'stand-up'",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Edinburgh Fringe show received a mixed response, with many reviewers saying typical stand-up fare.",
+      "published": "2026-08-11T13:35:00Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e77/live/fd3cd290-9575-11f1-870d-5d08c49babb2.jpg",
+      "source": "BBC News",
+      "section": "Culture"
     },
     {
-      "title": "Charles' rise to NI's most expensive footballer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles to Man City's academy to Fullham.",
-      "published": "2026-08-11T11:36:09Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75be/live/fcee1ec0-94a3-11f1-870d-5d08c49babb2.png",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Chelsea face Sociedad in Champions League qualifying",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
-      "published": "2026-08-11T11:35:40Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f7/live/66de24b0-9576-11f1-bfbd-3fe7d55dcf7b.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Democratic progressives and establishment set to clash in more primaries – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "summary": "Tuesday’s competitions in Wisconsin and Minnesota follow similar battles for the direction of the party, including last week in Michigan where progressive Abdul El-Sayed triumphed Sign up to the US Breaking News email Minnesota voters on both sides of the aisle are weighing the direction of their parties – and their chances of winning over the general electorate – in marquee statewide races on Tuesday. On the left, Peggy Flanagan, the state lieutenant governor and a progressive, faces off against Angie Craig, a US representative, for the Democratic bid for US senate in a race punctuated by the role of immigration enforcement in the state that saw two residents killed by immigration agents in a winter surge. Continue reading...",
-      "published": "2026-08-11T11:35:26Z",
-      "image": "https://i.guim.co.uk/img/media/81229da70b97be6987d3ca350cc303262a649d0d/176_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fd31a97c6623c1f7a50a6b1a0670f40b",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "PayPal’s Honey controversy: reputational, regulatory, and strategic risks assessed",
-      "link": "https://www.investing.com/news/stock-market-news/paypals-honey-controversy-reputational-regulatory-and-strategic-risks-assessed-93CH-4851359",
+      "title": "Air taxi firm Joby acquires defense tech company for $500 million",
+      "link": "https://www.investing.com/news/stock-market-news/air-taxi-firm-joby-acquires-defense-tech-company-for-500-million-4851847",
       "summary": "",
-      "published": "2026-08-11T11:35:23Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB602LM_M.jpg",
+      "published": "2026-08-11T13:31:40Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0Z8_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "UBS cuts M&G as rally leaves limited valuation upside; stock down 3%",
-      "link": "https://www.investing.com/news/stock-market-news/ubs-cuts-mg-as-rally-leaves-limited-valuation-upside-stock-down-3-4851356",
+      "title": "Luigi Mangione due in court ahead of insurance CEO murder trial",
+      "link": "https://www.investing.com/news/stock-market-news/luigi-mangione-due-in-court-ahead-of-insurance-ceo-murder-trial-4851069",
       "summary": "",
-      "published": "2026-08-11T11:34:43Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+      "published": "2026-08-11T13:30:40Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0N6_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
+    },
+    {
+      "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
+      "link": "https://www.wsj.com/finance/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-58ac13ec?mod=rss_markets_main",
+      "summary": "Borrowers have delayed interest payments on billions of dollars of loans, raising concerns that defaults are higher than reported.",
+      "published": "2026-08-11T13:30:00Z",
+      "image": "https://images.wsj.net/im-13844193",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "European Athletics Championships face backlash over ‘crazy prices’ and empty seats",
+      "link": "https://www.theguardian.com/sport/2026/aug/11/european-athletics-championships-face-backlash-over-crazy-prices-and-empty-seats",
+      "summary": "Birmingham’s Alexander Stadium half-full on Monday Athletes and fans join chorus of concern over prices Keely Hodgkinson’s coach and the BBC commentator Steve Cram have led a chorus of concern about high ticket prices causing lower attendances at the European Athletics Championships in Birmingham. Fans have also criticised the high food prices at the Alexander Stadium, with a barbeque pork roll costing £18.50, a bratwurst hot dog £15, and a bottle of water £3.95. Continue reading...",
+      "published": "2026-08-11T13:30:00Z",
+      "image": "https://i.guim.co.uk/img/media/c227f02304334e354c0625d8f4c17d2cd4061f8b/514_204_4746_3796/master/4746.jpg?width=140&quality=85&auto=format&fit=max&s=371fea1063f86a49d65c690695b81003",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
+      "link": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
+      "summary": "José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under control Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan authorities on how to prevent another border crisis. Continue reading...",
+      "published": "2026-08-11T13:28:41Z",
+      "image": "https://i.guim.co.uk/img/media/762c4e27b37244ec11a6983c789013b8ed0e5063/2693_791_2821_2257/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=3b3a465bcc7b13164e19cb101d96b786",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+      "link": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+      "summary": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affected The Guardian’s environment editor, Fiona Harvey , has written a useful explainer about the UK public services that are struggling in the extreme weather. You can read it in full here: There’s only one solution in the end to the drought now declared across most of England and that’s rain, says Hannah Cloke, professor of hydrology at the University of Reading. An important consequence of drought is that very dry soils can become less able to absorb rainfall when it does arrive. This can increase surface runoff and can even contribute to localised flash flooding, particularly if rain falls intensely over a short period. The current situation highlights the need to improve long-term resilience to both drought and flood risk as climate variability increases, and shows one more damaging impact of the burning of fossil fuels. Continue reading...",
+      "published": "2026-08-11T13:28:26Z",
+      "image": "https://i.guim.co.uk/img/media/7e6eeef59e765741ac6b762ef9c1ab8695557b6b/1189_1149_4528_3622/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=424704e0c0c1c223972429c38223a50f",
+      "source": "The Guardian",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
-        "summary": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’ In his pooled TV interview, Andy Burnham repeated the point he made in his Facebook post earlier (see 9.58am ), saying he was confident that more could be done to free up space in the prison system (which would allow the early release system to be changed so that PC Andrew Harper’s killers are excluded). Burnham said that since becoming PM he had been pushing the system “every single day” to go further. Explaining how extra space could be found (see 9.19am ), he particularly singled out the more than 2,000 prisoners on indeterminate IPP (imprisonment for public protection) sentences. He said: [The] plan will include issues like returning more foreign national offenders to their country of origin, and looking at the injustice of IPP sentences, which have led to young people, or young when they were imprisoned, being imprisoned indeterminately, and that clearly is unfair. My office was in touch with the family last night [see 10.04am ], and I know the justice secretary is in regular touch as well. So, we will keep close to the family through this whole process because we understand how difficult this process has been for them. Continue reading...",
-        "published": "2026-08-11T11:42:58Z",
-        "image": "https://i.guim.co.uk/img/media/a848cae00f5edd76a7ad9ed42eb7a08aa6cc555e/750_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=b31c9263bc870c3f339d634eebf0088b",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Syria Sentences Former President al-Assad to Death for Crimes Against Humanity",
-        "link": "https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html",
-        "summary": "The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.",
-        "published": "2026-08-11T11:41:52Z",
-        "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Democratic progressives and establishment set to clash in more primaries – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-        "summary": "Tuesday’s competitions in Wisconsin and Minnesota follow similar battles for the direction of the party, including last week in Michigan where progressive Abdul El-Sayed triumphed Sign up to the US Breaking News email Minnesota voters on both sides of the aisle are weighing the direction of their parties – and their chances of winning over the general electorate – in marquee statewide races on Tuesday. On the left, Peggy Flanagan, the state lieutenant governor and a progressive, faces off against Angie Craig, a US representative, for the Democratic bid for US senate in a race punctuated by the role of immigration enforcement in the state that saw two residents killed by immigration agents in a winter surge. Continue reading...",
-        "published": "2026-08-11T11:35:26Z",
-        "image": "https://i.guim.co.uk/img/media/81229da70b97be6987d3ca350cc303262a649d0d/176_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fd31a97c6623c1f7a50a6b1a0670f40b",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
         "title": "Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live",
         "link": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
         "summary": "José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under control Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan authorities on how to prevent another border crisis. Continue reading...",
-        "published": "2026-08-11T11:34:20Z",
+        "published": "2026-08-11T13:28:41Z",
         "image": "https://i.guim.co.uk/img/media/762c4e27b37244ec11a6983c789013b8ed0e5063/2693_791_2821_2257/master/2821.jpg?width=140&quality=85&auto=format&fit=max&s=3b3a465bcc7b13164e19cb101d96b786",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
-        "link": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war?traffic_source=rss",
-        "summary": "After a drone crashes in Germany, fears of suspected Russian operations rise across Europe.",
-        "published": "2026-08-11T11:30:48Z",
+        "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+        "link": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+        "summary": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affected The Guardian’s environment editor, Fiona Harvey , has written a useful explainer about the UK public services that are struggling in the extreme weather. You can read it in full here: There’s only one solution in the end to the drought now declared across most of England and that’s rain, says Hannah Cloke, professor of hydrology at the University of Reading. An important consequence of drought is that very dry soils can become less able to absorb rainfall when it does arrive. This can increase surface runoff and can even contribute to localised flash flooding, particularly if rain falls intensely over a short period. The current situation highlights the need to improve long-term resilience to both drought and flood risk as climate variability increases, and shows one more damaging impact of the burning of fossil fuels. Continue reading...",
+        "published": "2026-08-11T13:28:26Z",
+        "image": "https://i.guim.co.uk/img/media/7e6eeef59e765741ac6b762ef9c1ab8695557b6b/1189_1149_4528_3622/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=424704e0c0c1c223972429c38223a50f",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+        "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+        "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+        "published": "2026-08-11T13:23:37Z",
+        "image": "https://static01.nyt.com/images/2026/08/09/multimedia/00biz-ceuta-disinfo-1-wgjt/00biz-ceuta-disinfo-1-wgjt-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "At least 169 killed in Colombia's largest earthquake in years",
+        "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "published": "2026-08-11T13:21:32Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2f/live/f1603a50-954a-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
+        "summary": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’ In his pooled TV interview, Andy Burnham repeated the point he made in his Facebook post earlier (see 9.58am ), saying he was confident that more could be done to free up space in the prison system (which would allow the early release system to be changed so that PC Andrew Harper’s killers are excluded). Burnham said that since becoming PM he had been pushing the system “every single day” to go further. Explaining how extra space could be found (see 9.19am ), he particularly singled out the more than 2,000 prisoners on indeterminate IPP (imprisonment for public protection) sentences. He said: [The] plan will include issues like returning more foreign national offenders to their country of origin, and looking at the injustice of IPP sentences, which have led to young people, or young when they were imprisoned, being imprisoned indeterminately, and that clearly is unfair. My office was in touch with the family last night [see 10.04am ], and I know the justice secretary is in regular touch as well. So, we will keep close to the family through this whole process because we understand how difficult this process has been for them. Continue reading...",
+        "published": "2026-08-11T13:12:29Z",
+        "image": "https://i.guim.co.uk/img/media/a848cae00f5edd76a7ad9ed42eb7a08aa6cc555e/750_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=b31c9263bc870c3f339d634eebf0088b",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss",
+        "summary": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
+        "published": "2026-08-11T13:10:49Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Future of southern Lebanon peacekeeping uncertain ahead of UNIFIL phase-out",
-        "link": "https://www.aljazeera.com/news/2026/8/11/future-southern-lebanon-peacekeeping-uncertain-amid-unifil-phase-out?traffic_source=rss",
-        "summary": "Future peacekeeping missions may shrink significantly, risking security gaps, as political solutions remain elusive.",
-        "published": "2026-08-11T11:28:53Z",
+        "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
+        "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss",
+        "summary": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
+        "published": "2026-08-11T13:09:21Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Palestine weekly: Netanyahu hedges on Gaza roadmap",
-        "link": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss",
-        "summary": "Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.",
-        "published": "2026-08-11T11:28:05Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Baby among those rescued as hundreds feared missing after Colombia quake",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss",
-        "summary": "A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.",
-        "published": "2026-08-11T11:26:18Z",
-        "image": null,
-        "source": "Al Jazeera",
+        "title": "Hard work or humour? Take the British values quiz",
+        "link": "https://www.theguardian.com/society/2026/aug/11/hard-work-community-fair-play-britons-shared-values-divisions",
+        "summary": "Poll finds consensus on what makes people proud to be British but deep divisions on issues such as immigration You may think it’s a commitment to buying a round, the ability to chat at length about the weather, or making a proper cup of tea. But when it comes down to what makes people proud to be British, there is a consensus across all ages, demographics and political groups – and tea, pints and the weather don’t get a look-in. Hard work, fair play and community are the values that voters – no matter which political party, age group, social class or region they come from – instinctively believe capture what it means to be British, according to a large-scale study of British values by Public First. Continue reading...",
+        "published": "2026-08-11T13:00:01Z",
+        "image": "https://i.guim.co.uk/img/media/4b7cdc90ee47b3dada425e358c364300c9f38362/0_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=386ea3871e8cdb512c865e29ad034389",
+        "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate",
-        "link": "https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html",
-        "summary": "The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.",
-        "published": "2026-08-11T11:37:46Z",
-        "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11biz-oil-prices-lbph/11biz-oil-prices-lbph-mediumSquareAt3X.jpg",
+        "title": "Eclipse chasers scramble for glasses as stocks run low",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+        "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+        "published": "2026-08-11T13:35:51Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Reader Q&A: ask our reporters anything about fossil fuel profits and the climate crisis – live",
+        "link": "https://www.theguardian.com/environment/live/2026/aug/11/reader-qa-ask-our-reporters-anything-about-fossil-fuel-profits-and-the-climate-crisis",
+        "summary": "Last week reporters Jillian Ambrose and Damian Carrington published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. They’re online now to to discuss their story and any other questions you might have Ask a question: log in or sign up here Mazter asks : I see that oil imports into China have dropped about 30%. And that may be the reason the oil price hasn’t gone far higher, is that correct? Also, that 30% may represent a ~15% reduction in demand, plus another ~15% from drawing down on their huge strategic reserve. Is filling/building that reserve why their oil demand hadn’t dropped the last 5(ish)yrs, despite a huge shift to electric transport? You are right - China is the reason the US-Israeli war on Iran has not pushed oil prices higher. This excellent article from the Economist explains” “Between February and June, China slashed its crude imports by half, or 5.5m barrels per day - enough, experts reckon, to have shaved $30 or more off Brent, the global benchmark. That is more than half of the worldwide decline during the covid-19 lockdowns … As one oil-trading boss puts it, ‘China is the new OPEC’.” It is one of the craziest aspects of the climate crisis that governments provide colossal subsidies for fossil fuels - the subsidies are pouring fuel on the fire. In 2023, the IEA reports , governments subsidised the use of fossil fuels to the tune of $620bn, far greater than the $70bn was spent on support for consumer-facing clean energy. The OECD puts the fossil fuel number at $920bn. These are direct subsidies. When you add in indirect ones - like the cost of air pollution - as the IMF does , the figure soars to $7tn a year. That is more than the estimated total revenue for the oil and gas industry alone in 2024 of about $6tn . Continue reading...",
+        "published": "2026-08-11T13:17:39Z",
+        "image": "https://i.guim.co.uk/img/media/52721d9dc8b3332722e8048c98aedfa031eeedcb/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4476af1e0a33cb758e4abaf9530e3512",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
+        "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+        "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+        "published": "2026-08-11T13:12:48Z",
+        "image": "https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
@@ -219,215 +237,233 @@
         "title": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
         "link": "https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html",
         "summary": "A rise in home equity to record levels has led many Americans to refinance their mortgages to pay their bills.",
-        "published": "2026-08-11T11:36:34Z",
+        "published": "2026-08-11T13:02:38Z",
         "image": "https://static01.nyt.com/images/2026/08/03/multimedia/00biz-home-equity-01-mjpw/00biz-home-equity-01-mjpw-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Oil prices rise and gold hits two-month high after Trump makes new deal demands on Iran – business live",
+        "title": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+        "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
+        "summary": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.",
+        "published": "2026-08-11T13:00:07Z",
+        "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11cul-emanuel-theaters-plfm/11cul-emanuel-theaters-plfm-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Oil prices hover near $90 a barrel and gold hits two-month high as Trump makes new demands on Iran – business live",
         "link": "https://www.theguardian.com/business/live/2026/aug/11/oil-prices-rise-gold-hits-two-month-high-trump-makes-new-deal-demands-iran-live-updates",
-        "summary": "US president demands compensation for damage incurred by US, complicating standoff with Tehran Oil prices have see-sawed: Brent crude jumped more than 2% to just over $90 a barrel, but has now dipped 0.3% to $87.53 a barrel. It went higher earlier after a small cargo ship was attacked on Tuesday by Yemen’s Iran-aligned Houthis in the Bab el-Mandeb Strait, killing three crew members. While any beat ​is positive, the scale may not be enough for investors to really get excited about. We call on the government to act now to improve ​access to housing across all ​tenures, both by helping first-time buyers onto ​the property ladder and supporting the delivery of affordable and social housing for ​those who need ‌it most. Continue reading...",
-        "published": "2026-08-11T11:34:10Z",
+        "summary": "US president demands compensation for damage incurred by US, complicating standoff with Tehran Oil prices have see-sawed: Brent crude jumped more than 2% to just over $90 a barrel, the highest level since 31 July, but has now dipped 0.3% to $87.53 a barrel. It went higher earlier after a small cargo ship was attacked on Tuesday by Yemen’s Iran-aligned Houthis in the Bab el-Mandeb Strait, killing three crew members. While any beat ​is positive, the scale may not be enough for investors to really get excited about. We call on the government to act now to improve ​access to housing across all ​tenures, both by helping first-time buyers onto ​the property ladder and supporting the delivery of affordable and social housing for ​those who need ‌it most. Continue reading...",
+        "published": "2026-08-11T12:49:21Z",
         "image": "https://i.guim.co.uk/img/media/1a3f40bf33675928aa27bb725be47eac23c82560/421_0_4662_3729/master/4662.jpg?width=140&quality=85&auto=format&fit=max&s=f513e19148f53657242915ff7c14dd87",
         "source": "The Guardian",
         "section": "Business"
       },
       {
-        "title": "The US tried to stop cartel money-laundering. It devastated mom-and-pop businesses instead",
-        "link": "https://www.theguardian.com/us-news/2026/aug/11/us-mexico-border-area-money-transfer-rule-change-small-businesses",
-        "summary": "Small businesses pay hidden toll after money-transfer rule change to curb illicit activities near the US-Mexico border Last April, the Trump administration rolled out its latest tool in the fight against Mexican cartels: an aggressive crackdown on money transfers near the US-Mexico border . The administration said that, in an effort to stop money laundering and other illicit activity, it would now require any business providing financial services in the region to report cash transactions over $200. Previously, the amount had been $10,000. Continue reading...",
-        "published": "2026-08-11T11:00:02Z",
-        "image": "https://i.guim.co.uk/img/media/8cd92cf7f4265cd4c21a5f8d0c4e663bccb68164/731_0_10925_8742/master/10925.jpg?width=140&quality=85&auto=format&fit=max&s=65e984f575af7996748d9ea220deb8d1",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "U.S. Treasury is paying $3 billion a day in interest on national debt, says the CBO—having spent $10 billion to prop up the currency of its top lender",
-        "link": "https://fortune.com/2026/08/11/us-treasury-national-debt-interest-cbo-yen-unwinds/",
-        "summary": "The CBO reported that net interest on public debt totaled $963 billion between October 2025 (when the fiscal year begins) and July 2026.",
-        "published": "2026-08-11T10:49:18Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2250795081-e1786444555333.jpg?w=2048",
+        "title": "The AI dividend in healthcare is real. Now the focus is extending its impact",
+        "link": "https://fortune.com/2026/08/11/ai-dividend-healthcare-extend-impact-philips-index/",
+        "summary": "Driven by the pressures on health systems, AI is moving from promise to practice. It's beginning to pay dividends.",
+        "published": "2026-08-11T12:30:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2024/06/jeff_dilullo_img01-AAA-global.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
       },
       {
-        "title": "Reader Q&A: ask our reporters anything about fossil fuel profits and the climate crisis",
-        "link": "https://www.theguardian.com/environment/live/2026/aug/11/reader-qa-ask-our-reporters-anything-about-fossil-fuel-profits-and-the-climate-crisis",
-        "summary": "Last week reporters Jillian Ambrose and Damian Carrington published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. They will be online at 2pm BST to discuss their story and any other questions you might have Ask a question: log in or sign up here Last week Jillian Ambrose and Damian Carrington published a front-page story that revealed the vast scale of the profits that eight of the biggest oil firms made in three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves. They will be online at 2pm to answer your questions about their reporting – and any others you might have about how the oil markets work – and how many of these companies have withdrawn from their commitments to a clean energy transition. Continue reading...",
-        "published": "2026-08-11T10:41:53Z",
-        "image": "https://i.guim.co.uk/img/media/52721d9dc8b3332722e8048c98aedfa031eeedcb/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4476af1e0a33cb758e4abaf9530e3512",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Current price of oil as of August 11, 2026",
-        "link": "https://fortune.com/article/price-of-oil-08-11-2026/",
-        "summary": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-        "published": "2026-08-11T10:20:36Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Price-of-Oil-August-11.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Zach Dell aims to build a name for himself with Base Power",
-        "link": "https://fortune.com/2026/08/11/zach-dell-aims-to-build-a-name-for-himself-with-base-power/",
-        "summary": "Zach Dell, who turns 30 this month, has built a home battery and tech business, successfully fundraising on a $13 billion valuation.",
-        "published": "2026-08-11T10:11:05Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/Image_Headshot_CEO_Zach_Dell-e1761603594253.jpg?w=2048",
-        "source": "Fortune",
+        "title": "AI agent hacks gym to get its owner spot in pilates class",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
+        "published": "2026-08-11T12:09:26Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png",
+        "source": "BBC News",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "PayPal’s Honey controversy: reputational, regulatory, and strategic risks assessed",
-        "link": "https://www.investing.com/news/stock-market-news/paypals-honey-controversy-reputational-regulatory-and-strategic-risks-assessed-93CH-4851359",
+        "title": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+        "link": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+        "summary": "The first three-plus years of the AI build-out have been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+        "published": "2026-08-11T13:36:53Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "Air taxi firm Joby acquires defense tech company for $500 million",
+        "link": "https://www.investing.com/news/stock-market-news/air-taxi-firm-joby-acquires-defense-tech-company-for-500-million-4851847",
         "summary": "",
-        "published": "2026-08-11T11:35:23Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB602LM_M.jpg",
+        "published": "2026-08-11T13:31:40Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0Z8_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "UBS cuts M&G as rally leaves limited valuation upside; stock down 3%",
-        "link": "https://www.investing.com/news/stock-market-news/ubs-cuts-mg-as-rally-leaves-limited-valuation-upside-stock-down-3-4851356",
+        "title": "Luigi Mangione due in court ahead of insurance CEO murder trial",
+        "link": "https://www.investing.com/news/stock-market-news/luigi-mangione-due-in-court-ahead-of-insurance-ceo-murder-trial-4851069",
         "summary": "",
-        "published": "2026-08-11T11:34:43Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB7Q0U9_M.jpg",
+        "published": "2026-08-11T13:30:40Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0N6_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Why is ACV Auctions stock surging today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-acv-auctions-stock-surging-today-93CH-4851355",
+        "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
+        "link": "https://www.wsj.com/finance/private-credit-firms-clamp-down-on-loan-sweeteners-in-fear-of-shadow-defaults-58ac13ec?mod=rss_markets_main",
+        "summary": "Borrowers have delayed interest payments on billions of dollars of loans, raising concerns that defaults are higher than reported.",
+        "published": "2026-08-11T13:30:00Z",
+        "image": "https://images.wsj.net/im-13844193",
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "Why is Neuronetics stock surging today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-neuronetics-stock-surging-today-93CH-4851829",
         "summary": "",
-        "published": "2026-08-11T11:34:24Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+        "published": "2026-08-11T13:27:23Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Phillips 66, Kinder Morgan, HF Sinclair approve Western Gateway pipeline project",
-        "link": "https://www.investing.com/news/stock-market-news/phillips-66-kinder-morgan-hf-sinclair-approve-western-gateway-pipeline-project-4851333",
+        "title": "XAI co-founder’s startup River AI raises $1.1 billion to expand custom AI tools",
+        "link": "https://www.investing.com/news/stock-market-news/xai-cofounders-startup-river-ai-raises-11-billion-to-expand-custom-ai-tools-4851820",
         "summary": "",
-        "published": "2026-08-11T11:30:35Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0SE_L.jpg",
+        "published": "2026-08-11T13:24:52Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7A0YO_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "ACV Auctions stock jumps on report of potential sale exploration",
-        "link": "https://www.investing.com/news/stock-market-news/acv-auctions-stock-jumps-on-report-of-potential-sale-exploration-93CH-4851324",
+        "title": "Why is Janus International stock plunging today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-janus-international-stock-plunging-today-93CH-4851813",
         "summary": "",
-        "published": "2026-08-11T11:27:24Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+        "published": "2026-08-11T13:23:34Z",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Barclays reshuffles U.S. apparel retailers, cuts Under Armour, Gap ratings",
-        "link": "https://www.investing.com/news/stock-market-news/barclays-reshuffles-us-apparel-retailers-cuts-under-armour-gap-ratings-4851322",
+        "title": "Why is Joby Aviation stock sliding today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-joby-aviation-stock-sliding-today-93CH-4851812",
         "summary": "",
-        "published": "2026-08-11T11:26:18Z",
-        "image": "https://content-media.investing.com/news/LYNXMPED102VB_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "UBS capital vote delayed as Swiss lawmakers extend review",
-        "link": "https://www.investing.com/news/stock-market-news/ubs-capital-vote-delayed-as-swiss-lawmakers-extend-review-93CH-4851320",
-        "summary": "",
-        "published": "2026-08-11T11:25:57Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Nvidia partners with Wall Street giants to raise $500 billion for AI buildout",
-        "link": "https://www.investing.com/news/stock-market-news/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal-ft-reports-4849929",
-        "summary": "",
-        "published": "2026-08-11T11:25:09Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7917H_L.jpg",
+        "published": "2026-08-11T13:23:12Z",
+        "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Ranking the Best Red-Light Therapy Masks and LED Devices of 2026",
-        "link": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
-        "summary": "I tried the red-light therapy masks flooding my feed and consulted with professionals to find out which ones are worth the splurge.",
-        "published": "2026-08-11T11:31:00Z",
-        "image": "https://media.wired.com/photos/69e7bac18d228aa7f9797170/master/pass/How-the-Best-Red-Light-Therapy-Mask-Can-Save-You-Thousands-of-Dollars.jpg",
-        "source": "Wired",
+        "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+        "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+        "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges.",
+        "published": "2026-08-11T13:40:30Z",
+        "image": null,
+        "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026)",
-        "link": "https://www.wired.com/gallery/best-dehumidifier/",
-        "summary": "If you care about good air, it’s time for a dehumidifier. These are the best ones we’ve tested for everything from basements to drying laundry.",
-        "published": "2026-08-11T11:07:00Z",
-        "image": "https://media.wired.com/photos/69498b904d6b846f95b00a69/master/pass/Update%20Best%20Dehumidifiers%20top%20art%20122025%20SOURCE%20Amazon.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-        "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-        "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-        "published": "2026-08-11T11:00:00Z",
-        "image": "https://media.wired.com/photos/6a7a6916b0493fdce2877f53/master/pass/Distilling-AI-More-Complicated-Than-You-Think-Business.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "The AI takeover of mathematics has begun",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-        "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, […]",
-        "published": "2026-08-11T11:00:00Z",
+        "title": "Why your Amazon order confirmation emails have become so unhelpful",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: […]",
+        "published": "2026-08-11T13:27:20Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       },
       {
-        "title": "Elon Musk, Sam Altman, and the Misreading of Science Fiction",
-        "link": "https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/",
-        "summary": "Beyond Elon Musk’s interpretation of The Odyssey, Silicon Valley leaders have often misunderstood classic books like Foundation and The Hitchhiker’s Guide to the Galaxy. It’s evident in their tech.",
-        "published": "2026-08-11T10:30:00Z",
-        "image": "https://media.wired.com/photos/6a79da0bdf07565eeae29714/master/pass/Book%20Excerpt%20Elon%20Musk,%20Sam%20Altman,%20and%20the%20Misreading%20of%20Science%20Fiction_v3.jpg",
+        "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+        "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+        "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+        "published": "2026-08-11T13:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "GuliKit’s new Switch controller features next-generation anti-drift thumbsticks",
+        "link": "https://www.theverge.com/tech/976972/gulikit-es-max-anti-drift-tmr-switch-2-wireless-controller-price-availability",
+        "summary": "GuliKit announced its first wireless controller to use an improved version of the anti-drift tunneling magnetoresistance (TMR) thumbsticks featured in its budget-friendly ES Pro that debuted nearly a year ago. Available now for $49.99, the new GuliKit ES Max is more expensive than last year's $29.99 ES Pro, but still cheaper than Nintendo's Switch 2 […]",
+        "published": "2026-08-11T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Bumble now lets men make the first move",
+        "link": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+        "summary": "Bumble was famously built around exclusively giving women the power to initiate messages in heterosexual matches when it first launched in 2014 - but now the times they are a-changin' for the dating app. Today, Bumble has announced a \"global evolution to its signature conversation experience\": anyone can now send the first message, and the […]",
+        "published": "2026-08-11T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Spotify says it won’t recommend music from ‘AI Personas’",
+        "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+        "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're […]",
+        "published": "2026-08-11T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+        "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+        "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+        "published": "2026-08-11T12:37:12Z",
+        "image": "https://media.wired.com/photos/6a7a4573b0493fdce2877e71/master/pass/Security_ZoomScreensharingBug.gif",
         "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "AI Is Dead. Organoids Are Alive",
-        "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-        "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-        "published": "2026-08-11T10:00:00Z",
-        "image": "https://media.wired.com/photos/6a7a2641ddfb8a809864e7f8/master/pass/IN-LINE_LILAC.png",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food",
-        "link": "https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/",
-        "summary": "Startups and Big Ag are using Crispr gene editing to create crops that taste better and grow on a hotter planet. But will they find a market?",
-        "published": "2026-08-11T10:00:00Z",
-        "image": "https://media.wired.com/photos/6a75bce7b453ac64d9534f56/master/pass/Tom%20Adams%20in%20Greenhouse%20with%20Blackberry.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-        "link": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-        "summary": "Don’t fly to Turkey just yet. Our WIRED testers saw visible hair regrowth with these red-light therapy devices.",
-        "published": "2026-08-11T09:31:00Z",
-        "image": "https://media.wired.com/photos/6a236c81923e8b4d30970aa7/master/pass/The-Best-Red-Light-Therapy-for-Hair-Growth.jpg",
-        "source": "Wired",
+        "title": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
+        "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone.",
+        "published": "2026-08-11T12:30:00Z",
+        "image": null,
+        "source": "TechCrunch",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "On These Motorcycles, the Thrill Is Electric",
+        "link": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html",
+        "summary": "With gas prices high, people in developing countries are racing to buy battery-powered bikes. The Iran war has made Trump “salesman of the year,” one executive in Pakistan said.",
+        "published": "2026-08-11T12:35:24Z",
+        "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11CLI-E-MOTORCYCLES-stillpromos-zckl/11CLI-E-MOTORCYCLES-stillpromos-zckl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "Best places to see partial solar eclipse across England",
+        "link": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+        "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
+        "published": "2026-08-11T12:35:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Last-minute scramble for eclipse safety glasses",
+        "link": "https://www.bbc.co.uk/news/articles/cp8765yd84yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Glasses to watch the eclipse have become a rare commodity in Cornwall.",
+        "published": "2026-08-11T12:20:15Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285c/live/352e1ed0-94c1-11f1-adb5-bd19050a74a5.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "How to see the Sun's corona during the eclipse",
+        "link": "https://www.bbc.co.uk/news/videos/cre41199e02o?at_medium=RSS&at_campaign=rss",
+        "summary": "This luminous flare radiating from the blackness is the corona of the Sun - superheated jets of gas thrown thousands of miles out into space.",
+        "published": "2026-08-11T12:02:33Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/eddd5bb0-9577-11f1-870d-5d08c49babb2.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "When and where to see the solar eclipse in Scotland",
         "link": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
@@ -438,29 +474,11 @@
         "section": "Science"
       },
       {
-        "title": "Watch safely says man with eye damage from eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d19q9kngo?at_medium=RSS&at_campaign=rss",
-        "summary": "Peter Smith damaged his eyes by watching the 1999 solar eclipse without protection.",
-        "published": "2026-08-11T10:42:42Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f4/live/109fc7c0-955d-11f1-b96f-3d43158251d5.jpg",
-        "source": "BBC News",
-        "section": "Science"
-      },
-      {
         "title": "A.I. Offers Hope for Men With Infertility, Spotting ‘Hidden’ Sperm",
         "link": "https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html",
         "summary": "New technology may make it easier for men with extremely low sperm counts to have biological children.",
         "published": "2026-08-11T09:02:13Z",
         "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11Sci-male-infertility-stillpromo-plbv/11Sci-male-infertility-stillpromo-plbv-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "The Era of Electric Motorcycles Has Arrived in Pakistan and Beyond",
-        "link": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html",
-        "summary": "People are racing out to buy them worldwide as gasoline prices stay high. The Iran war has made Trump “salesman of the year,” said one executive in Lahore.",
-        "published": "2026-08-11T09:01:00Z",
-        "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11CLI-E-MOTORCYCLES-stillpromos-zckl/11CLI-E-MOTORCYCLES-stillpromos-zckl-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Science"
       },
@@ -481,101 +499,101 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-        "link": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
-        "published": "2026-08-11T05:21:53Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/369f/live/f699a4f0-9551-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC News",
-        "section": "Science"
-      },
-      {
-        "title": "Isle of Man 'very well placed' for solar eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c89n5lxp84wo?at_medium=RSS&at_campaign=rss",
-        "summary": "The island is particularly well placed to see the celestial spectacle, sitting just outside the path of totality.",
-        "published": "2026-08-11T05:13:46Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba4/live/0155afe0-94aa-11f1-a4b1-4525e6527cc2.jpg",
-        "source": "BBC News",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Are Man Utd judged differently to other WSL sides?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9d84y02v7lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United are one of the biggest clubs in the world, but is the women's team really judged differently as a result?",
-        "published": "2026-08-11T11:37:56Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a2/live/8686b880-9559-11f1-b96f-3d43158251d5.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Charles' rise to NI's most expensive footballer",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko?at_medium=RSS&at_campaign=rss",
-        "summary": "After he became Northern Ireland's most expensive player, BBC Sport NI looks at the rise of Shea Charles to Man City's academy to Fullham.",
-        "published": "2026-08-11T11:36:09Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75be/live/fcee1ec0-94a3-11f1-870d-5d08c49babb2.png",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Chelsea face Sociedad in Champions League qualifying",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o?at_medium=RSS&at_campaign=rss",
-        "summary": "Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.",
-        "published": "2026-08-11T11:35:40Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f7/live/66de24b0-9576-11f1-bfbd-3fe7d55dcf7b.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "'I won Commonwealth bronze - then went back to work at McDonald's'",
-        "link": "https://www.bbc.co.uk/sport/judo/articles/cwyl3kg71p9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Summer Shaw wins Scotland's first judo medal at the 2026 Commonwealth Games and a week later is working at McDonald's.",
-        "published": "2026-08-11T11:32:07Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e1/live/05673a10-9566-11f1-bfc0-f9e1bae5b9d9.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Johnson tipped to thrive under Moyes at Everton",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4g368pzp7qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Wales forward Brennan Johnson is tipped to thrive under David Moyes following his switch from Crystal Palace to Everton.",
-        "published": "2026-08-11T11:27:08Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ae/live/1485c570-9566-11f1-bfc0-f9e1bae5b9d9.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Chelsea face Real Sociedad in WCL third qualifying round with riches at stake",
-        "link": "https://www.theguardian.com/football/2026/aug/11/chelsea-real-sociedad-womens-champions-league-wcl-third-qualifying-round",
-        "summary": "WSL team will be favourites against Spanish side Financial implications of missing out are significant Chelsea will face Real Sociedad in the Women’s Champions League’s third qualifying round, needing a victory over two legs to earn a place in the main league phase of the competition. The 2021 runners-up and six-time European semi-finalists are taking part in the qualifying stage by virtue of their disappointing third-placed finish in the Women’s Super League last term – their lowest league finish since 2019 – and they will be the favourites against the Spanish side. Continue reading...",
-        "published": "2026-08-11T11:19:00Z",
-        "image": "https://i.guim.co.uk/img/media/719cbc4abe065d5d2b69e1250675179ab1d8179c/876_151_4025_3219/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=75b2237ad7c474c5bcbdcd664ed5914e",
+        "title": "European Athletics Championships face backlash over ‘crazy prices’ and empty seats",
+        "link": "https://www.theguardian.com/sport/2026/aug/11/european-athletics-championships-face-backlash-over-crazy-prices-and-empty-seats",
+        "summary": "Birmingham’s Alexander Stadium half-full on Monday Athletes and fans join chorus of concern over prices Keely Hodgkinson’s coach and the BBC commentator Steve Cram have led a chorus of concern about high ticket prices causing lower attendances at the European Athletics Championships in Birmingham. Fans have also criticised the high food prices at the Alexander Stadium, with a barbeque pork roll costing £18.50, a bratwurst hot dog £15, and a bottle of water £3.95. Continue reading...",
+        "published": "2026-08-11T13:30:00Z",
+        "image": "https://i.guim.co.uk/img/media/c227f02304334e354c0625d8f4c17d2cd4061f8b/514_204_4746_3796/master/4746.jpg?width=140&quality=85&auto=format&fit=max&s=371fea1063f86a49d65c690695b81003",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Forest sign Sporting's Ivory Coast defender Diomande",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c70g5539dygo?at_medium=RSS&at_campaign=rss",
-        "summary": "Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.",
-        "published": "2026-08-11T11:05:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0624/live/143d79d0-8b4a-11f1-8139-b39d1c7486b2.jpg",
+        "title": "PFA starts legal proceedings over League One salary cap",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm2g992y7veo?at_medium=RSS&at_campaign=rss",
+        "summary": "The PFA starts legal proceedings against the EFL over changes to salary caps in League One.",
+        "published": "2026-08-11T13:13:32Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccd/live/cfebe100-9584-11f1-8636-978a48bd79b6.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "The map showing world's division over Infantino",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.",
-        "published": "2026-08-11T11:02:42Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f85/live/1eb1a3e0-94f6-11f1-9181-85140b8ce01b.jpg",
+        "title": "Infantino, Trump, Bezos and Mourinho: together at last: Football Weekly – video",
+        "link": "https://www.theguardian.com/football/video/2026/aug/11/infantino-trump-bezos-and-mourinho-together-at-last-football-weekly-video",
+        "summary": "Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Paul Watson to discuss Donald Trump’s nice words about the struggling Fifa boss, plus returning Madrid boss José Mourinho’s new Netflix documentary Continue reading...",
+        "published": "2026-08-11T12:52:30Z",
+        "image": "https://i.guim.co.uk/img/media/3fce27c39379606b9b132a3fa999bff925976abd/219_0_2943_2354/master/2943.jpg?width=140&quality=85&auto=format&fit=max&s=3cc01b21d58f56c9ee63b275cd3f6ac7",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Hodgkinson and gold medal rivals progress at Europeans",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwy4ww1k49eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Keely Hodgkinson and gold medal rivals Audrey Werro and Femke Broeders-Bol progress to remain on course for a tantalising European 800m showdown.",
+        "published": "2026-08-11T12:32:56Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e40/live/f0281cc0-957c-11f1-8636-978a48bd79b6.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Rangers' Chermiti out for 'significant period' with knee injury",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.",
+        "published": "2026-08-11T12:22:08Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315d/live/c0c401f0-9433-11f1-ad46-afcadea0bd12.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Arsenal’s Myles Lewis-Skelly offered to Manchester United as left-back solution",
+        "link": "https://www.theguardian.com/football/2026/aug/11/arsenal-myles-lewis-skelly-offered-to-manchester-united-left-back",
+        "summary": "Chelsea also made aware of 19-year-old’s availability Newcastle’s Lewis Hall remains prime United target Myles Lewis-Skelly has been offered to Manchester United as a potential left-back option, with Arsenal wishing to recoup some of the £75m paid to Newcastle for Bruno Guimarães. Chelsea, it is understood, have also been made aware of the availability of the 19-year-old, who won the Premier League under Mikel Arteta last term. Whether the west London club will make a move for Lewis-Skelly is unclear. Continue reading...",
+        "published": "2026-08-11T12:09:48Z",
+        "image": "https://i.guim.co.uk/img/media/52d9ef8d34dba1ef66b4ed4bfeb044adb129bbd8/279_125_2483_1986/master/2483.jpg?width=140&quality=85&auto=format&fit=max&s=363b70f8c6ef0e1ec2479f7fdc37bb08",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Palace co-owner spoke to McNeil's partner before move",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
+        "published": "2026-08-11T12:07:28Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f594/live/593f4ff0-9580-11f1-8636-978a48bd79b6.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Crystal Palace in talks to re-sign Guessand on loan",
+        "link": "https://www.bbc.co.uk/sport/football/articles/czrjee6gzkxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Crystal Palace are in talks to re-sign Ivory Coast forward Evann Guessand on a season-long loan from Aston Villa.",
+        "published": "2026-08-11T11:54:57Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c47d/live/62bb06e0-9581-11f1-8636-978a48bd79b6.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Amanda Knox comedy show 'sincere' but not 'stand-up'",
+        "link": "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Edinburgh Fringe show received a mixed response, with many reviewers saying typical stand-up fare.",
+        "published": "2026-08-11T13:35:00Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e77/live/fd3cd290-9575-11f1-870d-5d08c49babb2.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Never Had a Chance review – a slice of gritty British Asian life with a side of drug dealing and addiction",
+        "link": "https://www.theguardian.com/film/2026/aug/11/never-had-a-chance-review-a-slice-of-gritty-british-asian-life-with-a-side-of-drug-dealing-and-addiction",
+        "summary": "Two likely lads in their 20s deal with problematic lives that dramatically intersect in this persuasive London drama This gritty crime drama unfolds entirely within the Punjabi community in London’s Hounslow district, a plausible demographic situation in which white people are so peripheral to the story that they are little more than extras. In fact watching this well-crafted, if somewhat melodramatic, debut for director Jazz Bhalla makes one wonder why there aren’t more films made in the UK with entirely British Asian casts. Here, it doesn’t makes the film better or worse, but it certainly feels realistic and true to its milieu. The story revolves around two best friends in their 20s, Ravi (Amar Chaggar) and Jay (Jayant Singh), likely lads who spend a lot of time hanging out, getting high or drunk and ending nearly every sentence with the word “bro”. On the face of it, Jay seems like the one with a more stable situation at home, living with his middle-class parents; while Ravi, who has a criminal record due to a drug bust, lives in a bedsit and is estranged from his mother ever since his father died and she remarried, much to the chagrin of his bossy older sister (Parvinder Shergill). But Ravi manages to get a job working for a building supply merchant, which compels him to start waking up at dawn and considering the downside of always being hung over. Plus, he might be in with a chance with pretty fast-food vendor Sukhi (Tina Sharma), an ambitious young woman keen to get away from her alcoholic father and drug-dealing brother. Continue reading...",
+        "published": "2026-08-11T12:55:30Z",
+        "image": "https://i.guim.co.uk/img/media/cd9466be4f086ce8446854a1b1ba2e422d16b4c6/2039_45_2035_1630/master/2035.jpg?width=140&quality=85&auto=format&fit=max&s=5d76519fe7fd51bbdb000a63120370ce",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "Isaac Mizrahi on stage, style and the legacy of Unzipped: ‘Fashion has no real spine any more’",
         "link": "https://www.theguardian.com/stage/ng-interactive/2026/aug/11/isaac-mizrahi-fashion-unzipped",
@@ -626,26 +644,8 @@
         "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
         "summary": "The actress responds to social media critics who suggested her bump didn't look real at a premiere.",
         "published": "2026-08-11T10:43:08Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e08/live/fb093da0-955d-11f1-b96f-3d43158251d5.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c5/live/363416b0-957d-11f1-870d-5d08c49babb2.jpg",
         "source": "BBC News",
-        "section": "Culture"
-      },
-      {
-        "title": "The Unexpected Secret of One of Instagram’s Most Nostalgic Accounts",
-        "link": "https://www.nytimes.com/video/arts/100000011063782/instagram-vhs-dates-fake-dating-1980s.html",
-        "summary": "The Instagram account VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s creators came clean to our reporter, Sopan Deb.",
-        "published": "2026-08-11T10:40:08Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Momo and the Time Thieves review – kids’ fantasy jaunt sticks the boot into capitalism",
-        "link": "https://www.theguardian.com/film/2026/aug/11/momo-and-the-time-thieves-review-kids-fantasy-jaunt-sticks-the-boot-into-capitalism",
-        "summary": "This new adaptation of Michael Ende’s 1973 novel contains some neat parables for our digitally nihilistic age, but even a mystical tortoise can’t save it it from monotony Momo – the 1973 fantasy novel by German author Michael Ende, who also wrote The Neverending Story – has been adapted in live and animated forms before, in 1986 and 2001. This latest version, too, is ostensibly a live-action film – but it’s been made with so many visual effects it might as well have been a cartoon. Still, the residual human element represented by the cast feels necessary, given the story is about the dangers of letting capitalism suck away our ability to enjoy the moment. Over the years, readers have posited all kinds of metaphorical interpretations of the plot, which involves a world where grey beings arrive and con everyone into literally “banking” their time, so as to have it all to themselves. Only the urchin Momo, here played by teen actor Alexa Goodall (whose gorgeous supernova of ginger curls is practically another character in the film), can save the world. Continue reading...",
-        "published": "2026-08-11T10:00:56Z",
-        "image": "https://i.guim.co.uk/img/media/65dd6e11aa5d49ac9f40e8f9f22ff94da435915a/0_0_2756_2205/master/2756.jpg?width=140&quality=85&auto=format&fit=max&s=8e8daac12db8de4be7e87bdbfd9d876c",
-        "source": "The Guardian",
         "section": "Culture"
       }
     ]
