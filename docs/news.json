@@ -1,21 +1,95 @@
 {
-  "generated": "2026-08-15T21:34:29Z",
+  "generated": "2026-08-15T22:36:29Z",
   "lead": {
     "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
     "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
     "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-    "published": "2026-08-15T21:27:28Z",
+    "published": "2026-08-15T21:56:10Z",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg",
     "source": "BBC News",
     "section": "World"
   },
   "top": [
     {
-      "title": "European Athletics Championships: Hunt seeks third gold in relay after Wightman fades in 1,500m – live",
+      "title": "Djokovic suffers in heat as Tirante inflicts shock defeat",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Novak Djokovic struggles with the heat and humidity as he falls to a shock defeat by Argentina's Thiago Tirante in the second round of the Cincinnati Open.",
+      "published": "2026-08-15T22:07:10Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79f/live/f0fdcb50-98f5-11f1-aa0d-e3900609838d.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Great Britain win gold with mixed freestyle 4x200m championship record",
+      "link": "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go?at_medium=RSS&at_campaign=rss",
+      "summary": "Great Britain set a championship record as they take gold in the mixed freestyle 4x200m at the European Aquatics Championships.",
+      "published": "2026-08-15T21:49:21Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e0/live/45c4f7c0-98f2-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "published": "2026-08-15T21:49:12Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+      "source": "BBC News",
+      "section": "World"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Why is the latest Ebola outbreak worsening?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "summary": "Virus spreading in DRC faster than containment efforts.",
+      "published": "2026-08-15T22:00:42Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+      "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+      "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that […]",
+      "published": "2026-08-15T21:56:13Z",
+      "image": null,
+      "source": "The Verge",
+      "section": "Technology"
+    },
+    {
+      "title": "European Athletics Championships: Double gold for Great Britain in 4x100m relays – live reaction",
       "link": "https://www.theguardian.com/sport/live/2026/aug/15/european-athletics-championships-oconnor-goes-for-heptathlon-gold-on-day-six-live",
       "summary": "Live athletics updates from 7.45pm BST Email Luke | Sign up for The Recap Tom Bassam is stepping in for an hour. Kate O’Connor (Ireland) 5,812pts Emma Oosterwegel (Netherlands) 5,761pts Sofie Dokter (Netherlands) 5,741pts Annik Kälin (Switzerland) 5,707pts Sophie Weißenberg (Germany) 5,689pts Continue reading...",
-      "published": "2026-08-15T21:22:57Z",
+      "published": "2026-08-15T21:42:33Z",
       "image": "https://i.guim.co.uk/img/media/71eda7716ba5ad3c576a183b5fc5ebd391d06b29/446_0_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=783ad904b5b80a5397dda9bf1de2fe0c",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Australian state to launch gun buyback after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+      "published": "2026-08-15T21:41:43Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "published": "2026-08-15T21:29:19Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "Cardinals rookie Joshua Báez makes MLB history with three homers in first three at-bats",
+      "link": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+      "summary": "23-year-old hits home run on first pitch in majors Báez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua Báez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading...",
+      "published": "2026-08-15T21:24:52Z",
+      "image": "https://i.guim.co.uk/img/media/0057c6cdeca1a88b9e7c3b23ef8a075ce1b110ad/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=eb22e23e126cba909004abdfc7ba5095",
       "source": "The Guardian",
       "section": "Sports"
     },
@@ -29,6 +103,15 @@
       "section": "Sports"
     },
     {
+      "title": "Hunt wins third gold as Asher-Smith makes history",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+      "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+      "published": "2026-08-15T21:13:17Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
       "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
       "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
       "summary": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
@@ -36,17 +119,6 @@
       "image": "https://static01.nyt.com/images/2019/12/12/obituaries/00bou-toppix/00bou-toppix-moth.jpg",
       "source": "The New York Times",
       "section": "World"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "published": "2026-08-15T21:29:19Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
     },
     {
       "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
@@ -56,82 +128,37 @@
       "image": "https://static01.nyt.com/images/2026/08/15/world/15Belgium-gold/15Belgium-gold-mediumSquareAt3X.jpg",
       "source": "The New York Times",
       "section": "World"
-    },
-    {
-      "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
-      "link": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
-      "summary": "",
-      "published": "2026-08-15T21:07:11Z",
-      "image": "https://content-media.investing.com/news/Nvidia_800x533_L_1762265351.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "published": "2026-08-15T21:03:57Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
-      "section": "World"
-    },
-    {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-      "published": "2026-08-15T20:58:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-      "source": "BBC News",
-      "section": "World"
-    },
-    {
-      "title": "Qatar denies it is detaining three Iranian bomber pilots",
-      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
-      "summary": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
-      "published": "2026-08-15T20:55:29Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Great Britain storm to 4x100m relay gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/videos/c07rr9809gdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Great Britain quartet Romell Glave, Zharnell Hughes, Jeremiah Azu and Louie Hinchliffe race to 4x100m relay gold at the European Athletics Championships.",
-      "published": "2026-08-15T20:51:11Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0509/live/f3bce1c0-98e9-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Johnson-Thompson vows she still has hunger to compete",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cn9nn38jyryo?at_medium=RSS&at_campaign=rss",
-      "summary": "Katarina Johnson-Thompson says if she is \"not competitive, I will start asking questions\" after finishing 21st at the European Athletics Championships following a difficult season.",
-      "published": "2026-08-15T20:49:29Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a28/live/9a034d80-98e0-11f1-89f0-8dbc5eb120ba.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
-      "published": "2026-08-15T20:45:00Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
-      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
-      "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
-      "published": "2026-08-15T20:40:48Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "Why is the latest Ebola outbreak worsening?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+        "summary": "Virus spreading in DRC faster than containment efforts.",
+        "published": "2026-08-15T22:00:42Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Australian state to launch gun buyback after Bondi Beach attack",
+        "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+        "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
+        "published": "2026-08-15T21:41:43Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+        "link": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+        "summary": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
+        "published": "2026-08-15T21:12:27Z",
+        "image": "https://static01.nyt.com/images/2019/12/12/obituaries/00bou-toppix/00bou-toppix-moth.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
       {
         "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
         "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
@@ -173,33 +200,6 @@
         "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
         "summary": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
         "published": "2026-08-15T20:40:48Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-        "published": "2026-08-15T20:21:14Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
-        "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
-        "summary": "The petition is set to be discussed by House of Commons in a sign of discontent with policies of US President Trump.",
-        "published": "2026-08-15T20:09:33Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
-        "summary": "Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta.",
-        "published": "2026-08-15T20:07:07Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
@@ -355,6 +355,15 @@
     ],
     "Technology": [
       {
+        "title": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+        "link": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+        "summary": "At D23, when asked about the potential for a sequel to the cult classic The Simpsons: Hit & Run game, Matt Groening replied, \"I think the original game is coming back in some form,\" before current showrunner Matt Selman added, \"or not.\" The tone in both of their voices and the body language suggests that […]",
+        "published": "2026-08-15T21:56:13Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
         "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
         "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
         "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -415,15 +424,6 @@
         "published": "2026-08-15T15:46:05Z",
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
         "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals",
-        "link": "https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview",
-        "summary": "As if you needed more reason to love Carly Rae Jepsen's \"Call Me Maybe\" beyond its pop perfection, it is also, according to lore, the genesis for Switched on Pop, one of the best music podcasts out there. Cohosts Nate Sloan and Charlie Harding obsessively dissect pop songs, from the theory behind their musical choices […]",
-        "published": "2026-08-15T15:00:00Z",
-        "image": null,
-        "source": "The Verge",
         "section": "Technology"
       }
     ],
@@ -503,6 +503,42 @@
     ],
     "Sports": [
       {
+        "title": "European Athletics Championships: Double gold for Great Britain in 4x100m relays – live reaction",
+        "link": "https://www.theguardian.com/sport/live/2026/aug/15/european-athletics-championships-oconnor-goes-for-heptathlon-gold-on-day-six-live",
+        "summary": "Live athletics updates from 7.45pm BST Email Luke | Sign up for The Recap Tom Bassam is stepping in for an hour. Kate O’Connor (Ireland) 5,812pts Emma Oosterwegel (Netherlands) 5,761pts Sofie Dokter (Netherlands) 5,741pts Annik Kälin (Switzerland) 5,707pts Sophie Weißenberg (Germany) 5,689pts Continue reading...",
+        "published": "2026-08-15T21:42:33Z",
+        "image": "https://i.guim.co.uk/img/media/71eda7716ba5ad3c576a183b5fc5ebd391d06b29/446_0_4608_3687/master/4608.jpg?width=140&quality=85&auto=format&fit=max&s=783ad904b5b80a5397dda9bf1de2fe0c",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Cardinals rookie Joshua Báez makes MLB history with three homers in first three at-bats",
+        "link": "https://www.theguardian.com/sport/2026/aug/15/joshua-baez-three-home-runs-cardinals-cubs-mlb-record",
+        "summary": "23-year-old hits home run on first pitch in majors Báez drives in five during 8-4 victory over Cubs Rookie was called up from Triple-A earlier in day Joshua Báez became the first player to hit three home runs in his first three at-bats in the major leagues, leading the St Louis Cardinals to an 8-4 victory over the Chicago Cubs on Saturday. The 23-year-old left fielder, called up from Triple-A Memphis earlier in the day, hit the first pitch he saw into the Wrigley Field bleachers, then homered in his next two at-bats. He also drove in five runs. Continue reading...",
+        "published": "2026-08-15T21:24:52Z",
+        "image": "https://i.guim.co.uk/img/media/0057c6cdeca1a88b9e7c3b23ef8a075ce1b110ad/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=eb22e23e126cba909004abdfc7ba5095",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "'Absolutely miles ahead!' GB women win brilliant relay gold",
+        "link": "https://www.bbc.co.uk/sport/athletics/videos/ce8llyzyj27o?at_medium=RSS&at_campaign=rss",
+        "summary": "Great Britain's Dina Asher-Smith, Amy Hunt, Success Eduan and Imani-Lara Lansiquot dominate the 4x100m relay to win a brilliant gold.",
+        "published": "2026-08-15T21:14:57Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80f/live/fe408b70-98ed-11f1-b2ab-0dd01740f9f6.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Hunt wins third gold as Asher-Smith makes history",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+        "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+        "published": "2026-08-15T21:13:17Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Great Britain storm to 4x100m relay gold",
         "link": "https://www.bbc.co.uk/sport/athletics/videos/c07rr9809gdo?at_medium=RSS&at_campaign=rss",
         "summary": "Great Britain quartet Romell Glave, Zharnell Hughes, Jeremiah Azu and Louie Hinchliffe race to 4x100m relay gold at the European Athletics Championships.",
@@ -516,7 +552,7 @@
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cn9nn38jyryo?at_medium=RSS&at_campaign=rss",
         "summary": "Katarina Johnson-Thompson says if she is \"not competitive, I will start asking questions\" after finishing 21st at the European Athletics Championships following a difficult season.",
         "published": "2026-08-15T20:49:29Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a28/live/9a034d80-98e0-11f1-89f0-8dbc5eb120ba.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c179/live/d3f52070-98f6-11f1-870d-5d08c49babb2.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
@@ -535,42 +571,6 @@
         "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
         "published": "2026-08-15T20:19:40Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379a/live/7dd3ae70-98ea-11f1-baa8-93026f9f7e66.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "O'Connor secures European gold in heptathlon",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.",
-        "published": "2026-08-15T20:18:18Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/91ef0710-98e5-11f1-89f0-8dbc5eb120ba.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Les Kiss reaps rewards of derring-do approach to Australia’s team selection",
-        "link": "https://www.theguardian.com/sport/2026/aug/15/les-kiss-australia-team-selection-rugby-union",
-        "summary": "Issac Henry, Carlo Tizzano, Charlie Cale and Massimo de Lutiis repay faith shown by Wallabies coach and highlight squad’s strength in depth The Wallabies have problems, but they are of the good variety. In the return Test against Japan in Townsville on Saturday, they produced their most promising performance in 12 months, and not a moment too soon. The 56-17 victory included a professional, five-tries-to-none second half and a number of standout performances that will have the new coach, Les Kiss, wondering just how to craft this side into the best version of itself. Continue reading...",
-        "published": "2026-08-15T20:00:06Z",
-        "image": "https://i.guim.co.uk/img/media/aa9f5e1d4e0a5015a1ff846223cd2535290b3f03/569_0_5693_4555/master/5693.jpg?width=140&quality=85&auto=format&fit=max&s=4b0490842d4b069f60aea5e135a2a301",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Wigan score six tries to hammer wasteful Bradford",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c2k72g1x54do?at_medium=RSS&at_campaign=rss",
-        "summary": "Wigan Warriors defeated Bradford Bulls 34-6 to remain second in the Super League, trailing Leeds only on points difference.",
-        "published": "2026-08-15T19:48:57Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a9/live/461de070-98e2-11f1-89f0-8dbc5eb120ba.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "GB women denied in first shot at earning Olympic spot",
-        "link": "https://www.bbc.co.uk/sport/american-football/articles/c74gg534gl3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Great Britain women's team miss out on their first chance to qualify for flag football's Olympic debut but will have another opportunity on Sunday.",
-        "published": "2026-08-15T19:32:21Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fdf/live/8145b6a0-98dd-11f1-8e5a-edd8d47234c0.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
