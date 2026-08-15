@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T03:04:04Z",
+  "generated": "2026-08-15T03:53:16Z",
   "lead": {
     "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to ‘follow his lead’",
     "link": "https://www.theguardian.com/australia-news/2026/aug/15/coalition-split-on-andrew-bragg-speech-as-south-australian-senator-andrew-mclachlan-urges-colleagues-to-follow-his-lead",
@@ -14,7 +14,7 @@
       "title": "Australia v Bangladesh: first men’s Test, day three – live",
       "link": "https://www.theguardian.com/sport/live/2026/aug/15/australia-v-bangladesh-first-test-day-three-live-updates-darwin",
       "summary": "Updates as the Test at Marrara Cricket Ground continues Play starts in Darwin at 10am ACST/10.30am AEST Any thoughts? Email Angus Australia strike and it’s Josh Hazlewood doing the job with a beautiful seaming delivery that caught Mahmud on a leg stump line. That’s the breakthrough. Can the home side go on with it? 114th over: Bangladesh 354-6 (Miraz 33, Mahmud 14) There’s a lot of cameras trained on Australian allrounder Cameron Green today. He finished day two with a dropped catch from the last ball of the day to cap off a calamitous afternoon for his side. Hazlewood follows four dots with a ducking ball that thunders into Mahmud’s pads. Umpire says OUT! DRS says… Continue reading...",
-      "published": "2026-08-15T02:57:50Z",
+      "published": "2026-08-15T03:42:54Z",
       "image": "https://i.guim.co.uk/img/media/83f2c785ce42e3e110e2f0e145a884a295b49fb6/0_0_5366_4293/master/5366.jpg?width=140&quality=85&auto=format&fit=max&s=e06ab15fed1cc0bbc1f0a13a9fcd1a46",
       "source": "The Guardian",
       "section": "Sports"
@@ -39,6 +39,15 @@
     }
   ],
   "latest": [
+    {
+      "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "summary": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+      "published": "2026-08-15T03:04:20Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
     {
       "title": "US President Trump says he will declare Strait of Hormuz US territory",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
@@ -119,19 +128,19 @@
       "image": null,
       "source": "Al Jazeera",
       "section": "World"
-    },
-    {
-      "title": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-      "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4861650",
-      "summary": "",
-      "published": "2026-08-15T00:31:11Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7E007_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+        "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+        "summary": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+        "published": "2026-08-15T03:04:20Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
       {
         "title": "US President Trump says he will declare Strait of Hormuz US territory",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
@@ -193,15 +202,6 @@
         "published": "2026-08-15T01:07:41Z",
         "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=4c0a30610fd2ffc9a26dd8acadff73bc",
         "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
-        "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
-        "summary": "A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil's high-stakes presidential election.",
-        "published": "2026-08-15T00:32:56Z",
-        "image": null,
-        "source": "Al Jazeera",
         "section": "World"
       }
     ],
