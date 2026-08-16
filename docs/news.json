@@ -1,211 +1,256 @@
 {
-  "generated": "2026-08-16T08:46:17Z",
+  "generated": "2026-08-16T09:40:56Z",
   "lead": {
-    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-    "published": "2026-08-16T08:23:38Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-    "source": "BBC News",
+    "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+    "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+    "summary": "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.",
+    "published": "2026-08-16T09:31:10Z",
+    "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "published": "2026-08-16T09:33:00Z",
+      "image": "https://media.wired.com/photos/6a8007d2a5a41ea93847b302/master/pass/I-Tested-the-Best-Cat-Water-Fountains%E2%80%94These-Are-Worth-Buying.jpg",
+      "source": "Wired",
+      "section": "Technology"
+    },
+    {
       "title": "Community Shield buildup, Championship and club friendly updates – matchday live",
       "link": "https://www.theguardian.com/football/live/2026/aug/16/community-shield-buildup-championship-and-friendly-updates-matchday-live",
       "summary": "⚽ News and buildup to the first Sunday of the EFL season ⚽ Jonathan Wilson’s Community Shield preview | Mail us Championship results Wolves 2-2 Blackburn Rovers Bolton Wanderers 2-1 Preston North End Bristol City 0-2 Millwall Charlton 2-1 Derby County Middlesbrough 2-1 Lincoln City Norwich City 1-2 West Brom Portsmouth 1-3 Queens Park Rangers Stoke City 1-2 Swansea City Sheffield United 0-0 Birmingham City Continue reading...",
-      "published": "2026-08-16T08:42:12Z",
+      "published": "2026-08-16T09:30:05Z",
       "image": "https://i.guim.co.uk/img/media/9d54ac17a4daad7eadb9d47ddd557651ff595756/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a8ce3a4a8d813a4f5f1fd04eab82da79",
       "source": "The Guardian",
       "section": "Sports"
     },
     {
-      "title": "Makhachev beats Machado Garry to break UFC win record",
-      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Islam Makhachev cements his status as the best pound-for-pound fighter in the world with a commanding victory over Ian Machado Garry.",
-      "published": "2026-08-16T08:16:25Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c83/live/d3b3f4f0-9947-11f1-9c54-6bf455b73e04.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Cholera Outbreak Sickens More Than 90 in Myanmar’s Biggest City",
-      "link": "https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html",
-      "summary": "Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.",
-      "published": "2026-08-16T08:15:20Z",
-      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
+      "title": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "link": "https://www.wsj.com/tech/ai/open-weight-ai-wont-crimp-demand-for-picks-and-shovels-523e6410?mod=rss_markets_main",
+      "summary": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not.",
+      "published": "2026-08-16T09:30:00Z",
+      "image": "https://images.wsj.net/im-00376855",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
     }
   ],
   "latest": [
     {
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "published": "2026-08-16T09:27:58Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+      "summary": "Live video captures panic as gunman opens fire at park in Kentucky",
+      "published": "2026-08-16T09:24:22Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-      "published": "2026-08-16T08:14:56Z",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "published": "2026-08-16T09:04:14Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
       "source": "BBC News",
       "section": "World"
     },
     {
-      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-      "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.",
-      "published": "2026-08-16T08:11:47Z",
+      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+      "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+      "published": "2026-08-16T09:03:05Z",
       "image": null,
       "source": "Al Jazeera",
       "section": "World"
     },
     {
-      "title": "‘Have I tried having sex to my own music? God, no!’: Natalie Imbruglia’s honest playlist",
-      "link": "https://www.theguardian.com/music/2026/aug/16/natalie-imbruglia-honest-playlist-michael-jackson-joni-mitchell-torn",
-      "summary": "The singer was wooed with some knocked-off Joni Mitchell and might even be persuaded to sing Torn at karaoke. But what fan comment winds her up the most? The first song I fell in love with My dad gave me California Dreamin’ by the Mamas & the Papas on vinyl for my fifth birthday. I said: “Oh thanks, Dad,” but really, I thought: “Who is this weird bunch of people?” Obviously, the present was really for him. The first single I bought I remember begging my mum to buy me Beat It by Michael Jackson at a record shop in the ’burbs of Sydney. I mean – he’s Michael Jackson. Continue reading...",
-      "published": "2026-08-16T08:00:20Z",
-      "image": "https://i.guim.co.uk/img/media/1857d73455862c7a6a2425e1f328d0a5f93f31c9/5_0_6810_5448/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=d237365b8f0c12bb971ffe09421f738e",
-      "source": "The Guardian",
+      "title": "In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy",
+      "link": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
+      "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.",
+      "published": "2026-08-16T09:02:28Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/us/16dc-reykjavik-3/16dc-reykjavik-3-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Culture"
     },
     {
-      "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
-      "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
-      "summary": "Low river levels have stalled German freight traffic and forced closure of nuclear plants in France Across Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down. Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of analysis from economists at the Dutch bank Triodos , who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinktank Verdant said this week that the heat had already cost the economy £4.4bn by the end of July. Continue reading...",
-      "published": "2026-08-16T08:00:19Z",
-      "image": "https://i.guim.co.uk/img/media/3d3bf221e28fe3c65050067b92a5c556dab32710/928_0_6020_4816/master/6020.jpg?width=140&quality=85&auto=format&fit=max&s=05d529c5481be7d9eac4f2009c240a0c",
-      "source": "The Guardian",
+      "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+      "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+      "summary": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power.",
+      "published": "2026-08-16T09:01:55Z",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/00Israel-Disinfo-1-kbzm/00Israel-Disinfo-1-kbzm-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Business"
     },
     {
-      "title": "Trump’s grand plan to put American workers first may be backfiring as U.S.-born unemployment rises and wage growth stalls",
-      "link": "https://fortune.com/2026/08/16/trump-plan-american-workers-unemployment-rising/",
-      "summary": "\"These jobs are typically ones that are very difficult, very arduous jobs that require a lot of physical hardship, and the native-born workers just haven't done these jobs for quite some time and are in no mood to take them now—certainly not at these wages.\"",
-      "published": "2026-08-16T08:00:00Z",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2289201765_d5bfa4-e1786617455880.jpg?w=2048",
-      "source": "Fortune",
+      "title": "Should I Publicize a Bad Publicist?",
+      "link": "https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html",
+      "summary": "Plus: An intern considers whether to give the boss an honest review.",
+      "published": "2026-08-16T09:01:55Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16biz-sun-workfriend-jtkc/16biz-sun-workfriend-jtkc-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Business"
     },
     {
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "published": "2026-08-16T07:58:02Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
-      "section": "World"
-    },
-    {
-      "title": "Not for Glory review – folk dance and bagpipes, but not as we know them",
-      "link": "https://www.theguardian.com/stage/2026/aug/16/not-for-glory-review-assembly-dance-base-edinburgh",
-      "summary": "Assembly @ Dance Base, Edinburgh Jack Anderson and Charlotte Mclean began as champions of classic Irish and Highland steps. Here, with piper Malin Lewis, they give them a new form Jack Anderson was once a champion Irish dancer who toured the world in popular shows. But when he later enrolled at contemporary dance school, he hid his past like a shameful secret. Charlotte Mclean also tried to leave behind her childhood legacy as a competitive Highland dancer. She never liked Highland dance anyway (she just liked winning competitions) but as an adult, is she finally changing her mind? These are just two of many talking points in this anarchic dance-theatre gig from Anderson, Mclean and piper Malin Lewis. The trio are all coming to terms with their artistic inheritance, by means of distortion, deconstruction and downright mockery, then reclaiming it on their own terms. (Lewis has arguably already done this, with the acclaimed album Halocline in 2024 which saw them tagged “the future of Scottish folk”). Continue reading...",
-      "published": "2026-08-16T07:53:29Z",
-      "image": "https://i.guim.co.uk/img/media/30fc650078e0a2ff12be10fac32d3fdf55faf89c/0_614_4677_3742/master/4677.jpg?width=140&quality=85&auto=format&fit=max&s=23de9fe01a9fcb39b4c365ffab2a0808",
-      "source": "The Guardian",
+      "title": "Hannah Berner Is Having the Last Laugh, or Would if She Could",
+      "link": "https://www.nytimes.com/2026/08/16/style/hannah-berner-botox-jaw-tmj.html",
+      "summary": "Since a jaw injection went awry and left her unable to smile, the comedian and podcast host has made the most of her predicament.",
+      "published": "2026-08-16T09:01:49Z",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16HANNAH-BERNER-SMILE-ktbc/16HANNAH-BERNER-SMILE-ktbc-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Culture"
     },
     {
-      "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-      "summary": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-      "published": "2026-08-16T07:47:45Z",
+      "title": "What to Know Before Watching ‘Lanterns,’ HBO’s New DC Comics Series",
+      "link": "https://www.nytimes.com/2026/08/16/arts/television/lanterns-hbo-dc-comics-tv-green-lantern.html",
+      "summary": "For instance, there is more than one Green Lantern. And not every lantern is green. Here’s a brief look at the lore going back to 1940.",
+      "published": "2026-08-16T09:01:45Z",
       "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "New satellite images show Europe’s disappearing rivers due to drought",
-      "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-      "summary": "Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.",
-      "published": "2026-08-16T07:46:22Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "The Last Drop review – everything is rotten in this dark domestic comedy",
-      "link": "https://www.theguardian.com/stage/2026/aug/16/the-last-drop-review-zoo-playground-edinburgh-festival",
-      "summary": "Zoo Playground, Edinburgh Dante Passarelli’s play, part of the São Paulo Showcase, is an atmospheric hour borrowing themes from Hamlet This year’s fringe variously puts Hamlet in the Big Brother house with Lady Macbeth, makes him “ Prince of Sweden ” in an Italian two-hander and grinds the play into what Polonius might call a “tragical-comical” swipe at the meat industry . Dante Passarelli’s The Last Drop, part of the festival’s São Paulo Showcase , borrows the opening and closing lines of Shakespeare’s masterpiece and pursues similar themes of madness, revenge and surveillance in a story where everything, not just something, is rotten. The opening tableau resembles a murder scene: has death-stare Cynthia (Fernanda Zancopé) done away with her husband, Gilberto (Ernani Sanchez), who lies sprawled on the floor? Apparently not: as he rises, and they resume their bickering, you realise wider crimes are at play in this densely packed city where new buildings rise around them and construction often involves corruption. Suspicion is rife: they have lived for years in this apartment block with its peeling wallpaper and hold their upstairs neighbour, so wasteful with water, responsible for the mouldy stain on their ceiling. At Zoo Playground, Edinburgh , until 30 August All our Edinburgh festival reviews Continue reading...",
-      "published": "2026-08-16T07:36:28Z",
-      "image": "https://i.guim.co.uk/img/media/4dc7d763b798a96b86e87709dea94e39b4140972/1267_707_2511_2009/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=78013318071cda1f20f6159fd21b17a7",
-      "source": "The Guardian",
+      "source": "The New York Times",
       "section": "Culture"
+    },
+    {
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "summary": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
+      "published": "2026-08-16T09:01:44Z",
+      "image": "https://static01.nyt.com/images/2026/08/14/world/00int-russia-prisoner/00int-russia-prisoner-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+        "published": "2026-08-16T09:27:58Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Live video captures panic as gunman opens fire at park in Kentucky",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/live-video-captures-panic-as-gunman-opens-fire-at-park-in-kentucky?traffic_source=rss",
+        "summary": "Live video captures panic as gunman opens fire at park in Kentucky",
+        "published": "2026-08-16T09:24:22Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
         "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-        "published": "2026-08-16T08:14:56Z",
+        "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "published": "2026-08-16T09:04:14Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-        "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney's Bondi killed 15 people.",
-        "published": "2026-08-16T08:11:47Z",
+        "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+        "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
+        "summary": "Novak Djokovic struggled in the hot conditions and was ousted from Cincinnati Open in his first match since Wimbledon.",
+        "published": "2026-08-16T09:03:05Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-        "published": "2026-08-16T07:58:02Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg",
-        "source": "BBC News",
+        "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+        "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+        "summary": "Artem Murdid, his mother and his girlfriend are accused of terrorism. They say they did nothing wrong.",
+        "published": "2026-08-16T09:01:44Z",
+        "image": "https://static01.nyt.com/images/2026/08/14/world/00int-russia-prisoner/00int-russia-prisoner-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "World"
       },
       {
-        "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-        "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-        "summary": "Messi's record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
-        "published": "2026-08-16T07:47:45Z",
-        "image": null,
-        "source": "Al Jazeera",
+        "title": "Block export of ‘national treasure’ UK fossils, says MP",
+        "link": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
+        "summary": "Sale of one of UK’s top collections overseas prompts call new rules to help keep items in country One of UK’s best fossil collections sold in ‘loss to the nation’ An MP has called on ministers to change export controls so that significant fossils can be classed as national treasures after one of the UK’s best collections, unearthed on Dorset beaches, was sold overseas. Last week, a Guardian investigation revealed that an unparalleled collection of fossils from the UK’s Jurassic Coast, comprising hundreds of specimens including ichthyosaurs, had been sold to the Natural History Museum in Abu Dhabi for what one source described as an “eight-figure sum”. Continue reading...",
+        "published": "2026-08-16T09:00:22Z",
+        "image": "https://i.guim.co.uk/img/media/f48938d86acd223cf061cc24ec53cd828e7e8c7c/0_0_5250_4200/master/5250.jpg?width=140&quality=85&auto=format&fit=max&s=b63b50c6db1540b0e619ac8b1c9142e8",
+        "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "New satellite images show Europe’s disappearing rivers due to drought",
-        "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-        "summary": "Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine.",
-        "published": "2026-08-16T07:46:22Z",
-        "image": null,
-        "source": "Al Jazeera",
+        "title": "University spinout to launch water quality app for UK and US waters",
+        "link": "https://www.theguardian.com/business/2026/aug/16/plymouth-university-spinout-water-quality-app-uk-us-waters-molendotech-e-coli",
+        "summary": "Molendotech will collate data from daily tests that detect E coli and other bacteria amid reports of swimmers falling ill A UK university spinout behind a rapid bacterial water testing kit is planning to launch live water quality maps, as scores of beachgoers report falling ill after swimming. Molendotech, a spinout from the University of Plymouth, sells a portable test that detects E coli and other bacteria in water and delivers results on the spot, without waiting for days to get laboratory results. Continue reading...",
+        "published": "2026-08-16T09:00:22Z",
+        "image": "https://i.guim.co.uk/img/media/e00c87f782447a1fc23fd7234e715bf0152e0c13/769_0_6467_5173/master/6467.jpg?width=140&quality=85&auto=format&fit=max&s=507ecc06fa1d82b7c2583c297b9b9567",
+        "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-        "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
-        "summary": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
-        "published": "2026-08-16T07:04:29Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-        "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-        "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-        "published": "2026-08-16T07:04:17Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
-        "link": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
-        "summary": "Jared Cooney Horvath argues that educational technology undermines how children learn and develop Jared Cooney Horvath is on a mission. In the wake of global campaigns for smartphone bans in schools and social media restrictions for under-16s, the neuroscientist wants to raise the alarm about educational technology in classrooms. A former teacher, Horvath believes the use of screens and digital tools in schools is undermining how children learn and develop. “This might be one of the hardest truths our generation has to face,” he writes in his book, The Digital Delusion . Continue reading...",
-        "published": "2026-08-16T07:00:20Z",
-        "image": "https://i.guim.co.uk/img/media/4c67ae46db415c17cc74f0174775cd5b2e946d72/0_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=91c5e71e9e3536cfdce54af22a3283cb",
+        "title": "King Charles and Prince William face £10m energy upgrade bill for estates",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/16/king-charles-and-prince-william-face-10m-energy-upgrade-bill-for-estates",
+        "summary": "New rules could affect nine in 10 rental properties in duchies of Cornwall and Lancaster and at Sandringham King Charles and Prince William could be forced to spend up to £10m upgrading hundreds of rental properties on their private estates to meet planned energy-efficiency rules. The government has announced that landlords will need to ensure their properties have energy performance certificate (EPC) ratings of C or higher by 2030 – up from the current requirement of an E. Continue reading...",
+        "published": "2026-08-16T09:00:21Z",
+        "image": "https://i.guim.co.uk/img/media/6fa79286ec88c4f5bb56fe7ec7ac2a4fb2992828/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=71fb7de2352c8d63fdddd313fcaf3007",
         "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+        "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+        "summary": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power.",
+        "published": "2026-08-16T09:01:55Z",
+        "image": "https://static01.nyt.com/images/2026/08/13/multimedia/00Israel-Disinfo-1-kbzm/00Israel-Disinfo-1-kbzm-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Should I Publicize a Bad Publicist?",
+        "link": "https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html",
+        "summary": "Plus: An intern considers whether to give the boss an honest review.",
+        "published": "2026-08-16T09:01:55Z",
+        "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16biz-sun-workfriend-jtkc/16biz-sun-workfriend-jtkc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+        "link": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+        "summary": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit.",
+        "published": "2026-08-16T09:00:37Z",
+        "image": "https://static01.nyt.com/images/2026/08/16/business/09DC-AI-ECON-illo/09DC-AI-ECON-illo-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Conscious unbossing isn’t just a Gen Z thing. I’m a CMO who did it",
+        "link": "https://fortune.com/2026/08/16/conscious-unbossing-isnt-just-a-gen-z-thing-im-a-cmo-who-did-it/",
+        "summary": "Gen Z gets the credit for \"conscious unbossing.\" But some people quietly walking away from management are a lot more senior, and AI is a big reason why.",
+        "published": "2026-08-16T09:00:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/juliana.png?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "There isn’t just one AI bubble, strategist says — there’s a ‘rolling sequence of bubbles’ instead",
+        "link": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+        "summary": "What if there isn't just one AI bubble, but a whole sequence of them?",
+        "published": "2026-08-16T08:30:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-71924-PM.png?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
         "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
@@ -232,54 +277,27 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/charles-c.png?w=2048",
         "source": "Fortune",
         "section": "Business"
-      },
-      {
-        "title": "Jimmy Wales: ‘AI can generate answers. It still can’t earn trust’",
-        "link": "https://fortune.com/2026/08/16/jimmy-wales-ai-can-generate-answers-it-still-cant-earn-trust/",
-        "summary": "The leadership lesson of Wikipedia.",
-        "published": "2026-08-16T07:30:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/wales.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Parents 'watering down baby milk' over high costs",
-        "link": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
-        "summary": "Moorside Baby Bank say parents are turning to unsafe practices over the rising cost of essentials.",
-        "published": "2026-08-16T06:03:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5494/live/d99bd3e0-97e1-11f1-a76b-f1c27c51f3da.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "The weekend is 100 years old – but have ‘skiveday Fridays’ and hybrid working ruined it for everyone?",
-        "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-        "summary": "In 1926, Henry Ford gave his employees both Saturdays and Sundays off – and the two-day chunk of time to party, pray or simply do nothing was born. Now it’s changed beyond recognition For 11 years, from 1929 to 1940, the Soviet Union did not have weekends. Instead, to increase productivity citizens were allocated a day off in every seven at random. With 80% of the population at work on any given day, factories never had to power down. A letter from a disgruntled worker to Pravda newspaper, published soon after the implementation of this new working calendar, outlined the problems: “What is there for us to do at home if our wives are in the factory, our children at school, and nobody can visit us?” the letter-writer asked. “It is no holiday if you have to have it alone.” Parents found themselves at home while their children were at school, or with kids unsupervised while they were on shift. With no shared day off, extended family gatherings became impossible. The workforce became demoralised and listless, the projected spike in productivity never materialised, and the policy was first modified, then abandoned altogether. Continue reading...",
-        "published": "2026-08-16T05:00:17Z",
-        "image": "https://i.guim.co.uk/img/media/46f90b7d7ffb12ee9deb1ede591298c3fa6893e8/0_1121_4847_3877/master/4847.jpg?width=140&quality=85&auto=format&fit=max&s=492af01f1908e17f01e60c7ad44a0cdf",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Sports Team Sale Prices Keep Hitting New Highs",
-        "link": "https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html",
-        "summary": "The deal for the Los Angeles Lakers valued the team at a record $12.5 billion, eclipsing the $10 billion paid for the franchise just last year.",
-        "published": "2026-08-16T01:08:45Z",
-        "image": "https://static01.nyt.com/images/2026/08/15/multimedia/15biz-team-valuations-hfjq/15biz-team-valuations-hfjq-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-        "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
-        "published": "2026-08-15T23:45:44Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-        "source": "BBC News",
-        "section": "Business"
       }
     ],
     "Markets": [
+      {
+        "title": "5 big analyst AI moves: Bullish on memory names; Apple and Cisco downgraded",
+        "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-bullish-on-memory-names-apple-and-cisco-downgraded-4861817",
+        "summary": "",
+        "published": "2026-08-16T09:00:02Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM4P1K9_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+        "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+        "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths them.",
+        "published": "2026-08-16T05:00:01Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
       {
         "title": "Can SpaceX Leap to the AI Frontier?",
         "link": "https://www.investing.com/news/stock-market-news/can-spacex-leap-to-the-ai-frontier-4861908",
@@ -332,24 +350,6 @@
         "published": "2026-08-16T00:46:23Z",
         "image": "https://content-media.investing.com/news/moved_LYNXMPEHAA01J_L.jpg",
         "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock",
-        "link": "https://www.investing.com/news/stock-market-news/why-nvidias-500bn-investment-mobilization-is-a-positive-for-the-stock-4861855",
-        "summary": "",
-        "published": "2026-08-15T21:07:11Z",
-        "image": "https://content-media.investing.com/news/Nvidia_800x533_L_1762265351.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-        "link": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-        "summary": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S. territory.",
-        "published": "2026-08-15T20:38:29Z",
-        "image": null,
-        "source": "CNBC",
         "section": "Markets"
       }
     ],
@@ -503,6 +503,15 @@
     ],
     "Sports": [
       {
+        "title": "Makhachev beats Machado Garry to break UFC win record",
+        "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Islam Makhachev cements his status as the best pound-for-pound fighter in the world with a commanding victory over Ian Machado Garry.",
+        "published": "2026-08-16T08:16:25Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c83/live/d3b3f4f0-9947-11f1-9c54-6bf455b73e04.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Leicester learn harsh reality of life in League One but youngsters provide silver lining",
         "link": "https://www.theguardian.com/football/2026/aug/16/leicester-learn-harsh-reality-of-life-league-one-but-youngsters-provide-silver-lining",
         "summary": "Uncertainty about the club’s future was matched by some on the pitch in 1-1 draw with Notts County If Leicester thought this season was going to be the footballing equivalent of a gap year, visiting new places and learning some life lessons before returning home, then they were mistaken. Being outfought and outperformed by Notts County, a well-organised and energetic team promoted from the fourth tier, brought the harsh reality of life to the fore on Saturday. Russell Martin’s desire to play out from the back provided the fragile foundation of a dispiriting performance for a team tipped to storm back up. Ollie Cooper charging down the ponderous Alex McCarthy before seeing the ball bounce back off the crossbar welcomed Leicester to League One within six minutes. McCarthy or the confused centre-back pairing of Caleb Okoli and Harry Souttar repeatedly gave the ball away in and around the penalty area as the team created their own problems. Things went so badly that a compilation of the slapstick defensive output quickly gained traction on social media. Continue reading...",
@@ -564,18 +573,72 @@
         "image": "https://i.guim.co.uk/img/media/455b2ec9725972e35684d76f655600d9d041285a/597_0_4534_3628/master/4534.jpg?width=140&quality=85&auto=format&fit=max&s=a20d924d216cf024cd8398cb35cad5d0",
         "source": "The Guardian",
         "section": "Sports"
-      },
-      {
-        "title": "Who am I? Guess Premier League star No 27",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvg93n35ypxo?at_medium=RSS&at_campaign=rss",
-        "summary": "Work out the identity of today's player in as few attempts as possible.",
-        "published": "2026-08-16T05:48:53Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb38/live/55cf7c10-85b2-11f1-926f-c90d1bcfbc84.png",
-        "source": "BBC Sport",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy",
+        "link": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
+        "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.",
+        "published": "2026-08-16T09:02:28Z",
+        "image": "https://static01.nyt.com/images/2026/08/16/us/16dc-reykjavik-3/16dc-reykjavik-3-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Hannah Berner Is Having the Last Laugh, or Would if She Could",
+        "link": "https://www.nytimes.com/2026/08/16/style/hannah-berner-botox-jaw-tmj.html",
+        "summary": "Since a jaw injection went awry and left her unable to smile, the comedian and podcast host has made the most of her predicament.",
+        "published": "2026-08-16T09:01:49Z",
+        "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16HANNAH-BERNER-SMILE-ktbc/16HANNAH-BERNER-SMILE-ktbc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "What to Know Before Watching ‘Lanterns,’ HBO’s New DC Comics Series",
+        "link": "https://www.nytimes.com/2026/08/16/arts/television/lanterns-hbo-dc-comics-tv-green-lantern.html",
+        "summary": "For instance, there is more than one Green Lantern. And not every lantern is green. Here’s a brief look at the lore going back to 1940.",
+        "published": "2026-08-16T09:01:45Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Zale Parry, Aquatic Hollywood Star and Early Acid Tripper, Dies at 93",
+        "link": "https://www.nytimes.com/2026/08/16/arts/television/zale-parry-dead.html",
+        "summary": "A diving feat landed her on the cover of Sports Illustrated and led to a film and TV career. She also took part in one of the first LSD studies.",
+        "published": "2026-08-16T09:00:52Z",
+        "image": "https://static01.nyt.com/images/2026/09/12/multimedia/12Parry-01-bgzc/12Parry-01-bgzc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
+        "link": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
+        "summary": "A woman who secured the criminal file of her grandmother, a collaborator, offered to share it with a Jewish family that had been betrayed. Then she balked and a new dispute ensued.",
+        "published": "2026-08-16T09:00:27Z",
+        "image": "https://static01.nyt.com/images/2026/08/03/multimedia/00cul-THE-COLLABORATOR-promo/00cul-THE-COLLABORATOR-promo-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "‘I thought – if I die, I’ve had a good innings’: producer James Ford on life, death and making an album from his hospital bed",
+        "link": "https://www.theguardian.com/music/2026/aug/16/james-ellis-ford-music-producer-interview-lost-in-another-world-leukaemia-arctic-monkeys-florence-machine",
+        "summary": "The Arctic Monkeys, Pet Shop Boys and Pulp collaborator was at the height of his powers as Britain’s most in-demand music producer when leukaemia struck. ‘I realised life is exceptionally fragile,’ he says There was a moment outside the door of a recording studio in rural France, staring at a half-eaten apple that he believed possessed psychedelic properties, when James Ford knew things had really got out of hand. He was stood with Klaxons; all of the band members were hypnotised by this rotting fruit which throbbed on the floor with kaleidoscopic intensity. They were convinced that its blooming mould was in fact their spiritual guru. The band had been riding the wave of their huge, scene-defining debut album, 2007’s Myths of the Near Future – which was produced by Ford – and were now trying to record the interminably difficult follow-up, aided by daily doses of a concoction they’d taken to calling “the five-star general”. Continue reading...",
+        "published": "2026-08-16T09:00:21Z",
+        "image": "https://i.guim.co.uk/img/media/16899c289a448c231719a75c00ad283c3bbca03b/2385_2374_6605_5284/master/6605.jpg?width=140&quality=85&auto=format&fit=max&s=dfa4326d95adadfc6f2660b5ac17b4f0",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
+      {
+        "title": "Jonno: Here Comes Mr Funny review – Sheeps comic leaves flock for revelatory solo",
+        "link": "https://www.theguardian.com/stage/2026/aug/16/jonno-here-comes-mr-funny-review-edinburgh",
+        "summary": "Monkey Barrel, Edinburgh The Saturday Night Live UK writer, who is one-third of the sketch troupe Sheeps, balances sincerity and shtick in a show with big laughs There are reasons to take up standup, and then there’s Daran “Jonno” Johnson launching this new career aged 38 as a form of exposure therapy for anxiety. At least we have an explanation for why this prodigiously funny and talented man hasn’t gone solo before. As one-third of the sketch-group-of-their-generation, Sheeps , and now head writer on the hit Saturday Night Live UK , he doesn’t lack credentials for a tilt at standup. And, while Here Comes Mr Funny has its teething problems, it’s a bright start to Jonno’s singular life, and gave me some of my biggest laughs of this fringe. What’s surprising about it, and arguably part of what works least well, is that Jonno – a man hitherto hidden behind tiers of irony in his performing career – reveals so much of himself. He admits to being nervous. He talks about envying watching his peers on TV, half expecting to see himself appear on screen and join them. Continue reading...",
+        "published": "2026-08-16T09:00:21Z",
+        "image": "https://i.guim.co.uk/img/media/938c2eccd7eaae015ba48254cd3bb459332688aa/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=95b7862985bc0576caee4f2e3c6c2ebd",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "‘Have I tried having sex to my own music? God, no!’: Natalie Imbruglia’s honest playlist",
         "link": "https://www.theguardian.com/music/2026/aug/16/natalie-imbruglia-honest-playlist-michael-jackson-joni-mitchell-torn",
@@ -583,69 +646,6 @@
         "published": "2026-08-16T08:00:20Z",
         "image": "https://i.guim.co.uk/img/media/1857d73455862c7a6a2425e1f328d0a5f93f31c9/5_0_6810_5448/master/6810.jpg?width=140&quality=85&auto=format&fit=max&s=d237365b8f0c12bb971ffe09421f738e",
         "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Not for Glory review – folk dance and bagpipes, but not as we know them",
-        "link": "https://www.theguardian.com/stage/2026/aug/16/not-for-glory-review-assembly-dance-base-edinburgh",
-        "summary": "Assembly @ Dance Base, Edinburgh Jack Anderson and Charlotte Mclean began as champions of classic Irish and Highland steps. Here, with piper Malin Lewis, they give them a new form Jack Anderson was once a champion Irish dancer who toured the world in popular shows. But when he later enrolled at contemporary dance school, he hid his past like a shameful secret. Charlotte Mclean also tried to leave behind her childhood legacy as a competitive Highland dancer. She never liked Highland dance anyway (she just liked winning competitions) but as an adult, is she finally changing her mind? These are just two of many talking points in this anarchic dance-theatre gig from Anderson, Mclean and piper Malin Lewis. The trio are all coming to terms with their artistic inheritance, by means of distortion, deconstruction and downright mockery, then reclaiming it on their own terms. (Lewis has arguably already done this, with the acclaimed album Halocline in 2024 which saw them tagged “the future of Scottish folk”). Continue reading...",
-        "published": "2026-08-16T07:53:29Z",
-        "image": "https://i.guim.co.uk/img/media/30fc650078e0a2ff12be10fac32d3fdf55faf89c/0_614_4677_3742/master/4677.jpg?width=140&quality=85&auto=format&fit=max&s=23de9fe01a9fcb39b4c365ffab2a0808",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "The Last Drop review – everything is rotten in this dark domestic comedy",
-        "link": "https://www.theguardian.com/stage/2026/aug/16/the-last-drop-review-zoo-playground-edinburgh-festival",
-        "summary": "Zoo Playground, Edinburgh Dante Passarelli’s play, part of the São Paulo Showcase, is an atmospheric hour borrowing themes from Hamlet This year’s fringe variously puts Hamlet in the Big Brother house with Lady Macbeth, makes him “ Prince of Sweden ” in an Italian two-hander and grinds the play into what Polonius might call a “tragical-comical” swipe at the meat industry . Dante Passarelli’s The Last Drop, part of the festival’s São Paulo Showcase , borrows the opening and closing lines of Shakespeare’s masterpiece and pursues similar themes of madness, revenge and surveillance in a story where everything, not just something, is rotten. The opening tableau resembles a murder scene: has death-stare Cynthia (Fernanda Zancopé) done away with her husband, Gilberto (Ernani Sanchez), who lies sprawled on the floor? Apparently not: as he rises, and they resume their bickering, you realise wider crimes are at play in this densely packed city where new buildings rise around them and construction often involves corruption. Suspicion is rife: they have lived for years in this apartment block with its peeling wallpaper and hold their upstairs neighbour, so wasteful with water, responsible for the mouldy stain on their ceiling. At Zoo Playground, Edinburgh , until 30 August All our Edinburgh festival reviews Continue reading...",
-        "published": "2026-08-16T07:36:28Z",
-        "image": "https://i.guim.co.uk/img/media/4dc7d763b798a96b86e87709dea94e39b4140972/1267_707_2511_2009/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=78013318071cda1f20f6159fd21b17a7",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "TV tonight: a remarkable Bafta-winning film gets a vital update",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/aug/16/tv-tonight-a-remarkable-bafta-winning-film-gets-a-vital-update",
-        "summary": "The story of Mir Hussein in Afghanistan, who cameras have now followed for 25 years. Plus: a comedy from the director of Colin from Accounts. Here’s what to watch this evening Sunday, 11.15pm, ITV1 Continue reading...",
-        "published": "2026-08-16T05:15:16Z",
-        "image": "https://i.guim.co.uk/img/media/4a50e201dd49416310ec84397d67de255f80c28f/275_0_1356_1085/master/1356.jpg?width=140&quality=85&auto=format&fit=max&s=3db4aa3c046574f4629d8ffcdc4efc12",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "How Madonna Put Motion Into Music With Her Dance Performances",
-        "link": "https://www.nytimes.com/2026/08/16/arts/dance/madonna-dance-music.html",
-        "summary": "Dance is neither a tool nor an accessory for Madonna. It is an unwavering force in her performing life.",
-        "published": "2026-08-16T04:01:11Z",
-        "image": "https://static01.nyt.com/images/2026/08/16/multimedia/16cul-madonna-dance-pjbq/16cul-madonna-dance-pjbq-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-        "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
-        "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-        "published": "2026-08-16T02:01:42Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02d/live/6a514960-990e-11f1-921c-6b592e028b10.jpg",
-        "source": "BBC News",
-        "section": "Culture"
-      },
-      {
-        "title": "Endgame review – Beckett’s lonely clowns raise an extra laugh",
-        "link": "https://www.theguardian.com/stage/2026/aug/15/endgame-review-lomond-theatre-at-pleasance-at-eicc-edinburgh",
-        "summary": "Pleasance at EICC, Edinburgh Flabbergast Theatre’s production of Samuel Beckett’s desolate play leans into slapstick – and loses some of the searing threat This production by Flabbergast Theatre , which specialises in physical comedy, shows you what a good fit clowning is for Samuel Beckett’s work. The tragicomic characters in director Henry Maynard’s production are wretchedly grotesque. Hamm (Maynard), the master of this reduced and desolate world, or what remains of it, is recognisably bombastic, with flamboyant flourishes to his attire (an enormous hanky in his breast pocket, an ancient-looking rug on this knees). Clov (Simon Gleave) is his vaudevillian sidekick, with such exaggerated comic limps and gurns that you almost expect pratfalls. The tragic dustbin duo of Nagg (Derek Elwood) and Nell (Annabel Arden) are ash-faced yet upbeat. The relationship between the sad clowns holed up in their grimy space, just about surviving the postapocalyptic threat outside, leans into slapstick. It is amusing but lightens the material, undercutting the tragedy, although you certainly feel the sense of loneliness. But their respective ends are not emotionally searing, and neither is the production quite as threatening in its master-slave games. Continue reading...",
-        "published": "2026-08-15T19:00:04Z",
-        "image": "https://i.guim.co.uk/img/media/9f4f6f8ee721fdb44599cf1946d89d0638a0602c/562_0_5616_4493/master/5616.jpg?width=140&quality=85&auto=format&fit=max&s=85a969b9c78e2622d2e68e67f2ed74f4",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "RM, a Superstar With BTS, Gets His Feet Wet As an Art Curator",
-        "link": "https://www.nytimes.com/2026/08/14/arts/design/bts-rm-art-museum.html",
-        "summary": "RM, of BTS, brings 145 works by Korean artists to SFMOMA this fall. “I know Picasso, I know van Gogh. I don’t know anyone from my country,” he told himself as he began to buy. “You have to find your root.”",
-        "published": "2026-08-15T17:59:53Z",
-        "image": null,
-        "source": "The New York Times",
         "section": "Culture"
       }
     ]
