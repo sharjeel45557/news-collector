@@ -1,211 +1,220 @@
 {
-  "generated": "2026-08-20T04:51:59Z",
+  "generated": "2026-08-20T05:45:58Z",
   "lead": {
-    "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-    "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-    "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
-    "published": "2026-08-20T04:49:52Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
-    "source": "BBC News",
+    "title": "Erin Patterson appeal live: prosecutors seek life in prison without parole for triple murderer",
+    "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+    "summary": "Victorian court of appeal will consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Prosecution turns to argument Patterson wasn’t severely ill after beef wellington McWilliams is touching on the prosecution’s argument in its closing address that Patterson was not severely ill after the poisoned beef wellington lunch. Patterson’s lawyers have pointed to evidence heard in the trial, including testimony about her lowered potassium levels. McWilliams says her potassium levels were “clinically noted” but she did not present as having death cap mushroom poisoning after the meal. He says: Whatever it was that she presented to medical practitioners with, it was not death cap mushroom poisoning. Continue reading...",
+    "published": "2026-08-20T05:27:52Z",
+    "image": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
-      "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-      "summary": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.",
-      "published": "2026-08-20T04:46:27Z",
-      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-UAE-Iran-zctk/19int-UAE-Iran-zctk-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
+      "title": "Odfjell Technology Q2 EBITDA climbs 19% on acquisitions",
+      "link": "https://www.investing.com/news/stock-market-news/odfjell-technology-q2-ebitda-climbs-19-on-acquisitions-93CH-4868699",
+      "summary": "",
+      "published": "2026-08-20T05:31:12Z",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Viva Wine reports 21% sales growth in Q2 on acquisitions",
+      "link": "https://www.investing.com/news/stock-market-news/viva-wine-reports-21-sales-growth-in-q2-on-acquisitions-93CH-4868698",
+      "summary": "",
+      "published": "2026-08-20T05:30:26Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "B2 Impact raises 2026 profit target after Q2 earnings jump",
+      "link": "https://www.investing.com/news/stock-market-news/b2-impact-raises-2026-profit-target-after-q2-earnings-jump-93CH-4868694",
+      "summary": "",
+      "published": "2026-08-20T05:28:24Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+      "link": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+      "summary": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
+      "published": "2026-08-20T05:29:50Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Zelluna reports Q2 loss as cancer therapy trial advances",
+      "link": "https://www.investing.com/news/stock-market-news/zelluna-reports-q2-loss-as-cancer-therapy-trial-advances-93CH-4868693",
+      "summary": "",
+      "published": "2026-08-20T05:28:19Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Kyiv comes under Russian missile attack, killing at least nine",
+      "link": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "summary": "Death reported after residential areas and warehouses hit in heavy bombardment in capital and surrounding region A heavy Russian bombardment killed at least nine people in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and left eight people dead and 33 wounded, city military authorities said. Continue reading...",
+      "published": "2026-08-20T05:25:28Z",
+      "image": "https://i.guim.co.uk/img/media/a64f5f689d31942cbd665d307efd0617e1b761d3/407_225_1593_1275/master/1593.jpg?width=140&quality=85&auto=format&fit=max&s=a1335ba0c69b5d3795ecbd00d2582027",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+      "published": "2026-08-20T05:25:23Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
+      "source": "BBC News",
       "section": "World"
     },
     {
       "title": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
       "link": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
-      "summary": "Premier Chris Minns tells parliament ‘this is obviously devastating’ after earlier announcing 18-year-old had been ‘found alive’ with half a bottle of water Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike. NSW police said in a statement: “The body of a woman has been located in bushland following the search for a missing bushwalker in the Southern Highlands.” Continue reading...",
-      "published": "2026-08-20T04:44:39Z",
+      "summary": "Initial report from ‘thick and dense terrain’ where Lily was located was she’d been found alive but within 10 minutes a ‘more accurate account’ was relayed to police Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike. NSW police said in a statement on Thursday: “The body of a woman has been located in bushland following the search for a missing bushwalker in the Southern Highlands.” Continue reading...",
+      "published": "2026-08-20T05:24:58Z",
       "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=4c0a30610fd2ffc9a26dd8acadff73bc",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Founder of China's Evergrande sentenced to life in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "published": "2026-08-20T04:42:13Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7941/live/f514e1b0-9c4c-11f1-a7e0-fd27165ce529.jpg",
-      "source": "BBC News",
-      "section": "Business"
-    }
-  ],
-  "latest": [
+      "title": "Orkla reports Q2 earnings beat despite revenue decline",
+      "link": "https://www.investing.com/news/stock-market-news/orkla-reports-q2-earnings-beat-despite-revenue-decline-93CH-4868692",
+      "summary": "",
+      "published": "2026-08-20T05:24:53Z",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
     {
-      "title": "Politics live: Wong says ‘it’s a difficult time’ in Australia’s relationship with Israel after Zomi Frankcom decision; Coalition and Labor trade barbs over debt",
+      "title": "SBO reports 19% sales drop despite rising orders and backlog",
+      "link": "https://www.investing.com/news/stock-market-news/sbo-reports-19-sales-drop-despite-rising-orders-and-backlog-93CH-4868691",
+      "summary": "",
+      "published": "2026-08-20T05:24:39Z",
+      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "published": "2026-08-20T05:24:16Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "Politics live: Albanese calls Zomi Frankcom decision ‘an outrage’; over 1,000 birds found dead with suspected H5 flu in South Australia",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Greens leader Larissa Waters says strong words are not enough, and the government should sanction the state of Israel after its defence force decided not to pursue a criminal investigation into the killing of World Central Kitchen aid workers including Australian Zomi Frankom . It is absolutely outrageous that after two years of investigating, the Israeli authorities have cleared themselves of any wrongdoing … The Australian government needs to do more than just issue some strongly worded statements. They need to sanction the state of Israel and they need to make sure that we are not involved in a two-way arms trade, which we are at the moment. It’s a significant loss not only to her family, but to the Australian community, because she was the best of us. The people that run into danger, that try to help others. So it is deeply disappointing that this news was obviously released on world humanitarian day, but deeply disappointing no further action taken … I think we’re all really concerned that nothing more is going to be done about this. Continue reading...",
-      "published": "2026-08-20T04:41:11Z",
-      "image": "https://i.guim.co.uk/img/media/3f83ca16a0b806b0a473cf1fc5704327feb4ceaa/991_0_5553_4442/master/5553.jpg?width=140&quality=85&auto=format&fit=max&s=4468ce4317a0d37c3f9abba69f103d68",
+      "published": "2026-08-20T05:23:30Z",
+      "image": "https://i.guim.co.uk/img/media/c4cfabde0c94284906b438c9d7947fa9f647a896/1062_0_5303_4242/master/5303.jpg?width=140&quality=85&auto=format&fit=max&s=36b958903be388fd95f30a5124ed6711",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
-      "summary": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Prosecution turns to argument Patterson wasn’t severely ill after beef wellington McWilliams is touching on the prosecution’s argument in its closing address that Patterson was not severely ill after the poisoned beef wellington lunch. Patterson’s lawyers have pointed to evidence heard in the trial, including testimony about her lowered potassium levels. McWilliams says her potassium levels were “clinically noted” but she did not present as having death cap mushroom poisoning after the meal. He says: Whatever it was that she presented to medical practitioners with, it was not death cap mushroom poisoning. Continue reading...",
-      "published": "2026-08-20T04:39:03Z",
-      "image": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Case against Erin Patterson is ‘overwhelming’ and mushroom killer’s appeal should be dismissed, prosecutors say",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
-      "summary": "Crown prosecutor tells Victorian court that all seven of Patterson’s grounds for appeal should fail Get our breaking news email , free app or daily news podcast Victoria’s highest court has been urged to dismiss Erin Patterson’s appeal against her triple murder conviction, hearing that the case against her during trial was “overwhelming”. On Thursday, three judges of Victoria’s court of appeal continued hearing arguments regarding Patterson’s bid to have her conviction overturned. Continue reading...",
-      "published": "2026-08-20T04:33:25Z",
-      "image": "https://i.guim.co.uk/img/media/6b835ea329dd92c65f4c4a7606f18192523d3912/304_234_2267_1814/master/2267.jpg?width=140&quality=85&auto=format&fit=max&s=113cacd27653aee945395dcc58606a4d",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
-      "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+      "title": "Webstep Q2 revenue drops 11% on headcount decline, project losses",
+      "link": "https://www.investing.com/news/stock-market-news/webstep-q2-revenue-drops-11-on-headcount-decline-project-losses-93CH-4868689",
       "summary": "",
-      "published": "2026-08-20T04:33:10Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
+      "published": "2026-08-20T05:23:03Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
-    },
-    {
-      "title": "Ares Management considers stake in Indian cricket team Kolkata Knight Riders- Moneycontrol",
-      "link": "https://www.investing.com/news/stock-market-news/ares-management-considers-stake-in-indian-cricket-team-kolkata-knight-riders-moneycontrol-93CH-4868668",
-      "summary": "",
-      "published": "2026-08-20T04:32:30Z",
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "summary": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-      "published": "2026-08-20T04:31:10Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Why is Pony AI stock rising today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-pony-ai-stock-rising-today-93CH-4868666",
-      "summary": "",
-      "published": "2026-08-20T04:30:34Z",
-      "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Trump vs. the International Criminal Court",
-      "link": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
-      "summary": "The U.S. approach to the court has always been complicated. Now, it’s openly hostile.",
-      "published": "2026-08-20T04:23:50Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-theworld-icc-trump-01-qvtf-promo/20int-theworld-icc-trump-01-qvtf-promo-mediumSquareAt3X-v2.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    },
-    {
-      "title": "Singapore Dollar Edges Lower as Traders Weigh Treasury Dept’s Buyback Announcement",
-      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-be-buoyed-by-u-s-treasury-dept-s-buyback-announcement-fe8b1754?mod=rss_markets_main",
-      "summary": "The Singapore dollar weakened slightly against its U.S. counterpart in the Asian session as traders weighed the Treasury Department’s announcement Wednesday that it will buy back more of its longer-term debt.",
-      "published": "2026-08-20T04:21:00Z",
-      "image": null,
-      "source": "The Wall Street Journal",
-      "section": "Markets"
-    },
-    {
-      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "published": "2026-08-20T04:17:53Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
-      "source": "BBC News",
-      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Politics live: Wong says ‘it’s a difficult time’ in Australia’s relationship with Israel after Zomi Frankcom decision; Coalition and Labor trade barbs over debt",
+        "title": "Kyiv comes under Russian missile attack, killing at least nine",
+        "link": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+        "summary": "Death reported after residential areas and warehouses hit in heavy bombardment in capital and surrounding region A heavy Russian bombardment killed at least nine people in Ukraine’s capital and its surrounding region overnight, authorities said on Thursday. A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational institution and left eight people dead and 33 wounded, city military authorities said. Continue reading...",
+        "published": "2026-08-20T05:25:28Z",
+        "image": "https://i.guim.co.uk/img/media/a64f5f689d31942cbd665d307efd0617e1b761d3/407_225_1593_1275/master/1593.jpg?width=140&quality=85&auto=format&fit=max&s=a1335ba0c69b5d3795ecbd00d2582027",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+        "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
+        "published": "2026-08-20T05:25:23Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
+        "summary": "Initial report from ‘thick and dense terrain’ where Lily was located was she’d been found alive but within 10 minutes a ‘more accurate account’ was relayed to police Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike. NSW police said in a statement on Thursday: “The body of a woman has been located in bushland following the search for a missing bushwalker in the Southern Highlands.” Continue reading...",
+        "published": "2026-08-20T05:24:58Z",
+        "image": "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=4c0a30610fd2ffc9a26dd8acadff73bc",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Politics live: Albanese calls Zomi Frankcom decision ‘an outrage’; over 1,000 birds found dead with suspected H5 flu in South Australia",
         "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
         "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Greens leader Larissa Waters says strong words are not enough, and the government should sanction the state of Israel after its defence force decided not to pursue a criminal investigation into the killing of World Central Kitchen aid workers including Australian Zomi Frankom . It is absolutely outrageous that after two years of investigating, the Israeli authorities have cleared themselves of any wrongdoing … The Australian government needs to do more than just issue some strongly worded statements. They need to sanction the state of Israel and they need to make sure that we are not involved in a two-way arms trade, which we are at the moment. It’s a significant loss not only to her family, but to the Australian community, because she was the best of us. The people that run into danger, that try to help others. So it is deeply disappointing that this news was obviously released on world humanitarian day, but deeply disappointing no further action taken … I think we’re all really concerned that nothing more is going to be done about this. Continue reading...",
-        "published": "2026-08-20T04:41:11Z",
-        "image": "https://i.guim.co.uk/img/media/3f83ca16a0b806b0a473cf1fc5704327feb4ceaa/991_0_5553_4442/master/5553.jpg?width=140&quality=85&auto=format&fit=max&s=4468ce4317a0d37c3f9abba69f103d68",
+        "published": "2026-08-20T05:23:30Z",
+        "image": "https://i.guim.co.uk/img/media/c4cfabde0c94284906b438c9d7947fa9f647a896/1062_0_5303_4242/master/5303.jpg?width=140&quality=85&auto=format&fit=max&s=36b958903be388fd95f30a5124ed6711",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
-        "link": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
-        "summary": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Prosecution turns to argument Patterson wasn’t severely ill after beef wellington McWilliams is touching on the prosecution’s argument in its closing address that Patterson was not severely ill after the poisoned beef wellington lunch. Patterson’s lawyers have pointed to evidence heard in the trial, including testimony about her lowered potassium levels. McWilliams says her potassium levels were “clinically noted” but she did not present as having death cap mushroom poisoning after the meal. He says: Whatever it was that she presented to medical practitioners with, it was not death cap mushroom poisoning. Continue reading...",
-        "published": "2026-08-20T04:39:03Z",
-        "image": "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9",
-        "source": "The Guardian",
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+        "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+        "published": "2026-08-20T05:10:09Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e39/live/8b4a6c40-9c16-11f1-a291-b542ee92de7c.jpg",
+        "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Case against Erin Patterson is ‘overwhelming’ and mushroom killer’s appeal should be dismissed, prosecutors say",
-        "link": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
-        "summary": "Crown prosecutor tells Victorian court that all seven of Patterson’s grounds for appeal should fail Get our breaking news email , free app or daily news podcast Victoria’s highest court has been urged to dismiss Erin Patterson’s appeal against her triple murder conviction, hearing that the case against her during trial was “overwhelming”. On Thursday, three judges of Victoria’s court of appeal continued hearing arguments regarding Patterson’s bid to have her conviction overturned. Continue reading...",
-        "published": "2026-08-20T04:33:25Z",
-        "image": "https://i.guim.co.uk/img/media/6b835ea329dd92c65f4c4a7606f18192523d3912/304_234_2267_1814/master/2267.jpg?width=140&quality=85&auto=format&fit=max&s=113cacd27653aee945395dcc58606a4d",
-        "source": "The Guardian",
+        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+        "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+        "published": "2026-08-20T05:07:00Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+        "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-        "summary": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
-        "published": "2026-08-20T04:31:10Z",
+        "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+        "summary": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+        "published": "2026-08-20T05:06:23Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Trump vs. the International Criminal Court",
-        "link": "https://www.nytimes.com/2026/08/19/world/trump-icc-israel-investigation.html",
-        "summary": "The U.S. approach to the court has always been complicated. Now, it’s openly hostile.",
-        "published": "2026-08-20T04:23:50Z",
-        "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20int-theworld-icc-trump-01-qvtf-promo/20int-theworld-icc-trump-01-qvtf-promo-mediumSquareAt3X-v2.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-        "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-        "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-        "published": "2026-08-20T04:17:53Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+        "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+        "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+        "published": "2026-08-20T05:01:24Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg",
         "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Larry David says former friend Alan Dershowitz ‘made a deal with the devil’ as Trump’s lawyer",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/aug/20/larry-david-alan-dershowitz-friendship-trump-epstein",
-        "summary": "The Seinfeld and Curb Your Enthusiasm creator says Dershowitz, who also defended Jeffrey Epstein and Harvey Weinstein, ‘only has himself to blame’ for being ostracised Larry David has opened up about the collapse of his friendship with Alan Dershowitz, saying that Dershowitz “made a deal with the devil” when he became Donald Trump’s lawyer. Dershowitz, a former Harvard University law professor, has been a member of legal teams for Trump, Jeffrey Epstein, OJ Simpson and Harvey Weinstein at various points in his career, and served on Trump’s defense team during the president’s first impeachment trial in 2020. Continue reading...",
-        "published": "2026-08-20T04:06:54Z",
-        "image": "https://i.guim.co.uk/img/media/9bcbdb9e43ba55ae32bfff48c924e9a9ce2d0489/263_0_2625_2100/master/2625.jpg?width=140&quality=85&auto=format&fit=max&s=e8da9067f49eb6a5e883cba672ceb612",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
-        "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
-        "summary": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?",
-        "published": "2026-08-20T04:01:08Z",
-        "image": "https://static01.nyt.com/images/2026/08/11/12int-germany-grandpa-profile-75573-cover/12int-germany-grandpa-profile-75573-cover-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Little Moons co-founder: Your product doesn't have to be perfect to launch",
+        "link": "https://www.bbc.co.uk/news/videos/cgq5ky2ezl5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Vivien Wong shares her top tips, job highs and lows, and what a perfect Sunday looks like.",
+        "published": "2026-08-20T05:17:15Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/26da4630-94b0-11f1-b2ab-0dd01740f9f6.png",
+        "source": "BBC News",
+        "section": "Business"
+      },
       {
         "title": "Walmart will report second-quarter earnings before the bell. Here's what to expect",
         "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
@@ -247,7 +256,7 @@
         "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
         "summary": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own.",
         "published": "2026-08-19T23:08:03Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942d/live/a6955b90-9c57-11f1-b109-879e35c24276.jpg",
         "source": "BBC News",
         "section": "Business"
       },
@@ -268,166 +277,166 @@
         "image": "https://static01.nyt.com/images/2026/08/19/multimedia/00biz-treasury-bond-explainer-vkwh/00biz-treasury-bond-explainer-vkwh-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
-      },
-      {
-        "title": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-        "link": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-        "summary": "President Trump’s promises to restore fiscal order and reduce the amount of America’s debt burden have been undercut by spending on the Iran war, tax cuts and tariff refunds.",
-        "published": "2026-08-19T22:24:22Z",
-        "image": "https://static01.nyt.com/images/2026/08/18/multimedia/00dc-debt-vgzp/00dc-debt-vgzp-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
-        "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
-        "summary": "",
-        "published": "2026-08-20T04:33:10Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEB0Q00K_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Ares Management considers stake in Indian cricket team Kolkata Knight Riders- Moneycontrol",
-        "link": "https://www.investing.com/news/stock-market-news/ares-management-considers-stake-in-indian-cricket-team-kolkata-knight-riders-moneycontrol-93CH-4868668",
-        "summary": "",
-        "published": "2026-08-20T04:32:30Z",
-        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Why is Pony AI stock rising today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-pony-ai-stock-rising-today-93CH-4868666",
-        "summary": "",
-        "published": "2026-08-20T04:30:34Z",
-        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Singapore Dollar Edges Lower as Traders Weigh Treasury Dept’s Buyback Announcement",
-        "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-be-buoyed-by-u-s-treasury-dept-s-buyback-announcement-fe8b1754?mod=rss_markets_main",
-        "summary": "The Singapore dollar weakened slightly against its U.S. counterpart in the Asian session as traders weighed the Treasury Department’s announcement Wednesday that it will buy back more of its longer-term debt.",
-        "published": "2026-08-20T04:21:00Z",
+        "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+        "link": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+        "summary": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
+        "published": "2026-08-20T05:29:50Z",
         "image": null,
-        "source": "The Wall Street Journal",
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Why is Sakura Internet stock sliding today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-sakura-internet-stock-sliding-today-93CH-4868663",
+        "title": "Zelluna reports Q2 loss as cancer therapy trial advances",
+        "link": "https://www.investing.com/news/stock-market-news/zelluna-reports-q2-loss-as-cancer-therapy-trial-advances-93CH-4868693",
         "summary": "",
-        "published": "2026-08-20T04:12:55Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
+        "published": "2026-08-20T05:28:19Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Bonds bounce on US buybacks, but relief may be brief",
-        "link": "https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
+        "title": "Orkla reports Q2 earnings beat despite revenue decline",
+        "link": "https://www.investing.com/news/stock-market-news/orkla-reports-q2-earnings-beat-despite-revenue-decline-93CH-4868692",
         "summary": "",
-        "published": "2026-08-20T04:06:38Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7J067_L.jpg",
+        "published": "2026-08-20T05:24:53Z",
+        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Gift Nifty 50 trapped in 24,200-24,400 range: Live levels",
-        "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-tests-doubletop-support-at-24328-live-levels-93CH-4862108",
+        "title": "SBO reports 19% sales drop despite rising orders and backlog",
+        "link": "https://www.investing.com/news/stock-market-news/sbo-reports-19-sales-drop-despite-rising-orders-and-backlog-93CH-4868691",
         "summary": "",
-        "published": "2026-08-20T04:02:17Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+        "published": "2026-08-20T05:24:39Z",
+        "image": "https://content-media.investing.com/news/LYNXMPED0C0KP_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Honda Motor stock hit a 2-yr high today, here’s why",
-        "link": "https://www.investing.com/news/stock-market-news/honda-motor-stock-hit-a-2yr-high-today-heres-why-93CH-4868660",
+        "title": "Webstep Q2 revenue drops 11% on headcount decline, project losses",
+        "link": "https://www.investing.com/news/stock-market-news/webstep-q2-revenue-drops-11-on-headcount-decline-project-losses-93CH-4868689",
         "summary": "",
-        "published": "2026-08-20T03:59:14Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEAA20EQ_M.jpg",
+        "published": "2026-08-20T05:23:03Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "VGP reports first-half pretax profit of €141 million",
+        "link": "https://www.investing.com/news/stock-market-news/vgp-reports-firsthalf-pretax-profit-of-141-million-93CH-4868688",
+        "summary": "",
+        "published": "2026-08-20T05:22:13Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "NFON cuts 2026 outlook as H1 revenue and EBITDA decline",
+        "link": "https://www.investing.com/news/stock-market-news/nfon-cuts-2026-outlook-as-h1-revenue-and-ebitda-decline-93CH-4868687",
+        "summary": "",
+        "published": "2026-08-20T05:20:21Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Kinepolis reports record H1 revenue on cinema acquisitions",
+        "link": "https://www.investing.com/news/stock-market-news/kinepolis-reports-record-h1-revenue-on-cinema-acquisitions-93CH-4868686",
+        "summary": "",
+        "published": "2026-08-20T05:20:06Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-        "link": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-        "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-        "published": "2026-08-20T00:18:48Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-        "published": "2026-08-19T23:32:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-        "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-        "summary": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
-        "published": "2026-08-19T23:00:00Z",
-        "image": "https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg",
+        "title": "Chewy Promo Codes: $20 Off August 2026",
+        "link": "https://www.wired.com/story/chewy-promo-code/",
+        "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
         "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Does giving a camera wings dodge the FCC’s drone ban?",
-        "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-        "summary": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign […]",
-        "published": "2026-08-19T22:35:20Z",
-        "image": null,
-        "source": "The Verge",
+        "title": "Peacock Promo Codes: 40% Off August 2026",
+        "link": "https://www.wired.com/story/peacock-promo-code/",
+        "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+        "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-        "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-        "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-        "published": "2026-08-19T22:25:01Z",
-        "image": null,
-        "source": "TechCrunch",
+        "title": "TurboTax Full Service Coupons This August",
+        "link": "https://www.wired.com/story/turbotax-coupon/",
+        "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+        "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-        "published": "2026-08-19T22:10:46Z",
-        "image": null,
-        "source": "TechCrunch",
+        "title": "Dell Coupon Codes: 20% Off for August 2026",
+        "link": "https://www.wired.com/story/dell-coupon-code/",
+        "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
+        "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-        "link": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-        "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-        "published": "2026-08-19T22:02:38Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg",
-        "source": "Ars Technica",
+        "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+        "link": "https://www.wired.com/story/nike-promo-code/",
+        "summary": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+        "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-        "published": "2026-08-19T21:51:23Z",
-        "image": null,
-        "source": "TechCrunch",
+        "title": "20% Off Samsung Promo Code | August 2026",
+        "link": "https://www.wired.com/story/samsung-promo-codes/",
+        "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+        "source": "Wired",
+        "section": "Technology"
+      },
+      {
+        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+        "link": "https://www.wired.com/story/hr-block-coupon/",
+        "summary": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+        "source": "Wired",
+        "section": "Technology"
+      },
+      {
+        "title": "T-Mobile Promo Codes: 25% Off | August 2026",
+        "link": "https://www.wired.com/story/t-mobile-business-promo-code/",
+        "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+        "published": "2026-08-20T05:00:00Z",
+        "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+        "source": "Wired",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "Zoo boss calls pipeline plan on site 'unacceptable'",
+        "link": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o?at_medium=RSS&at_campaign=rss",
+        "summary": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
+        "published": "2026-08-20T05:21:20Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b1/live/ce162330-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "APOD: 2026 August 20 – The Elephant’s Trunk in Cepheus",
         "link": "https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/",
@@ -490,18 +499,27 @@
         "image": null,
         "source": "ScienceDaily",
         "section": "Science"
-      },
-      {
-        "title": "NASA TechLeap Prize: Orbital Clarity Challenge",
-        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-techleap-prize-orbital-clarity-challenge/",
-        "summary": "The Orbital Clarity Challenge — the sixth in the NASA TechLeap Prize series — is a collaborative effort between NASA’s Heliophysics Division, Flight Opportunities program, and Center of Excellence for Collaborative Innovation. The Heliophysics Division studies space weather, including how it heats and expands Earth’s outer atmosphere during intense solar activity, creating orbital drag through atmospheric density changes. The […]",
-        "published": "2026-08-19T19:57:48Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
       }
     ],
     "Sports": [
+      {
+        "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
+        "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+        "published": "2026-08-20T05:24:16Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Aguero and Shearer star in best opening-round debuts",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers.",
+        "published": "2026-08-20T05:22:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20c/live/89ac3320-9bf6-11f1-a291-b542ee92de7c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
       {
         "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
         "link": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
@@ -555,27 +573,18 @@
         "image": "https://i.guim.co.uk/img/media/09ff8353690f5897d4ba6ca863eddb2a3e6e8ee8/483_0_2803_2242/master/2803.jpg?width=140&quality=85&auto=format&fit=max&s=f8a16c68ae063ca42091922822fe1196",
         "source": "The Guardian",
         "section": "Sports"
-      },
-      {
-        "title": "Man City join Man Utd in Kone race - Thursday's gossip",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cn0n4qlxyq7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester City look set to rival neighbours Manchester United for Manu Kone, Aston Villa interested in Tosin Adarabioyo and Tottenham in talks over Man City duo.",
-        "published": "2026-08-19T21:30:46Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a92e/live/c0bac070-9c05-11f1-b109-879e35c24276.png",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Bodo/Glimt in strong position following first-leg win at NEC",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c62v4v90yd9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Last season's Champions League fairytale side Bodo/Glimt look set to qualify for this year's edition of the competition after winning 3-1 away at NEC Nijmegen of the Netherlands.",
-        "published": "2026-08-19T21:29:50Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3083/live/3a26b410-9c14-11f1-b109-879e35c24276.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "TV tonight: David Mitchell’s crime-solving Ludwig returns",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/aug/20/tv-tonight-david-mitchells-crime-solving-ludwig-returns",
+        "summary": "The popular cosy-crime drama is back – with a couple of changes. Plus: some late-starters get into the dating game. Here’s what to watch this evening 9pm, BBC One Continue reading...",
+        "published": "2026-08-20T05:15:43Z",
+        "image": "https://i.guim.co.uk/img/media/4415e6b518d4fb6c7a01b70646d87aa840322c89/210_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=d808a15de741249338e6d0e98f1a28c1",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "‘Are you ready for some filth?’ Julian Clary and more on comedy’s great smut explosion",
         "link": "https://www.theguardian.com/stage/2026/aug/20/julian-clary-fully-dilated-smut-edinburgh-fringe-comedy-entendre",
@@ -637,15 +646,6 @@
         "published": "2026-08-19T19:00:30Z",
         "image": "https://i.guim.co.uk/img/media/d31d5b882c0fc1c524b45d87107d140c8d19cc59/3_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=94a9ba9a9e1868408d831018b2f181dc",
         "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "ADHD charity complains about Channel 4 documentary",
-        "link": "https://www.bbc.co.uk/news/articles/cj63jyg6zg9o?at_medium=RSS&at_campaign=rss",
-        "summary": "One newspaper calls Channel 4’s The Great ADHD Myth? \"the most controversial show of the year\".",
-        "published": "2026-08-19T18:23:05Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a4/live/4dad13f0-9bf4-11f1-b109-879e35c24276.jpg",
-        "source": "BBC News",
         "section": "Culture"
       }
     ]
