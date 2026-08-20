@@ -1,211 +1,265 @@
 {
-  "generated": "2026-08-20T15:48:14Z",
+  "generated": "2026-08-20T16:50:05Z",
   "lead": {
-    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-    "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-    "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will receive under a new deal. The deportees arrived at the Roberts international airport outside Monrovia. The Liberia-US agreement is among the largest third-country deportations driven by the Trump administration’s crackdown on immigration. Continue reading...",
-    "published": "2026-08-20T15:42:39Z",
-    "image": "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
-    "source": "The Guardian",
+    "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+    "link": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
+    "summary": "Critics in Liberia, a small West African nation, say their government has not explained why it agreed to one of the largest U.S. deportation deals, who the deportees are, or how they will be handled.",
+    "published": "2026-08-20T16:39:18Z",
+    "image": "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
-      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "link": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-      "summary": "Walmart and other big U.S. retailers have warned that consumers were being cautious, even if household balance sheets seemed healthy.",
-      "published": "2026-08-20T15:45:12Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-walmart-lgzc/20biz-walmart-lgzc-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Standard Life Teams Up With CVC-Led Group on U.K. Pension Risk Transfers",
-      "link": "https://www.wsj.com/pro/private-equity/standard-life-teams-up-with-cvc-led-group-on-u-k-pension-risk-transfers-b5e4518c?mod=rss_markets_main",
-      "summary": "The partnership has a combined initial commitment of up to $2.72 billion and reflects private capital firms’ growing interest in the U.K. retirement market.",
-      "published": "2026-08-20T15:42:00Z",
-      "image": "https://images.wsj.net/im-88776897",
-      "source": "The Wall Street Journal",
-      "section": "Markets"
-    },
-    {
-      "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
-      "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "summary": "Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.",
-      "published": "2026-08-20T15:40:00Z",
-      "image": "https://images.mktw.net/im-42027181",
-      "source": "MarketWatch",
-      "section": "Markets"
-    }
-  ],
-  "latest": [
-    {
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
-      "published": "2026-08-20T15:45:55Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-      "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-      "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
-      "published": "2026-08-20T15:44:47Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-      "link": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-      "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity. The institute said the attacks on publishing, printing and warehouse infrastructure had left some companies at risk of financial collapse. A major attack on 1 August hit warehouses belonging to the RNK-Ranok publishing group in Kharkiv, destroying approximately 8m books, following July attacks in Kyiv which led to the loss of more than 1.5m books. In all, the recent attacks have led to the destruction of approximately 30% of the volume of books produced annually in Ukraine. Continue reading...",
-      "published": "2026-08-20T15:37:57Z",
-      "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "AI data center outrage is showing up everywhere from ads to elections",
-      "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-      "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
-      "published": "2026-08-20T15:37:49Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
-      "published": "2026-08-20T15:37:18Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg",
+      "title": "England women's World Cup hopes end at group stage",
+      "link": "https://www.bbc.co.uk/sport/hockey/articles/cvg82elx4d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "England women's hopes of success at the FIH Hockey World Cup end at the group stage after a 0-0 draw with India.",
+      "published": "2026-08-20T16:41:48Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/179b/live/0054add0-9cb1-11f1-84cf-fd4cfd9d6c84.jpg",
       "source": "BBC Sport",
       "section": "Sports"
-    },
-    {
-      "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
-      "link": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
-      "summary": "Treasury Secretary Scott Bessent is reinventing the government’s role in the world’s most important bond market.",
-      "published": "2026-08-20T15:36:20Z",
-      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20dc-treasury-cwlb/20dc-treasury-cwlb-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-      "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-      "summary": "Bessent said his department is going \"make a market\" in the longer-dated securities where yields have been surging lately.",
-      "published": "2026-08-20T15:35:33Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
     },
     {
       "title": "England v Pakistan: first men’s Test, day two – live updates",
       "link": "https://www.theguardian.com/sport/live/2026/aug/20/england-v-pakistan-first-test-day-two-live",
       "summary": "Updates from Headingley after rain delay Day one report | Sign up for the Spin | Mail Tim In fact, that’s quite a decent, if soggy, rabbit hole to head down for an OBO discussion. The Butterfly Effect of rain delays. Which games and whose careers might have looked significantly different if the wet stuff hadn’t fallen at a particular time or other? I’ll wrack my brains, right now I’m just thinking of Tim Henman v Goran Ivanišević in the 2001 Wimbledon Semi Final: Continue reading...",
-      "published": "2026-08-20T15:35:14Z",
-      "image": "https://i.guim.co.uk/img/media/145c1de32711a1a159bdb9a4496a3dcb7b7b590c/839_0_4913_3930/master/4913.jpg?width=140&quality=85&auto=format&fit=max&s=48f4b79e03537972bc631b9fe58d39e0",
+      "published": "2026-08-20T16:37:57Z",
+      "image": "https://i.guim.co.uk/img/media/9e7f2a3a26b0b8b2c0c78cb34b3832bd6fa915f4/303_0_3687_2951/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=07a06518a1be6ec35719e4ce631d2528",
       "source": "The Guardian",
       "section": "Sports"
+    },
+    {
+      "title": "Europe’s STOXX 600 slips on inflation fears",
+      "link": "https://www.investing.com/news/stock-market-news/european-shares-muted-as-higher-oil-prices-counter-bond-recovery-4868843",
+      "summary": "",
+      "published": "2026-08-20T16:37:13Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7J0H7_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "published": "2026-08-20T16:46:00Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
     },
     {
       "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
       "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
       "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-      "published": "2026-08-20T15:32:04Z",
+      "published": "2026-08-20T16:42:56Z",
       "image": null,
       "source": "CNBC",
       "section": "Business"
     },
     {
-      "title": "Surrey v Nottinghamshire, Derbyshire v Durham and more: county cricket – live",
-      "link": "https://www.theguardian.com/sport/live/2026/aug/20/nottinghamshire-v-surrey-warwickshire-v-sussex-somerset-v-essex-and-more-county-cricket-live",
-      "summary": "Updates as County Championship returns Sign up for the Spin | Mail Tanya No play at three grounds for now: Old Trafford, Edgbaston, and here at Derby where thunder has just rolled alluringly. Arrive at Derby in teeming rain . Apparently Ben Stokes had a net at 8.30am but it all looks very soggy now. Continue reading...",
-      "published": "2026-08-20T15:31:44Z",
-      "image": "https://i.guim.co.uk/img/media/bb8381abc59895299872dd6b321117344be3a97e/48_0_2408_1926/master/2408.jpg?width=140&quality=85&auto=format&fit=max&s=0ce5c67c94a2a1f35e307175a9572398",
-      "source": "The Guardian",
-      "section": "Sports"
+      "title": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+      "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+      "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
+      "published": "2026-08-20T16:41:23Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231?mod=rss_markets_main",
+      "summary": "Find insight on Moderna, Novonesis, Merck KGaA and more in the latest Market Talks covering the health care sector.",
+      "published": "2026-08-20T16:36:00Z",
+      "image": "https://images.wsj.net/im-16347739",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
+      "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+      "summary": "“The public is going to have a harder and harder time accessing these benefits,” union official said.",
+      "published": "2026-08-20T16:35:00Z",
+      "image": "https://images.mktw.net/im-52854289",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "U.S. stocks fall amid short-lived bond rally; Dow also under pressure from Walmart",
+      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4868458",
+      "summary": "",
+      "published": "2026-08-20T16:32:11Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+      "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
+      "summary": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
+      "published": "2026-08-20T16:31:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b45/live/3ff3d920-9c9d-11f1-aed2-8d6da8d75094.jpg",
+      "source": "BBC News",
+      "section": "Business"
+    },
+    {
+      "title": "Energy & Utilities Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a?mod=rss_markets_main",
+      "summary": "Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.",
+      "published": "2026-08-20T16:31:00Z",
+      "image": "https://images.wsj.net/im-86029056",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "Why is Twenty One Capital stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-twenty-one-capital-stock-surging-today-93CH-4870234",
+      "summary": "",
+      "published": "2026-08-20T16:30:38Z",
+      "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Shein aims to IPO on September 1, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
+      "summary": "",
+      "published": "2026-08-20T16:30:35Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7J0RI_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-        "link": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-        "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishers The Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity. The institute said the attacks on publishing, printing and warehouse infrastructure had left some companies at risk of financial collapse. A major attack on 1 August hit warehouses belonging to the RNK-Ranok publishing group in Kharkiv, destroying approximately 8m books, following July attacks in Kyiv which led to the loss of more than 1.5m books. In all, the recent attacks have led to the destruction of approximately 30% of the volume of books produced annually in Ukraine. Continue reading...",
-        "published": "2026-08-20T15:37:57Z",
-        "image": "https://i.guim.co.uk/img/media/678c419b8c0575ee0ae876dd6228c2df25df5639/0_0_5031_4024/master/5031.jpg?width=140&quality=85&auto=format&fit=max&s=0ae7ab2a7b7ca778d1db694e0a689fc0",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "‘The Necessary Conversation’ Puts Family Political Arguments On Full Display",
-        "link": "https://www.nytimes.com/2026/08/20/headway/the-necessary-conversation-political-argument-podcast.html",
-        "summary": "“The Necessary Conversation,” a podcast and YouTube show, is a very public example of the political disputes families are having all across the country.",
-        "published": "2026-08-20T15:27:08Z",
-        "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00hw-beyond-polarization-necessary-conversation-01-mwqj/00hw-beyond-polarization-necessary-conversation-01-mwqj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
         "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
         "link": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
         "summary": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the president Sign up for the US Breaking News email An FBI team seized electronic devices from former US representative Eric Swalwell at the San Francisco airport on Saturday, then raided his home in Washington, DC, the next day, CNN reported Thursday. The raid is part of a federal investigation into the sexual assault allegations which ultimately drove the Bay Area Democrat to resign from office in April, sources familiar with the investigation told CNN. The Manhattan District Attorney’s Office and the Los Angeles Sheriff’s Department subsequently opened criminal investigations on Swalwell. Continue reading...",
-        "published": "2026-08-20T15:25:17Z",
+        "published": "2026-08-20T16:27:42Z",
         "image": "https://i.guim.co.uk/img/media/ec78ebcda8b0738035dcb14328438c1fab93d3f8/223_0_4073_3260/master/4073.jpg?width=140&quality=85&auto=format&fit=max&s=67a1f3504f608565ad8de624f5239749",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "EU’s von der Leyen warns of ‘escalating campaign of threats’ as Romania destroys naval drone – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-        "summary": "Device was near country’s Neptun Deep gas platform in the Black Sea Romania’s military has destroyed a marine drone spotted just “a few hundred meters” from the Neptun Deep platform, a major offshore gas project in the Black Sea. The drone, spotted just “a few hundreds of meters” from the gas extraction works at the Neptun Deep platform located some 80 miles east of the city of Constanța , was destroyed by a Romanian F-16 fighter jet. Continue reading...",
-        "published": "2026-08-20T15:21:52Z",
-        "image": "https://i.guim.co.uk/img/media/7214ea56392894e1c394cec5f2e922223c61f631/342_0_924_739/master/924.jpg?width=140&quality=85&auto=format&fit=max&s=9eae1ea9bd76b0154fbe73a92b0411c4",
+        "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+        "summary": "Hundreds of migrants are being removed from their makeshift camps on a beach in Ceuta, Spain.",
+        "published": "2026-08-20T16:22:46Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+        "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+        "summary": "Authorities were warned about the dangers of hitting Mohammad Ghamira, who suffered from the rare medical condition haemophilia.",
+        "published": "2026-08-20T16:19:30Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+        "link": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+        "summary": "Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.",
+        "published": "2026-08-20T16:16:38Z",
+        "image": "https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Why are Prince Harry and Meghan moving back to the UK? – The Latest",
+        "link": "https://www.theguardian.com/news/audio/2026/aug/20/why-are-prince-harry-and-meghan-moving-back-to-the-uk-the-latest",
+        "summary": "The Duke and Duchess of Sussex are planning to return to live in Britain, six years after leaving for the US: a decision that was subject to intense media scrutiny. The couple and their two children are expected to relocate later in August to a non-royal residence. Nosheen Iqbal speaks to senior national editor Aaron Sharp – watch on YouTube Continue reading...",
+        "published": "2026-08-20T16:10:53Z",
+        "image": "https://i.guim.co.uk/img/media/d1e977128d1fd4ec951fa106d604379cf2eff139/253_57_2368_1894/master/2368.jpg?width=140&quality=85&auto=format&fit=max&s=72f8154d8b2e322eca8ef8448bdfe39c",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-        "link": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-        "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned You could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme court, forcing the government to return tens of billions of dollars to importers. Elon Musk’s “department of government efficiency” (Doge), ostensibly created to stop wasteful government spending, decimated federal programs and likely killed millions of children , but did nothing to close the budget deficit. The burst of inflation following Trump’s misguided adventure in Iran sharply raised the cost of serving the government’s obligations. Yet as the federal debt hits an all-time high, up from about $35tn when Trump took office less than two years ago, it is worth noting that the US’s gargantuan indebtedness is in fact the product of a longstanding Republican strategy that took shape well before Trump could even dream about gold-plating the White House. It was called “starve the beast”. Continue reading...",
-        "published": "2026-08-20T15:21:38Z",
-        "image": "https://i.guim.co.uk/img/media/a616a971f8174c956a240adf080e40f025b22a3b/685_0_6847_5477/master/6847.jpg?width=140&quality=85&auto=format&fit=max&s=92c58623c4336e90aef10cdd1329c9e5",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Stars and Stripes publisher could be fired before planned retirement, sources say",
-        "link": "https://www.theguardian.com/us-news/2026/aug/20/stars-and-stripes-publisher-firing-uss-abraham-lincoln",
-        "summary": "Max Lederer, longtime head of the US military news outlet, says his ‘philosophy of leadership’ differs from Pentagon’s The long-serving publisher of Stars and Stripes could face an early dismissal just days after the taxpayer-funded military news outlet’s reporting revealed deteriorating conditions on the USS Abraham Lincoln aircraft carrier, according to a news report. Pentagon officials have discussed firing Max Lederer ahead of his scheduled retirement next month, according to CBS News , which quoted anonymous sources. Lederer, the publisher of the military daily for 19 years, had previously cited fundamental differences with the Trump administration for his decision to retire soon. Continue reading...",
-        "published": "2026-08-20T15:18:58Z",
-        "image": "https://i.guim.co.uk/img/media/17197d95ed687df8be54e0d9c7cb3a0f2de145bd/715_379_2814_2253/master/2814.jpg?width=140&quality=85&auto=format&fit=max&s=3f9e17bf36b1a34066f7eb22064a732a",
-        "source": "The Guardian",
+        "title": "5 Americans and Ecuadorean Official Are Killed in Helicopter Crash in Kenya",
+        "link": "https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html",
+        "summary": "Ecuador’s director of national intelligence was also among those who died in the crash. The search and recovery efforts were being hampered by a fire at the site and the difficult terrain, officials said.",
+        "published": "2026-08-20T16:08:02Z",
+        "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-kenya-1-wqkm/19int-kenya-1-wqkm-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "World"
       },
       {
         "title": "Togo charges two French journalists over incorrect documents, rights group says",
         "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
         "summary": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says.",
-        "published": "2026-08-20T15:16:44Z",
+        "published": "2026-08-20T16:00:27Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a6/live/2b090e70-9c95-11f1-a38b-8bb91d2ef80e.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Landslide at unlicensed Colombian gold mine kills 13",
-        "link": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-        "summary": "Four members of an indigenous family are among the dead, witnesses said.",
-        "published": "2026-08-20T15:07:57Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8167/live/e00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png",
-        "source": "BBC News",
+        "title": "Specsavers pays £12m dividend to parent company after jump in earnings",
+        "link": "https://www.theguardian.com/business/2026/aug/20/specsavers-pays-dividend-to-parent-company-as-profits-soar",
+        "summary": "Pre-tax profits rose at high street opticians to £429.7m in the year to February while sales rose 7% to £4.3bn Specsavers has paid £12m to its parent company controlled by founders Doug and Dame Mary Perkins after the high street opticians’ profits increased by more than a quarter. The group operates nearly 3,000 optometry, audiology and ophthalmology businesses globally in at least eight countries, including more than 1,200 in the UK, through hundreds of independent partners. Continue reading...",
+        "published": "2026-08-20T15:55:13Z",
+        "image": "https://i.guim.co.uk/img/media/a2fe314d5c00f23e77082773a9b7f6e90b2a6df1/263_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7e04f045452eeb38a0223f4e0122ac33",
+        "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+        "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+        "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+        "published": "2026-08-20T16:42:56Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Business"
+      },
+      {
+        "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
+        "link": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
+        "summary": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
+        "published": "2026-08-20T16:31:44Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b45/live/3ff3d920-9c9d-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Bernard Matthews confirms closure of Derby factory",
+        "link": "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bernard Matthews Foods says its Shaftesbury Street factory will close by the end of 2026.",
+        "published": "2026-08-20T16:27:26Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
+        "link": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
+        "summary": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching ‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending Government borrowing costs around the world have surged to the highest levels in decades amid growing fears over US bond market turmoil. Anxiety about Donald Trump’s handling of the US economy, and concern that the US president’s war with Iran is driving up inflation, are causing a sell-off in the US bond market. Continue reading...",
+        "published": "2026-08-20T16:14:59Z",
+        "image": "https://i.guim.co.uk/img/media/e5d9265b4ad1f02b3b8743a220415673ba12afc2/568_0_5678_4543/master/5678.jpg?width=140&quality=85&auto=format&fit=max&s=0a7c06ce0ce38889f7ddbebdad67b319",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+        "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+        "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+        "published": "2026-08-20T15:51:26Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Business"
+      },
+      {
+        "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+        "link": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
+        "summary": "Walmart and other big U.S. retailers have warned that consumers were being cautious, even if household balance sheets seemed healthy.",
+        "published": "2026-08-20T15:45:12Z",
+        "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20biz-walmart-lgzc/20biz-walmart-lgzc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
       {
         "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
         "link": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
@@ -216,144 +270,153 @@
         "section": "Business"
       },
       {
-        "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-        "link": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-        "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
-        "published": "2026-08-20T15:32:04Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
-      },
-      {
         "title": "Several Big Brokerages Leave Customer Accounts Open to Theft, Senators Say",
         "link": "https://www.nytimes.com/2026/08/20/business/brokerage-accounts-fraud-protections.html",
         "summary": "Senators Ron Wyden and Elizabeth Warren, ranking Democrats on the Finance and Banking Committees, have urged regulators to require brokerages to provide stronger customer protections.",
-        "published": "2026-08-20T15:29:00Z",
+        "published": "2026-08-20T15:29:01Z",
         "image": "https://static01.nyt.com/images/2026/08/20/business/20Biz-Fraud-Protections-dip/20Biz-Fraud-Protections-dip-mediumSquareAt3X.jpg",
         "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Moderna co-founder is a billionaire once again at $1.7 billion—he once turned down 20 high-paying job offers to ‘have more of an impact on the world’",
-        "link": "https://fortune.com/2026/08/20/moderna-cofounder-robert-langer-billionaire-again-1-7-billion-once-turned-down-20-high-paying-job-offers-have-more-impact-on-world/",
-        "summary": "Billionaire biotech pioneer Robert Langer advises workers to do what makes them happy over money and job security: “If you give up too easily, that's not good.”",
-        "published": "2026-08-20T15:23:13Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-472982424-e1787238301268.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "The four-day week is here thanks to GTA 6—some employers are giving staff a one-off shorter week to steal cars in the long-anticipated video game",
-        "link": "https://fortune.com/2026/08/20/grand-theft-auto-six-days-off-from-work-anticipating-gen-z-millennial-hype-rockstar-games-take-two-interactive/",
-        "summary": "Twenty soldiers have already accepted a U.S. Army offer for pass to play GTA VI—but they must commit to a two-year reenlistment.",
-        "published": "2026-08-20T15:11:31Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1492582158-e1787238282911.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?",
-        "link": "https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html",
-        "summary": "A scientific and civilizational horror story.",
-        "published": "2026-08-20T15:07:16Z",
-        "image": "https://static01.nyt.com/images/2026/08/20/magazine/20mag-ticks/20mag-ticks-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Nneka Ogwumike’s WNBA legacy isn’t just her 11 all-star nods. It’s a 364% pay raise for the players",
-        "link": "https://fortune.com/2026/08/20/nneka-ogwumike-retirement-wnba-historic-cba/",
-        "summary": "The president of the WNBA players' union is retiring after 15 seasons—and a labor agreement that's historic across professional sports.",
-        "published": "2026-08-20T15:06:59Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2291227081.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Another Democratic primary, another shocking DSA upset as Angie Nixon adds to moderates’ heartburn over seemingly unstoppable wave",
-        "link": "https://fortune.com/2026/08/20/democratic-socialist-angie-nixon-florida-progressive-establishment/",
-        "summary": "“If you’re surprised by tonight’s election results, you haven’t been paying enough attention,” said Britney Whaley of the Working Families Party.",
-        "published": "2026-08-20T15:00:37Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2290939639-e1787236641881.jpg?w=2048",
-        "source": "Fortune",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-        "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-        "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
-        "published": "2026-08-20T15:44:47Z",
+        "title": "Oil prices rise 2% after Treasury Secretary says U.S. will collapse Iran with economic pressure",
+        "link": "https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
+        "summary": "Oil moved higher Thursday after U.S. President Donald Trump sharpened his rhetoric against Iran.",
+        "published": "2026-08-20T16:41:23Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "AI data center outrage is showing up everywhere from ads to elections",
-        "link": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-        "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
-        "published": "2026-08-20T15:37:49Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "Health Care Roundup: Market Talk",
+        "link": "https://www.wsj.com/finance/investing/health-care-roundup-market-talk-b4eee231?mod=rss_markets_main",
+        "summary": "Find insight on Moderna, Novonesis, Merck KGaA and more in the latest Market Talks covering the health care sector.",
+        "published": "2026-08-20T16:36:00Z",
+        "image": "https://images.wsj.net/im-16347739",
+        "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-        "link": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-        "summary": "Bessent said his department is going \"make a market\" in the longer-dated securities where yields have been surging lately.",
-        "published": "2026-08-20T15:35:33Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-        "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-        "summary": "“There is a lot of legal and financial power in my hands.”",
-        "published": "2026-08-20T15:30:00Z",
-        "image": "https://images.mktw.net/im-25304556",
+        "title": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
+        "link": "https://www.marketwatch.com/story/ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-20-000-hires-ac975af0?mod=mw_rss_topstories",
+        "summary": "“The public is going to have a harder and harder time accessing these benefits,” union official said.",
+        "published": "2026-08-20T16:35:00Z",
+        "image": "https://images.mktw.net/im-52854289",
         "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Dollar Looks Best Defensive Currency During Bond and Equity Selloffs",
-        "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-be-buoyed-by-u-s-treasury-dept-s-buyback-announcement-fe8b1754?mod=rss_markets_main",
-        "summary": "The WSJ Dollar Index edged higher. The dollar remains the most reliable defensive currency during selloffs in equities and bonds, BNY said.",
-        "published": "2026-08-20T15:29:00Z",
-        "image": null,
-        "source": "The Wall Street Journal",
-        "section": "Markets"
-      },
-      {
-        "title": "Gold Loses Some of Its Shine After Yesterday’s Leap",
-        "link": "https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?mod=rss_markets_main",
-        "summary": "Gold prices were off their highs from Wednesday, when a steep drop in Treasury yields fueled a surge in bullion.",
-        "published": "2026-08-20T15:26:00Z",
-        "image": null,
-        "source": "The Wall Street Journal",
-        "section": "Markets"
-      },
-      {
-        "title": "Crypto shares climb after Trump advocates for Clarity Act",
-        "link": "https://www.investing.com/news/stock-market-news/bitcoin-crypto-shares-climb-after-trump-pushes-clarity-act-4869341",
+        "title": "U.S. stocks fall amid short-lived bond rally; Dow also under pressure from Walmart",
+        "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-easing-treasury-yields-fed-minutes-in-focus-4868458",
         "summary": "",
-        "published": "2026-08-20T15:25:18Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7J0SS_L.jpg",
+        "published": "2026-08-20T16:32:11Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEM3S13F_1200_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’",
-        "link": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-        "summary": "U.S. Treasury Secretary Scott Bessent has made waves this week with his plan to at least double his department’s buybacks of longer-dated Treasury bonds.",
-        "published": "2026-08-20T15:25:00Z",
-        "image": "https://images.mktw.net/im-14260609",
-        "source": "MarketWatch",
+        "title": "Energy & Utilities Roundup: Market Talk",
+        "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-debe172a?mod=rss_markets_main",
+        "summary": "Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.",
+        "published": "2026-08-20T16:31:00Z",
+        "image": "https://images.wsj.net/im-86029056",
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "Why is Twenty One Capital stock surging today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-twenty-one-capital-stock-surging-today-93CH-4870234",
+        "summary": "",
+        "published": "2026-08-20T16:30:38Z",
+        "image": "https://content-media.investing.com/news/CryptoBitcoindigital_800x533_L_1641975060.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Shein aims to IPO on September 1, sources say",
+        "link": "https://www.investing.com/news/stock-market-news/shein-postpones-hong-kong-debut-to-september-scmp-reports-4869257",
+        "summary": "",
+        "published": "2026-08-20T16:30:35Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7J0RI_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
+        "link": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
+        "summary": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
+        "published": "2026-08-20T16:30:01Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Ramp launches its own AI model router, called Router",
+        "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+        "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "published": "2026-08-20T16:46:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
+        "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
+        "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
+        "published": "2026-08-20T16:22:19Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+        "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+        "published": "2026-08-20T16:07:26Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
+        "link": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
+        "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
+        "published": "2026-08-20T16:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
+        "link": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+        "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
+        "published": "2026-08-20T16:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+        "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+        "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+        "published": "2026-08-20T16:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "There are less than 48 hours to save up to $300 on your TechCrunch Disrupt 2026 ticket",
+        "link": "https://techcrunch.com/2026/08/20/there-are-less-than-48-hours-to-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket/",
+        "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+        "published": "2026-08-20T15:53:49Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
       {
         "title": "It’s Greg Brockman’s OpenAI now",
         "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
@@ -362,72 +425,18 @@
         "image": null,
         "source": "The Verge",
         "section": "Technology"
-      },
-      {
-        "title": "This app makes the Pixel 11’s HiLight feature actually useful",
-        "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-        "summary": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one […]",
-        "published": "2026-08-20T15:30:34Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-        "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-        "summary": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of […]",
-        "published": "2026-08-20T15:08:38Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Amazon’s drone deliveries are landing in pools and ponds",
-        "link": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
-        "summary": "Amazon's speedy drone delivery service will soon reach 500 cities across the US - but that might just mean there are more pools to drop packages into. On Wednesday, ABC7 News Bay Area shared a video showing an Amazon delivery drone hovering over a customer's pool in Texas, before opening its hatch and plopping the […]",
-        "published": "2026-08-20T14:59:21Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Genesis joins the giant electric SUV club with new GV90",
-        "link": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-        "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-        "published": "2026-08-20T14:35:58Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
-        "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
-        "summary": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The […]",
-        "published": "2026-08-20T14:09:31Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Here’s what data Comcast says its motion-detecting routers collect",
-        "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
-        "summary": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control […]",
-        "published": "2026-08-20T14:00:22Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "We played The Duskbloods, the Switch 2’s wildest new exclusive",
-        "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
-        "summary": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced […]",
-        "published": "2026-08-20T14:00:00Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "BBC Inside Science",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct9781?at_medium=RSS&at_campaign=rss",
+        "summary": "Has a personalised cancer vaccine become reality?",
+        "published": "2026-08-20T16:00:00Z",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "Artemis Mission Patches",
         "link": "https://www.nasa.gov/image-article/artemis-mission-patches/",
@@ -490,99 +499,117 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "How Trump Is Trying to Crush California’s Climate Policies",
-        "link": "https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html",
-        "summary": "At least a half-dozen federal agencies have taken action against the state that has led the nation in environmental protections.",
-        "published": "2026-08-20T13:36:20Z",
-        "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20CLI-CALIFORNIA-01-lbfm/20CLI-CALIFORNIA-01-lbfm-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
-        "summary": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
-        "published": "2026-08-20T15:37:18Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg",
+        "title": "Carrick dismisses 'ridiculous' Man Utd easy start talk",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United head coach Michael Carrick says it is \"ridiculous\" to say his side has an easy start to the Premier League season because they play two promoted teams.",
+        "published": "2026-08-20T16:30:29Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b32/live/93503380-9cb0-11f1-b109-879e35c24276.jpg",
         "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "England v Pakistan: first men’s Test, day two – live updates",
-        "link": "https://www.theguardian.com/sport/live/2026/aug/20/england-v-pakistan-first-test-day-two-live",
-        "summary": "Updates from Headingley after rain delay Day one report | Sign up for the Spin | Mail Tim In fact, that’s quite a decent, if soggy, rabbit hole to head down for an OBO discussion. The Butterfly Effect of rain delays. Which games and whose careers might have looked significantly different if the wet stuff hadn’t fallen at a particular time or other? I’ll wrack my brains, right now I’m just thinking of Tim Henman v Goran Ivanišević in the 2001 Wimbledon Semi Final: Continue reading...",
-        "published": "2026-08-20T15:35:14Z",
-        "image": "https://i.guim.co.uk/img/media/145c1de32711a1a159bdb9a4496a3dcb7b7b590c/839_0_4913_3930/master/4913.jpg?width=140&quality=85&auto=format&fit=max&s=48f4b79e03537972bc631b9fe58d39e0",
-        "source": "The Guardian",
         "section": "Sports"
       },
       {
         "title": "Surrey v Nottinghamshire, Derbyshire v Durham and more: county cricket – live",
         "link": "https://www.theguardian.com/sport/live/2026/aug/20/nottinghamshire-v-surrey-warwickshire-v-sussex-somerset-v-essex-and-more-county-cricket-live",
         "summary": "Updates as County Championship returns Sign up for the Spin | Mail Tanya No play at three grounds for now: Old Trafford, Edgbaston, and here at Derby where thunder has just rolled alluringly. Arrive at Derby in teeming rain . Apparently Ben Stokes had a net at 8.30am but it all looks very soggy now. Continue reading...",
-        "published": "2026-08-20T15:31:44Z",
+        "published": "2026-08-20T16:29:22Z",
         "image": "https://i.guim.co.uk/img/media/bb8381abc59895299872dd6b321117344be3a97e/48_0_2408_1926/master/2408.jpg?width=140&quality=85&auto=format&fit=max&s=0ce5c67c94a2a1f35e307175a9572398",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "York Ebor meeting: Kalpana claims Yorkshire Oaks on day two – horse racing live",
-        "link": "https://www.theguardian.com/sport/live/2026/aug/20/york-ebor-meeting-yorkshire-oaks-and-more-on-day-two-horse-racing-live",
-        "summary": "Updates from all Thursday’s races at York Unexpected Item claims International Stakes There’s a jockey change in this race, by the way, as Tony Piccone’s flight from France to ride Tokaido was cancelled. Clifford Lee steps in to chase a share of the £300k first prize. 2.25 York, Harry’s Half Million by Goffs, 6f, 2yo Continue reading...",
-        "published": "2026-08-20T15:23:06Z",
-        "image": "https://i.guim.co.uk/img/media/82217fa99e39353ea44af933a7af389523a3b4cf/0_223_4722_3777/master/4722.jpg?width=140&quality=85&auto=format&fit=max&s=e4f9b832cbfc51b79b17894f5676b19d",
+        "title": "Liverpool interested in Brighton winger Minteh",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Liverpool make an approach to Brighton to sign winger Yankuba Minteh.",
+        "published": "2026-08-20T16:26:57Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Rider 'nearly hit' by car on day one of Tour of Britain Women",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/cp3rg3x0e7wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Australian rider Maeve Plouffe says she narrowly avoided being hit by a car during the first stage of the Tour Of Britain Women.",
+        "published": "2026-08-20T16:21:46Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9a/live/752dca50-9ca8-11f1-a5a0-114ca9d4a1bc.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "England lose two quick wickets after 'poor' reviews",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cz64qxe6gq3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Pakistan take the wickets of Jordan Cox and Joe Root in quick succession leaving England out of reviews at Headingley.",
+        "published": "2026-08-20T16:05:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b86/live/b83ef6a0-9caf-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Parents back Josh Tarling riding in Vuelta a Espana",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/c98vz8dm331o?at_medium=RSS&at_campaign=rss",
+        "summary": "Finlay Tarling, 19, died in a high-speed collision with a van, which had strayed on to the road during the eighth stage of the Volta a Portugal.",
+        "published": "2026-08-20T15:50:31Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11c/live/acdc98a0-9c9e-11f1-a5a0-114ca9d4a1bc.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+        "link": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer",
+        "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild following Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts. Continue reading...",
+        "published": "2026-08-20T15:50:12Z",
+        "image": "https://i.guim.co.uk/img/media/593393786c04b2875bc833a587eaeace26f89e2a/546_121_2513_2010/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=7d883242f9c440405e38c958bd9980c8",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "MVP dismisses undisputed Thorslund-Hennessy offer",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/c0km0054037o?at_medium=RSS&at_campaign=rss",
-        "summary": "Most Valuable Promotions dismisses an offer from Boxxer for undisputed bantamweight world champion Dina Thorslund to fight Briton Francesca Hennessy.",
-        "published": "2026-08-20T14:58:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9c/live/1b6dbb50-9c7c-11f1-8413-79a38c9f8909.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Chelsea happy with Fernandez, says Alonso",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues.",
-        "published": "2026-08-20T14:39:54Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6078/live/eb6ec620-9c9d-11f1-a5a0-114ca9d4a1bc.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss",
-        "summary": "Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated.",
-        "published": "2026-08-20T14:39:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c52/live/367bd970-9ca1-11f1-a5a0-114ca9d4a1bc.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Josh Tarling to ride in Vuelta a Espana after brother's death",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/c98vz8dm331o?at_medium=RSS&at_campaign=rss",
-        "summary": "Finlay Tarling, 19, died in a high-speed collision with a van, which had strayed on to the road during the eighth stage of the Volta a Portugal.",
-        "published": "2026-08-20T14:30:28Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11c/live/acdc98a0-9c9e-11f1-a5a0-114ca9d4a1bc.jpg",
+        "title": "'Brilliant' Cox gets maiden Test half-century",
+        "link": "https://www.bbc.co.uk/sport/cricket/videos/cx2v0xnzz4wo?at_medium=RSS&at_campaign=rss",
+        "summary": "Watch the best shots from Jordan Cox's maiden Test half-century on day two of the first Test at Headingley.",
+        "published": "2026-08-20T15:46:32Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e27d/live/d43b08f0-9cad-11f1-b109-879e35c24276.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
+        "title": "Show of Houses by Dutch Modernist Architect Shines a Light on Gem in U.S.",
+        "link": "https://www.nytimes.com/2026/08/20/arts/design/rietveld-houses-exhibition-center-for-architecture.html",
+        "summary": "A riveting exhibition of photographs of homes by Gerrit Rietveld unearths a mastery, beyond furniture design, of “a new way of living.”",
+        "published": "2026-08-20T16:13:11Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
         "title": "BBC DJ Trevor Nelson reveals brain tumour surgery 'went well'",
         "link": "https://www.bbc.co.uk/news/articles/cjd47klln75o?at_medium=RSS&at_campaign=rss",
         "summary": "The 62-year-old said that his \"world was turned upside down\" when a brain tumour was discovered.",
-        "published": "2026-08-20T15:31:19Z",
+        "published": "2026-08-20T16:01:37Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e4/live/9e515620-9caa-11f1-84cf-fd4cfd9d6c84.jpg",
         "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Ted Striggles, Who Helped His Fellow Dancers as a Lawyer, Dies at 84",
+        "link": "https://www.nytimes.com/2026/08/20/arts/dance/ted-striggles-dead.html",
+        "summary": "He was best known for the influential 1976 guide “Poor Dancer’s Almanac,” which aimed to help starving artists survive in New York.",
+        "published": "2026-08-20T15:54:12Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Ileana Cotrubas, Sensitive Soprano Known for ‘Traviata,’ Dies at 87",
+        "link": "https://www.nytimes.com/2026/08/20/arts/music/ileana-cotrubas-dead.html",
+        "summary": "Able to convey the pathos of operatic heroines with her pure, expressive tone, she was also involved in prickly disputes with some directors and conductors.",
+        "published": "2026-08-20T15:50:25Z",
+        "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20Cotrubas--cjhm/20Cotrubas--cjhm-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "Culture"
       },
       {
@@ -619,33 +646,6 @@
         "published": "2026-08-20T14:56:14Z",
         "image": null,
         "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "‘Hot Spot’ Review: A Baffling Dystopia",
-        "link": "https://www.nytimes.com/2026/08/20/movies/hot-spot-review.html",
-        "summary": "In this Polish feature, an artificial intelligence system rules over a downtrodden population. Trouble arrives, in the form of Rana (Noomi Rapace).",
-        "published": "2026-08-20T14:23:28Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "‘I need to think like a CEO’: Weezer on the shifting sands of success, ugly feelings and the joy of spreadsheets",
-        "link": "https://www.theguardian.com/music/2026/aug/20/weezer-rivers-cuomo-patrick-wilson-ceo",
-        "summary": "As the self-professed geeky rockers release their conceptual 20th album, Rivers Cuomo and Patrick Wilson discuss dodging failure, being saved by fans and their obsessive creativity The first song Rivers Cuomo wrote for Weezer’s new album, their 20th, blatantly mimics the US rockers’ 1994 debut single, Undone (The Sweater Song). On the track CEO, the singer-guitarist grumbles over a slow, Velvets-y backing about having to crank out “another 90s jam” and wishing he could do “something new – but nobody wants to hear that ”. It’s a deliciously meta moment, but also one that allows Cuomo to gently vent “my frustrations over people wanting me to just write songs about our first two albums”. Cuomo wrote the song straight after SZNZ, the four-album song-cycle Weezer released throughout 2022, each album named after a season. That project fed his notoriously intense, analytic and occasionally obsessive approach to songwriting. Thanks to the kind of data artists have at their fingertips in the streaming age, though, he realised that, with each subsequent SZNZ, “fewer and fewer people were listening to them”. Continue reading...",
-        "published": "2026-08-20T14:16:19Z",
-        "image": "https://i.guim.co.uk/img/media/87fc2d187f8d71b39dacad7f447b5260fa8619f7/0_0_1938_1550/master/1938.jpg?width=140&quality=85&auto=format&fit=max&s=d32fe9be272b4557c09ce9fe2324ba0e",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "The Duskbloods: the best of FromSoftware fights in a frantic multiplayer battleground",
-        "link": "https://www.theguardian.com/games/2026/aug/20/the-duskbloods-fromsoftware-feature",
-        "summary": "The Elden Ring creator is known for epic single-player RPGs, but its new action game is all about multiplayer interactions: fighting, chasing, befriending, even … proposing? Lowanro City’s skyline is dominated by an oppressive clock tower, silhouetted against a moody red sky and an impossibly large, ominous moon. A retractable bridge splits the map in two, and a network of slimy sewers runs beneath the city streets, offering flanking routes for crafty players. This layered and multi-tiered map bears all the hallmarks of the team behind some of the most memorable stomping grounds in video games. But The Duskbloods, which I recently spent two days playing in Tokyo, is a strange departure from developer FromSoftware’s usual offerings. These have included massive single-player RPGs with light, experimental multiplayer components such as Elden Ring and Bloodborne. Those games have always attracted duellists – players who love to invade other people’s games to fight them to the death – but this Nintendo Switch 2 exclusive is a different proposition entirely. Continue reading...",
-        "published": "2026-08-20T14:00:56Z",
-        "image": "https://i.guim.co.uk/img/media/7b665fdb2d4356eddb1e5b488bcb1b5296557557/341_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=5a918dbb0c19676918735c051103397a",
-        "source": "The Guardian",
         "section": "Culture"
       }
     ]
