@@ -1,15 +1,116 @@
 {
-  "generated": "2026-08-23T19:33:24Z",
+  "generated": "2026-08-23T20:37:55Z",
   "lead": {
-    "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-    "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-    "published": "2026-08-23T19:11:30Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
-    "source": "BBC News",
+    "title": "The Price of Bread",
+    "link": "https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html",
+    "summary": "War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.",
+    "published": "2026-08-23T20:26:29Z",
+    "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
     "section": "World"
   },
   "top": [
+    {
+      "title": "Japan’s stock market setup looks similar to late 2023. Here’s what it means",
+      "link": "https://www.investing.com/news/stock-market-news/japans-stock-market-setup-looks-similar-to-late-2023-heres-what-it-means-4872475",
+      "summary": "",
+      "published": "2026-08-23T20:34:32Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEA620A7_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "published": "2026-08-23T20:19:36Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "The Iran war could last ‘deep into 2027’ as the Strait of Hormuz isn’t that closed, allowing more oil to leak out—but major escalation is likely soon",
+      "link": "https://fortune.com/2026/08/23/iran-war-outlook-2027-strait-of-hormuz-oil-exports-blockade-oman-corridor-escalation/",
+      "summary": "\"And if the Strait is not fully closed, Iran’s leverage is weak. Thus, Iran has reasons to escalate.\"",
+      "published": "2026-08-23T19:59:01Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/9883413-e1787508979937.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Is Israel about to split the occupied West Bank in half?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "summary": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
+      "published": "2026-08-23T20:23:01Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "published": "2026-08-23T20:01:36Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "Severe winds toss four aircraft across Italian airport tarmac",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+      "summary": "Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.",
+      "published": "2026-08-23T20:00:22Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Families release pictures of police officers killed in A66 crash in which five others died",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+      "summary": "Emotional tributes paid to PCs Matthew Blades and Tom Clough whose vehicle was in a head-on collision with car travelling wrong way Cleveland police have published photographs of PC Matthew Blades and PC Tom Clough who died when a car travelling the wrong way on the A66 crashed head-on into their police vehicle. Two 17-year-old boys were among the seven people who were killed in the incident on Teesside. Continue reading...",
+      "published": "2026-08-23T19:55:13Z",
+      "image": "https://i.guim.co.uk/img/media/1176bcc41a0caf12cba42fb8e2e1a49ddde99dd8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43a5cd3d57674d849a2dc4e1d718fddf",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+      "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+      "published": "2026-08-23T19:52:12Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+      "summary": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+      "published": "2026-08-23T19:40:11Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Northants thrash Lancashire to keep Kent in sight: county cricket day four – as it happened",
+      "link": "https://www.theguardian.com/sport/live/2026/aug/23/hampshire-v-yorkshire-somerset-v-essex-and-more-county-cricket-day-four-live",
+      "summary": "Northamptonshire won by 316 runs at Old Trafford which keeps them close to Kent at the top of Division Two Bohannon, averaging 19.52 this season, pushes forward defensively but it’s a zinger from Luke Procter who, along with James Anderson, is only remaining player from Lancashire’s 2011 Championship winning side still on the pitch. Fact of the day from Paul Edwards: Procter, who was a qualified electrician, considering a plumbing career, and training as a hairdresser when at OT, has just signed a new two-year contract with Northants which will take him to 40. Continue reading...",
+      "published": "2026-08-23T19:33:38Z",
+      "image": "https://i.guim.co.uk/img/media/6e9ef5974e63455944801a81e7af3e97ce3a9e5f/3011_839_2221_1777/master/2221.jpg?width=140&quality=85&auto=format&fit=max&s=e1ba3a51e2bb2623c136582a5b22cc72",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!” Continue reading...",
+      "published": "2026-08-23T19:32:59Z",
+      "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
+      "source": "The Guardian",
+      "section": "World"
+    },
     {
       "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
       "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
@@ -20,26 +121,6 @@
       "section": "Markets"
     },
     {
-      "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
-      "published": "2026-08-23T19:27:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "How Newcastle United and Liverpool's players rated in their Premier League match.",
-      "published": "2026-08-23T19:22:48Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05fb/live/f933f9b0-9f27-11f1-80f3-91ea4cf013d4.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    }
-  ],
-  "latest": [
-    {
       "title": "Uber faces fine of nearly $1B over automated driver suspensions",
       "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
       "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
@@ -47,168 +128,87 @@
       "image": null,
       "source": "TechCrunch",
       "section": "Technology"
-    },
-    {
-      "title": "Frustrated Lewis Hamilton claims Ferrari strategy cost him F1 Dutch GP podium",
-      "link": "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium",
-      "summary": "Briton says team too slow to pit Charles Leclerc ‘It’s something that we need to discuss offline’ Lewis Hamilton has told his Ferrari team that they must up their game if he is to remain in the Formula One world championship fight after the British driver was angry with strategy calls at the Dutch Grand Prix , comparing them unfavourably with the decisive way his former team ­Mercedes had acted. The race was won by McLaren’s Lando Norris from Mercedes’ Kimi Antonelli and George Russell. Hamilton was fourth but believed he might have had a shot of a podium had Ferrari moved Charles Leclerc aside sooner when Hamilton, on a different tyre strategy, was quicker than his teammate. Continue reading...",
-      "published": "2026-08-23T19:15:57Z",
-      "image": "https://i.guim.co.uk/img/media/0c2e04a991a3dbbae3de17090180239efde260f4/2089_259_2819_2255/master/2819.jpg?width=140&quality=85&auto=format&fit=max&s=f83344081d3e86410c4d750a177037a2",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after […]",
-      "published": "2026-08-23T19:14:37Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "published": "2026-08-23T19:14:08Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "'Up front next week?' Maresca's Guehi gamble pays off",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
-      "published": "2026-08-23T19:13:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f6/live/94365b80-9f26-11f1-80f3-91ea4cf013d4.png",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Watkins' absence at Brighton a question for him - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
-      "published": "2026-08-23T19:07:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e73/live/cc7edc20-9ef8-11f1-aed4-af6fe65bfcd6.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Opinion | The Summer of ‘My Bad’",
-      "link": "https://www.wsj.com/opinion/the-summer-of-my-bad-6dca052a?mod=rss_markets_main",
-      "summary": "We’ve seen a string of high-profile mea culpas the past few months. About time.",
-      "published": "2026-08-23T19:06:00Z",
-      "image": "https://opinion-images.wsj.net/im-15952405",
-      "source": "The Wall Street Journal",
-      "section": "Markets"
-    },
-    {
-      "title": "Maresca's Manchester City reign begins with dramatic comeback against Bournemouth",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cpd7dp7zeqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
-      "published": "2026-08-23T19:03:31Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bc/live/b4da1f90-9f06-11f1-b109-879e35c24276.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Brighton dominate 10-man Villa",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brighton start their season with an emphatic win at home against Europa League winners Aston Villa, with four first-half goals.",
-      "published": "2026-08-23T19:02:54Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a9/live/eb749380-9f03-11f1-aed2-8d6da8d75094.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Late penalty for Liverpool denies Newcastle win",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Szoboszlai rescues a point for Liverpool, scoring a stoppage-time penalty to deny Newcastle an opening game victory at St James' Park in the Premier League.",
-      "published": "2026-08-23T19:01:23Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/2a64e490-9f19-11f1-b109-879e35c24276.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Zhou Bo: China’s alternative to Western power",
-        "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
-        "summary": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.",
-        "published": "2026-08-23T19:00:56Z",
+        "title": "Is Israel about to split the occupied West Bank in half?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+        "summary": "Israel is moving forward with its ‘E1’ plan. What is it and why could it threaten the future of a Palestinian state?",
+        "published": "2026-08-23T20:23:01Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-        "summary": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
-        "published": "2026-08-23T18:47:11Z",
+        "title": "Severe winds toss four aircraft across Italian airport tarmac",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+        "summary": "Winds reaching around 120 km/h swept through Forlì in Italy’s Emilia-Romagna region, overturning four light aircraft.",
+        "published": "2026-08-23T20:00:22Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
-        "summary": "Mothers and their children are in dire need of food and safety in Sudan’s conflict-stricken Kordofan State.",
-        "published": "2026-08-23T18:27:46Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Fast-moving wildfire in Reno, Nevada, forces thousands to evacuate homes",
-        "link": "https://www.theguardian.com/us-news/2026/aug/23/wildfire-reno-nevada-hawk-fire",
-        "summary": "Hawk fire has covered more than 13,000 acres as blaze approaches University of Nevada campus in Reno A fast-moving Nevada wildfire exploded to more than 13,000 acres (5,200 hectares) early on Sunday, pushing from the Sierra foothills toward the center of Reno and forcing nearly 42,000 residents to evacuate as flames threatened neighborhoods and reached the edge of the University of Nevada campus. The Hawk fire’s “GO NOW” evacuation zone had expanded to the edge of the university campus as strong, gusty winds, low humidity and dry vegetation fueled the blaze, according to Truckee Meadows fire and Rescue in Reno. An additional 45,000 people were in the evacuation warning zone, and encouraged to leave now and be prepared to stay away for several days to clear the roads for first-responders. Continue reading...",
-        "published": "2026-08-23T18:22:15Z",
-        "image": "https://i.guim.co.uk/img/media/429c6b5d7c9a1ba8ff7eb1b0d7341abc10efe17c/509_0_2514_2012/master/2514.jpg?width=140&quality=85&auto=format&fit=max&s=40d26ed080c5af284172c2611408eda4",
+        "title": "Families release pictures of police officers killed in A66 crash in which five others died",
+        "link": "https://www.theguardian.com/uk-news/2026/aug/23/tributes-paid-cleveland-police-killed-a66-crash-south-bank",
+        "summary": "Emotional tributes paid to PCs Matthew Blades and Tom Clough whose vehicle was in a head-on collision with car travelling wrong way Cleveland police have published photographs of PC Matthew Blades and PC Tom Clough who died when a car travelling the wrong way on the A66 crashed head-on into their police vehicle. Two 17-year-old boys were among the seven people who were killed in the incident on Teesside. Continue reading...",
+        "published": "2026-08-23T19:55:13Z",
+        "image": "https://i.guim.co.uk/img/media/1176bcc41a0caf12cba42fb8e2e1a49ddde99dd8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43a5cd3d57674d849a2dc4e1d718fddf",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Guinea rubbish landfill collapse kills 30",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-        "published": "2026-08-23T18:17:37Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
-        "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-        "published": "2026-08-23T18:17:34Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5457/live/115de7a0-9f21-11f1-a291-b542ee92de7c.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
-        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-        "summary": "Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.",
-        "published": "2026-08-23T18:15:22Z",
+        "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
+        "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+        "summary": "Race cars take over central Washington, DC, as the Trump-created Freedom 250 Grand Prix debuts.",
+        "published": "2026-08-23T19:52:12Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "What to Know About the Ebola Outbreak Centered in Congo",
-        "link": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-        "summary": "The outbreak in the Democratic Republic of Congo was declared 100 days ago and is spreading faster than any on record, officials said.",
-        "published": "2026-08-23T18:04:38Z",
-        "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-ebola-wtk01a-photo-qwhj/23int-ebola-wtk01a-photo-qwhj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
+        "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+        "summary": "Gaza’s hospitals face oxygen shortages, putting the lives of premature babies and critically ill patients at risk.",
+        "published": "2026-08-23T19:40:11Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+        "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+        "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile Donald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war . In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!” Continue reading...",
+        "published": "2026-08-23T19:32:59Z",
+        "image": "https://i.guim.co.uk/img/media/b1fc5227ab8b91635aa6bdd84b88df0711c4cc64/200_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=1c8269f0891cb49afd4197177c4b7e56",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+        "summary": "Two people were killed after a massive Ganesha idol fell onto a crowd during a procession in Mumbai, India.",
+        "published": "2026-08-23T19:27:17Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "published": "2026-08-23T19:11:30Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+        "source": "BBC News",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "Nearly 40,000 Eye Drop Bottles Are Recalled Over Potential Contamination",
-        "link": "https://www.nytimes.com/2026/08/23/health/eye-drops-recalled.html",
+        "title": "Maker of Clear Eyes Recalls Nearly 40,000 Bottles Over Contamination Risk",
+        "link": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
         "summary": "Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”",
         "published": "2026-08-23T18:12:53Z",
         "image": "https://static01.nyt.com/images/2026/08/23/multimedia/23xp-recall-01-zwbt/23xp-recall-01-zwbt-mediumSquareAt3X.jpg",
@@ -281,6 +281,15 @@
     ],
     "Markets": [
       {
+        "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+        "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+        "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
+        "published": "2026-08-23T19:30:00Z",
+        "image": "https://images.mktw.net/im-15414148",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
+      {
         "title": "Opinion | The Summer of ‘My Bad’",
         "link": "https://www.wsj.com/opinion/the-summer-of-my-bad-6dca052a?mod=rss_markets_main",
         "summary": "We’ve seen a string of high-profile mea culpas the past few months. About time.",
@@ -342,18 +351,18 @@
         "image": "https://images.mktw.net/im-38086295",
         "source": "MarketWatch",
         "section": "Markets"
-      },
-      {
-        "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending",
-        "link": "https://www.investing.com/news/stock-market-news/alibaba-proposes-hong-kong-share-placement-worth-10-billion-4872416",
-        "summary": "",
-        "published": "2026-08-23T17:00:29Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7M018_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "published": "2026-08-23T20:01:36Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
       {
         "title": "Uber faces fine of nearly $1B over automated driver suspensions",
         "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
@@ -415,15 +424,6 @@
         "published": "2026-08-23T15:00:00Z",
         "image": null,
         "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-        "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-        "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-        "published": "2026-08-23T14:30:16Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
-        "source": "Ars Technica",
         "section": "Technology"
       }
     ],
@@ -503,6 +503,42 @@
     ],
     "Sports": [
       {
+        "title": "Northants thrash Lancashire to keep Kent in sight: county cricket day four – as it happened",
+        "link": "https://www.theguardian.com/sport/live/2026/aug/23/hampshire-v-yorkshire-somerset-v-essex-and-more-county-cricket-day-four-live",
+        "summary": "Northamptonshire won by 316 runs at Old Trafford which keeps them close to Kent at the top of Division Two Bohannon, averaging 19.52 this season, pushes forward defensively but it’s a zinger from Luke Procter who, along with James Anderson, is only remaining player from Lancashire’s 2011 Championship winning side still on the pitch. Fact of the day from Paul Edwards: Procter, who was a qualified electrician, considering a plumbing career, and training as a hairdresser when at OT, has just signed a new two-year contract with Northants which will take him to 40. Continue reading...",
+        "published": "2026-08-23T19:33:38Z",
+        "image": "https://i.guim.co.uk/img/media/6e9ef5974e63455944801a81e7af3e97ce3a9e5f/3011_839_2221_1777/master/2221.jpg?width=140&quality=85&auto=format&fit=max&s=e1ba3a51e2bb2623c136582a5b22cc72",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improv after below-par performance.",
+        "published": "2026-08-23T19:27:12Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Norris and McLaren 'don't have car' to fight for title despite Dutch GP win",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss",
+        "summary": "Lando Norris says he and McLaren \"don't have the car I need to fight for a championship\", despite a second consecutive win of the season at the Dutch Grand Prix.",
+        "published": "2026-08-23T19:23:43Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ebf/live/c15ee710-9f23-11f1-b730-67fb18a6ecb1.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Wissa shines as Isak struggles - Newcastle v Liverpool player ratings",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9q9q2gnxvjo?at_medium=RSS&at_campaign=rss",
+        "summary": "How Newcastle United and Liverpool's players rated in their Premier League match.",
+        "published": "2026-08-23T19:22:48Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05fb/live/f933f9b0-9f27-11f1-80f3-91ea4cf013d4.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
         "title": "Frustrated Lewis Hamilton claims Ferrari strategy cost him F1 Dutch GP podium",
         "link": "https://www.theguardian.com/sport/2026/aug/23/frustrated-lewis-hamilton-claims-ferrari-strategy-cost-him-f1-dutch-gp-podium",
         "summary": "Briton says team too slow to pit Charles Leclerc ‘It’s something that we need to discuss offline’ Lewis Hamilton has told his Ferrari team that they must up their game if he is to remain in the Formula One world championship fight after the British driver was angry with strategy calls at the Dutch Grand Prix , comparing them unfavourably with the decisive way his former team ­Mercedes had acted. The race was won by McLaren’s Lando Norris from Mercedes’ Kimi Antonelli and George Russell. Hamilton was fourth but believed he might have had a shot of a podium had Ferrari moved Charles Leclerc aside sooner when Hamilton, on a different tyre strategy, was quicker than his teammate. Continue reading...",
@@ -535,42 +571,6 @@
         "summary": "Two managers in charge of new clubs face off with Manchester City under Enzo Maresca and Bournemouth under Marco Rose, as the hosts stage a late comeback to kick the new Premier League season off in dramatic fashion.",
         "published": "2026-08-23T19:03:31Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2bc/live/b4da1f90-9f06-11f1-b109-879e35c24276.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Brighton dominate 10-man Villa",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Brighton start their season with an emphatic win at home against Europa League winners Aston Villa, with four first-half goals.",
-        "published": "2026-08-23T19:02:54Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a9/live/eb749380-9f03-11f1-aed2-8d6da8d75094.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Late penalty for Liverpool denies Newcastle win",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c36d6lxx36eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Szoboszlai rescues a point for Liverpool, scoring a stoppage-time penalty to deny Newcastle an opening game victory at St James' Park in the Premier League.",
-        "published": "2026-08-23T19:01:23Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b25/live/2a64e490-9f19-11f1-b109-879e35c24276.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Using international football to reignite Premier League dreams",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c7vg4dn9qymo?at_medium=RSS&at_campaign=rss",
-        "summary": "Before his potential Premier League debut for Fulham, BBC Sport looks at the role international football has played in the development of players like Shea Charles.",
-        "published": "2026-08-23T18:48:32Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d352/live/eab94290-9e2e-11f1-a291-b542ee92de7c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Ferrari delay in moving Leclerc costly - Hamilton",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/cvgvgvrg8m2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Lewis Hamilton says Ferrari's delay in moving team-mate Charles Leclerc out of his way could have cost him second place at the Dutch Grand Prix.",
-        "published": "2026-08-23T18:39:27Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6c8/live/34b023b0-9f1e-11f1-b2a2-8945a27a2843.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
