@@ -1,137 +1,182 @@
 {
-  "generated": "2026-08-24T01:56:48Z",
+  "generated": "2026-08-24T03:15:52Z",
   "lead": {
-    "title": "Australia news live: Joyce says One Nation MP got migration policy wrong; second fur seal dies of suspected bird flu",
+    "title": "Australia news live: KMPG axes hundreds of staff in wake of audit leaks scandal; jobseeker now barely two-thirds of pension",
     "link": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-    "summary": "David Farley said on Sunday that party’s migration policy is ‘not too different’ to Labor’s. Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, with a series of witnesses expected to give evidence at Sydney’s Downing Centre local court before Judge Glenn Walsh . Continue reading...",
-    "published": "2026-08-24T01:37:46Z",
-    "image": "https://i.guim.co.uk/img/media/995fe8d2f88804051996365e1c511ed9b0c05242/901_705_5372_4298/master/5372.jpg?width=140&quality=85&auto=format&fit=max&s=eee4f514227a3a4689e7b3f36ebbc4d1",
+    "summary": "Audit and consulting giant reports revenue fall of 1% year-on-year. Follow today’s news live Get our breaking news email , free app or daily news podcast Alan Jones trial enters its fourth week The Alan Jones trial enters its fourth week today, with a series of witnesses expected to give evidence at Sydney’s Downing Centre local court before Judge Glenn Walsh . Continue reading...",
+    "published": "2026-08-24T02:49:02Z",
+    "image": "https://i.guim.co.uk/img/media/625ee813420c1ad78d1ed4092a88ff2939a53a21/642_0_6418_5137/master/6418.jpg?width=140&quality=85&auto=format&fit=max&s=5b4186d58653aa10c919e02ab1823567",
     "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Shein’s pursuit of an IPO: From New York to London to Hong Kong",
-      "link": "https://www.investing.com/news/stock-market-news/sheins-pursuit-of-an-ipo-from-new-york-to-london-to-hong-kong-4872563",
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
+      "published": "2026-08-24T03:02:00Z",
+      "image": "https://images.mktw.net/im-20758647",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "Data3 shares surge to record high on strong AI-fueled earnings",
+      "link": "https://www.investing.com/news/stock-market-news/data3-shares-surge-to-record-high-on-strong-aifueled-earnings-93CH-4872587",
       "summary": "",
-      "published": "2026-08-24T01:42:33Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7N03E_L.jpg",
+      "published": "2026-08-24T02:59:54Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
-      "link": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
-      "summary": "US agency releases plan to lease millions of hectares of seabed off the coast of the Northern Mariana Islands and Guam A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals. On Tuesday, the Marine Mineral Administration (MMA), an agency under the US department of the interior, released a proposal to auction deep sea mining leases for 28m hectares (69m acres) of seafloor off the coast of the Northern Mariana Islands and Guam. Continue reading...",
-      "published": "2026-08-24T01:34:41Z",
-      "image": "https://i.guim.co.uk/img/media/6477bf1a810003e7b073c564f349c808c12a3a34/127_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=6dbf6b02a2f160aa3d53494957770607",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Alibaba to raise $10 bln via share placement to fund AI expansion",
-      "link": "https://www.investing.com/news/stock-market-news/alibaba-to-raise-10-bln-via-share-placement-to-fund-ai-expansion-4872557",
+      "title": "Shein’s pursuit of an IPO: From New York to London to Hong Kong",
+      "link": "https://www.investing.com/news/stock-market-news/sheins-pursuit-of-an-ipo-from-new-york-to-london-to-hong-kong-4872563",
       "summary": "",
-      "published": "2026-08-24T01:32:00Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3S00V_L.jpg",
+      "published": "2026-08-24T02:54:35Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7N03E_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     }
   ],
   "latest": [
     {
-      "title": "Gold Rises; Appeal Grows Amid Uneasy U.S. Fiscal Outlook",
-      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-appeal-grows-amid-uneasy-u-s-fiscal-outlook-868ddd14?mod=rss_markets_main",
-      "summary": "Gold rose in Asian trade. The yellow metal has rebounded sharply from July lows, supported by renewed investment demand and growing unease over the U.S. fiscal outlook, ING said.",
-      "published": "2026-08-24T01:50:00Z",
+      "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+      "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+      "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+      "published": "2026-08-24T02:55:22Z",
       "image": null,
-      "source": "The Wall Street Journal",
+      "source": "CNBC",
       "section": "Markets"
     },
     {
-      "title": "Asian Currencies Consolidate, May Be Supported by U.S. Fiscal Worries",
+      "title": "Shein launches up to $1.8 bln Hong Kong IPO after years of scrutiny",
+      "link": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-bln-hong-kong-ipo-after-years-of-scrutiny-4872584",
+      "summary": "",
+      "published": "2026-08-24T02:43:21Z",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6R1QL_1200_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Singapore Dollar Steady, Supported by U.S. Dollar-Debasement Concerns",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
-      "summary": "Asian currencies consolidated against the dollar, but may be supported by worries over U.S. national debt",
-      "published": "2026-08-24T01:28:00Z",
+      "summary": "The Singapore dollar was steady against its U.S. counterpart, supported by greenback-debasement concerns.",
+      "published": "2026-08-24T02:39:00Z",
       "image": null,
       "source": "The Wall Street Journal",
       "section": "Markets"
     },
     {
-      "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
-      "published": "2026-08-24T01:23:19Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
-      "source": "BBC News",
-      "section": "Business"
-    },
-    {
-      "title": "SoftBank plans record $6.3 bln bond sale as AI spending accelerates",
-      "link": "https://www.investing.com/news/stock-market-news/softbank-plans-record-63-bln-bond-sale-as-ai-spending-accelerates-4872543",
+      "title": "Why is Ampol stock surging today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-ampol-stock-surging-today-93CH-4872582",
       "summary": "",
-      "published": "2026-08-24T01:17:01Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEC6H01W_M.jpg",
+      "published": "2026-08-24T02:32:32Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Why is SoftBank stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-4872538",
+      "title": "Why is Alibaba stock sliding today?",
+      "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-sliding-today-93CH-4872581",
       "summary": "",
-      "published": "2026-08-24T01:08:05Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+      "published": "2026-08-24T02:32:17Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEB4B0PO_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "KPMG Australia plans to cut 5% of jobs, warns soft conditions to persist",
+      "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
+      "link": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
+      "summary": "",
+      "published": "2026-08-24T02:30:31Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0HO_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+      "link": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+      "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+      "published": "2026-08-24T02:25:07Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Alibaba to raise $10 bln via share placement to fund AI expansion; shares plunge",
+      "link": "https://www.investing.com/news/stock-market-news/alibaba-to-raise-10-bln-via-share-placement-to-fund-ai-expansion-4872557",
+      "summary": "",
+      "published": "2026-08-24T02:22:38Z",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3S00V_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
       "link": "https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
       "summary": "",
-      "published": "2026-08-24T01:06:45Z",
+      "published": "2026-08-24T02:18:25Z",
       "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7N01Y_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Nikkei 225 pinned below 200-SMA: Live hourly levels",
-      "link": "https://www.investing.com/news/stock-market-news/nikkei-225-pinned-below-200sma-live-hourly-levels-93CH-4872533",
-      "summary": "",
-      "published": "2026-08-24T01:05:55Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "SK Hynix stalls below 200MA in bull trap test: Live levels",
-      "link": "https://www.investing.com/news/stock-market-news/sk-hynix-stalls-below-200ma-in-bull-trap-test-live-levels-93CH-4872532",
-      "summary": "",
-      "published": "2026-08-24T01:05:53Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-      "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-      "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
-      "published": "2026-08-24T01:01:00Z",
-      "image": "https://images.mktw.net/im-20758647",
-      "source": "MarketWatch",
-      "section": "Markets"
-    },
-    {
-      "title": "Robots can outrun humans, but can they plug in a cable?",
-      "link": "https://www.investing.com/news/stock-market-news/robots-can-outrun-humans-but-can-they-plug-in-a-cable-4872417",
-      "summary": "",
-      "published": "2026-08-24T01:00:29Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7M01E_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
+      "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
+      "published": "2026-08-24T02:09:40Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
+      {
+        "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
+        "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
+        "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
+        "published": "2026-08-24T02:09:40Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
+        "link": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss",
+        "summary": "Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.",
+        "published": "2026-08-24T02:02:28Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
+        "summary": "The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.",
+        "published": "2026-08-24T01:51:40Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "US territories hit out at Trump plan to explore deep sea mining in the Pacific",
+        "link": "https://www.theguardian.com/environment/2026/aug/24/trump-plans-critical-minerals-deep-sea-mining-pacific-islands",
+        "summary": "US agency releases plan to lease millions of hectares of seabed off the coast of the Northern Mariana Islands and Guam A US government plan to lease out millions of hectares of seabed near the Mariana Trench for deep sea exploration has drawn opposition from US territories in the Pacific, as the Trump administration remains locked in a race with China for control of critical ocean minerals. On Tuesday, the Marine Mineral Administration (MMA), an agency under the US department of the interior, released a proposal to auction deep sea mining leases for 28m hectares (69m acres) of seafloor off the coast of the Northern Mariana Islands and Guam. Continue reading...",
+        "published": "2026-08-24T01:34:41Z",
+        "image": "https://i.guim.co.uk/img/media/6477bf1a810003e7b073c564f349c808c12a3a34/127_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=6dbf6b02a2f160aa3d53494957770607",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Australian shark attack victim grateful for 'second chance at life'",
+        "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+        "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+        "published": "2026-08-24T00:34:59Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf2/live/1cb13550-6f6d-11f1-a190-1943df672931.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
       {
         "title": "Large forest fire burns close to residential areas in Ankara",
         "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
@@ -151,67 +196,22 @@
         "section": "World"
       },
       {
-        "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
+        "title": "Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports",
         "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-        "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
+        "summary": "US Treasury Secretary Scott Bessent says Washington aims to 'sever every economic lifeline' that sustains Iran.",
         "published": "2026-08-24T00:00:00Z",
         "image": null,
         "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-        "link": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-        "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow components Britain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country’s independence day on his first foreign visit as prime minister. Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave of Russian missile attacks and the country’s president, Volodymyr Zelenskyy, facing his most direct domestic challenge. Continue reading...",
-        "published": "2026-08-23T23:01:45Z",
-        "image": "https://i.guim.co.uk/img/media/ca77e9aa291b9e468bd5584aaf1bf5086b86c10e/406_15_3038_2431/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=50e20ed5da954f4c49f0d0783fb8b897",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "UK productivity growing faster than official figures suggest, thinktank finds",
-        "link": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-        "summary": "Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisis Productivity in the UK – a vital measure of economic health – is growing more strongly than official figures suggest, according to analysis from the Resolution Foundation. The thinktank suggests the chancellor, John Healey, may have inherited an economy finally starting to emerge from the long shadow of the 2008 global financial crisis. Continue reading...",
-        "published": "2026-08-23T23:01:45Z",
-        "image": "https://i.guim.co.uk/img/media/88c9a76b09941bcb2fc4a8eed26e0ecf45ffbe43/598_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=3f8610aa9b71bc66638d6f9ad9dda1d4",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Government vows to make business rate valuations for pubs and hotels fairer",
-        "link": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
-        "summary": "Review will look at improving system for English and Welsh hospitality venues before next revaluation date in 2029 The government has promised that business rate valuations will be “made fairer” for pubs and hotels in England and Wales, as Andy Burnham faces growing calls to help the UK’s struggling hospitality sector. An independent review for England and Wales will look at improving the system for hospitality venues, which were hit by higher business rate bills this year after the end of pandemic-era relief and when new revaluations took effect. Continue reading...",
-        "published": "2026-08-23T23:01:45Z",
-        "image": "https://i.guim.co.uk/img/media/707eeeda8d7e7c7179d0f1a1bcd532cf91b8934a/371_0_3096_2479/master/3096.jpg?width=140&quality=85&auto=format&fit=max&s=d6dec5a4b30735f530dcf456e0bdb5b3",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-        "link": "https://www.theguardian.com/us-news/2026/aug/23/child-dies-brain-eating-amoeba-infection-louisiana",
-        "summary": "Lillian Smart of Ruston infected with fatal Naegleria fowleri , likely after swimming in Lake Claiborne, health officials say An eight-year-old Louisiana girl has died after contracting a rare, typically fatal brain-eating amoeba after a swim in Lake Claiborne. Lillian Smart, of Ruston, died on Saturday, one day after celebrating her birthday, her family announced in a public Facebook post on the “Love for Lillian” page . Continue reading...",
-        "published": "2026-08-23T22:17:53Z",
-        "image": "https://i.guim.co.uk/img/media/66e674c1ab077f100e2ffbe69bd71cd86d328598/0_173_1080_863/master/1080.jpg?width=140&quality=85&auto=format&fit=max&s=9324b9d8aea75406f2405a6111278422",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Landslide at waste mound in Guinea capital kills 30, government says",
-        "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-        "summary": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading...",
-        "published": "2026-08-23T22:16:53Z",
-        "image": "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9",
-        "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "Shein aims for almost $27bn valuation in 1 September stock market debut",
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
         "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-        "summary": "The valuation is much lower than $100bn reached in a round of private fundraising in 2022.",
-        "published": "2026-08-24T01:23:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
+        "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+        "published": "2026-08-24T02:05:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
         "source": "BBC News",
         "section": "Business"
       },
@@ -281,75 +281,75 @@
     ],
     "Markets": [
       {
-        "title": "Gold Rises; Appeal Grows Amid Uneasy U.S. Fiscal Outlook",
-        "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-appeal-grows-amid-uneasy-u-s-fiscal-outlook-868ddd14?mod=rss_markets_main",
-        "summary": "Gold rose in Asian trade. The yellow metal has rebounded sharply from July lows, supported by renewed investment demand and growing unease over the U.S. fiscal outlook, ING said.",
-        "published": "2026-08-24T01:50:00Z",
+        "title": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+        "link": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+        "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
+        "published": "2026-08-24T02:55:22Z",
         "image": null,
-        "source": "The Wall Street Journal",
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Asian Currencies Consolidate, May Be Supported by U.S. Fiscal Worries",
+        "title": "Shein launches up to $1.8 bln Hong Kong IPO after years of scrutiny",
+        "link": "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-bln-hong-kong-ipo-after-years-of-scrutiny-4872584",
+        "summary": "",
+        "published": "2026-08-24T02:43:21Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM6R1QL_1200_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Singapore Dollar Steady, Supported by U.S. Dollar-Debasement Concerns",
         "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-supported-by-u-s-fiscal-worries-4aff1bfd?mod=rss_markets_main",
-        "summary": "Asian currencies consolidated against the dollar, but may be supported by worries over U.S. national debt",
-        "published": "2026-08-24T01:28:00Z",
+        "summary": "The Singapore dollar was steady against its U.S. counterpart, supported by greenback-debasement concerns.",
+        "published": "2026-08-24T02:39:00Z",
         "image": null,
         "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "SoftBank plans record $6.3 bln bond sale as AI spending accelerates",
-        "link": "https://www.investing.com/news/stock-market-news/softbank-plans-record-63-bln-bond-sale-as-ai-spending-accelerates-4872543",
+        "title": "Why is Ampol stock surging today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-ampol-stock-surging-today-93CH-4872582",
         "summary": "",
-        "published": "2026-08-24T01:17:01Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC6H01W_M.jpg",
+        "published": "2026-08-24T02:32:32Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0Q1B5_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Why is SoftBank stock sliding today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-4872538",
+        "title": "Why is Alibaba stock sliding today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-sliding-today-93CH-4872581",
         "summary": "",
-        "published": "2026-08-24T01:08:05Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
+        "published": "2026-08-24T02:32:17Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEB4B0PO_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "KPMG Australia plans to cut 5% of jobs, warns soft conditions to persist",
-        "link": "https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
+        "title": "California expected to seek TV channel sales from Paramount-Warner, WSJ reports",
+        "link": "https://www.investing.com/news/stock-market-news/california-expected-to-seek-tv-channel-sales-from-paramountwarner-wsj-reports-4872493",
         "summary": "",
-        "published": "2026-08-24T01:06:45Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7N01Y_L.jpg",
+        "published": "2026-08-24T02:30:31Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7M0HO_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Nikkei 225 pinned below 200-SMA: Live hourly levels",
-        "link": "https://www.investing.com/news/stock-market-news/nikkei-225-pinned-below-200sma-live-hourly-levels-93CH-4872533",
-        "summary": "",
-        "published": "2026-08-24T01:05:55Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0L0PD_M.jpg",
-        "source": "Investing.com",
+        "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+        "link": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+        "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
+        "published": "2026-08-24T02:25:07Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "SK Hynix stalls below 200MA in bull trap test: Live levels",
-        "link": "https://www.investing.com/news/stock-market-news/sk-hynix-stalls-below-200ma-in-bull-trap-test-live-levels-93CH-4872532",
+        "title": "Alibaba to raise $10 bln via share placement to fund AI expansion; shares plunge",
+        "link": "https://www.investing.com/news/stock-market-news/alibaba-to-raise-10-bln-via-share-placement-to-fund-ai-expansion-4872557",
         "summary": "",
-        "published": "2026-08-24T01:05:53Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
+        "published": "2026-08-24T02:22:38Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL3S00V_L.jpg",
         "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
-        "link": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
-        "summary": "U.S. stock-index futures were little changed on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trading partners.",
-        "published": "2026-08-24T01:01:00Z",
-        "image": "https://images.mktw.net/im-20758647",
-        "source": "MarketWatch",
         "section": "Markets"
       }
     ],
@@ -577,6 +577,15 @@
     ],
     "Culture": [
       {
+        "title": "‘Lanterns’ Season 1, Episode 2 Recap: Keep Superheroes Weird",
+        "link": "https://www.nytimes.com/2026/08/23/arts/television/lanterns-recap-season-1-episode-2.html",
+        "summary": "This week’s episode gave us better look at what the life of a world famous superhero is like. It isn’t particularly glamorous.",
+        "published": "2026-08-24T02:00:05Z",
+        "image": "https://static01.nyt.com/images/2026/08/23/arts/23cul-lanterns-recap/23cul-lanterns-recap-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
         "title": "10 Songs We’re Talking About",
         "link": "https://www.nytimes.com/2026/08/22/arts/music/carly-simon-rapsody-jorja-smith-new-songs.html",
         "summary": "Jorja Smith offers a loaded invitation, Rapsody explores Africa and the cosmos, and Carly Simon returns with her first single in decades.",
@@ -607,7 +616,7 @@
         "title": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex",
         "link": "https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html",
         "summary": "In the year before the actress’s death, she struggled to walk at times and worked to disentangle herself from an ex-boyfriend who had abused her.",
-        "published": "2026-08-23T16:44:27Z",
+        "published": "2026-08-23T16:44:28Z",
         "image": "https://static01.nyt.com/images/2026/08/19/multimedia/21cul-panettiere-FEAR-06/19cul-panettiere-explainer-01-jlfh-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
@@ -636,15 +645,6 @@
         "summary": "As a lonely teenager, the novels of Nancy Mitford offered the Sorrow and Bliss author a lifeline - and an imaginary friend. She explores why reading can create a particularly intense bond with a favourite writer In the summer before university, my mother gave me a copy of The Pursuit of Love . We’d moved countries at the beginning of my A-levels and those months in between had been defined by a level of loneliness I had never known in my life. The sort of loneliness so acute and pervasive it feels like panic, and on top of all that, so shaming to be 17 with nowhere to go and nothing to do on a Saturday night. Growing up, my mother – a great reader – would say: “When you’ve got a book, you’ve got a friend,” which is why, presumably, I wasn’t a great reader. Then, I’d always had actual friends. And suddenly I didn’t and presumably that is why I accepted the Nancy Mitford paperback and started to read it. Continue reading...",
         "published": "2026-08-23T11:00:31Z",
         "image": "https://i.guim.co.uk/img/media/31ea01a705500d27b7d082bb358ee0fe3a398003/0_30_2143_1713/master/2143.jpg?width=140&quality=85&auto=format&fit=max&s=8c6519169b7c519fb05fc0ee24a3cf54",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "When my husband died in a surfing accident, life as I knew it was destroyed. Ten years on, this is what I’ve learned about grief",
-        "link": "https://www.theguardian.com/books/2026/aug/23/my-husband-died-surfing-accident-grief",
-        "summary": "One crashing wave on one single day changed everything for our family. How would I keep going? Before they enter the water, surfers will study the ocean. They consider wind and tide conditions. They analyse currents and patterns, break points and swells. They try to read the waves. I have travelled across oceans and a day to sit here on Tamarama beach in Sydney on a high-tide weekday morning in 2024. A notebook and pen lie beside me on the sand as I, too, attempt to read the waves, to find meaning in their unfathomable churn. These past 10 years, this beach has loomed large in my mind. Even when absent, it’s as if my face has been turned to these waves and I have been buffeted, sometimes staggering, sometimes falling, always bracing for the next set to roll in. For I have learned that all it takes is one ocean, one day, to come along and knock you off your feet. Continue reading...",
-        "published": "2026-08-23T11:00:30Z",
-        "image": "https://i.guim.co.uk/img/media/d098b01448dbc3267ff147e278e0197dd4925561/215_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=1715e21c49524764b85876e85e4ab17c",
         "source": "The Guardian",
         "section": "Culture"
       }
