@@ -1,433 +1,487 @@
 {
-  "generated": "2026-08-28T18:40:06Z",
+  "generated": "2026-08-29T02:10:22Z",
   "lead": {
-    "title": "Live Updates: Nepal Roughly Doubles Number of Missing to 1,900 Amid Desperate Search for Survivors",
-    "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
-    "summary": "A spokeswoman for the disaster relief agency said the tally grew after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new possible flooding.",
-    "published": "2026-08-28T18:38:22Z",
-    "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-flood-promo-2PM-hwzt/28nepal-flood-promo-2PM-hwzt-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "National Park Service supports Trump’s arch even though it would have ‘adverse effects’ on other DC monuments, report says – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
+    "summary": "This live blog is now closed. Trump arch will alter sightlines of many Washington DC landmarks, report says Sign up for the US Breaking News email A reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of the Federal Reserve – will deliver his first speech as the head of the US central bank at the annual economic policy symposium. As my colleagues note, Warsh is under pressure to provide clarity on how the Federal Reserve should handle with inflation if price pressures don’t abate. Continue reading...",
+    "published": "2026-08-29T01:56:21Z",
+    "image": "https://i.guim.co.uk/img/media/7efdc28db9c1a4c1c6c77efdf85563ba6c86bea0/0_0_2575_2059/master/2575.jpg?width=140&quality=85&auto=format&fit=max&s=89b3a5002b60405f1b72982f9c92f7e9",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Cricket: Today at the Test",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Day 2 highlights from the second Test match between England and Pakistan at Lord's.",
-      "published": "2026-08-28T19:00:55Z",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6v45l.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Opinion | Gag Treasury, You Gag the Market, Too",
-      "link": "https://www.wsj.com/opinion/gag-treasury-you-gag-the-market-too-c1fbb45e?mod=rss_markets_main",
-      "summary": "Like any issuer of securities, the department is itself part of the market.",
-      "published": "2026-08-28T18:37:00Z",
-      "image": "https://opinion-images.wsj.net/im-50771495",
-      "source": "The Wall Street Journal",
-      "section": "Markets"
-    },
-    {
-      "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
-      "link": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
-      "summary": "In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly responsible for taming inflation. If price increases do not return to the central bank’s target quickly, “we have work to do,” he said.",
-      "published": "2026-08-28T18:36:24Z",
-      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28dc-fed-warsh-jgqb/28dc-fed-warsh-jgqb-mediumSquareAt3X.jpg",
+      "title": "The ‘Odyssey’ Scholar Emily Wilson, a Critic of the Movie, Is Redoing Her Translation",
+      "link": "https://www.nytimes.com/2026/08/28/books/odyssey-emily-wilson-translation.html",
+      "summary": "Wilson, who was the first woman to translate the Homeric tale into English, caused a firestorm when she criticized Christopher Nolan’s blockbuster film.",
+      "published": "2026-08-29T01:56:02Z",
+      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28xp-odyssey-translation-qbkm/28xp-odyssey-translation-qbkm-mediumSquareAt3X.jpg",
       "source": "The New York Times",
-      "section": "Business"
-    }
-  ],
-  "latest": [
-    {
-      "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.",
-      "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
-      "summary": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.",
-      "published": "2026-08-28T18:36:31Z",
-      "image": null,
-      "source": "The New York Times",
-      "section": "Business"
+      "section": "Culture"
     },
     {
-      "title": "Celtic & Rangers to play Scottish Cup ties behind closed doors after fan disorder",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
-      "published": "2026-08-28T18:36:00Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d4/live/3b2e42d0-a2d4-11f1-941c-8741c1a72471.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Trump loses bid to transfer New York hush money case to federal court",
-      "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
-      "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
-      "published": "2026-08-28T18:34:17Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-      "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-      "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
-      "published": "2026-08-28T18:29:42Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "England enjoy dominant day at Lord's to close in on series win",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&at_campaign=rss",
-      "summary": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's.",
-      "published": "2026-08-28T18:29:17Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bbf/live/002c9c00-a30a-11f1-b109-879e35c24276.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
-      "summary": "Brooke Rollins teases ‘big announcements’ next week to facilitate Trump’s pledge to allow ranchers and farmers to process their own food and avoid the ‘nasty monopoly’ of large processing plants Sign up for the US Breaking News email A reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of the Federal Reserve – will deliver his first speech as the head of the US central bank at the annual economic policy symposium. As my colleagues note, Warsh is under pressure to provide clarity on how the Federal Reserve should handle with inflation if price pressures don’t abate. Continue reading...",
-      "published": "2026-08-28T18:28:41Z",
-      "image": "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&quality=85&auto=format&fit=max&s=9a8ee9282866b60c2f7761d72fd5692e",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Oil Giant Chevron Is Said to Be in Talks to Expand in Venezuela",
-      "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
-      "summary": "Chevron, the second largest U.S. oil company, is building on its wager to remain in Venezuela, where it already accounts for about a quarter of the country’s oil production.",
-      "published": "2026-08-28T18:27:18Z",
-      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-chevron-venezuela-jkcp/28biz-chevron-venezuela-jkcp-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Crystal Palace v Manchester City: Premier League – live",
-      "link": "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live",
-      "summary": "Updates from 8pm kickoff (BST) at Selhurst Park Get in touch: email Michael about the game Let’s dissect those teams a little. Palace line-up in that familiar 3-4-2-1 formation, although that front three is fluid. For all Palace’s problems at centre-back, Tomiyasu, Richards and Canvot (the latter really impressed me last season) are more than dependable and Axel Disasi is on the bench. After the Arsenal game [in the Community Shield], we struggled a bit in the middle of the field. This is a league where you need strong midfielders. Marc can do this job. On the ball, he is strong, off the ball he is defensively strong, he gives balance to the team. It’s good to be versatile. Bouaddi is an unbelievable player but he is 18, he is young, from France, he needs time. Ideally we will have two players for every position. Hopefully we can get one more in, or two in. Also maybe one or two out. Continue reading...",
-      "published": "2026-08-28T18:25:24Z",
-      "image": "https://i.guim.co.uk/img/media/d6c5fa4921cd1ed4dab4c8378a4a21e0597416e7/592_212_4188_3351/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=fa4681f837a00c7d38c62ebd221ea5ec",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
+      "title": "Nepal-Tibet flash flood: number of missing rises to 2,478; bodies recovered down rivers in India – latest updates",
       "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-      "summary": "Nepali disaster authority confirms jump of more than 400 in total of those unaccounted for, with 584 deaths confirmed in Nepal and five in Tibet Flood rescue efforts resume Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding . “Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP. Relief efforts are also under way to provide the rescued people what they need. The army is still working to safely evacuate more than 100 people trapped in the same tunnel. Continue reading...",
-      "published": "2026-08-28T18:24:59Z",
+      "summary": "Nepal reverses earlier decision and says foreign teams will be allowed to help with rescue efforts ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding . “Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP. Relief efforts are also under way to provide the rescued people what they need. The army is still working to safely evacuate more than 100 people trapped in the same tunnel. Continue reading...",
+      "published": "2026-08-29T01:54:10Z",
       "image": "https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=140&quality=85&auto=format&fit=max&s=08ce8ebaf9062913ec86625242402e69",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-      "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-      "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-      "published": "2026-08-28T18:23:17Z",
-      "image": "https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg",
-      "source": "Wired",
-      "section": "Technology"
+      "title": "White House Teleprompter Operator Settles Insider-Trading Probe",
+      "link": "https://www.wsj.com/politics/policy/white-house-teleprompter-operator-settles-insider-trading-probe-5e77fdce?mod=rss_markets_main",
+      "summary": "Gabriel Perez agreed to pay a penalty and give up winnings to the Commodity Futures Trading Commission.",
+      "published": "2026-08-29T01:40:00Z",
+      "image": "https://images.wsj.net/im-80551934",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Roy Slaper, Unlikely ‘Legend’ of Denim, Dies at 54",
+      "link": "https://www.nytimes.com/2026/08/28/arts/design/roy-slaper-dead.html",
+      "summary": "After filling his apartment with industrial sewing machines, he began producing high-end jeans that made him famous with denim-heads in the days of lumberjack chic.",
+      "published": "2026-08-29T02:03:58Z",
+      "image": null,
+      "source": "The New York Times",
+      "section": "Culture"
+    },
+    {
+      "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+      "link": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+      "summary": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.",
+      "published": "2026-08-29T01:50:03Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Expert ranks top 5 U.S. tech companies to recruit from",
+      "link": "https://www.investing.com/news/stock-market-news/expert-ranks-top-5-us-tech-companies-to-recruit-from-4881911",
+      "summary": "",
+      "published": "2026-08-29T01:30:11Z",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+      "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+      "summary": "Shots were heard around the city's Diori Hamani International Airport, and near the presidential palace.",
+      "published": "2026-08-29T01:30:08Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "published": "2026-08-29T01:21:43Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0053/live/a9f70e80-a339-11f1-a0c7-f9810b5aa403.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "published": "2026-08-29T01:14:13Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says",
+      "link": "https://www.nytimes.com/2026/08/28/us/walmart-opioid-lawsuit-settlement.html",
+      "summary": "The resolution is part of an effort to hold retailers and pharmacists accountable for what the government says were their roles in the opioid epidemic.",
+      "published": "2026-08-29T01:08:49Z",
+      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28xp-walmart-jlch/28xp-walmart-jlch-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "CFTC fines former White House aide $172,000 for trading on Trump speech information",
+      "link": "https://www.investing.com/news/stock-market-news/cftc-fines-former-white-house-aide-172000-for-trading-on-trump-speech-information-4881904",
+      "summary": "",
+      "published": "2026-08-29T01:00:33Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7S00O_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "Power, Betrayal and the Fall of Leon Black",
+      "link": "https://www.wsj.com/business/power-betrayal-and-the-fall-of-leon-black-654192b8?mod=rss_markets_main",
+      "summary": "A new book details the crisis behind the scenes at Apollo Global Management as the Epstein scandal unfolded.",
+      "published": "2026-08-29T01:00:00Z",
+      "image": "https://images.wsj.net/im-03517971",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+      "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+      "summary": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
+      "published": "2026-08-29T00:58:54Z",
+      "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28NEPAL-FLOODS-PROMO-9PM-zpjq/28NEPAL-FLOODS-PROMO-9PM-zpjq-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
-        "link": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
-        "summary": "Brooke Rollins teases ‘big announcements’ next week to facilitate Trump’s pledge to allow ranchers and farmers to process their own food and avoid the ‘nasty monopoly’ of large processing plants Sign up for the US Breaking News email A reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of the Federal Reserve – will deliver his first speech as the head of the US central bank at the annual economic policy symposium. As my colleagues note, Warsh is under pressure to provide clarity on how the Federal Reserve should handle with inflation if price pressures don’t abate. Continue reading...",
-        "published": "2026-08-28T18:28:41Z",
-        "image": "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&quality=85&auto=format&fit=max&s=9a8ee9282866b60c2f7761d72fd5692e",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
-        "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
-        "summary": "Nepali disaster authority confirms jump of more than 400 in total of those unaccounted for, with 584 deaths confirmed in Nepal and five in Tibet Flood rescue efforts resume Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding . “Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP. Relief efforts are also under way to provide the rescued people what they need. The army is still working to safely evacuate more than 100 people trapped in the same tunnel. Continue reading...",
-        "published": "2026-08-28T18:24:59Z",
-        "image": "https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=140&quality=85&auto=format&fit=max&s=08ce8ebaf9062913ec86625242402e69",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Why Many Iranians Are Losing Hope After Six Months of War",
-        "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iran-war-six-months-israel-us.html",
-        "summary": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump’s motives.",
-        "published": "2026-08-28T18:14:28Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28iran-voices-01-kqlb/28iran-voices-01-kqlb-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89",
-        "link": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html",
-        "summary": "His 35-year reign opened an ancient monarchy to marriages with so-called commoners and to an incendiary association with Jeffrey Epstein.",
-        "published": "2026-08-28T18:14:20Z",
-        "image": "https://static01.nyt.com/images/2026/08/29/multimedia/00Harald-ADV-cbpg/00Harald-ADV-cbpg-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-        "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-        "published": "2026-08-28T18:13:28Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Mount Kailash, Sacred to 4 Faiths, Drew Pilgrims Lost in Nepal and Tibet Floods",
-        "link": "https://www.nytimes.com/2026/08/28/world/asia/mount-kailash-nepal-floods.html",
-        "summary": "The peak is revered by Hindus, Buddhists, Jains and those belonging to the pre-Buddhist Bon religion.",
-        "published": "2026-08-28T18:00:28Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/world/28nepal-floods-kailash-zuma/28nepal-floods-kailash-zuma-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-        "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-        "summary": "Israel's prime minister and defence minister praise the attack as Hamas calls for Israeli 'crimes' to stop.",
-        "published": "2026-08-28T17:47:17Z",
+        "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+        "link": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+        "summary": "Tuareg rebels have freed about 60 Malian soldiers in exchange for one of their own leaders, security sources said.",
+        "published": "2026-08-29T01:50:03Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
-        "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
-        "summary": "Critics call move to gain long-term access to country’s massive energy reserves ‘predatory’ and ‘unconstitutional’ Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with critics describing the move as “predatory” and a “rapacious” land grab. Several media outlets this week reported that the Trump administration – which abducted Venezuela’s authoritarian president, Nicolás Maduro, in January and has steered the South American country ever since – hopes to secure long-term access to its oil and gasfields. Continue reading...",
-        "published": "2026-08-28T17:41:37Z",
-        "image": "https://i.guim.co.uk/img/media/64676fb920a4239d768d5b0d0e29d3e8c2e363b2/378_0_3743_2994/master/3743.jpg?width=140&quality=85&auto=format&fit=max&s=6bfc48b9b1cf950fb1f2b0275ffc1d52",
-        "source": "The Guardian",
+        "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+        "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+        "summary": "Shots were heard around the city's Diori Hamani International Airport, and near the presidential palace.",
+        "published": "2026-08-29T01:30:08Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+        "published": "2026-08-29T01:21:43Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0053/live/a9f70e80-a339-11f1-a0c7-f9810b5aa403.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+        "published": "2026-08-29T01:14:13Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0877/live/0f940730-a20d-11f1-9090-b51af3a01fc2.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Live Updates: Scale of Flood Disaster Grows as Nepal Doubles Estimate of Missing",
+        "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+        "summary": "A spokeswoman for the Nepali disaster relief agency said the tally grew to 1,900 after some 900 people were reported missing from hydropower projects. Rescue efforts were complicated by fears of new flooding.",
+        "published": "2026-08-29T00:58:54Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28NEPAL-FLOODS-PROMO-9PM-zpjq/28NEPAL-FLOODS-PROMO-9PM-zpjq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Nepal’s Hydropower Industry Was Booming. Now 900 Workers Are Missing.",
+        "link": "https://www.nytimes.com/2026/08/28/world/asia/nepals-hydropower-industry-was-booming-now-900-workers-are-missing.html",
+        "summary": "Videos show rescuers pulling people out of hydropower tunnels, as hundreds of workers remain missing after a deadly flood.",
+        "published": "2026-08-29T00:58:11Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-floods-hydroelectric-industry-topart-vqlg/28nepal-floods-hydroelectric-industry-topart-vqlg-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+        "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+        "published": "2026-08-29T00:56:19Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad8/live/d86c20a0-a31d-11f1-8937-ebc435db1160.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+        "summary": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+        "published": "2026-08-29T00:53:56Z",
+        "image": null,
+        "source": "Al Jazeera",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.",
-        "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
-        "summary": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.",
-        "published": "2026-08-28T18:36:31Z",
+        "title": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says",
+        "link": "https://www.nytimes.com/2026/08/28/us/walmart-opioid-lawsuit-settlement.html",
+        "summary": "The resolution is part of an effort to hold retailers and pharmacists accountable for what the government says were their roles in the opioid epidemic.",
+        "published": "2026-08-29T01:08:49Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28xp-walmart-jlch/28xp-walmart-jlch-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Pint-Size Cars, With Enviable Smiles Per Gallon",
+        "link": "https://www.nytimes.com/2026/08/27/business/tiny-cars-microcars-isetta-mini.html",
+        "summary": "Microcars are underpowered, noisy and sometimes smoky, and it helps if you’re good with a wrench. But “the struggle is what makes it fun,” one enthusiast said.",
+        "published": "2026-08-29T00:48:59Z",
+        "image": "https://static01.nyt.com/images/2026/08/12/business/00wheels-microcars1/00wheels-microcars1-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil",
+        "link": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+        "summary": "The president said an agreement between the countries involved “a partnership with private business” and more than 65 billion barrels of reserves.",
+        "published": "2026-08-29T00:39:59Z",
+        "image": "https://static01.nyt.com/images/2026/01/08/multimedia/28biz-trump-venezuela/28biz-trump-venezuela-mediumSquareAt3X-v2.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "The Strait of Hormuz crisis threatened Asia’s oil and gas lifeline. Here’s how the region is rewriting its energy playbook",
+        "link": "https://fortune.com/2026/08/28/iran-war-hormuz-blocked-asia-energy-crisis-oil-gas/",
+        "summary": "“Notwithstanding the rise of alternative and green technologies over the past decade, the global economy is still very reliant on oil and gas.\"",
+        "published": "2026-08-29T00:00:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2282682906.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Amid high gas prices and shrinking crude stockpile, Trump says U.S. to take control of 65 billion barrels of Venezuelan oil reserves",
+        "link": "https://fortune.com/2026/08/28/trump-us-control-65-billion-barrels-venezuelan-oil-reserves/",
+        "summary": "Venezuela has one of the largest oil reserves in the world, with an estimated 303 billion barrels of crude oil in the ground.",
+        "published": "2026-08-28T23:29:31Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26240757900206-e1787959468995.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+        "link": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+        "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
+        "published": "2026-08-28T23:15:45Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-prediction-appeals-czhp/28biz-prediction-appeals-czhp-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "FAFSA Form for College Aid Will Be Less Stressful This Year, Officials Say",
+        "link": "https://www.nytimes.com/2026/08/28/business/college-aid-fafsa.html",
+        "summary": "The college financial aid form has long been a stressor for high school seniors and their parents. Fixes have made it simpler and faster to complete, officials say.",
+        "published": "2026-08-28T21:38:46Z",
         "image": null,
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Oil Giant Chevron Is Said to Be in Talks to Expand in Venezuela",
+        "title": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
         "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
-        "summary": "Chevron, the second largest U.S. oil company, is building on its wager to remain in Venezuela, where it already accounts for about a quarter of the country’s oil production.",
-        "published": "2026-08-28T18:27:18Z",
+        "summary": "President Trump’s administration has been pushing U.S. companies like Chevron to invest more in Venezuela’s oil industry.",
+        "published": "2026-08-28T21:30:58Z",
         "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28biz-chevron-venezuela-jkcp/28biz-chevron-venezuela-jkcp-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
-        "link": "https://www.nytimes.com/2026/08/28/business/media/trump-new-york-times-lawsuit.html",
-        "summary": "The president has argued that the news organization sought to undermine his 2024 presidential campaign by disparaging his reputation as a businessman. The Times has moved to dismiss the lawsuit.",
-        "published": "2026-08-28T18:11:03Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28BIZ-Trumpsuit-fhlb/28BIZ-Trumpsuit-fhlb-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "China Sees Opportunity in America’s Recent A.I. Security Scares",
-        "link": "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html",
-        "summary": "A leading Chinese A.I. start-up released its latest model and made the case that China’s embrace of open software is safer than Silicon Valley’s closed approach.",
-        "published": "2026-08-28T18:05:44Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Fired Stars and Stripes staffers sue Pentagon, claiming retaliation over reporting on deteriorating aircraft carrier",
-        "link": "https://fortune.com/2026/08/28/pentagon-fires-stars-and-stripes-first-amendment/",
-        "summary": "Stars and Stripes publisher Max Lederer, editor-in-chief Erik Slavin and Middle East reporter Lara Korte are named as plaintiffs in the federal lawsuit.",
-        "published": "2026-08-28T17:52:06Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1252459464.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Trump officially signs executive order directing government to rename Lake Ontario as ‘Lake America’",
-        "link": "https://fortune.com/2026/08/28/trump-lake-ontario-lake-america-canada/",
-        "summary": "Trump, who signed the order at the Resolute Desk in the Oval Office, sat in front of a map with the words, “MAKING THE GREAT LAKES EVEN GREATER.”",
-        "published": "2026-08-28T17:49:52Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26237644643230-e1787923306457.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Gatwick Airport faced water outage after main burst",
-        "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-        "summary": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-        "published": "2026-08-28T17:38:37Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2363/live/debeed50-a2de-11f1-b109-879e35c24276.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "Warsh’s Big Test at Jackson Hole",
-        "link": "https://www.nytimes.com/2026/08/28/business/dealbook/warsh-fed-jackson-hole.html",
-        "summary": "Investors want Kevin Warsh, the Fed chairman, to address inflation, interest rates and the bond market in a major speech. Some worry he won’t say enough.",
-        "published": "2026-08-28T16:40:01Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28db-warsh2-fqhg/28db-warsh2-fqhg-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Trump loses bid to transfer New York hush money case to federal court",
-        "link": "https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html",
-        "summary": "Trump's conviction in the hush money case relates to conduct that preceded the 2016 presidential election, which led to his first term in the White House.",
-        "published": "2026-08-28T18:34:17Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-        "link": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html",
-        "summary": "The Ninth Circuit Court of Appeals ruled that sports-related event contracts are not swaps, contradicting a Third Circuit ruling from April.",
-        "published": "2026-08-28T18:29:42Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Elastic NV options analysis: calls outpace puts 3-to-1 after earnings beat",
-        "link": "https://www.investing.com/news/stock-market-news/elastic-nv-options-analysis-calls-outpace-puts-3to1-after-earnings-beat-93CH-4881735",
+        "title": "Expert ranks top 5 U.S. tech companies to recruit from",
+        "link": "https://www.investing.com/news/stock-market-news/expert-ranks-top-5-us-tech-companies-to-recruit-from-4881911",
         "summary": "",
-        "published": "2026-08-28T18:15:03Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEM531LT_1200_L.jpg",
+        "published": "2026-08-29T01:30:11Z",
+        "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-        "link": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
-        "summary": "Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking network, Treasury said.",
-        "published": "2026-08-28T18:13:13Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "CFTC fines former White House aide $172,000 for trading on Trump speech information",
+        "link": "https://www.investing.com/news/stock-market-news/cftc-fines-former-white-house-aide-172000-for-trading-on-trump-speech-information-4881904",
+        "summary": "",
+        "published": "2026-08-29T01:00:33Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM7S00O_L.jpg",
+        "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
-        "link": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
-        "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
-        "published": "2026-08-28T18:11:45Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Stocks Lower as Fed’s Warsh Comments Boost Rate-Hike Bets",
-        "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-mixed-ahead-of-fed-chair-warshs-jackson-hole-debut-5c045a6d?mod=rss_markets_main",
-        "summary": "U.S. stocks were mixed after Fed Chairman Kevin Warsh signaled the central bank may not be done fighting inflation.",
-        "published": "2026-08-28T18:11:00Z",
-        "image": "https://images.wsj.net/im-06259819",
+        "title": "Power, Betrayal and the Fall of Leon Black",
+        "link": "https://www.wsj.com/business/power-betrayal-and-the-fall-of-leon-black-654192b8?mod=rss_markets_main",
+        "summary": "A new book details the crisis behind the scenes at Apollo Global Management as the Epstein scandal unfolded.",
+        "published": "2026-08-29T01:00:00Z",
+        "image": "https://images.wsj.net/im-03517971",
         "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Canadian government bond yields hold steady amid global rate volatility",
-        "link": "https://www.investing.com/news/stock-market-news/canadian-government-bond-yields-hold-steady-amid-global-rate-volatility-93CH-4881733",
+        "title": "Truist, Fifth Third pause products tied to Mark Walter firm amid probe",
+        "link": "https://www.investing.com/news/stock-market-news/truist-fifth-third-pause-products-tied-to-mark-walter-firm-amid-probe-4881891",
         "summary": "",
-        "published": "2026-08-28T18:08:54Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM721MT_L.jpg",
+        "published": "2026-08-29T00:09:31Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Marvell and PayPal among market cap stock movers on Friday",
-        "link": "https://www.investing.com/news/stock-market-news/marvell-and-paypal-among-market-cap-stock-movers-on-friday-93CH-4881729",
-        "summary": "",
-        "published": "2026-08-28T18:05:12Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAF0YT_M.jpg",
-        "source": "Investing.com",
+        "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+        "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+        "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+        "published": "2026-08-28T23:42:26Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "The 2026 Races That Could Determine House Control",
+        "link": "https://www.wsj.com/articles/the-2026-races-that-could-determine-house-control-9500c90d?mod=rss_markets_main",
+        "summary": "The balance of power in the House is on the line in the 2026 elections.",
+        "published": "2026-08-28T23:11:00Z",
+        "image": "https://images.wsj.net/im-45491772",
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+        "summary": "“These shares are the only assets in her estate without designated beneficiaries.”",
+        "published": "2026-08-28T23:00:00Z",
+        "image": "https://images.mktw.net/im-33671200",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
+      {
+        "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+        "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+        "summary": "“I’m curious what would happen if the account owner were to die suddenly at the same time as the 98% beneficiary.”",
+        "published": "2026-08-28T22:15:00Z",
+        "image": "https://images.mktw.net/im-87399340",
+        "source": "MarketWatch",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Microsoft Teams Has Become a Haven for Scammers in China",
-        "link": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
-        "summary": "Fraudsters are exploiting enterprise chat apps like Teams and Webex to trick Chinese victims into transferring large sums of money, fueling a wave of complaints.",
-        "published": "2026-08-28T18:23:17Z",
-        "image": "https://media.wired.com/photos/6a909d8a06c510ef6758e71c/master/pass/Made-In-China-Microsoft-Teams-Hidden-Scams-Business.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-        "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-        "summary": "There's a lot of capital pouring into the business of giving models away.",
-        "published": "2026-08-28T18:19:40Z",
+        "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+        "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+        "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
+        "published": "2026-08-28T23:24:27Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-        "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-        "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-        "published": "2026-08-28T18:07:55Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Here's what we know about the \"space academy\" Trump just announced",
-        "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-        "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-        "published": "2026-08-28T17:36:30Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-        "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-        "summary": "Annual Apple TV subscriptions get the biggest bump.",
-        "published": "2026-08-28T17:23:53Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart",
-        "link": "https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/",
-        "summary": "“Do we need to look at the ceiling before going to the bathroom? Can we actually trust the water is safe to drink?” asks one GSA worker.",
-        "published": "2026-08-28T17:14:19Z",
-        "image": "https://media.wired.com/photos/6a91b7ad58aada50855472df/master/pass/IMG_9724.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-        "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-        "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem.",
-        "published": "2026-08-28T17:09:05Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-        "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-        "summary": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black […]",
-        "published": "2026-08-28T17:03:07Z",
+        "title": "Google further buries search results under AI mode",
+        "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with […]",
+        "published": "2026-08-28T22:48:11Z",
         "image": null,
         "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Is the best way to watch a movie on a pair of sunglasses?",
+        "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+        "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+        "published": "2026-08-28T22:42:48Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+        "summary": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+        "published": "2026-08-28T22:29:13Z",
+        "image": "https://media.wired.com/photos/6a9205e11fef496705b5c9f7/master/pass/Jensen-Took-Call-From-Trump-Business-2212801537.jpg",
+        "source": "Wired",
+        "section": "Technology"
+      },
+      {
+        "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+        "link": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+        "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+        "published": "2026-08-28T22:14:52Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
+      {
+        "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+        "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+        "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, […]",
+        "published": "2026-08-28T22:03:13Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Cities terminate Flock contracts at record pace in August",
+        "link": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+        "summary": "Cancellations have accelerated.",
+        "published": "2026-08-28T21:33:54Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
+      {
+        "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+        "link": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+        "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+        "published": "2026-08-28T21:17:38Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-1152x648.jpg",
+        "source": "Ars Technica",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+        "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+        "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+        "published": "2026-08-29T00:53:13Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4196/live/2c190870-a2e3-11f1-a291-b542ee92de7c.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Mountain of broken fridges growing across England and Wales",
+        "link": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss",
+        "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
+        "published": "2026-08-29T00:51:02Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "The race to stop England running out of water",
+        "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+        "published": "2026-08-29T00:46:00Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+        "link": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+        "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+        "published": "2026-08-28T22:21:31Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+        "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+        "published": "2026-08-28T20:44:07Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+        "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals. The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, received a total of $775,000 in awards. The technology grinds mixed trash into a fine powder, […]",
+        "published": "2026-08-28T20:30:52Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
       {
         "title": "'Our parents were crossing the border an hour before the flood hit'",
         "link": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
@@ -445,137 +499,128 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "President Trump Signs Executive Order to Create US Space Academy",
-        "link": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-        "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
-        "published": "2026-08-28T17:21:04Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "Narwhals Have Stunning Spiraled Tusks. That’s Not the Only Twist.",
-        "link": "https://www.nytimes.com/2026/08/28/science/narwhals-tusk-spiral-twist.html",
-        "summary": "X-rays revealed that the tusks have an internal opposing twist, which may help explain how they grow so straight — the only tusks like them in nature.",
-        "published": "2026-08-28T16:50:08Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28SCI-NARWHALS-TUSK-03-jfgh/28SCI-NARWHALS-TUSK-03-jfgh-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "Smuggled Turtles Saved at J.F.K. Are Recovering in the Bronx",
-        "link": "https://www.nytimes.com/2026/08/27/climate/turtle-smuggling-jfk-airport.html",
-        "summary": "China’s exotic pet market is driving a spike in animal smuggling, U.S. wildlife officials say. But these turtles are getting a second chance.",
-        "published": "2026-08-28T16:48:07Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00CLI-TURTLES-stillpromo-hcfk/00CLI-TURTLES-stillpromo-hcfk-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "Grants",
-        "link": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-        "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the […]",
-        "published": "2026-08-28T15:45:43Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "An Experimental Single-Time Treatment Slashed Cholesterol for a Year",
-        "link": "https://www.nytimes.com/2026/08/28/science/an-experimental-single-time-treatment-slashed-cholesterol-for-a-year.html",
-        "summary": "A small gene-editing study significantly reduced LDL cholesterol levels, and the results have stuck a year later.",
-        "published": "2026-08-28T14:30:05Z",
-        "image": "https://static01.nyt.com/images/2026/08/28/science/28SCI-CHOLESTEROL-EDIT/28SCI-CHOLESTEROL-EDIT-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "GPS collars making shepherds' lives 'much easier'",
-        "link": "https://www.bbc.co.uk/news/articles/cm2mnjez5gvo?at_medium=RSS&at_campaign=rss",
-        "summary": "Brothers Josh and Ben Voak are using a GPS technology featured on the TV show Clarkson's Farm.",
-        "published": "2026-08-28T10:30:44Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58c8/live/abc39930-a21d-11f1-8d29-591eef351b23.jpg",
-        "source": "BBC News",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Celtic & Rangers to play Scottish Cup ties behind closed doors after fan disorder",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
-        "summary": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
-        "published": "2026-08-28T18:36:00Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d4/live/3b2e42d0-a2d4-11f1-941c-8741c1a72471.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "England enjoy dominant day at Lord's to close in on series win",
-        "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&at_campaign=rss",
-        "summary": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's.",
-        "published": "2026-08-28T18:29:17Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bbf/live/002c9c00-a30a-11f1-b109-879e35c24276.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Crystal Palace v Manchester City: Premier League – live",
-        "link": "https://www.theguardian.com/football/live/2026/aug/28/crystal-palace-v-manchester-city-premier-league-live",
-        "summary": "Updates from 8pm kickoff (BST) at Selhurst Park Get in touch: email Michael about the game Let’s dissect those teams a little. Palace line-up in that familiar 3-4-2-1 formation, although that front three is fluid. For all Palace’s problems at centre-back, Tomiyasu, Richards and Canvot (the latter really impressed me last season) are more than dependable and Axel Disasi is on the bench. After the Arsenal game [in the Community Shield], we struggled a bit in the middle of the field. This is a league where you need strong midfielders. Marc can do this job. On the ball, he is strong, off the ball he is defensively strong, he gives balance to the team. It’s good to be versatile. Bouaddi is an unbelievable player but he is 18, he is young, from France, he needs time. Ideally we will have two players for every position. Hopefully we can get one more in, or two in. Also maybe one or two out. Continue reading...",
-        "published": "2026-08-28T18:25:24Z",
-        "image": "https://i.guim.co.uk/img/media/d6c5fa4921cd1ed4dab4c8378a4a21e0597416e7/592_212_4188_3351/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=fa4681f837a00c7d38c62ebd221ea5ec",
+        "title": "European football: PSG scramble another draw while Bayern make flying start",
+        "link": "https://www.theguardian.com/football/2026/aug/29/european-football-psg-scramble-another-draw-while-bayern-make-flying-start",
+        "summary": "Marquinhos grabs late equaliser for Ligue 1 champions Bayern overwhelm Stuttgart 5-1 at Allianz Arena Paris Saint-Germain defender Marquinhos scored deep into stoppage ⁠time to snatch a scarcely deserved 2-2 draw at Lille on Friday as the Ligue 1 champions ⁠continued to struggle ⁠after ​being held by Rennes on the opening weekend. After the poor 2-2 draw ‌against Rennes, things went from bad to worse for PSG when Lille took the lead in the 21st minute as Icelandic playmaker Hákon Haraldsson latched on to a brilliant reverse pass from Olivier Giroud and curled an unstoppable shot past ‌Matvei Safonov. Continue reading...",
+        "published": "2026-08-28T23:15:23Z",
+        "image": "https://i.guim.co.uk/img/media/008b3175c613b04f29126e1e8409b22e1a0fc50d/494_215_3783_3027/master/3783.jpg?width=140&quality=85&auto=format&fit=max&s=608a865d1b8a09394ab8a09a6a9679ad",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Warwickshire v Nottinghamshire, Essex v Surrey, and more: county cricket, day two – live",
-        "link": "https://www.theguardian.com/sport/live/2026/aug/28/warwickshire-v-nottinghamshire-essex-v-surrey-and-more-county-cricket-day-three-live",
-        "summary": "Updates from the latest round of Championship matches Day one roundup | Sign up for the Spin | Mail Tanya There is play at last at the big beast bash at Edgbast on, but it isn’t going so well for Notts, who are 19 for 2 after losing Hameed and McCann for ducks. As that man Ben Sanderson spoils the dream with a nipbacker into the pads. Kent 170 for one. Continue reading...",
-        "published": "2026-08-28T18:17:01Z",
-        "image": "https://i.guim.co.uk/img/media/9860501ce849b6efca0f3f969256abc82fe9d32b/355_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=b66f7adada320bd5f7bf03d759f99928",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Olé for Robinson as England take firm control of Lord’s Test against Pakistan",
-        "link": "https://www.theguardian.com/sport/2026/aug/28/ole-for-robinson-as-england-take-firm-control-of-lords-test-against-pakistan",
-        "summary": "Second Test, day two: England 290 & 81-3; Pakistan 110 Ollie Robinson takes 4-11; Emilio Gay unbeaten on 30 Joe Root did not want the England captaincy when the prospect started to be floated earlier this summer. After performing the role as a ­stand-in for the suspended Ben Stokes against New Zealand at the Oval, his father, Matt, floated a full-time return as a hypothetical and says this was met with a “no”. Root was apparently swayed by the impending arrival of Stephen ­Fleming as head coach, with the pair speaking regularly before roles were locked down. But watching this ­one-sided second day against Pakistan at Lord’s – and indeed the ­one-sided series opener at ­Headingley – one wonders whether being handed the keys to this pace attack was another clincher for Root. Continue reading...",
-        "published": "2026-08-28T18:06:46Z",
-        "image": "https://i.guim.co.uk/img/media/fa625d71c775b8894251f4e35a83f93f630d34e8/814_0_3168_2534/master/3168.jpg?width=140&quality=85&auto=format&fit=max&s=cb9cd6c062ce08c74e3c8eb15653983b",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Seam quartet puts England on verge of series win",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c9w4rneng8lo?at_medium=RSS&at_campaign=rss",
-        "summary": "England’s quartet of seamers once again overwhelm Pakistan to put the home side on the verge of a series win on the second day of the second Test at Lord’s.",
-        "published": "2026-08-28T18:00:46Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e90/live/75af4220-a305-11f1-b109-879e35c24276.jpg",
+        "title": "Hovland in tie for lead at Tour Championship",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o?at_medium=RSS&at_campaign=rss",
+        "summary": "Norway's Viktor Hovland and American Ryan Gerard in tie for the lead at 10 under, heading into the weekend at the Tour Championship in Atlanta.",
+        "published": "2026-08-28T23:09:36Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5b/live/8171bb50-a333-11f1-84e6-5f05e8e26a23.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "More British athletes convicted in connection with Baptiste case",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment.",
-        "published": "2026-08-28T17:54:59Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/461f/live/e59da700-9ca4-11f1-a5a0-114ca9d4a1bc.png",
+        "title": "Women’s Super League 2026-27 preview No 8: Everton",
+        "link": "https://www.theguardian.com/football/2026/aug/29/womens-super-league-2026-27-preview-no-8-everton",
+        "summary": "Toffees new-look attack will hope to gel during their relatively easy start to the campaign in their second season at the historic Goodison Park Guardian writers’ predicted position: 10th (NB: this is not necessarily Tom Garry’s prediction but the average of our writers’ tips) Last season’s position: 8th Continue reading...",
+        "published": "2026-08-28T23:01:10Z",
+        "image": "https://i.guim.co.uk/img/media/113e8b20552b639a47a5713d09048c010ce0b292/0_683_4446_3557/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=e0c36125c5841198bef9e3214fbdb40d",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
+        "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+        "published": "2026-08-28T22:56:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2142/live/6813fb90-a32a-11f1-8e46-c39d9fc92d9e.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Mayer and Cameron butt heads at final face-off",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/czxzv235w54o?at_medium=RSS&at_campaign=rss",
-        "summary": "Mikaela Mayer and Chantelle Cameron butt heads in their final face-off before Saturday's light-middleweight unification bout in Birmingham.",
-        "published": "2026-08-28T17:35:37Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66c/live/60c53690-a304-11f1-80b3-bf1a174ac193.jpg",
+        "title": "McInnes backs himself to deliver Rangers success",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cjw5056v9v7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manager Derek McInnes says Rangers are \"a long way away\" from what he wants but backs himself to deliver success at Ibrox.",
+        "published": "2026-08-28T22:29:37Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c82/live/a646d590-a32a-11f1-8e46-c39d9fc92d9e.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "MLB suspends Dominican prospect after age-fraud plot involving fake grave",
+        "link": "https://www.theguardian.com/sport/2026/aug/28/mlb-dominican-prospect-age-fraud-david-severino-guardians",
+        "summary": "Report: player posed as nearly two years younger Scheme allegedly included fake grave and records $2.8m agreement with Guardians was canceled A once-prized prospect from the Dominican Republic has been suspended by Major League Baseball after a league investigation revealed the player was part of an elaborate plot to portray him ⁠as nearly two years younger than he actually was, ESPN reported Friday. The age-fraud plot included extreme efforts by the player’s handler such as falsifying school and medical records, faking birth and death certificates ⁠and even staging a gravesite, per ⁠the report. Continue reading...",
+        "published": "2026-08-28T22:27:57Z",
+        "image": "https://i.guim.co.uk/img/media/09f48f6dfb9e79c9ecfe0d21b576cc2ebae29220/280_0_2796_2237/master/2796.jpg?width=140&quality=85&auto=format&fit=max&s=60f4539b81012e2634be013e93f6d099",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Huddersfield upset Leigh with five-try win",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gq4ep3gg7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Huddersfield Giants score five tries to upset in-form Leigh and keep the Leopards waiting to secure their place in the Super League play-offs.",
+        "published": "2026-08-28T22:00:52Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50bf/live/238d9bc0-a320-11f1-92a5-fbd6f5289e6b.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Leeds go back top with thumping win at St Helens",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Leeds Rhinos go back to the top of the Super League standings on points difference with a rare and comprehensive away win at St Helens.",
+        "published": "2026-08-28T21:59:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/77f51170-a31b-11f1-8937-ebc435db1160.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Roy Slaper, Unlikely ‘Legend’ of Denim, Dies at 54",
+        "link": "https://www.nytimes.com/2026/08/28/arts/design/roy-slaper-dead.html",
+        "summary": "After filling his apartment with industrial sewing machines, he began producing high-end jeans that made him famous with denim-heads in the days of lumberjack chic.",
+        "published": "2026-08-29T02:03:58Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Critics Blast Metropolitan Museum’s Plan to Honor John Galliano",
+        "link": "https://www.nytimes.com/2026/08/28/style/galliano-met-gala-critics.html",
+        "summary": "Galliano, a fashion industry giant championed by Anna Wintour, was found guilty of a hate crime for his antisemitic outbursts in 2011.",
+        "published": "2026-08-28T23:47:25Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28ST-MET-GALLIANO-fqpw/28ST-MET-GALLIANO-fqpw-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+        "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+        "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+        "published": "2026-08-28T23:34:34Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Peter Cullen, Who Voiced Optimus Prime in ‘Transformers,’ Dies at 85",
+        "link": "https://www.nytimes.com/2026/08/27/arts/peter-cullen-dead.html",
+        "summary": "He voiced the main protagonist of the “Transformers” franchise on television and in blockbuster films for more than four decades. He also had success as Eeyore in “Winnie the Pooh” cartoons.",
+        "published": "2026-08-28T19:45:09Z",
+        "image": "https://static01.nyt.com/images/2026/08/27/multimedia/27xp-cullen-obit/27xp-cullen-obit-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "A New Declaration of Independence for America’s 250th Birthday From Arion Press",
+        "link": "https://www.nytimes.com/2026/08/28/arts/arion-press-san-francisco-declaration-independence.html",
+        "summary": "In the heart of tech-mad San Francisco, Arion Press makes some of the world’s most sought-after dead-tree artifacts, including a new riff on the Declaration of Independence.",
+        "published": "2026-08-28T19:11:29Z",
+        "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28CUL-ARION-DECLARATION-qcgt/28CUL-ARION-DECLARATION-qcgt-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "Home Robert Indiana Left Behind as Possible Museum Site to Be Sold",
         "link": "https://www.nytimes.com/2026/08/28/arts/design/robert-indiana-home-museum-sale.html",
@@ -601,51 +646,6 @@
         "published": "2026-08-28T16:46:00Z",
         "image": "https://static01.nyt.com/images/2026/08/28/multimedia/28cul-spain-heist-top/28cul-spain-heist-top-mediumSquareAt3X.jpg",
         "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "‘Finding Emily,’ a Gen Z Rom-Com, Isn’t Timeless. That’s the Point.",
-        "link": "https://www.nytimes.com/2026/08/28/movies/finding-emily-movie-gen-z-rom-com.html",
-        "summary": "The British movie aims to speak to young viewers by exploring love and romance in the digital age. The actors themselves served as consultants.",
-        "published": "2026-08-28T16:09:30Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Grand Theft Auto VI Has a New Trailer and Grand Ambitions",
-        "link": "https://www.nytimes.com/2026/08/27/arts/grand-theft-auto-vi-trailer-extended-look-rockstar.html",
-        "summary": "Of course you can steal cars in this Bonnie and Clyde story. In the series’s first game in 13 years, you can do almost anything else, too.",
-        "published": "2026-08-28T15:07:19Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Five Science Fiction Movies to Stream Now",
-        "link": "https://www.nytimes.com/2026/08/28/movies/science-fiction-movies-streaming.html",
-        "summary": "This month’s options include an adaptation of an early Stephen King novel, jungle dinosaur battles and atmospheric thrillers.",
-        "published": "2026-08-28T15:00:04Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "‘Les Misérables’ Review: The Barricades Rise Above the Hudson",
-        "link": "https://www.nytimes.com/2026/08/28/theater/les-miserables-review-hudson-valley-shakespeare.html",
-        "summary": "In this semi-open-air staging in the Hudson Valley, the musical conjures Paris’s seedy cobblestone streets with an adept Jean Valjean leading the charge.",
-        "published": "2026-08-28T14:44:48Z",
-        "image": "https://static01.nyt.com/images/2026/08/29/multimedia/28cul-les-miz-hudson-qjkp/28cul-les-miz-hudson-qjkp-mediumSquareAt3X-v3.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Reading and Leeds have dropped BBC Introducing for a new ‘nepo baby stage’. Where does it leave DIY artists?",
-        "link": "https://www.theguardian.com/music/2026/aug/28/reading-leeds-festival-bbc-introducing-canopy-stage",
-        "summary": "As R&L replace the BBC’s unsigned artists stage with one filled with rock scions and a Simon Cowell boyband, many are decrying disappearing opportunities for grassroots acts This year’s Reading and Leeds festival lineups are a testament to the catholic tastes of a generation who have little regard for musical tribalism or the concept of genre: brash pop stars rub up against drum’n’bass acts, underground rappers, meat-and-potatoes indie bands and much more. What at least 70% of those acts have in common, however, is that early on in their careers they were supported by the BBC’s Introducing scheme, a combination of regional and national radio shows playing music submitted by unsigned artists and festival stages that platform them. For almost 20 years, a BBC Introducing stage has been a core part of Reading and Leeds – until it was scrapped last month. Continue reading...",
-        "published": "2026-08-28T14:00:01Z",
-        "image": "https://i.guim.co.uk/img/media/25485f72eac9602e3506cd5de17a4a8a8314a93a/823_63_3640_2914/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=69eef676bf6b8a53d4d81b6633537013",
-        "source": "The Guardian",
         "section": "Culture"
       }
     ]
