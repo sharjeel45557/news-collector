@@ -1,211 +1,256 @@
 {
-  "generated": "2026-09-01T21:45:56Z",
+  "generated": "2026-09-02T00:12:14Z",
   "lead": {
-    "title": "US strikes Iran as state media reports four killed at wedding party",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-    "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
-    "published": "2026-09-01T21:32:23Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
-    "source": "BBC News",
+    "title": "News live: Labor has ‘grave concerns’ for missing Australians in Nepal-Tibet flooding; Canavan claims ‘feminisation of curriculum’ led to rise of ‘manosphere’",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Ride share driver charged on allegations of committing sexual acts during booking A ride share driver will face court in Sydney today over multiple allegations of sexual acts, including one allegedly committed in the city’s CBD last weekend. They’re sick and tired of the feminisation of our curriculum and the lack of direction and leadership that they’re given. Maybe we should look at getting more male teachers in. That used to be an agenda. I don’t know what’s happened to that, but maybe we should have more male role models in schools. I just know young boys often feel that they don’t get any kind of instruction, leadership. They’re not cherished there. They’re patronised. They’re full of testosterone. … I just worry some of the solutions here don’t really understand what goes in a young boy’s mind. Continue reading...",
+    "published": "2026-09-02T00:03:00Z",
+    "image": "https://i.guim.co.uk/img/media/60d8b495a8e1d48f0a40bcce48db947868808de2/988_319_5494_4396/master/5494.jpg?width=140&quality=85&auto=format&fit=max&s=bf1734b356bbc9afdf7dfcc4698a5fb7",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Opinion | Hurray for the Bond Market",
-      "link": "https://www.wsj.com/opinion/bond-market-yields-rise-government-debt-b7941611?mod=rss_markets_main",
-      "summary": "Higher yields aren’t yet a crisis. They could be if the politicians in Washington don’t listen.",
-      "published": "2026-09-01T21:43:00Z",
-      "image": "https://opinion-images.wsj.net/im-48771862",
-      "source": "The Wall Street Journal",
+      "title": "Accused Charlie Kirk killer must stand trial and is eligible for death penalty, judge rules",
+      "link": "https://www.theguardian.com/us-news/2026/sep/01/charlie-kirk-trial-death-penalty",
+      "summary": "Suspect Tyler Robinson to be tried for aggravated murder, felony charge that carries death penalty sentence in Utah Sign up for the Breaking News US newsletter email A Utah judge ruled Tuesday that the man accused of killing Charlie Kirk must stand trial for aggravated murder, a felony charge that makes him eligible for the death penalty if convicted. After several hours of closing arguments in Provo, Utah, judge Tony Graf ruled there is sufficient evidence to try Tyler Robinson, 23, who has been charged with the murder of one of the US right’s most prominent figures. Continue reading...",
+      "published": "2026-09-02T00:01:11Z",
+      "image": "https://i.guim.co.uk/img/media/f607095fa2898cb674c3d035e670576060460c33/250_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=1819d3e4373f6c431fb8e5c4488bbea9",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "More than a third of prenatal reports to NSW protective services not investigated, ombudsman finds",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/02/nsw-unborn-children-prenatal-caseworker-ombudsman-ntwnfb",
+      "summary": "Other families have been unlawfully compelled to be case managed without consent, watchdog finds Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast More than a third of all reports raising concerns about the future welfare of unborn children were closed due to a shortage of allocated caseworkers, while families were unlawfully compelled to take part in prenatal case work, the New South Wales ombudsman has found. In its findings after investigating the Department of Communities and Justice’s practice of responding to prenatal reports, which were released on Friday, the watchdog raised concerns about the number of reports about particularly high-risk children that were not referred on to further support services or a dedicated case manager due to a lack of resources. Continue reading...",
+      "published": "2026-09-02T00:00:17Z",
+      "image": "https://i.guim.co.uk/img/media/9c10f3775ec1886a309c71cd6a453ca98e8500e7/0_1150_3057_2445/master/3057.jpg?width=140&quality=85&auto=format&fit=max&s=a6ec48b5e779af2e631b9c1650bbe8bc",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
+      "summary": "The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.",
+      "published": "2026-09-02T00:00:07Z",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01int-Putin-Iran-lzvt/01int-Putin-Iran-lzvt-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+      "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+      "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+      "published": "2026-09-02T00:11:14Z",
+      "image": null,
+      "source": "CNBC",
       "section": "Markets"
     },
     {
-      "title": "Palo Alto Networks’ stock slides despite strong AI cybersecurity demand",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
-      "published": "2026-09-01T21:43:00Z",
-      "image": "https://images.mktw.net/im-839193",
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+      "summary": "“I paid a significant amount into Social Security.”",
+      "published": "2026-09-02T00:00:00Z",
+      "image": "https://images.mktw.net/im-39184373",
       "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "Larry Page’s flying car company Pivotal loses its CEO",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "published": "2026-09-01T23:59:59Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
+    },
+    {
+      "title": "Bill Simmons’s Co-Hosts Are Tired of His A.I. Antics",
+      "link": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
+      "summary": "The founder of The Ringer is taking flak for using artificial intelligence to conjure opinions from the deceased film critic Roger Ebert. Ads from OpenAI have recently run on the show.",
+      "published": "2026-09-01T23:57:47Z",
+      "image": "https://static01.nyt.com/images/2026/09/01/business/00biz-simmons/00biz-simmons-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "published": "2026-09-01T23:56:44Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+      "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+      "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+      "published": "2026-09-01T23:52:21Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2?mod=rss_markets_main",
+      "summary": "Oil rose in early Asian trade amid growing U.S.-Iran hostilities. The U.S. and Iran exchanged fire Tuesday as they continued to battle for control of the Strait of Hormuz.",
+      "published": "2026-09-01T23:50:00Z",
+      "image": null,
+      "source": "The Wall Street Journal",
       "section": "Markets"
     },
     {
       "title": "Every done deal on transfer deadline day",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "published": "2026-09-01T21:39:08Z",
+      "published": "2026-09-01T23:48:37Z",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
       "source": "BBC Sport",
       "section": "Sports"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-      "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-      "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
-      "published": "2026-09-01T21:41:15Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
     },
     {
-      "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
-      "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
-      "summary": "Kroenke Sports and Entertainment was valued at more than $26 billion in CNBC's most recent list of the world's most valuable sports empires.",
-      "published": "2026-09-01T21:40:30Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Business"
-    },
-    {
-      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-      "link": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-      "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
-      "published": "2026-09-01T21:40:18Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "'I've got that spark back'- McMenamin on Glens return",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp93y525487o?at_medium=RSS&at_campaign=rss",
-      "summary": "Conor McMenamin says his short-lived move to Coleraine \"was not meant to be\" after his shock deadline day return to Glentoran.",
-      "published": "2026-09-01T21:38:50Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2aa/live/04f73370-a62b-11f1-905b-8511af748865.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Best Movies and Shows Streaming in September 2026: ‘Brothers,’ ‘MobLand’ and More",
-      "link": "https://www.nytimes.com/2026/09/01/arts/television/movies-tv-shows-september-2026-streaming.html",
-      "summary": "A Ryan Reynolds and Kenneth Branagh movie, a “Reacher” spinoff and a “LEGO Star Wars” are among this month’s highlights.",
-      "published": "2026-09-01T21:37:09Z",
-      "image": null,
-      "source": "The New York Times",
-      "section": "Culture"
-    },
-    {
-      "title": "Football transfer deadline day: Man City sign Ndiaye and agree Fernández deal, Chelsea close on Camara – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-      "summary": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. England, France, Germany, Italy, Spain – 1 September Argentina, Netherlands - 2 September Scotland - 3 September Turkey - 4 September Russia - 10 September Brazil - 11 September Portugal - 15 September UAE - 28 September Saudi - 12 October Continue reading...",
-      "published": "2026-09-01T21:32:53Z",
-      "image": "https://i.guim.co.uk/img/media/3729d7f1a9058b10ddd9a6d5dc105c5cfd54db35/784_0_3703_2965/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=bf37129bb1bfba3b41415db0d871b2d9",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "US Open 2026: Gauff and Fery in action, Fritz and Rybakina through on day three – live",
-      "link": "https://www.theguardian.com/sport/live/2026/sep/01/us-open-2026-rybakina-fery-fritz-keys-andreeva-de-minaur-day-three-live",
-      "summary": "Alcaraz victorious on return | Sabalenka up and running Alex Eala is already a global star: next up, the US Open Email Katy and follow us on TikTok and Bluesky Nothing’s going Cobolli’s way at the moment , as he thwacks his own leg with his racket while trying to hit the ball, as he’s taken to deuce once more on his serve. He recovers to get to his advantage, but then balloons another errant forehand well long, before finally getting on the board to reduce his deficit to 3-1. It was also a day when Stan Wawrinka played his final grand slam match , Carlos Alcaraz made his return from injury and Aryna Sabalenka, after a shaky summer, started her title defence with a comfortable victory. Continue reading...",
-      "published": "2026-09-01T21:31:27Z",
-      "image": "https://i.guim.co.uk/img/media/737922d2a2ad7528750c10f43d23e11c580f153d/403_0_4088_3271/master/4088.jpg?width=140&quality=85&auto=format&fit=max&s=9718a471fa50d4c43ce3b904819cccf3",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "House to vote on measure condemning socialism ahead of November election",
-      "link": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-      "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
-      "published": "2026-09-01T21:31:05Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "News live: Five Australians confirmed safe after Nepal-Tibet flooding; Chanel Contos urges action on ‘manosphere’",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-      "summary": "Package steps up support to fight transnational drug trafficking flowing through the Pacific. Follow the day’s news live Get our breaking news email , free app or daily news podcast Five Australians have been confirmed safe in the devastating Nepal floods, meaning the number of unaccounted-for citizens has been revised from 43 missing on Tuesday morning to 38. Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, one in China and three outside the crisis-hit area. Continue reading...",
-      "published": "2026-09-01T21:29:44Z",
-      "image": "https://i.guim.co.uk/img/media/e8a6c4015d8cfe2fd110977feb3dc4ba5dd87904/108_0_3619_2897/master/3619.jpg?width=140&quality=85&auto=format&fit=max&s=c3da2aa8081ce40c1caadb9928f6e095",
+      "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+      "summary": "A Democratic senator disclosed a whistleblower statement, which warned of potential chaos as the USPS is set to launch a computer system that could derail mail-in voting Sign up for the US Breaking News email Democratic senator Chuck Schumer is introducing a bill that would reverse Donald Trump’s most recent tariffs, among them the new 50% duty on Canadian goods, MS Now reported . While the Senate minority leader’s proposed legislation has virtually no chance of becoming law, Schumer hopes that his proposal shows that Democrats are actively fighting the affordability crisis. Schumer first shared his proposed legislation with MS Now. Continue reading...",
+      "published": "2026-09-01T23:48:20Z",
+      "image": "https://i.guim.co.uk/img/media/cffa8bce21fb07a404e4d371de29bee755085571/759_0_5715_4575/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=793356ab0aa16edc3803f043aeb6513f",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-      "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-      "summary": "The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.",
-      "published": "2026-09-01T21:28:00Z",
-      "image": null,
-      "source": "Al Jazeera",
+      "title": "Germany blames Russia for drone attack at Leipzig airport",
+      "link": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "summary": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacks The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks. The interior minister, Alexander Dobrindt, and the foreign minister, Johann Wadephul, ended weeks of speculation and the government’s hesitancy to blame Russia, saying in a brisk 10-minute briefing in Berlin that all indications were the Russian state had provided the knowhow and equipment for the planned attack and “low-level agents” were recruited to carry it out. Continue reading...",
+      "published": "2026-09-01T23:48:14Z",
+      "image": "https://i.guim.co.uk/img/media/1cfc6837aab44ac5c2377f58e2c83e957146631f/531_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=21f00bea9761da79214d760b27531677",
+      "source": "The Guardian",
       "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "News live: Five Australians confirmed safe after Nepal-Tibet flooding; Chanel Contos urges action on ‘manosphere’",
-        "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-        "summary": "Package steps up support to fight transnational drug trafficking flowing through the Pacific. Follow the day’s news live Get our breaking news email , free app or daily news podcast Five Australians have been confirmed safe in the devastating Nepal floods, meaning the number of unaccounted-for citizens has been revised from 43 missing on Tuesday morning to 38. Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, one in China and three outside the crisis-hit area. Continue reading...",
-        "published": "2026-09-01T21:29:44Z",
-        "image": "https://i.guim.co.uk/img/media/e8a6c4015d8cfe2fd110977feb3dc4ba5dd87904/108_0_3619_2897/master/3619.jpg?width=140&quality=85&auto=format&fit=max&s=c3da2aa8081ce40c1caadb9928f6e095",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-        "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-        "summary": "The IAEA said lack of information and access to facilities to verify Iran's nuclear material is a proliferation concern.",
-        "published": "2026-09-01T21:28:00Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "The Ritual of Coffin Making in a City Hit by Ebola",
-        "link": "https://www.nytimes.com/2026/09/01/world/africa/congo-ebola-coffins.html",
-        "summary": "While several coffin makers in Bunia said they were providing a public service, the virus has put them at the center of a debate around safe burials.",
-        "published": "2026-09-01T21:26:23Z",
-        "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-ebola-congo-coffins--promo-jqwk/00int-ebola-congo-coffins--promo-jqwk-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Bank of America executive identified as victim of stabbing in Times Square",
-        "link": "https://www.theguardian.com/us-news/2026/sep/01/times-square-stabbing-victim-erin-piacenti",
-        "summary": "Erin Piacenti, a 32-year-old vice-president at the bank, was killed in Tuesday stabbing in New York City, officials say A corporate vice-president at Bank of America was killed in a stabbing in New York City’s Times Square, the second-biggest US lending bank ⁠said on Tuesday about a ⁠random incident that took place ​in broad daylight in the bustling heart of Manhattan. The incident had brought the streets of the crowded area to a halt on Monday as emergency vehicles swarmed between the skyscrapers. Continue reading...",
-        "published": "2026-09-01T21:25:43Z",
-        "image": "https://i.guim.co.uk/img/media/c73d60c3fee772901c2c0300de7e86a3a4e0ceb4/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=175263f0808ce2c38d20e289c64ede30",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Florida set to execute 14th person this year with two more execution dates set",
-        "link": "https://www.theguardian.com/us-news/2026/sep/01/florida-14-executions",
-        "summary": "Harold Gene Lucas, 74, was convicted of killing a 16-year-old girl who rejected his advances and wounding her two friends A Florida man convicted of killing a 16-year-old girl who rejected his romantic advances and wounding two of her friends was set to be executed Tuesday evening. Harold Gene Lucas, 74, was scheduled to receive a three-drug injection starting at 6pm at Florida state prison near Starke. He was sentenced to die for the 1976 fatal shooting of Jill Piper and the wounding of her friends, Richard Byrd Jr and Terri Rice. Continue reading...",
-        "published": "2026-09-01T21:23:21Z",
-        "image": "https://i.guim.co.uk/img/media/d1fe927cf88f9569f3e850ee79838508037dc612/313_0_3127_2502/master/3127.jpg?width=140&quality=85&auto=format&fit=max&s=367d458564a820f67b17071407c7a15b",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal",
-        "link": "https://www.nytimes.com/2026/09/01/world/asia/china-tibet-floods-nepal-censorship.html",
-        "summary": "While journalists can report freely on grief and anger in Nepal, China’s official media have presented a sanitized disaster aftermath in Tibet.",
-        "published": "2026-09-01T21:10:03Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01INT-TIBET-CENSORSHIP-01-jhgz/01INT-TIBET-CENSORSHIP-01-jhgz-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-        "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
-        "published": "2026-09-01T21:05:22Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+        "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+        "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+        "published": "2026-09-01T23:56:44Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
-        "summary": "President Volodymyr Zelenskyy warned that Ukrainian drones will continue operating over Russia.",
-        "published": "2026-09-01T21:03:45Z",
+        "title": "‘Dangerous power grab’: top Democrats decry USPS system that could thwart mail-in voting – live",
+        "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+        "summary": "A Democratic senator disclosed a whistleblower statement, which warned of potential chaos as the USPS is set to launch a computer system that could derail mail-in voting Sign up for the US Breaking News email Democratic senator Chuck Schumer is introducing a bill that would reverse Donald Trump’s most recent tariffs, among them the new 50% duty on Canadian goods, MS Now reported . While the Senate minority leader’s proposed legislation has virtually no chance of becoming law, Schumer hopes that his proposal shows that Democrats are actively fighting the affordability crisis. Schumer first shared his proposed legislation with MS Now. Continue reading...",
+        "published": "2026-09-01T23:48:20Z",
+        "image": "https://i.guim.co.uk/img/media/cffa8bce21fb07a404e4d371de29bee755085571/759_0_5715_4575/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=793356ab0aa16edc3803f043aeb6513f",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Germany blames Russia for drone attack at Leipzig airport",
+        "link": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+        "summary": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacks The German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks. The interior minister, Alexander Dobrindt, and the foreign minister, Johann Wadephul, ended weeks of speculation and the government’s hesitancy to blame Russia, saying in a brisk 10-minute briefing in Berlin that all indications were the Russian state had provided the knowhow and equipment for the planned attack and “low-level agents” were recruited to carry it out. Continue reading...",
+        "published": "2026-09-01T23:48:14Z",
+        "image": "https://i.guim.co.uk/img/media/1cfc6837aab44ac5c2377f58e2c83e957146631f/531_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=21f00bea9761da79214d760b27531677",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
+        "link": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+        "summary": "As Xi Jinping gathered with the leaders of Russia and Iran, Europe challenged the Trump administration at the G20, offering a split-screen view of a changing world.",
+        "published": "2026-09-01T23:38:50Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/world/01int-shanghai-g20-social-promo/01int-shanghai-g20-social-promo-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Weeks After Failed Drone Attack, Germany Points Finger at Russia",
+        "link": "https://www.nytimes.com/2026/09/01/world/europe/germany-russia-drone-airport.html",
+        "summary": "The country said Moscow was behind an explosive-laden drone found near a Ukrainian plane at a German airport last month. President Vladimir Putin of Russia called the accusation “a grave mistake.”",
+        "published": "2026-09-01T23:38:03Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01germany-drone-01-whvp/01germany-drone-01-whvp-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
+        "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+        "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children.",
+        "published": "2026-09-01T23:17:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Fund defence spending from tax rise on middle earners, thinktank tells Healey",
+        "link": "https://www.theguardian.com/politics/2026/sep/02/fund-defence-spending-from-tax-rise-on-middle-earners-thinktank-tells-healey",
+        "summary": "Resolution Foundation argues that UK’s internationally low ‘tax wedge’ must rise to pay for defence ambitions The chancellor, John Healey, must be prepared to raise taxes for middle earners if he wants to fund significantly higher defence spending, the Resolution Foundation thinktank has said. Healey resigned from Keir Starmer’s government in June , protesting against what he argued was the then prime minister’s failure to adequately fund defence. Continue reading...",
+        "published": "2026-09-01T23:01:16Z",
+        "image": "https://i.guim.co.uk/img/media/0c73d65e2b5467e66b931883c93349636cbabba5/772_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c3dba04238678ad374f26307ade7d701",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
+        "link": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
+        "summary": "Argentina international Enzo Fernandez signs for Manchester City in a deal from Chelsea worth £125 million ($169m).",
+        "published": "2026-09-01T23:00:30Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Bill Simmons’s Co-Hosts Are Tired of His A.I. Antics",
+        "link": "https://www.nytimes.com/2026/09/01/business/media/bill-simmons-chat-gpt-open-ai-roger-ebert.html",
+        "summary": "The founder of The Ringer is taking flak for using artificial intelligence to conjure opinions from the deceased film critic Roger Ebert. Ads from OpenAI have recently run on the show.",
+        "published": "2026-09-01T23:57:47Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/business/00biz-simmons/00biz-simmons-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+        "link": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
+        "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports.",
+        "published": "2026-09-01T23:29:23Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01dc-g20-flhm/01dc-g20-flhm-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Will self-flying planes transform the skies?",
+        "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+        "published": "2026-09-01T23:27:35Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+        "link": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+        "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+        "published": "2026-09-01T23:26:38Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "A Half-Price Luxury E.V. Comes With a Big Asterisk",
+        "link": "https://www.nytimes.com/2026/08/31/business/polestar-discounts-ev-china.html",
+        "summary": "The Polestar 4 is a solid car, and current incentives make it a bargain. But the company, a Chinese-owned brand, is being forced from the U.S. market.",
+        "published": "2026-09-01T22:25:15Z",
+        "image": "https://static01.nyt.com/images/2026/08/31/multimedia/31polestar-hbwq/31polestar-hbwq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
       {
         "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
         "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
@@ -216,6 +261,15 @@
         "section": "Business"
       },
       {
+        "title": "California lawmakers stall Newsom’s wildfire liability bill, saying it doesn’t go far enough for victims",
+        "link": "https://fortune.com/2026/09/01/california-bill-wildfire-victims-compensation/",
+        "summary": "The legislative setback leaves unresolved how victims, utilities, insurers, and ratepayers divide the escalating cost of utility-sparked fires",
+        "published": "2026-09-01T21:27:46Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26236608890662-e1788297382321.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
         "title": "FBI seizes over $560,000 in crypto meant to fund Hamas, disrupting a years-long fundraising network",
         "link": "https://fortune.com/2026/09/01/fbi-hamas-crypto-donations-seizure/",
         "summary": "The operation also gave authorities information about thousands of people who contacted Hamas seeking to donate money.",
@@ -223,137 +277,146 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2284371606-e1788296791279.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
-      },
-      {
-        "title": "From a Singapore airport soundtrack to new AI-powered PCs, HP is looking for a new rhythm in Asia",
-        "link": "https://fortune.com/2026/09/01/hp-asia-ai-pcs-wubble-ai-changi-airport-michael-boyle/",
-        "summary": "HP recently launched Garage 2.0, a startup accelerator, in Singapore as it tries to revive its business for the AI age.",
-        "published": "2026-09-01T21:00:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/Michael-Boyle_11.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
-        "link": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
-        "summary": "Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.",
-        "published": "2026-09-01T20:53:44Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01Biz-Shein-IPO-01-zkfp/01Biz-Shein-IPO-01-zkfp-mediumSquareAt3X-v2.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Chevron is expanding in Venezuela as Trump pushes U.S. oil companies back into the country with 65 billion barrels up for grabs",
-        "link": "https://fortune.com/2026/09/01/chevron-venezuela-oil-trump-65-billion-barrels/",
-        "summary": "Chevron is the only major U.S. oil company still operating in Venezuela, nearly two decades after the country’s oil industry was nationalized.",
-        "published": "2026-09-01T20:52:07Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26243863000458-e1788294888679.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "House votes 370-48 to fund the government through mid-December, avoiding a shutdown before the midterms, but it still awaits Trump’s signature",
-        "link": "https://fortune.com/2026/09/01/bill-passed-trump-government-funding/",
-        "summary": "The House passed the bill by a vote of 370-48, now it just needs President Donald Trump to sign it.",
-        "published": "2026-09-01T20:50:34Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26244607906044-e1788294792555.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Two More Oil Tankers Are Attacked in the Strait of Hormuz",
-        "link": "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html",
-        "summary": "The ships were hit near Oman on Monday, the latest attacks on vessels in the Persian Gulf. Oil prices rose more than 2 percent.",
-        "published": "2026-09-01T20:19:03Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01biz-hormuz-shipping-btkf/01biz-hormuz-shipping-btkf-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "OpenAI to limit access to Astra model’s advanced cyber features due to hacking concerns",
-        "link": "https://fortune.com/2026/09/01/openai-to-limit-release-of-its-asttra-model-astra-due-to-hacking-concerns/",
-        "summary": "The company is being extra cautious following the Hugging Face incident, while also pitching its cybersecurity capabilities to potential customers.",
-        "published": "2026-09-01T20:00:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2278952256-e1788285981446.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
-        "link": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
-        "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
-        "published": "2026-09-01T21:41:15Z",
+        "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+        "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+        "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+        "published": "2026-09-02T00:11:14Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
-        "link": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
-        "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
-        "published": "2026-09-01T21:40:18Z",
+        "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+        "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+        "summary": "“I paid a significant amount into Social Security.”",
+        "published": "2026-09-02T00:00:00Z",
+        "image": "https://images.mktw.net/im-39184373",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
+      {
+        "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+        "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+        "summary": "Bessent is leading the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions.",
+        "published": "2026-09-01T23:52:21Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "House to vote on measure condemning socialism ahead of November election",
-        "link": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-        "summary": "Republicans also inserted a call to pass the highly controversial voter-ID bill known as the SAVE America Act into the socialism resolution.",
-        "published": "2026-09-01T21:31:05Z",
+        "title": "Oil Rises Amid Growing U.S.-Iran Hostilities",
+        "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2?mod=rss_markets_main",
+        "summary": "Oil rose in early Asian trade amid growing U.S.-Iran hostilities. The U.S. and Iran exchanged fire Tuesday as they continued to battle for control of the Strait of Hormuz.",
+        "published": "2026-09-01T23:50:00Z",
         "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Colombia stocks higher at close of trade; COLCAP up 1.86%",
-        "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-186-4884670",
-        "summary": "",
-        "published": "2026-09-01T21:25:03Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEHAT0R7_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "5 of the Top Financial Advisor Companies for Retirees: Well-Known Fiduciary Firms to Consider",
-        "link": "https://www.wsj.com/buyside/personal-finance/financial-advisors/top-financial-advisors-for-retirees?mod=rss_markets_main",
-        "summary": "We analyzed everything from estate planning to retirement income options at some of the larger registered investment advisor firms to help retirees select a firm that could best connect them with a fiduciary financial advisor.",
-        "published": "2026-09-01T21:25:00Z",
-        "image": "https://www.wsj.com/buyside/content-images/1ad70c45-8a42-4e6a-9d37-3d1abd0f49c0",
         "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "General Electric wins $2.9B Navy engine contract from DoD",
-        "link": "https://www.investing.com/news/stock-market-news/general-electric-wins-29b-navy-engine-contract-from-dod-93CH-4884669",
+        "title": "Tyson disputes claim by USDA’s Rollins, says shuttered beef plants can go to any buyer",
+        "link": "https://www.investing.com/news/stock-market-news/tyson-disputes-claim-by-usdas-rollins-says-shuttered-beef-plants-can-go-to-any-buyer-4884726",
         "summary": "",
-        "published": "2026-09-01T21:23:37Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEE310Y9_M.jpg",
+        "published": "2026-09-01T23:42:25Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8045A_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "U.S. Launches New Strikes on Iranian Targets",
-        "link": "https://www.wsj.com/politics/policy/u-s-launches-new-strikes-on-iranian-targets-1a695368?mod=rss_markets_main",
-        "summary": "Plus, the 21 banks jumping into stablecoins and the price tag for a photo with Trump.",
-        "published": "2026-09-01T21:22:00Z",
-        "image": "https://images.wsj.net/im-98925299",
-        "source": "The Wall Street Journal",
+        "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+        "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+        "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into these properties.”",
+        "published": "2026-09-01T23:15:00Z",
+        "image": "https://images.mktw.net/im-72390289",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Russia stocks higher at close of trade; MOEX Russia Index up 0.44%",
-        "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-044-4884667",
+        "title": "Analysis-Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom",
+        "link": "https://www.investing.com/news/stock-market-news/analysisnot-just-nvidia-these-power-and-cooling-firms-are-riding-the-trilliondollar-data-centre-boom-4884721",
         "summary": "",
-        "published": "2026-09-01T21:20:03Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAE0U1_M.jpg",
+        "published": "2026-09-01T23:13:12Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEE0U1G1_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Trump selects Hung Cao to serve as US Navy secretary",
+        "link": "https://www.investing.com/news/stock-market-news/trump-selects-hung-cao-to-serve-as-us-navy-secretary-4884719",
+        "summary": "",
+        "published": "2026-09-01T23:06:34Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM80455_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Larry Page’s flying car company Pivotal loses its CEO",
+        "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+        "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+        "published": "2026-09-01T23:59:59Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "The Range Rover Electric: Specs, Price, Availability",
+        "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+        "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
+        "published": "2026-09-01T23:01:00Z",
+        "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+        "source": "Wired",
+        "section": "Technology"
+      },
+      {
+        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+        "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+        "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+        "published": "2026-09-01T23:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Google needs Hollywood more than the studios need AI",
+        "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also […]",
+        "published": "2026-09-01T22:50:29Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "summary": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "published": "2026-09-01T22:13:34Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "published": "2026-09-01T22:08:24Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing […]",
+        "published": "2026-09-01T22:01:36Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
       {
         "title": "Apple Maps follows Google in renaming Lake Ontario",
         "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
@@ -362,72 +425,18 @@
         "image": null,
         "source": "The Verge",
         "section": "Technology"
-      },
-      {
-        "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-        "published": "2026-09-01T21:06:24Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Lenovo’s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
-        "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
-        "summary": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The IPS touchscreen […]",
-        "published": "2026-09-01T20:54:08Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-        "published": "2026-09-01T20:53:05Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "X says attackers are targeting user accounts after the launch of X Money",
-        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-        "summary": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-        "published": "2026-09-01T20:48:32Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-        "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into […]",
-        "published": "2026-09-01T20:45:49Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
-        "summary": "AI can only communicate in languages that it's been trained on.",
-        "published": "2026-09-01T20:10:00Z",
-        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
-        "source": "BBC News",
-        "section": "Technology"
-      },
-      {
-        "title": "On first listen, the Sonos Beam Ultra sounds great",
-        "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-        "summary": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new product, a private […]",
-        "published": "2026-09-01T20:08:38Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "A Nearly 200-Year-Old Museum Known for Its T. Rex Faces Extinction",
+        "link": "https://www.nytimes.com/2026/09/01/us/science-museum-drexel-philadelphia-closing.html",
+        "summary": "The Academy of Natural Sciences in Philadelphia, which is affiliated with Drexel University, cited attendance struggles and higher costs in its decision to close.",
+        "published": "2026-09-01T23:18:05Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01xp-museum-gwph/01xp-museum-gwph-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
       {
         "title": "Watch: Astronauts set out on rare all-female spacewalk",
         "link": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
@@ -490,51 +499,51 @@
         "image": "https://static01.nyt.com/images/2026/09/01/multimedia/00CLI-TURTLES-stillpromo-hcfk/00CLI-TURTLES-stillpromo-hcfk-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Science"
-      },
-      {
-        "title": "A Data Center Backlash",
-        "link": "https://www.nytimes.com/2026/09/01/climate/climate-forward-data-center-backlash.html",
-        "summary": "Today we visit Pennsylvania, where there’s a high-stakes clash over A.I. jobs and the environment.",
-        "published": "2026-09-01T18:09:02Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01cli-newsletter-data-centers-01-qkgl/01cli-newsletter-data-centers-01-qkgl-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "'I've got that spark back'- McMenamin on Glens return",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cp93y525487o?at_medium=RSS&at_campaign=rss",
-        "summary": "Conor McMenamin says his short-lived move to Coleraine \"was not meant to be\" after his shock deadline day return to Glentoran.",
-        "published": "2026-09-01T21:38:50Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2aa/live/04f73370-a62b-11f1-905b-8511af748865.jpg",
+        "title": "Every done deal on transfer deadline day",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&at_campaign=rss",
+        "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+        "published": "2026-09-01T23:48:37Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Football transfer deadline day: Man City sign Ndiaye and agree Fernández deal, Chelsea close on Camara – live",
-        "link": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
-        "summary": "Chelsea to sign Monaco’s Lamine Camara in £47m move Men’s transfer interactive : all the deadline-day deals You can mail Daniel and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there are options. Not all country’s celebrate deadline day on 1 September, so there is still hope of heading off to Turkey or Portugal. England, France, Germany, Italy, Spain – 1 September Argentina, Netherlands - 2 September Scotland - 3 September Turkey - 4 September Russia - 10 September Brazil - 11 September Portugal - 15 September UAE - 28 September Saudi - 12 October Continue reading...",
-        "published": "2026-09-01T21:32:53Z",
-        "image": "https://i.guim.co.uk/img/media/3729d7f1a9058b10ddd9a6d5dc105c5cfd54db35/784_0_3703_2965/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=bf37129bb1bfba3b41415db0d871b2d9",
-        "source": "The Guardian",
+        "title": "Balogun's Everton deal collapses after he walks away",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Everton's pursuit of Folarin Balogun from Monaco collapses after Balogun decides against move.",
+        "published": "2026-09-01T23:41:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg",
+        "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "US Open 2026: Gauff and Fery in action, Fritz and Rybakina through on day three – live",
-        "link": "https://www.theguardian.com/sport/live/2026/sep/01/us-open-2026-rybakina-fery-fritz-keys-andreeva-de-minaur-day-three-live",
-        "summary": "Alcaraz victorious on return | Sabalenka up and running Alex Eala is already a global star: next up, the US Open Email Katy and follow us on TikTok and Bluesky Nothing’s going Cobolli’s way at the moment , as he thwacks his own leg with his racket while trying to hit the ball, as he’s taken to deuce once more on his serve. He recovers to get to his advantage, but then balloons another errant forehand well long, before finally getting on the board to reduce his deficit to 3-1. It was also a day when Stan Wawrinka played his final grand slam match , Carlos Alcaraz made his return from injury and Aryna Sabalenka, after a shaky summer, started her title defence with a comfortable victory. Continue reading...",
-        "published": "2026-09-01T21:31:27Z",
-        "image": "https://i.guim.co.uk/img/media/737922d2a2ad7528750c10f43d23e11c580f153d/403_0_4088_3271/master/4088.jpg?width=140&quality=85&auto=format&fit=max&s=9718a471fa50d4c43ce3b904819cccf3",
-        "source": "The Guardian",
+        "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+        "published": "2026-09-01T23:34:53Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/9704b0d0-a644-11f1-9547-7578d73af9f6.jpg",
+        "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Tottenham sign Chelsea's Mudryk on loan",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
-        "summary": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season.",
-        "published": "2026-09-01T21:22:03Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/c3e934e0-a649-11f1-85f7-29ce29f91c23.jpg",
+        "title": "Fofana seals £30m move to Sunderland",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
+        "summary": "Sunderland have beaten Crystal Palace to the signing of Malick Fofana from Lyon.",
+        "published": "2026-09-01T23:34:50Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2282/live/62217d40-a65c-11f1-90c0-d91d8bc7338d.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "No repeat of Wimbledon heroics as Fery exits US Open",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/cn8mrl4m5zzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Arthur Fery is unable to produce a repeat of his Wimbledon heroics as his US Open debut ends in a first-round loss to Italian 13th seed Lorenzo Musetti.",
+        "published": "2026-09-01T23:19:35Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a980/live/7fd87b70-a659-11f1-b9c3-ff4913859afc.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
@@ -542,40 +551,40 @@
         "title": "Angel becomes Fulham's third Real Madrid signing of summer",
         "link": "https://www.bbc.co.uk/sport/football/articles/c4grzg0jzgzo?at_medium=RSS&at_campaign=rss",
         "summary": "Manuel Angel has become the third player to join Fulham from Real Madrid this summer",
-        "published": "2026-09-01T21:19:42Z",
+        "published": "2026-09-01T23:19:22Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/012d/live/0c9e0f10-a647-11f1-8d30-cf6fd28b1367.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Rybakina makes winning start in race to number one",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Elena Rybakina says she is \"motivated\" by the race to become world number one but insists her focus is on taking \"one step at a time\" as she got her US Open campaign off to a winning start.",
-        "published": "2026-09-01T21:18:05Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a5/live/07346880-a647-11f1-8d30-cf6fd28b1367.jpg",
+        "title": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss",
+        "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
+        "published": "2026-09-01T23:16:59Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4332/live/ec44dad0-a661-11f1-a589-a1f02ee5e878.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Sunderland to beat Palace to Lyon's £30m winger Fofana",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sunderland are expected to sign Lyon winger Malick Fofana, despite Crystal Palace's attempts to hijack the deal",
-        "published": "2026-09-01T21:13:41Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1c/live/aca5adc0-a5ec-11f1-8348-fb0cb1cd9761.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Man Utd fail in attempt to sign Ait-Nouri from Man City",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwyzn5n015go?at_medium=RSS&at_campaign=rss",
-        "summary": "Manchester United approached Manchester City in the final hours of the transfer window in an attempt to sign Algeria defender Rayan Ait-Nouri on loan",
-        "published": "2026-09-01T21:04:30Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d014/live/d970a0a0-a644-11f1-b109-879e35c24276.jpg",
+        "title": "Brighton sign midfielder Chema Andres from Stuttgart",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+        "summary": "Brighton secure deadline day deal to sign former Real Madrid midfielder Chema Andres from Stuttgart for £15.5m",
+        "published": "2026-09-01T23:13:16Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9b/live/ef964630-a655-11f1-b9c3-ff4913859afc.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Despite Duane Davis’s Conviction in Tupac Murder Trial, Some Still Seek Closure",
+        "link": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
+        "summary": "When a man was found guilty of orchestrating the murder of Tupac Shakur, it brought catharsis to many who knew the rapper. But questions remain even after the trial.",
+        "published": "2026-09-01T23:40:49Z",
+        "image": "https://static01.nyt.com/images/2026/09/01/arts/01cul-tupac-closure-hcj/01cul-tupac-closure-hcj-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "Best Movies and Shows Streaming in September 2026: ‘Brothers,’ ‘MobLand’ and More",
         "link": "https://www.nytimes.com/2026/09/01/arts/television/movies-tv-shows-september-2026-streaming.html",
@@ -637,15 +646,6 @@
         "published": "2026-09-01T18:42:05Z",
         "image": "https://i.guim.co.uk/img/media/8c31d3e340c7c325cbd90814720b6be78ad3e824/0_0_2880_2304/master/2880.jpg?width=140&quality=85&auto=format&fit=max&s=a46e53ff63329e2ca3fc9b7d4dad2e54",
         "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "A Daisy Chain Fields Soundtrack",
-        "link": "https://www.nytimes.com/2026/09/01/arts/music/a-daisy-chain-fields-soundtrack.html",
-        "summary": "Hear tracks performed by Chappell Roan, Bikini Kill, Doechii and, of course, Olivia Rodrigo.",
-        "published": "2026-09-01T18:00:03Z",
-        "image": "https://static01.nyt.com/images/2026/09/01/multimedia/01amplifier-nl-ktgw/01amplifier-nl-ktgw-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
         "section": "Culture"
       }
     ]
