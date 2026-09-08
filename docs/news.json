@@ -1,131 +1,131 @@
 {
-  "generated": "2026-09-08T15:09:33Z",
+  "generated": "2026-09-08T18:39:13Z",
   "lead": {
-    "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-    "summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-    "published": "2026-09-08T15:03:11Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800e/live/1e4c26b0-ab70-11f1-b109-879e35c24276.jpg",
-    "source": "BBC News",
+    "title": "Australian Social Media Users Could Get Power to Switch Off Algorithms",
+    "link": "https://www.nytimes.com/2026/09/08/world/australia/social-media-law-algorithms-digital-duty-care.html",
+    "summary": "Technology companies have been “running real-time, unregulated product testing on Australians” for too long, communications minister says.",
+    "published": "2026-09-08T18:29:10Z",
+    "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-oz-algorithm-pfth/08int-oz-algorithm-pfth-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
-      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
-      "published": "2026-09-08T15:08:03Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a1/live/58e34b40-ab8f-11f1-aa04-efbf6a882854.jpg",
-      "source": "BBC News",
+      "title": "TSA PreCheck Now Unlocks Access to Visit Airports Without a Plane Ticket",
+      "link": "https://www.nytimes.com/2026/09/08/travel/tsa-precheck-airports-security-non-flyers.html",
+      "summary": "At more than a dozen U.S. airports, T.S.A. PreCheck members can now apply to enter the secure area, even if they’re just going to meet someone on a flight.",
+      "published": "2026-09-08T18:34:16Z",
+      "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08trav-gateside-vjmz/08trav-gateside-vjmz-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
       "section": "Business"
     },
     {
-      "title": "Recovery from UK flight disruption ‘will take some time’, as several airports affected – business live",
-      "link": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-      "summary": "National Air Traffic Services apologise for technical issue disrupting departures today Air traffic control issue causes flight delays and disruption across UK Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter. The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023. Continue reading...",
-      "published": "2026-09-08T15:03:05Z",
-      "image": "https://i.guim.co.uk/img/media/97f80b3f42c838a89e39268d06585786978abb2c/298_0_3504_2803/master/3504.jpg?width=140&quality=85&auto=format&fit=max&s=d201be6bffe9bde67b462987ea93e613",
-      "source": "The Guardian",
-      "section": "Business"
-    },
-    {
-      "title": "'River is flowing better than it has for 25 years'",
-      "link": "https://www.bbc.co.uk/news/articles/c36lj181xx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The River Deben is flowing once more after major restoration works are carried out.",
-      "published": "2026-09-08T15:02:54Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b1/live/5cd9ebc0-ab8d-11f1-aa04-efbf6a882854.png",
-      "source": "BBC News",
-      "section": "Science"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Pusheen’s first game is coming to Apple Arcade",
-      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you'll \"sort color […]",
-      "published": "2026-09-08T15:07:13Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-      "published": "2026-09-08T15:04:09Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-      "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-      "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the soundbar. When detached, the […]",
-      "published": "2026-09-08T15:03:07Z",
-      "image": null,
-      "source": "The Verge",
-      "section": "Technology"
-    },
-    {
-      "title": "Supply chain woes send Stryker stock tumbling 7.7%",
-      "link": "https://www.investing.com/news/stock-market-news/supply-chain-woes-send-stryker-stock-tumbling-77-4892013",
-      "summary": "",
-      "published": "2026-09-08T15:01:46Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Flutter outlook cut to negative by Fitch on leverage concerns",
-      "link": "https://www.investing.com/news/stock-market-news/flutter-outlook-cut-to-negative-by-fitch-on-leverage-concerns-93CH-4892015",
-      "summary": "",
-      "published": "2026-09-08T15:00:56Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "I have two sons. Should I allow one son to build a $400,000 house on my property? I’m not permitted to subdivide the land.",
-      "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-      "summary": "“The cost of building the house is expected to be about 30% of the property’s current value.”",
-      "published": "2026-09-08T15:00:00Z",
-      "image": "https://images.mktw.net/im-10973880",
+      "title": "Why a stronger Japanese currency could spell trouble for AI and technology stocks",
+      "link": "https://www.marketwatch.com/story/why-a-stronger-japanese-currency-could-spell-trouble-for-ai-and-technology-stocks-6441f782?mod=mw_rss_topstories",
+      "summary": "A rapid unwind of the Japanese yen ‘carry trade’ could trigger a stock selloff, particularly hurting high-valuation U.S. tech names.",
+      "published": "2026-09-08T18:33:00Z",
+      "image": "https://images.mktw.net/im-57711625",
       "source": "MarketWatch",
       "section": "Markets"
     },
     {
-      "title": "Trump’s call to rename New Mexico ‘New America’ is a distraction tactic, Democrats say",
-      "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
-      "summary": "Amid unpopular Iran war and persistent inflation, governor says state has had its name since before US existed Democrats have hit back against Donald Trump ’s suggestion that the state of New Mexico should be renamed “New America”, accusing the US president of trying to distract from his war on Iran and rising prices. The administration moved to rename the Gulf of Mexico as the “Gulf of America” hours after Trump’s return to office in January 2025. In August, as trade tensions escalated between the US and Canada, it moved to do the same with Lake Ontario, moving to rename it as “Lake America”. Continue reading...",
-      "published": "2026-09-08T14:59:21Z",
-      "image": "https://i.guim.co.uk/img/media/216d858a8267d281ec5ff4bd49ebfe1a1a9e8e18/517_0_4888_3911/master/4888.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e1cab6ea07ceada27d70589f38b5b",
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "published": "2026-09-08T18:30:00Z",
+      "image": "https://images.mktw.net/im-10854269",
+      "source": "MarketWatch",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Gold Settles Lower Awaiting This Week’s Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
+      "summary": "Gold futures settled lower as the market watches an escalation in the Middle East conflict while looking to this week’s U.S. inflation data for clues on the Fed’s possible interest-rate moves.",
+      "published": "2026-09-08T18:33:00Z",
+      "image": null,
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+      "link": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+      "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.",
+      "published": "2026-09-08T18:31:30Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "UK air traffic control problem strands hundreds of thousands of passengers",
+      "link": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+      "summary": "At least 600 flights cancelled as airlines call for overhaul of ATC system after third incident in as many years UK airport disruption: what are your rights? Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday. Airlines demanded action after a “technical issue” at the air traffic control services provider Nats caused the third major stoppage in just over three years. Continue reading...",
+      "published": "2026-09-08T18:26:49Z",
+      "image": "https://i.guim.co.uk/img/media/5d9b58fb7bef6b6a747c9b3b06642cd5c998a797/1088_0_6247_5000/master/6247.jpg?width=140&quality=85&auto=format&fit=max&s=b9f519f31ee14a3496780056b8dfcdcc",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-      "link": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-      "summary": "Moscow’s foreign minister issues warning to ‘Russophobic lobby in Budapest’ after diplomats expelled for ‘unacceptable’ activities But the tone coming from Moscow is very different, as Kremlin spokesperson Dmitry Peskov told reporters that Russia was very confident that victory in its war against Ukraine is “very near.” “Yes, we are ​confident, and we ⁠are ​sure that ​victory ​is very near,” ​Peskov ‌said in comments reported by Reuters. Continue reading...",
-      "published": "2026-09-08T14:59:20Z",
-      "image": "https://i.guim.co.uk/img/media/038af15df82ab51d97dfb4ac7ef9022e491f76b1/1204_127_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=0b5260c5073e46f8ed1636c8d56f0778",
+      "title": "Club Brugge v Aston Villa: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+      "summary": "⚽ Champions League news from the 5.45pm BST kick-off ⚽ Live scores | Follow us on Instagram | Read Football Daily Harry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or while Alessia Russo and Alex Greenwood have been nominated for the women’s award. The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé , who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+      "published": "2026-09-08T18:26:45Z",
+      "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=ca3e6a4fdeeb312f5b7acce68990eddb",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Porto v Manchester City: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+      "summary": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Read Football Daily | And you can mail Niall Maresca has apparently introduced music to training sessions – Gabby Logan pushes him on the genre, and he says: “house music – I like house music, you know, boom-boom-boom.” Italo-house, perchance? Enzo Maresca chats to Amazon Prime before the match: “It’s a hard place to come, but we’re going to try our best … it’s the first game, it’s going to be a long run. We’ll see where we are in December and January.” Continue reading...",
+      "published": "2026-09-08T18:26:19Z",
+      "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&quality=85&auto=format&fit=max&s=74f9c551e8312ff0f3df6b723fbd3eca",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "published": "2026-09-08T18:25:40Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
+      "source": "BBC News",
+      "section": "World"
+    },
+    {
+      "title": "UK to force Apple and Google to block explicit images on children’s smartphones",
+      "link": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "summary": "Lisa Nandy says government will introduce legislation after talks deadline ends without breakthrough Apple and Google will be forced to block explicit images on children’s smartphones by law in the UK after talks failed to produce a breakthrough, the government has said. The legislation commitment puts ministers on a collision course with two of the biggest players in Silicon Valley, months after the government announced a social media ban for under-16s. Continue reading...",
+      "published": "2026-09-08T18:25:01Z",
+      "image": "https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=fb262bbbdaae623d9485392fff1188a7",
       "source": "The Guardian",
       "section": "World"
     },
     {
-      "title": "Why is Freeport-McMoran Copper & Gold stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4892008",
+      "title": "US Open 2026 quarter-finals: Aryna Sabalenka beats Linda Noskova in deciding tie-break – live",
+      "link": "https://www.theguardian.com/sport/live/2026/sep/08/us-open-tennis-2026-quarter-finals-sabalenka-noskova-tiafoe-michelsen-live",
+      "summary": "Francis Tiafoe v Alex Michelsen to follow in the last eight Will influencers bring down US Open? | You can mail Taha First set: Sabalenka* 3-1 Noskova (*denotes next server) At 30-all, Sabalenka is applying more pressure on Noskova’s serve, but Sabalenka smacks a backhand return into the net and Noskova can breathe a little at 40-30. And the Wimbledon champion gets her side of the scoreboard moving when Sabalenka again errs with her return. The Arthur Ashe crowd – perhaps only about a half full so far – cheer loudly. They’re not against Sabelenka – as they were in the previous round when she played the American Taylor Townsend – but of course they want a close match. Continue reading...",
+      "published": "2026-09-08T18:25:00Z",
+      "image": "https://i.guim.co.uk/img/media/e9b8e9cafa09c9b37596246f781ab4f01c97cf24/219_0_2238_1790/master/2238.jpg?width=140&quality=85&auto=format&fit=max&s=cb1487b626fff9106fd97b4f55a7937d",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat",
+      "link": "https://www.investing.com/news/stock-market-news/bombardier-shares-fall-after-trump-threatens-us-market-access-4891971",
       "summary": "",
-      "published": "2026-09-08T14:57:20Z",
-      "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
+      "published": "2026-09-08T18:24:50Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM871A2_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Norway stocks higher at close of trade; Oslo OBX up 0.53%",
-      "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-053-4892004",
+      "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+      "link": "https://www.investing.com/news/stock-market-news/qualcomm-amazon-to-develop-custom-chips-for-ai-data-centers-4891798",
       "summary": "",
-      "published": "2026-09-08T14:55:30Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL3D0QK_L.jpg",
+      "published": "2026-09-08T18:24:31Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM87183_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     }
@@ -133,301 +133,355 @@
   "sections": {
     "World": [
       {
-        "title": "Trump’s call to rename New Mexico ‘New America’ is a distraction tactic, Democrats say",
-        "link": "https://www.theguardian.com/us-news/2026/sep/08/trump-new-mexico-rename-democrats",
-        "summary": "Amid unpopular Iran war and persistent inflation, governor says state has had its name since before US existed Democrats have hit back against Donald Trump ’s suggestion that the state of New Mexico should be renamed “New America”, accusing the US president of trying to distract from his war on Iran and rising prices. The administration moved to rename the Gulf of Mexico as the “Gulf of America” hours after Trump’s return to office in January 2025. In August, as trade tensions escalated between the US and Canada, it moved to do the same with Lake Ontario, moving to rename it as “Lake America”. Continue reading...",
-        "published": "2026-09-08T14:59:21Z",
-        "image": "https://i.guim.co.uk/img/media/216d858a8267d281ec5ff4bd49ebfe1a1a9e8e18/517_0_4888_3911/master/4888.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e1cab6ea07ceada27d70589f38b5b",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Russia says it will give a ‘harsh and painful’ response after Hungary expels 10 diplomats - Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/sep/08/ukraine-russia-war-zelesnkyy-putin-ruslan-kravchenko-prosecutor-general-germany-france-europe-latest-news-updates",
-        "summary": "Moscow’s foreign minister issues warning to ‘Russophobic lobby in Budapest’ after diplomats expelled for ‘unacceptable’ activities But the tone coming from Moscow is very different, as Kremlin spokesperson Dmitry Peskov told reporters that Russia was very confident that victory in its war against Ukraine is “very near.” “Yes, we are ​confident, and we ⁠are ​sure that ​victory ​is very near,” ​Peskov ‌said in comments reported by Reuters. Continue reading...",
-        "published": "2026-09-08T14:59:20Z",
-        "image": "https://i.guim.co.uk/img/media/038af15df82ab51d97dfb4ac7ef9022e491f76b1/1204_127_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=0b5260c5073e46f8ed1636c8d56f0778",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "British family speaks out over nine-year ordeal after husband is abducted by Saudi Arabia",
-        "link": "https://www.theguardian.com/world/2026/sep/08/rami-naimi-abducted-saudi-arabia-mira-lozi",
-        "summary": "Mira Lozi says quiet diplomacy has failed to free Rami Naimi who was first seized in Dubai in 2017 A British woman has spoken out for the first time about the alleged abduction, torture and coercion of her husband at the hands of Saudi authorities, after nine years of “failed” quiet diplomacy. The businessman Rami Naimi was first abducted in Dubai in 2017 on his return from a trip to Australia with his father. After being tortured, he was released the following year. Continue reading...",
-        "published": "2026-09-08T14:55:08Z",
-        "image": "https://i.guim.co.uk/img/media/3ed1968c373130a754f06d0a7b02368229d468c2/260_156_1005_804/master/1005.jpg?width=140&quality=85&auto=format&fit=max&s=62615bb06d846bd14dbf52c8d280d798",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "UK bans goods from Israeli West Bank settlements: What that really means",
-        "link": "https://www.aljazeera.com/news/2026/9/8/uk-bans-goods-from-israeli-west-bank-settlements-what-that-really-means?traffic_source=rss",
-        "summary": "Foreign Minister Ed Miliband said the ban represents a 'comprehensive reset' of UK's policy on Israel.",
-        "published": "2026-09-08T14:52:00Z",
+        "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+        "link": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
+        "summary": "The phone call comes after US special envoys travelled to Russia and Ukraine to discuss 'a proposal to end the war'.",
+        "published": "2026-09-08T18:31:30Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Democrats hit back at Trump after president floats changing name of New Mexico to ‘New America’ - US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/sep/08/new-hampshire-rhode-island-vote-state-primaries-trump-canada-us-politics-latest-news-updates",
-        "summary": "State senator among politicians hitting back at president’s social media post saying New Mexico should be change to ‘New America’ Sign up for US Breaking News emails Further down the ballot in New Hampshire, the Democratic primary for Chris Pappas’s House seat has drawn eight candidates, with Stefany Shaheen – daughter of the outgoing senator – and Maura Sullivan , a former Obama administration official, leading the field. The district, long purple, has been reliably blue since 2017. Republicans now see it as flippable, and Donald Trump has endorsed Anthony DiLorenzo , a businessman who owns several car dealerships, in the GOP race. Continue reading...",
-        "published": "2026-09-08T14:49:22Z",
-        "image": "https://i.guim.co.uk/img/media/a560bfbcc538df9b688933b605df01ff226ecc48/944_10_2089_1671/master/2089.jpg?width=140&quality=85&auto=format&fit=max&s=0bbf18448f3494d513ac9346ad07588d",
+        "title": "UK air traffic control problem strands hundreds of thousands of passengers",
+        "link": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+        "summary": "At least 600 flights cancelled as airlines call for overhaul of ATC system after third incident in as many years UK airport disruption: what are your rights? Hundreds of thousands of air passengers had flights delayed or cancelled after another UK air traffic control technical glitch kept planes grounded for hours on Tuesday. Airlines demanded action after a “technical issue” at the air traffic control services provider Nats caused the third major stoppage in just over three years. Continue reading...",
+        "published": "2026-09-08T18:26:49Z",
+        "image": "https://i.guim.co.uk/img/media/5d9b58fb7bef6b6a747c9b3b06642cd5c998a797/1088_0_6247_5000/master/6247.jpg?width=140&quality=85&auto=format&fit=max&s=b9f519f31ee14a3496780056b8dfcdcc",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "AfD’s Far Right Win Puts New Pressure on Germany’s Leader Merz",
-        "link": "https://www.nytimes.com/2026/09/08/world/europe/germany-merz-pressure-afd.html",
-        "summary": "Antipathy to Chancellor Friedrich Merz was a reason the far right surged in a state election. Though he does not face a national election until 2029, his leadership is under increasing scrutiny.",
-        "published": "2026-09-08T14:46:39Z",
-        "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-Germany-Merz-wjlb/08int-Germany-Merz-wjlb-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-        "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "summary": "As high as 50%, Canada's levies will apply to nearly $20bn of US products, from steel to T-shirts.",
-        "published": "2026-09-08T14:46:16Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "published": "2026-09-08T18:25:40Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd1/live/8d1d81e0-aba9-11f1-b109-879e35c24276.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
-        "link": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-        "summary": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlements UK politics live – latest updates Israeli “terrorists” are conducting ethnic cleansing in the West Bank with the tacit backing of the government, the UK foreign secretary, Ed Miliband has said, as he announced sweeping sanctions on trade with Israeli settlements. In the strongest condemnation ever issued by the UK government, Miliband said the government would now take the official position that Israel’s occupation of the West Bank was unlawful in its entirety, saying such acknowledgment was “the least the people who face such suffering deserve. And it should be the prelude to justice.” An import ban on goods from illegal settlements in the occupied territories. A comprehensive sanctions regime against providing services such as construction or financing for Israeli settlements. A ban on the advertising in the UK of illegal settlement properties. Personal sanctions against key individuals accused of promoting settler violence. A new ban for arms licences and other exports that “materially contribute to the occupation”. Continue reading...",
-        "published": "2026-09-08T14:45:49Z",
-        "image": "https://i.guim.co.uk/img/media/d9734320b2021c7eab5aaf9cb7a52cdf6c75bd22/377_0_3077_2463/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=5812b1455853818e95e9d5c63c83f838",
+        "title": "UK to force Apple and Google to block explicit images on children’s smartphones",
+        "link": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+        "summary": "Lisa Nandy says government will introduce legislation after talks deadline ends without breakthrough Apple and Google will be forced to block explicit images on children’s smartphones by law in the UK after talks failed to produce a breakthrough, the government has said. The legislation commitment puts ministers on a collision course with two of the biggest players in Silicon Valley, months after the government announced a social media ban for under-16s. Continue reading...",
+        "published": "2026-09-08T18:25:01Z",
+        "image": "https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=fb262bbbdaae623d9485392fff1188a7",
         "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+        "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+        "summary": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
+        "published": "2026-09-08T18:21:40Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a27/live/073fe880-ab9d-11f1-b26f-1588b95519ec.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Burnham says Britain will ‘continue to act in support of our values’ after UK launches sanctions on Israel – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
+        "summary": "Israel’s foreign minister, Gideon Saar, earlier claimed that the UK was ‘systemically working against the state of Israel’ UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing The Liberal Democrats say they have been granted a Commons urgent question today about t he latest Argentinian threats to the Falkland Islands . A Foreign Office minister will be responding at about 12.30pm. Isaac Herzog , the Israeli president, has said that Britain will be “on the wrong side of history” if it goes ahead with plans to ban trade with the illegal settlements on the West Bank. Later today, we expect to see headlines announcing certain British trade sanctions on Israeli settlements in Judea and Samaria. If this happens – and other nations may join – I believe it will prove to be a grave miscalculation, a decision that will fall on the wrong side of history. Continue reading...",
+        "published": "2026-09-08T18:19:27Z",
+        "image": "https://i.guim.co.uk/img/media/f8146bd977e6ffc6e30c7088acbecc0b9c97b379/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=710556a5a514868ee2009e3920da962b",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
+        "summary": "Qatar has responded to Benjamin Netanyahu’s claims that it’s a 'hostile state'.",
+        "published": "2026-09-08T18:18:17Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Iceland Summons U.S. Ambassador Over Provocative Trump Map",
+        "link": "https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html",
+        "summary": "After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.",
+        "published": "2026-09-08T18:14:53Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08int-iceland-map-gbzf/08int-iceland-map-gbzf-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "UK foreign secretary announces sanctions on trade with Israeli West Bank settlements – video",
-        "link": "https://www.theguardian.com/politics/video/2026/sep/08/uk-foreign-secretary-sanctions-trade-israeli-west-bank-settlements-video",
-        "summary": "In the strongest condemnation ever issued by a UK government, Ed Miliband said it would take the official position that Israel’s occupation of the West Bank was unlawful in its entirety. The sanctions imposed include bans on goods from illegal settlements and adverts for land on the settlements will also be prohibited. Miliband said the measures would take up to nine months to come into effect UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing UK Politics live - latest updates Continue reading...",
-        "published": "2026-09-08T14:42:24Z",
-        "image": "https://i.guim.co.uk/img/media/e82a5385cf8ba929ad2a8e9800d8ba543a961bcd/354_0_1679_1343/master/1679.jpg?width=140&quality=85&auto=format&fit=max&s=2191df51e11a011e959958157eccbf79",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "‘The agency just can’t achieve what is required’: The cyclospora outbreak came after the FDA conducted nearly 35% less foreign food inspections",
-        "link": "https://fortune.com/2026/09/08/cyclospora-outbreak-fda-35-less-inspections/",
-        "summary": "The agency has failed to hit its congressionally mandated targets for international inspections before COVID-19, and recent staffing cuts could mean even fewer inspections.",
-        "published": "2026-09-08T14:32:31Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2286963573-e1788877413201.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "When things go bad, you want to be in China, says Gavekal’s Louis-Vincent Gave",
-        "link": "https://fortune.com/2026/09/08/investors-china-bonds-us-debt-geopolitics/",
-        "summary": "\"When things go well, you want to be [invested] in the U.S. But the 10% of times where it goes badly, you want to be in China.”",
-        "published": "2026-09-08T14:28:47Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/55515172409_5b7a817fa7_o.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Premier League clubs face losing lucrative sponsors if unlicensed gambling firms banned",
-        "link": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
-        "summary": "Ten clubs could lose tens of millions of pounds next year Ladbrokes owner highlights PM’s position as Everton fan Half of the Premier League’s 20 clubs have sponsorship or advertising deals with unlicensed gambling companies that could be illegal next year under plans being developed by the government. An eight-week consultation on proposals to ban sponsorship from gambling companies not licensed in the UK closes on Wednesday, with licensed operators such as Ladbrokes and William Hill pitted against the Premier League in a battle that could cost clubs tens of millions of pounds. Continue reading...",
-        "published": "2026-09-08T14:15:44Z",
-        "image": "https://i.guim.co.uk/img/media/c00e37718388eaa371f4d514861c674c5ca794e8/736_494_5488_4390/master/5488.jpg?width=140&quality=85&auto=format&fit=max&s=fd957b6dfbe99247206cf0a4cbf88e3c",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Google DeepMind publishes AI-powered predictions for the effect of all 9 billion possible single-point mutations in the human genome",
-        "link": "https://fortune.com/2026/09/08/google-deepmind-ai-predictions-9-billion-mutation-human-genome/",
-        "summary": "Atlas, DeepMind's comprehensive catalogue of predicted DNA mutation effects, could help scientists unlock the cause of rare genetic diseases and help them find cures.",
-        "published": "2026-09-08T14:00:00Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-179795904-e1788869111254.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Channel 4 to axe about 300 jobs in biggest layoffs in its history",
-        "link": "https://www.theguardian.com/media/2026/sep/08/channel-4-cut-jobs-layoff-costs",
-        "summary": "Exclusive: Staff expect ‘brutal’ cutbacks as broadcaster seeks to reduce costs amid advertising slowdown Business live – latest updates Channel 4 is poised to cut about 300 jobs – about a quarter of its workforce – in the biggest round of layoffs in its 43-year history, as the broadcaster seeks to dramatically cut costs. Priya Dogra, who took over from Alex Mahon as chief executive in March , is to address an all-staff meeting on Wednesday on a wide-ranging review of Channel 4’s strategy and structure. Continue reading...",
-        "published": "2026-09-08T13:56:34Z",
-        "image": "https://i.guim.co.uk/img/media/217411763412780b46b88d528c5403c25728365f/914_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3b72b48eda4c5006df8da6cb650d3df1",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-        "link": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
-        "summary": "Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.",
-        "published": "2026-09-08T13:53:50Z",
-        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/08Biz-Stocks-Rally-zbpq/08Biz-Stocks-Rally-zbpq-mediumSquareAt3X.jpg",
+        "title": "China’s Surging Exports Loom Over Trump’s Talks With Xi",
+        "link": "https://www.nytimes.com/2026/09/08/business/china-exports-xi-trump-talks.html",
+        "summary": "China’s exports grew by a quarter in the month of August, weeks before its leader, Xi Jinping, is set to meet with President Trump in Washington.",
+        "published": "2026-09-08T18:12:05Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-china-exports-flwt/08biz-china-exports-flwt-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Japan cries foul as China slaps 99.2% import duty on key chemical for making computer chips",
-        "link": "https://fortune.com/2026/09/08/china-japan-export-chips-taiwan/",
-        "summary": "Japan leads production of high-purity dichlorosilane, which used in the microscopic films inside semiconductor logic and memory chips",
-        "published": "2026-09-08T13:52:11Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26251312496794-e1788872344637.jpg?w=2048",
+        "title": "Yes, cut red tape. But shareholder votes on boardroom pay are not ‘pointless admin’",
+        "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/08/modernising-corporate-reporting-transparency-shareholder-votes",
+        "summary": "Nothing good can come of ditching annual investor votes on remuneration reports or encouraging online-only shareholder meetings The government, like every other one in living memory, is on a mission to reduce red tape for business. The former chancellor Rachel Reeves promised “a blitz on bureaucracy” and “pointless admin” and here comes the business department with a 12-week consultation on “modernising corporate reporting to support long-term economic growth”. Never mind that cutting energy costs for business would, by an order of magnitude, do more to support growth than any bonfire of red tape ever will. The consultation is still worthwhile: clearing out accumulated clutter, exploring digital options and clarifying reporting “exemptions and exclusions” for small- and medium-sized companies could free up a bit of time for doing more business. Continue reading...",
+        "published": "2026-09-08T17:57:42Z",
+        "image": "https://i.guim.co.uk/img/media/db358faee796730408f778c35e6c3d4b46709efc/352_0_3439_2750/master/3439.jpg?width=140&quality=85&auto=format&fit=max&s=69bf2318c95ec0b52aa6ba89bf5d6bf6",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+        "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+        "summary": "Departures from a number of airports have been affected by a technical problem affecting air traffic control provider Nats.",
+        "published": "2026-09-08T17:56:46Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a1/live/58e34b40-ab8f-11f1-aa04-efbf6a882854.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "UK government pays highest interest rate on 30-year bond since 1998",
+        "link": "https://www.theguardian.com/business/2026/sep/08/uk-government-pays-highest-interest-rate-on-30-year-bond-since-1998",
+        "summary": "High yields threaten to wipe out at least half of the £24bn headroom John Healey was expecting to have for his budget The UK government was forced to pay the highest interest rate for a 30-year bond since 1998 on Tuesday, underlining the fiscal challenges facing the chancellor, John Healey. Echoing the global bond market sell-off that has driven up yields, or interest rates, on government borrowing across the main markets, the Treasury paid 5.82% to borrow £4bn. Continue reading...",
+        "published": "2026-09-08T17:47:30Z",
+        "image": "https://i.guim.co.uk/img/media/0239dfb29238bdb628434a376e76ef6c00900925/182_0_6383_5108/master/6383.jpg?width=140&quality=85&auto=format&fit=max&s=840990c60eacc68c71d0387b7c40d3c4",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Sapporo to move some beer production from Canada to US after tariffs",
+        "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+        "published": "2026-09-08T17:41:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/00423140-ab99-11f1-aed2-8d6da8d75094.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
+        "link": "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html",
+        "summary": "Analysts said they expected the price of Brent crude, the international benchmark, to remain elevated for the rest of the year.",
+        "published": "2026-09-08T17:37:32Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08biz-oil-prices1-bgfl/08biz-oil-prices1-bgfl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Ella Baron on the UK’s ban on trade with illegal Israeli settlements – cartoon",
+        "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/08/ella-baron-uk-ban-trade-with-israeli-settlements-cartoon",
+        "summary": "Continue reading...",
+        "published": "2026-09-08T17:36:32Z",
+        "image": "https://i.guim.co.uk/img/media/d81f49c4d0d781166793a52e5e6335bc4acf574f/0_13_8566_6851/master/8566.jpg?width=140&quality=85&auto=format&fit=max&s=29daafeaed54589f157ee94c4aeca2f0",
+        "source": "The Guardian",
+        "section": "Business"
+      },
+      {
+        "title": "Hunter Biden launches $LAPTOP memecoin, trolls Trump by promising that 20% will be reserved for traders who lost money on president’s token",
+        "link": "https://fortune.com/2026/09/08/hunter-biden-launches-laptop-memecoin-trolls-trump-by-promising-that-20-will-be-reserved-for-traders-who-lost-money-on-presidents-token/",
+        "summary": "The announcement drew swift criticism on Crypto Twitter, where users expressed fatigue with memecoin-linked “rug pulls.”",
+        "published": "2026-09-08T17:13:36Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2155936346-e1788887274412.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Supply chain woes send Stryker stock tumbling 7.7%",
-        "link": "https://www.investing.com/news/stock-market-news/supply-chain-woes-send-stryker-stock-tumbling-77-4892013",
+        "title": "Gold Settles Lower Awaiting This Week’s Inflation Data",
+        "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
+        "summary": "Gold futures settled lower as the market watches an escalation in the Middle East conflict while looking to this week’s U.S. inflation data for clues on the Fed’s possible interest-rate moves.",
+        "published": "2026-09-08T18:33:00Z",
+        "image": null,
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "Kansas Republicans throw weight behind Bombardier jobs after Trump threat",
+        "link": "https://www.investing.com/news/stock-market-news/bombardier-shares-fall-after-trump-threatens-us-market-access-4891971",
         "summary": "",
-        "published": "2026-09-08T15:01:46Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4J18N_1200_L.jpg",
+        "published": "2026-09-08T18:24:50Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM871A2_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Flutter outlook cut to negative by Fitch on leverage concerns",
-        "link": "https://www.investing.com/news/stock-market-news/flutter-outlook-cut-to-negative-by-fitch-on-leverage-concerns-93CH-4892015",
+        "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock",
+        "link": "https://www.investing.com/news/stock-market-news/qualcomm-amazon-to-develop-custom-chips-for-ai-data-centers-4891798",
         "summary": "",
-        "published": "2026-09-08T15:00:56Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
+        "published": "2026-09-08T18:24:31Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM87183_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "I have two sons. Should I allow one son to build a $400,000 house on my property? I’m not permitted to subdivide the land.",
-        "link": "https://www.marketwatch.com/story/i-have-two-sons-should-i-allow-one-son-to-build-a-400-000-house-on-my-property-im-not-permitted-to-subdivide-the-land-5ec23b62?mod=mw_rss_topstories",
-        "summary": "“The cost of building the house is expected to be about 30% of the property’s current value.”",
-        "published": "2026-09-08T15:00:00Z",
-        "image": "https://images.mktw.net/im-10973880",
-        "source": "MarketWatch",
+        "title": "Constellation Brands options signals short-term bearish positioning at 52-week low",
+        "link": "https://www.investing.com/news/stock-market-news/constellation-brands-options-signals-shortterm-bearish-positioning-at-52week-low-93CH-4892214",
+        "summary": "",
+        "published": "2026-09-08T18:20:53Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEM5713J_1200_L.jpg",
+        "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Why is Freeport-McMoran Copper & Gold stock surging today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4892008",
+        "title": "GE Aerospace to buy castings supplier for nearly $12 billion to tackle engine bottleneck",
+        "link": "https://www.investing.com/news/stock-market-news/ge-aerospace-to-buy-castings-maker-cpp-for-nearly-12-billion-4891452",
         "summary": "",
-        "published": "2026-09-08T14:57:20Z",
+        "published": "2026-09-08T18:18:46Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM870Z7_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Why is Constellation Brands stock sliding to a 52-week low today?",
+        "link": "https://www.investing.com/news/stock-market-news/why-is-constellation-brands-stock-sliding-to-a-52week-low-today-93CH-4892212",
+        "summary": "",
+        "published": "2026-09-08T18:18:20Z",
         "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Norway stocks higher at close of trade; Oslo OBX up 0.53%",
-        "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-053-4892004",
-        "summary": "",
-        "published": "2026-09-08T14:55:30Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL3D0QK_L.jpg",
-        "source": "Investing.com",
+        "title": "Why you shouldn’t stake your entire retirement plan on getting an inheritance",
+        "link": "https://www.marketwatch.com/story/why-you-shouldnt-stake-your-entire-retirement-plan-on-getting-an-inheritance-f35dbf96?mod=mw_rss_topstories",
+        "summary": "When it comes to the so-called Great Wealth Transfer, “I don’t think people should count on it,” one financial adviser says.",
+        "published": "2026-09-08T18:17:00Z",
+        "image": "https://images.mktw.net/im-79080135",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Israel stocks lower at close of trade; TA 35 down 0.81%",
-        "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-081-4892003",
-        "summary": "",
-        "published": "2026-09-08T14:55:03Z",
-        "image": "https://content-media.investing.com/news/TelAvivStockExchange_800x533_L_1636543746.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Dow Dips, Oil Nears $100",
-        "link": "https://www.wsj.com/finance/commodities-futures/u-s-stock-futures-treasurys-weaken-as-brent-nears-100-c29efc2f?mod=rss_markets_main",
-        "summary": "U.S. stock indexes started the week lower as rising oil prices added to investor anxiety.",
-        "published": "2026-09-08T14:55:00Z",
-        "image": "https://images.wsj.net/im-80747818",
-        "source": "The Wall Street Journal",
-        "section": "Markets"
-      },
-      {
-        "title": "Air traffic control issue disrupts departing flights at major UK airports",
-        "link": "https://www.investing.com/news/stock-market-news/air-traffic-control-issue-disrupts-departing-flights-at-major-uk-airports-4891986",
-        "summary": "",
-        "published": "2026-09-08T14:55:00Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM871EG_L.jpg",
-        "source": "Investing.com",
+        "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
+        "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
+        "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today.",
+        "published": "2026-09-08T18:16:00Z",
+        "image": "https://images.mktw.net/im-00114516",
+        "source": "MarketWatch",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Pusheen’s first game is coming to Apple Arcade",
-        "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-        "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of the cartoon cat. In the mix of minigames, you'll \"sort color […]",
-        "published": "2026-09-08T15:07:13Z",
-        "image": null,
-        "source": "The Verge",
+        "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+        "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+        "summary": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
+        "published": "2026-09-08T18:13:26Z",
+        "image": "https://media.wired.com/photos/6aa03e5ade01d165fd766963/master/pass/UK-Gave-Apple-Google-Three-Months-To-Block-Child-Nudity-Business-961092282.jpg",
+        "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-        "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-        "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-        "published": "2026-09-08T15:04:09Z",
+        "title": "How to watch Apple’s foldable iPhone announcement",
+        "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+        "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
+        "published": "2026-09-08T17:46:53Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
-        "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
-        "summary": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two modular speakers that charge when docked to the soundbar. When detached, the […]",
-        "published": "2026-09-08T15:03:07Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Nintendo’s Ocarina of Time remake launches in November",
-        "link": "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer",
-        "summary": "Link's next adventure now has a release date. During a Legend of Zelda stream for the franchise's 40th anniversary, Nintendo announced that the upcoming Ocarina of Time remake for the Switch 2 is launching on November 5th. The release date makes Ocarina of Time one of just a few big-budget titles launching in the same […]",
-        "published": "2026-09-08T14:26:02Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "Mistral raises €3B as sovereign AI becomes big business",
-        "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-        "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
-        "published": "2026-09-08T14:17:48Z",
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "published": "2026-09-08T17:32:15Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-        "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-        "summary": "The latest heist is one of the largest thefts of cryptocurrency to date.",
-        "published": "2026-09-08T14:11:29Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-        "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-        "summary": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-        "published": "2026-09-08T14:10:17Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "A word with a woman who’s trying to pull off a crossbody phone strap",
-        "link": "https://www.theverge.com/tech/990849/crossbody-phone-strap-style",
-        "summary": "Oh, this thing? It's just a crossbody strap. It's a fun and youthful way to carry your phone. It's all the rage with Europeans and young people. I love it, and I definitely don't feel weird and self-conscious using it. Plus, it's great to have a $700 investment dangling near your waist while you walk […]",
-        "published": "2026-09-08T14:04:37Z",
+        "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+        "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed […]",
+        "published": "2026-09-08T17:27:31Z",
         "image": null,
         "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Nintendo isn’t scared of GTA VI",
+        "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+        "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The company held a 30-minute showcase this morning focused entirely on its Legend […]",
+        "published": "2026-09-08T17:13:51Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Google complies with EU rules for travel searches, says the new results stink",
+        "link": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
+        "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
+        "published": "2026-09-08T16:49:55Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
+      {
+        "title": "New law to force tech firms to stop children taking or sharing nude images",
+        "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
+        "published": "2026-09-08T16:48:29Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg",
+        "source": "BBC News",
+        "section": "Technology"
+      },
+      {
+        "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+        "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+        "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+        "published": "2026-09-08T16:42:05Z",
+        "image": "https://media.wired.com/photos/6aa02435e4af4176b7305e6a/master/pass/OpenAI-Antrophic-MathProblem.jpg",
+        "source": "Wired",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+        "link": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+        "summary": "The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.",
+        "published": "2026-09-08T17:57:45Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/science/08SCI-AI-MATH-PROOF-01/08SCI-AI-MATH-PROOF-01-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "What Is Navier-Stokes, the ‘Millennium’ Math Problem OpenAI Claims to Have Solved?",
+        "link": "https://www.nytimes.com/2026/09/08/science/what-is-navier-stokes.html",
+        "summary": "OpenAI announced today that it had solved the problem, one of seven “Millennium Problems” seen as among the most important in higher mathematics.",
+        "published": "2026-09-08T17:20:10Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "Superbubble in the Large Magellanic Cloud",
+        "link": "https://www.nasa.gov/image-article/superbubble-in-the-large-magellanic-cloud/",
+        "summary": "NASA’s Hubble Space Telescope captures a photogenic nebula, N44, in the Large Magellanic Cloud in this Sept. 3, 2026, image. N44 is dominated by two features: a vast central void and a shell of dense, dusty gas. The central void is a ‘superbubble’ spanning roughly 210 by 140 light-years across. The glittering stars at the […]",
+        "published": "2026-09-08T16:49:15Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "U.S. to Loan $1.9 Billion to Restart a Shuttered Nuclear Plant in Iowa",
+        "link": "https://www.nytimes.com/2026/09/08/climate/nuclear-plant-iowa-loan.html",
+        "summary": "No company in the United States has ever restarted a reactor that was seemingly closed for good, but there are now three major efforts underway to do so.",
+        "published": "2026-09-08T16:08:54Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/climate/08cli-nuclear-restart/08cli-nuclear-restart-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "NASA Technique for Manipulating Satellite Photos Now Reveals Ancient Images",
+        "link": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/",
+        "summary": "Algorithm NASA first applied to satellite imagery is now used to peer into antiquity",
+        "published": "2026-09-08T15:15:56Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "'River is flowing better than it has for 25 years'",
+        "link": "https://www.bbc.co.uk/news/articles/c36lj181xx1o?at_medium=RSS&at_campaign=rss",
+        "summary": "The River Deben is flowing once more after major restoration works are carried out.",
+        "published": "2026-09-08T15:02:54Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b1/live/5cd9ebc0-ab8d-11f1-aa04-efbf6a882854.png",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "1,000 Museum Visitors Dive Into NASA Sea Level Science on World Ocean Day",
         "link": "https://science.nasa.gov/learning-resources/science-activation/1000-museum-visitors-dive-into-nasa-sea-level-science-on-world-ocean-day/",
@@ -445,69 +499,42 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-        "summary": "Researchers discovered that combinations of toxin-blocking proteins naturally found in rattlesnake blood can powerfully neutralize venom from several dangerous snake species. In lab tests, the mixtures were about 10 times more potent than a current commercial antivenom, pointing toward a new generation of nature-inspired snakebite treatments.",
-        "published": "2026-09-08T13:54:56Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Your personality may be more genetic than scientists realized",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201554.htm",
-        "summary": "More than 1,200 genetic variants have been linked to the Big Five personality traits, and many of the same variants are also associated with health, longevity, careers, income, and everyday habits. The findings reveal a surprisingly wide genetic connection between personality and life outcomes while showing that environment still plays a powerful role.",
-        "published": "2026-09-08T13:40:34Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Ozempic and Wegovy may have an unexpected mental health benefit",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201601.htm",
-        "summary": "Semaglutide, the drug behind Ozempic and Wegovy, may have benefits that extend well beyond weight loss and diabetes. In a large Swedish study of nearly 15,000 people with bipolar disorder, its use was linked to a 21% lower risk of psychiatric hospitalization. Researchers think effects on inflammation and brain-related biological pathways could help stabilize mood, though other GLP-1 drugs did not show the same association.",
-        "published": "2026-09-08T12:59:00Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Giant new dinosaur discovered beneath construction site in Brazil",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
-        "summary": "Scientists have identified a giant new dinosaur from Brazil that reached about 20 meters long and lived 120 million years ago. Its surprising evolutionary ties to a Spanish dinosaur suggest its ancestors crossed ancient land connections between Europe, Africa, and South America.",
-        "published": "2026-09-08T12:42:29Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Top Mathematician Announces New Institute for A.I. Safety",
-        "link": "https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html",
-        "summary": "Jacob Tsimerman, a recent recipient of the Fields Medal, believes that higher mathematics can help curb the dangers of runaway artificial intelligence.",
-        "published": "2026-09-08T12:10:11Z",
-        "image": "https://static01.nyt.com/images/2026/09/08/multimedia/08sci-math-ai-safety-tgmj/08sci-math-ai-safety-tgmj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
-        "summary": "Physicists have directly observed a long-predicted quantum effect of gravity, putting one of Einstein’s foundational ideas to a striking new test. Using ultracold atoms, researchers split an atom’s quantum wave so that one part was held in place while the other fell freely under gravity, then reunited the two to measure the tiny difference that emerged.",
-        "published": "2026-09-08T12:09:21Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "US Open 2026 quarter-finals: Sabalenka v Noskova, Tiafoe v Michelsen – live",
+        "title": "Club Brugge v Aston Villa: Champions League – live",
+        "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live",
+        "summary": "⚽ Champions League news from the 5.45pm BST kick-off ⚽ Live scores | Follow us on Instagram | Read Football Daily Harry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or while Alessia Russo and Alex Greenwood have been nominated for the women’s award. The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé , who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+        "published": "2026-09-08T18:26:45Z",
+        "image": "https://i.guim.co.uk/img/media/4d4733281ee449266b651c1764f1f6117cd865e9/446_210_3291_2632/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=ca3e6a4fdeeb312f5b7acce68990eddb",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Porto v Manchester City: Champions League – live",
+        "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live",
+        "summary": "⚽ Champions League updates from the 8pm BST kick-off ⚽ Live scores | Read Football Daily | And you can mail Niall Maresca has apparently introduced music to training sessions – Gabby Logan pushes him on the genre, and he says: “house music – I like house music, you know, boom-boom-boom.” Italo-house, perchance? Enzo Maresca chats to Amazon Prime before the match: “It’s a hard place to come, but we’re going to try our best … it’s the first game, it’s going to be a long run. We’ll see where we are in December and January.” Continue reading...",
+        "published": "2026-09-08T18:26:19Z",
+        "image": "https://i.guim.co.uk/img/media/33943aca9d8e481c0f1e5afe1e3bd0313d5134fd/740_0_4747_3796/master/4747.jpg?width=140&quality=85&auto=format&fit=max&s=74f9c551e8312ff0f3df6b723fbd3eca",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "US Open 2026 quarter-finals: Aryna Sabalenka beats Linda Noskova in deciding tie-break – live",
         "link": "https://www.theguardian.com/sport/live/2026/sep/08/us-open-tennis-2026-quarter-finals-sabalenka-noskova-tiafoe-michelsen-live",
-        "summary": "Rolling updates from the last eight at Flushing Meadows Will influencers bring down US Open? | You can mail Katy Hello and welcome to our coverage of the US Open - day 10! So here we are, at the quarter-final stage. Gone is the compelling chaos of matches taking place here, there and everywhere in the earlier rounds, and finally we can make do with only one pair of eyes, our gaze both shrinking and intensifying now we’re down to the one singles court. Continue reading...",
-        "published": "2026-09-08T14:52:36Z",
-        "image": "https://i.guim.co.uk/img/media/95b6ef6ff56eac5945ba2fa4626c3d1d4f40c222/348_0_3481_2785/master/3481.jpg?width=140&quality=85&auto=format&fit=max&s=b39ffbd503163ead95700ca3a24ae751",
+        "summary": "Francis Tiafoe v Alex Michelsen to follow in the last eight Will influencers bring down US Open? | You can mail Taha First set: Sabalenka* 3-1 Noskova (*denotes next server) At 30-all, Sabalenka is applying more pressure on Noskova’s serve, but Sabalenka smacks a backhand return into the net and Noskova can breathe a little at 40-30. And the Wimbledon champion gets her side of the scoreboard moving when Sabalenka again errs with her return. The Arthur Ashe crowd – perhaps only about a half full so far – cheer loudly. They’re not against Sabelenka – as they were in the previous round when she played the American Taylor Townsend – but of course they want a close match. Continue reading...",
+        "published": "2026-09-08T18:25:00Z",
+        "image": "https://i.guim.co.uk/img/media/e9b8e9cafa09c9b37596246f781ab4f01c97cf24/219_0_2238_1790/master/2238.jpg?width=140&quality=85&auto=format&fit=max&s=cb1487b626fff9106fd97b4f55a7937d",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Real Madrid v Inter, Millwall v Newcastle: Champions League and Carabao Cup – live",
+        "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live",
+        "summary": "Champions League: Lille v Betis, Dortmund v Villarreal Carabao Cup: Palace v Middlesbroigh, Sunderland v Hull Live scores | Read Football Daily | And email Daniel Brugge have pulled a goal back against Villa – they now trail 3-2. Elsewhere, meanwhile, it’s AEK 1-0 LASK in what internet bores are calling the Upper Case derby. There’s a lot to dig into there, right? It’s always interesting when new managers take over established teams, because chances are they’ll see things differently from their predecessors. City, for example, are now playing 4-2-3-1, not 4-3-3, and it doesn’t seem like Enzo Maresca fancies Rayan Ait-Nouri. Otherwise, Ayyoub Bouaddi makes his first start – he’s alongside Enzo Fernandez in a double pivot which lacks a bit of p&p – and a front four of Samenyo, Cherki, Foden, Haaland looks not bad. Continue reading...",
+        "published": "2026-09-08T18:18:54Z",
+        "image": "https://i.guim.co.uk/img/media/8867bd12a6ac06b5a9234f6d89706b1c8b8d34e0/431_0_4772_3817/master/4772.jpg?width=140&quality=85&auto=format&fit=max&s=7d30c1edfecdcc5cc480eb5421b90bd0",
         "source": "The Guardian",
         "section": "Sports"
       },
@@ -515,137 +542,110 @@
         "title": "Leicestershire charged by ECB, Nottinghamshire v Hampshire, and more: county cricket, day one – live",
         "link": "https://www.theguardian.com/sport/live/2026/sep/08/nottinghamshire-v-hampshire-leicestershire-v-somerset-and-more-county-cricket-day-one-live",
         "summary": "County Championship updates as the title race heats up Mail Tanya or post BTL | Sign up for The Spin newsletter Ralphie Albert (Surrey - captain) Subhaan Ali (Yorkshire) Continue reading...",
-        "published": "2026-09-08T14:41:46Z",
+        "published": "2026-09-08T17:56:09Z",
         "image": "https://i.guim.co.uk/img/media/c5a82a0ae53c8f60238101dd68b7d24e6d4282fa/967_114_3982_3185/master/3982.jpg?width=140&quality=85&auto=format&fit=max&s=c3fa3f3615169c4cd715195e30c02b17",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Russo and Greenwood nominated for Ballon d'Or",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss",
-        "summary": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
-        "published": "2026-09-08T14:40:01Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9717/live/45aee980-ab8f-11f1-aa04-efbf6a882854.png",
+        "title": "GB's Brennan wins his fourth stage of 2026 Vuelta",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/c804dl8m544o?at_medium=RSS&at_campaign=rss",
+        "summary": "Britain's Matthew Brennan sprints to his fourth stage win of the 2026 Vuelta a Espana.",
+        "published": "2026-09-08T17:40:39Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e176/live/43b4cc90-aba2-11f1-8e72-a346833ed029.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Hogh and Tierney close to returns for Celtic",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cz0zy4jdlz1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Manager Martin O'Neill confirms Celtic duo Kasper Hogh and Kieran Tierney could play a part in Wednesday's Scottish Premiership match at St Johnstone.",
-        "published": "2026-09-08T14:32:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5aa/live/7db54220-ab8f-11f1-aa04-efbf6a882854.jpg",
+        "title": "Clarke leads Notts recovery against Hampshire",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/crl6jwwyr8po?at_medium=RSS&at_campaign=rss",
+        "summary": "Joe Clarke scores 105 as title hopefuls Nottinghamshire recover from 20-3 to total 377 on the first day against Hampshire.",
+        "published": "2026-09-08T17:34:09Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/382f/live/96a27f10-ab93-11f1-aa04-efbf6a882854.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Najidi Storm earns unwelcome tag of shortest-priced loser in British racing history",
-        "link": "https://www.theguardian.com/sport/2026/sep/08/najidi-storm-shortest-priced-loser-british-horse-racing-history",
-        "summary": "Favourite beaten at odds of 1-33 at Goodwood Bookies still claim they lost on outcome of race His father is Frankel, the greatest horse that ever looked through a bridle. And there must have been high hopes for Najidi Storm, also a half-brother to a winner of the oldest Classic, the St Leger, after he won on his first trip to the races last month. But on Tuesday Najidi Storm forever brought ignominy and shame to his blue-blooded family when he became the shortest-priced loser in the history of British racing , beaten into second in the glamorously titled Cleansing Service Group Novice Stakes at Goodwood at odds of 1-33. Continue reading...",
-        "published": "2026-09-08T14:32:20Z",
-        "image": "https://i.guim.co.uk/img/media/885545386ba2122da652a6a3354668350c5bbbfc/325_117_2769_2216/master/2769.jpg?width=140&quality=85&auto=format&fit=max&s=9844001d9848241f60fcd1d39880c10c",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "England different from when Pietersen left - Root",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cr4vex3rpz2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Joe Root says the England team is \"very different\" to the one Kevin Pietersen was sacked from in 2014, after the former batter joined the coaching staff of the white-ball side.",
-        "published": "2026-09-08T14:18:17Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7f/live/c4614970-ab8b-11f1-aa04-efbf6a882854.jpg",
+        "title": "Sheff Utd sign experienced forward Ayew",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cy0z8lnj1dno?at_medium=RSS&at_campaign=rss",
+        "summary": "Sheffield United sign former Crystal Palace and Leicester City forward Jordan Ayew on a deal until the end of the season.",
+        "published": "2026-09-08T17:30:39Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff0/live/8d7519c0-ab93-11f1-aa04-efbf6a882854.jpg",
         "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Table-topping Wigan hit ominous form at season’s sharp end in pursuit of treble",
-        "link": "https://www.theguardian.com/sport/2026/sep/08/super-league-wigan-leeds-wakefield-leigh-warrington-hull-kr-toulouse-york-knights",
-        "summary": "The Super League leaders are ahead of the pack for the first time since March with the playoffs in view September is upon us and the business end of the Super League season is here – but if you squinted your eyes on Saturday evening as Wigan Warriors waltzed their way towards another trophy, you would have been forgiven for thinking we were already in October watching the eventual champions in the grand final. Matt Peet’s team have, for the most part during his five years in charge, made it their business to flex their muscles when it matters most. A ninth trophy within that period is now tantalisingly within reach, as victory against Catalans on Friday would confirm the League Leaders’ Shield and leg two of what could be a domestic treble in 2026. Continue reading...",
-        "published": "2026-09-08T14:17:28Z",
-        "image": "https://i.guim.co.uk/img/media/2bb93d9c6969c62c72c518b190aa6c9f14a427eb/243_0_2706_2165/master/2706.jpg?width=140&quality=85&auto=format&fit=max&s=4785f6e666b7405419803f708929c0ca",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Joe Root backs ‘always brilliant’ Pietersen to bring best out of England players",
-        "link": "https://www.theguardian.com/sport/2026/sep/08/joe-root-backs-kevin-pietersen-england-cricket-players",
-        "summary": "Captain says he learned ‘huge amount’ from new mentor ‘I’m probably last to have played with him still going’ Joe Root has backed Kevin Pietersen to bring the best out of England’s players after the 46-year-old’s surprise appointment as a specialist mentor to the white-ball squad, saying he was “always brilliant” when the two played together towards the start of Root’s international career, a period in which he learned “a huge amount”. Pietersen was in the team when Root made his Test debut as a 21-year-old in Nagpur in 2012, and the pair played alongside each other in 12 Tests in all before Pietersen was abruptly dropped in 2014. They also combined in nine ODIs, all in 2013. Continue reading...",
-        "published": "2026-09-08T14:12:17Z",
-        "image": "https://i.guim.co.uk/img/media/4742b8f9b5878076fbefb7eec13c981ae9d85b7d/720_120_3446_2757/master/3446.jpg?width=140&quality=85&auto=format&fit=max&s=9d6fe236439da82c316b9b3013ff35d0",
-        "source": "The Guardian",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
-        "title": "35 Novels Coming This Fall",
-        "link": "https://www.nytimes.com/2026/09/08/books/review/new-novels-coming-this-fall.html",
-        "summary": "New fiction from Marlon James, Barbara Kingsolver, John Green, John Grisham and much more.",
-        "published": "2026-09-08T14:46:37Z",
-        "image": "https://static01.nyt.com/images/2026/09/13/books/08TBR-FallPreview-FICTION/08TBR-FallPreview-FICTION-mediumSquareAt3X.jpg",
+        "title": "In San Francisco, the Artist Joset Medina’s Walls Have Boundary Issues",
+        "link": "https://www.nytimes.com/2026/09/07/arts/design/this-san-francisco-artists-walls-have-boundary-issues.html",
+        "summary": "Joset Medina’s entire apartment is his canvas in the evolving project that he calls the “Unrestrained Garden.”",
+        "published": "2026-09-08T18:19:01Z",
+        "image": "https://static01.nyt.com/images/2026/09/13/multimedia/13sp-design-medina-bhcl/13sp-design-medina-bhcl-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "29 Nonfiction Books Coming This Fall",
-        "link": "https://www.nytimes.com/2026/09/08/books/review/new-nonfiction-books-this-fall.html",
-        "summary": "Memoirs, biographies, true crime, history and more.",
-        "published": "2026-09-08T14:46:00Z",
-        "image": "https://static01.nyt.com/images/2026/09/20/books/08TBR-FallPreview-NONFICTION-Sub01/08TBR-FallPreview-NONFICTION-Sub01-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Krasner & Pollock, Lichtenstein and RM Make Art’s New Season Pop This Fall",
-        "link": "https://www.nytimes.com/2026/09/04/arts/design/krasner-pollock-lichtenstein-fall-art.html",
-        "summary": "Look for a wide-ranging survey of Black abstraction at MoMA PS1, Taryn Simon’s photographic explorations in the Guggenheim Museum rotunda, Eric Carle’s colorful collages and much more.",
-        "published": "2026-09-08T14:35:56Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "‘We all have an expiry date’: Kimberly Akimbo, the achingly funny musical about a teen with a 64-year-old body",
-        "link": "https://www.theguardian.com/stage/2026/sep/08/jeanine-tesori-kimberly-akimbo-interview-musical",
-        "summary": "The uplifting, award-winning show about a girl aging four times too fast electrified New York. As it hits the UK, co-creator Jeanine Tesori talks about being inspired by the Aids crisis and all her friends who died young Jeanine Tesori is thinking about her mother back home in the US. “She’s 95,” says the composer, “and she’s not been well. But she would look in the mirror and be like, ‘I can’t believe I’m old.’ It’s always a surprise, always. There’s an interiority about ageing, especially as women. You stay playful and you stay curious, but the world has other ideas.” Ageing – and growing up, which is not necessarily the same thing – are a central consideration in the musical that Tesori has been rehearsing. Kimberly Akimbo, which the composer developed with David Lindsay-Abaire from his play, follows a teenage girl with a rare genetic condition that causes her to age at four times the normal rate. Its London debut stars the 66-year-old Maria Friedman as Kimberly. “And she has such a bright young energy,” says Tesori as we chat in a rough-and-ready rehearsal room in London, “that she doesn’t have to do anything to play 16.” Continue reading...",
-        "published": "2026-09-08T14:33:55Z",
-        "image": "https://i.guim.co.uk/img/media/0cd7f466a19ef5d0ab7a32df0a336465484b9615/408_0_4082_3265/master/4082.jpg?width=140&quality=85&auto=format&fit=max&s=0f52099d65445838953ae1cb52c1ffa3",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Monty Don steps down from BBC’s Gardeners’ World after 23 years",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/sep/08/monty-don-steps-down-bbc-gardeners-world",
-        "summary": "Final series to be hosted by the ‘utterly unique’ presenter will continue to be broadcast until later this year Monty Don, the longest serving head gardener on the BBC’s Gardeners’ World programme, will step down at the end of the current series. After 23 years leading the show, which he has hosted from his own garden in Herefordshire since 2011, Don said it was “the right time for a change”. He will continue working with the BBC on other programmes, as well as pursuing his own projects, such as writing books. Continue reading...",
-        "published": "2026-09-08T14:28:41Z",
-        "image": "https://i.guim.co.uk/img/media/0a917597cc4353cb2d6e7392f6d87dc5f9e8415f/49_89_3400_2722/master/3400.jpg?width=140&quality=85&auto=format&fit=max&s=29e389f04572270ac14213d7cac79c8e",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "'I didn't want to leave The Voice', says Sir Tom Jones",
-        "link": "https://www.bbc.co.uk/news/articles/c70dx3z9956o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Welsh singer has appeared as an on-off coach on the competition since it premiered in 2012.",
-        "published": "2026-09-08T14:21:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adb0/live/78a09d90-ab88-11f1-aa04-efbf6a882854.jpg",
+        "title": "Glastonbury confirms ticket sale dates - and highest ever price",
+        "link": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&at_campaign=rss",
+        "summary": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time.",
+        "published": "2026-09-08T18:10:14Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ac/live/f6644600-abab-11f1-8e72-a346833ed029.jpg",
         "source": "BBC News",
         "section": "Culture"
       },
       {
-        "title": "Julia Roberts Will Return to Broadway in ‘Small Mouth Sounds’",
-        "link": "https://www.nytimes.com/2026/09/08/theater/small-mouth-sounds-downstate-broadway.html",
-        "summary": "The all-star cast also includes Paul Rudd, Sarah Paulson, Greta Lee, Martin Freeman and Isaac Powell. Also coming: a new production of “Downstate.”",
-        "published": "2026-09-08T14:00:06Z",
-        "image": "https://static01.nyt.com/images/2026/09/09/multimedia/08cul-julia-roberts-ljzv/08cul-julia-roberts-ljzv-mediumSquareAt3X.jpg",
+        "title": "Smithsonian’s Secretary to Resign as Trump Tries to Rule the Institution",
+        "link": "https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html",
+        "summary": "In the face of escalating White House attacks about how museums present American history, Lonnie G. Bunch III has announced his decision to depart.",
+        "published": "2026-09-08T18:03:07Z",
+        "image": "https://static01.nyt.com/images/2025/06/11/multimedia/00cul-Bunch-resigns-zvjm/00cul-Bunch-resigns-zvjm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "The 25 Most Influential Fashion Photographs",
-        "link": "https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html",
-        "summary": "Two photographers, a fashion designer, a stylist, a creative director, an editor and a supermodel debate the images that have had an indelible impact on how we dress.",
-        "published": "2026-09-08T13:53:19Z",
+        "title": "25 Global Art Openings Worth Making an Excursion For",
+        "link": "https://www.nytimes.com/2026/09/07/arts/design/new-art-exhibitions-jason-farago.html",
+        "summary": "Our critic Jason Farago awaits Brancusi at MoMA, a K-pop icon’s collection in San Francisco, Sofia Coppola at the Château de Versailles — and new art centers in New York.",
+        "published": "2026-09-08T18:01:56Z",
         "image": null,
         "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "A Between-Seasons Playlist",
+        "link": "https://www.nytimes.com/2026/09/08/arts/music/amplifier-playlist-haruomi-hosono-robyn.html",
+        "summary": "Hear a Robyn remix, new Sharp Pins and one perfect song from Haruomi Hosono.",
+        "published": "2026-09-08T18:00:03Z",
+        "image": "https://static01.nyt.com/images/2026/09/08/arts/08amplifier-nl/08amplifier-nl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "In the Shadow of a Tragic Death, Jacob’s Pillow Looks to Move Forward",
+        "link": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
+        "summary": "A year after a longtime staff member was killed at the celebrated dance center in Western Massachusetts, the recovery continues.",
+        "published": "2026-09-08T17:55:38Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "The Summer When TV Started to Portray Female Friendship Accurately",
+        "link": "https://www.nytimes.com/2026/09/07/arts/television/sterling-point-off-campus.html",
+        "summary": "The creators of “Sterling Point” and “Off Campus” sought to depict relationships that were far different from the soapy rivalries of earlier young adult shows.",
+        "published": "2026-09-08T17:46:38Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Oasis' Cardiff reunion gig was 'hugely emotional' say film-makers",
+        "link": "https://www.bbc.co.uk/news/articles/c9qry7vq9gjo?at_medium=RSS&at_campaign=rss",
+        "summary": "Filmmakers describe the gig as a \"hugely emotional\" experience that took Noel Gallagher by surprise.",
+        "published": "2026-09-08T17:20:24Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f73/live/eef75230-aba7-11f1-8e72-a346833ed029.png",
+        "source": "BBC News",
         "section": "Culture"
       }
     ]
