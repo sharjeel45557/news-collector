@@ -1,433 +1,469 @@
 {
-  "generated": "2026-09-16T20:06:44Z",
+  "generated": "2026-09-16T22:55:18Z",
   "lead": {
-    "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
-    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
-    "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the severe risks for many people living among Gaza’s ruins.",
-    "published": "2026-09-16T19:47:09Z",
-    "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-Gaza-Building-01-pqwf/16int-Gaza-Building-01-pqwf-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "Trump blasts interest rate uptick and claims US is doing so well that rates ‘should be 1%, or less’ – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+    "summary": "President’s criticism comes after Federal Reserve chair Kevin Warsh announced quarter-percent increase – the first since July 2023 Sign up for the US Breaking News email US Federal Reserve raises interest rates for the first time since 2023 Reader Q&A: how united are the Democrats ahead of the US midterms? Later today, my colleagues and I will be hosting a live Q&A all about how united the Democratic party is ahead of the November midterms. We’ll be digging into who are the Democrats running in the upcoming election and where they stand. Continue reading...",
+    "published": "2026-09-16T22:48:56Z",
+    "image": "https://i.guim.co.uk/img/media/65bd3eb6cf5562617132185226fdf539cafbb2b2/601_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=9ddb900beca749e60f41d46d6168e8d4",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "summary": "⚽ Live updates from four third-round matches ⚽ Manchester United shocked as JJ Gabriel asks to leave ⚽ Get in touch! Email Will with any thoughts Poor Joshua Zirkzee cannot get a game in the Carabao Cup. I am not sure he will get many minutes in the months to come. Max Dowman continues to be good. Mikel Merino can similarities to a certain Lamine Yamal, which is high praise. Continue reading...",
-      "published": "2026-09-16T19:58:24Z",
-      "image": "https://i.guim.co.uk/img/media/07c60dc9f499cdb44a16ecc7c2b0a389fb22b732/1792_515_2334_1868/master/2334.jpg?width=140&quality=85&auto=format&fit=max&s=a4c6a8b7619dfcdeacb0c94b5c9c0083",
+      "title": "Australian politics live: Joyce dubs Burke ‘greatest no-show since Amelia Earhart’; Canavan defends Brethren church election involvement",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
+      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting. Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. [Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club … What I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing. I will be watching this with absolute fascination and some trepidation, and I’ll be waiting for Jim Chalmers to explain his new budget. I was on polling booths with my colleagues like Sally Sitou . I was out there in Reid with her in those last weeks of the campaign, standing there for hours at a time. She would be surrounded by men a foot taller than her, stopping her physically talking to or giving information to voters. I would think secretly paying known rightwing figures to disrupt events and pretend that they are just disgruntled citizens having their say is certainly immoral, if it’s not illegal. Continue reading...",
+      "published": "2026-09-16T22:46:23Z",
+      "image": "https://i.guim.co.uk/img/media/0c4ce5a2e6b939a09e2a2eabcff64b8125d9e424/650_0_6474_5183/master/6474.jpg?width=140&quality=85&auto=format&fit=max&s=5662eaa107a17c398559f2c404f3feb1",
       "source": "The Guardian",
-      "section": "Sports"
+      "section": "World"
     },
     {
-      "title": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "summary": "⚽ Live updates from the 8pm BST kick-offs ⚽ Xhaka promises ‘fire’ | Live scoreboard ⚽ Get in touch! Email Niall with any thoughts Manchester United host Brighton, and there are not one but two heads of state in attendance as Everton entertain Wolves. Join Will Unwin for the latest Carabao Cup fun. “Given Granit Xhaka’s scorching comments, will it turn out to be the Stadium of (Come On Baby) Light My Fire?” asks Peter Oh. Continue reading...",
-      "published": "2026-09-16T19:58:24Z",
-      "image": "https://i.guim.co.uk/img/media/6be14d5b613d45db703fc4124f1e964958372aee/106_0_4141_3313/master/4141.jpg?width=140&quality=85&auto=format&fit=max&s=4913a9ddf5c1d8ad53c8b18e80ee606a",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "The Liftoff Scenario That Terrifies A.I. Doomsayers",
-      "link": "https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html",
-      "summary": "“Recursive self-improvement” is the idea that artificial intelligence could learn to build and train itself, creating exponential new progress — and risk.",
-      "published": "2026-09-16T19:56:44Z",
-      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15SCI-RECURSIVE-AI-04-glzf/15SCI-RECURSIVE-AI-04-glzf-mediumSquareAt3X.jpg",
+      "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+      "link": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+      "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+      "published": "2026-09-16T22:42:15Z",
+      "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-saudi-planes-wzfg/16dc-saudi-planes-wzfg-mediumSquareAt3X.jpg",
       "source": "The New York Times",
-      "section": "Science"
+      "section": "World"
+    },
+    {
+      "title": "US lawmakers pass bill giving Trump more power to sanction Russia and its enablers",
+      "link": "https://www.theguardian.com/us-news/2026/sep/16/us-lawmakers-pass-bill-giving-trump-more-power-to-sanction-russia-and-its-enablers",
+      "summary": "Act divides Democrats and Republicans, with some saying it gives president power that could be turned against US allies The US Congress has passed a sweeping bill allowing Donald Trump to raise tariffs on top buyers of Russian energy and issue other punishing sanctions against the Kremlin following a pitched battle between lawmakers backing Ukraine and sceptics worried the bill gives the president too much power. The Lindsey O Graham Sanctioning Russia and Iran Act of 2026 passed in a 262-159 vote on the last day before Congress goes on recess ahead of the midterm elections. Graham, who died earlier this year, co-authored and submitted the bill more than a year and a half ago. Continue reading...",
+      "published": "2026-09-16T22:41:51Z",
+      "image": "https://i.guim.co.uk/img/media/c4dd7f2b486025d0f5616e41dd37e0ed755d7b36/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=16cd4dca7e6b65cf34ab92e1b3df3f7a",
+      "source": "The Guardian",
+      "section": "World"
     }
   ],
   "latest": [
     {
-      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-      "link": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-      "summary": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
-      "published": "2026-09-16T20:04:23Z",
-      "image": null,
-      "source": "CNBC",
+      "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds",
+      "link": "https://www.investing.com/news/stock-market-news/google-should-appoint-antitrust-compliance-officer-us-judge-says-in-ad-tech-case-4904639",
+      "summary": "",
+      "published": "2026-09-16T22:37:22Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F26C_L.jpg",
+      "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-      "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-      "published": "2026-09-16T20:00:36Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Business"
-    },
-    {
-      "title": "X will now let US users trade via cashtags",
-      "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-      "published": "2026-09-16T19:57:22Z",
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "published": "2026-09-16T22:37:08Z",
       "image": null,
       "source": "TechCrunch",
       "section": "Technology"
     },
     {
-      "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-      "link": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-      "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
-      "published": "2026-09-16T19:56:09Z",
+      "title": "OpenAI plans regular reports on unexpected AI behavior",
+      "link": "https://www.investing.com/news/stock-market-news/openai-plans-regular-reports-on-unexpected-ai-behavior-4904658",
+      "summary": "",
+      "published": "2026-09-16T22:36:37Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F27A_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+      "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+      "published": "2026-09-16T22:32:18Z",
       "image": null,
       "source": "CNBC",
       "section": "Markets"
     },
     {
-      "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-      "link": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-      "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
-      "published": "2026-09-16T19:55:16Z",
-      "image": null,
-      "source": "CNBC",
+      "title": "Exclusive-OpenAI’s rogue agents probed Hugging Face for weaknesses two months before major hack",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveopenais-rogue-agentsprobed-hugging-face-for-weaknesses-two-months-before-major-hack-4903289",
+      "summary": "",
+      "published": "2026-09-16T22:32:08Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F0WO_L.jpg",
+      "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs, plus more.",
-      "published": "2026-09-16T19:53:12Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/c9f6f2d0-b1fe-11f1-bc1f-3f186ca4140c.png",
-      "source": "BBC Sport",
-      "section": "Sports"
+      "title": "Holtec Nuclear suspends planned US IPO, Bloomberg News reports",
+      "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
+      "summary": "",
+      "published": "2026-09-16T22:31:07Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F27R_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     },
     {
-      "title": "Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them.",
-      "link": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
-      "summary": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami.",
-      "published": "2026-09-16T19:52:48Z",
+      "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+      "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+      "summary": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+      "published": "2026-09-16T22:30:34Z",
       "image": null,
-      "source": "The New York Times",
+      "source": "Al Jazeera",
       "section": "World"
     },
     {
-      "title": "S&P upgrades Packaging Corp. rating to BBB+ on low leverage",
-      "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-packaging-corp-rating-to-bbb-on-low-leverage-93CH-4904391",
+      "title": "Haymaker Acquisition Corp V prices $250M IPO on NYSE",
+      "link": "https://www.investing.com/news/stock-market-news/haymaker-acquisition-corp-v-prices-250m-ipo-on-nyse-432SI-4904647",
       "summary": "",
-      "published": "2026-09-16T19:50:27Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+      "published": "2026-09-16T22:27:01Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "INNIO’s credit rating upgraded to Ba3 by Moody’s",
-      "link": "https://www.investing.com/news/stock-market-news/innios-credit-rating-upgraded-to-ba3-by-moodys-93CH-4904390",
-      "summary": "",
-      "published": "2026-09-16T19:49:46Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-      "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
-      "published": "2026-09-16T19:49:20Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4117/live/d03a0410-b1eb-11f1-a430-4d16ee157c41.jpg",
+      "title": "Watch: Why has the Federal Reserve raised interest rates?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Samira Hussain looks at the factors considered in the increase and what it could mean for the US economy.",
+      "published": "2026-09-16T22:26:10Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1dd/live/a9d5b720-b21c-11f1-a430-4d16ee157c41.jpg",
       "source": "BBC News",
-      "section": "Culture"
+      "section": "Business"
+    },
+    {
+      "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+      "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+      "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+      "published": "2026-09-16T22:18:49Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them.",
-        "link": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
-        "summary": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami.",
-        "published": "2026-09-16T19:52:48Z",
+        "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+        "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+        "summary": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+        "published": "2026-09-16T22:30:34Z",
         "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+        "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
+        "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+        "published": "2026-09-16T22:18:49Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "US government paid federal employees $9.5bn not to work amid Doge cuts – report",
+        "link": "https://www.theguardian.com/us-news/2026/sep/16/doge-payments-federal-worker-leave",
+        "summary": "GAO report shows how use paid administrative leave rose by 435% from 2023 to 2025 and incurred a sixfold cost The US government paid federal workers $9.5bn not to work in 2025 as part of the Trump administration ’s attempts to shrink the federal workforce. As part of efforts by the “department of government efficiency” (Doge), spearheaded by Elon Musk , federal agencies’ use of paid administrative leave rose 435% from 2023 to 2025 – costing six times what the government spent in 2023 – according to a new report released on Tuesday by the Government Accountability Office (GAO), an independent watchdog. Continue reading...",
+        "published": "2026-09-16T22:17:06Z",
+        "image": "https://i.guim.co.uk/img/media/b271e6e665f09a46888e5fdbb03ee08ec99405ed/478_0_4775_3820/master/4775.jpg?width=140&quality=85&auto=format&fit=max&s=9e3512802ec15efd283fde0ddd64bf97",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "published": "2026-09-16T22:16:51Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+        "link": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+        "published": "2026-09-16T22:13:36Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3418/live/b104b7d0-b181-11f1-a430-4d16ee157c41.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Exiled Nicaraguan journalist Luis Galeano detained by ICE in Florida",
+        "link": "https://www.theguardian.com/us-news/2026/sep/16/nicaraguan-journalist-luis-galeano-detained-ice",
+        "summary": "Galeano, who has had asylum application pending for about seven years, was pulled over by agents while driving for Lyft Veteran journalist Luis Galeano, one of at least 94 Nicaraguans whom the Ortega Murillo regime has stripped of citizenship in recent years for opposing the government, has been detained by US Immigration and Customs Enforcement (ICE). Galeano, who has continued critically reporting on the Sandinista government online through his platform, Café con voz , since shortly after arriving in the US in 2018, has had an asylum application pending for about seven years, according to his wife, Daykel Santamaría. He also has a work permit and a social security number, she said. Continue reading...",
+        "published": "2026-09-16T21:59:49Z",
+        "image": "https://i.guim.co.uk/img/media/89bda09353fda40b6fa17cc8b24e40fd84d7508d/58_0_584_467/master/584.jpg?width=140&quality=85&auto=format&fit=max&s=5d2965f13a3c4cb6b32354628b214885",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Fiji Declares a National Emergency as H.I.V. Cases Skyrocket",
+        "link": "https://www.nytimes.com/2026/09/16/world/asia/fiji-hiv-national-emergency.html",
+        "summary": "Surging drug use has contributed to an epidemic in the Pacific island nation, where one in 60 adults is estimated to be living with the virus.",
+        "published": "2026-09-16T21:44:40Z",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-fiji-hiv-1-bpzf/16int-fiji-hiv-1-bpzf-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
       },
       {
-        "title": "Democrats criticize Mike Johnson for sending lawmakers home for recess a day early – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
-        "summary": "Move means that scheduled votes for Thursday have been canceled, including on a proposal to impeach Pete Hegseth, the defense secretary Sign up for the US Breaking News email Reader Q&A: how united are the Democrats ahead of the US midterms? Later today, my colleagues and I will be hosting a live Q&A all about how united the Democratic party is ahead of the November midterms. We’ll be digging into who are the Democrats running in the upcoming election and where they stand. Continue reading...",
-        "published": "2026-09-16T19:43:43Z",
-        "image": "https://i.guim.co.uk/img/media/d9d59cf1169c1c639f2a4f84bc82b49f0d85e873/485_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eaa4da3a5fad29350db12e621dc21187",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "‘Made in Europe’ laws could derail UK plans for reset with EU",
-        "link": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
-        "summary": "Government sources say legislation aimed at China poses a risk to British businesses and must be addressed European legislation that threatens to lock British business out of EU industry could derail a planned reset summit between the bloc and the UK, government sources have said. The “Made in Europe” legislation – formally known as the Industrial Accelerator Act – is designed to curb China’s increasing presence in European industry, but was not on the reset plan agreed by the former prime minister, Keir Starmer , and the European Commission chief, Ursula von der Leyen, in London in May 2025. Continue reading...",
-        "published": "2026-09-16T19:39:28Z",
-        "image": "https://i.guim.co.uk/img/media/fa4dea6ad0a9e303d08729a8c38ddd875c7e66e0/0_242_3544_2835/master/3544.jpg?width=140&quality=85&auto=format&fit=max&s=04ae41ae0cd5aa1464e27004f07d0dc6",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "‘Inflation is too high and has been for too long,’ says Kevin Warsh as Fed announces rate hikes – live",
-        "link": "https://www.theguardian.com/business/live/2026/sep/16/federal-reserve-interest-rate-increase-live-updates",
-        "summary": "Fed chair says it is focusing on price stability as committee decided that inflation was not ‘moving to our objective’ US Federal Reserve raises interest rates for the first time since 2023 Kay Haigh, global head and CIO of Fixed Income and Liquidity Solutions at Goldman Sachs Asset Management, has this analysis of today’s decision: The Fed has signalled it does not at this stage envisage an aggressive tightening cycle. Most FOMC members see a total of two hikes this year per the SEP, and it will likely skip October’s meeting given its proximity to the midterm elections. One more hike this year in December is our base case, although this remains contingent on upcoming CPI reports and the path of energy prices. Continue reading...",
-        "published": "2026-09-16T19:32:44Z",
-        "image": "https://i.guim.co.uk/img/media/7936a3f7a37ab931aafaef59e19b76d11a2a8ec6/455_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7562f4f365bdabec3f07cc4a37dad6ee",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "E.U.-Canada Ambitions Face Reality Check",
-        "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
-        "summary": "The bloc’s offer of “associate member” status to Ottawa shows how U.S. allies are pulling closer together. But their plans face significant obstacles.",
-        "published": "2026-09-16T19:30:23Z",
-        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-canada-eu-assess-zwbf/16int-canada-eu-assess-zwbf-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Belarus Frees 25 Political Prisoners in Exchange for U.S. Sanctions Relief",
-        "link": "https://www.nytimes.com/2026/09/16/world/europe/belarus-political-prisoner-release-us-sanctions.html",
-        "summary": "The deal is part of the Trump administration’s more transactional approach to a close Russian ally that Europe has tried to isolate.",
-        "published": "2026-09-16T19:25:40Z",
-        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-belarus-prisoners-01-ctfw/16int-belarus-prisoners-01-ctfw-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Colin Kaepernick says NFL owners are colluding against Macklemore after Ed Sheeran tour ban",
-        "link": "https://www.theguardian.com/sport/2026/sep/16/colin-kaepernick-nfl-owners-ed-sheeran-macklemore-tour",
-        "summary": "Rapper dropped from tour after pro-Palestine remarks Former NFL star settled case over collusion in 2019 Colin Kaepernick has accused NFL owners of colluding against Macklemore after the rapper was removed from Ed Sheeran’s tour over comments he made onstage about Palestine. Kaepernick, whose NFL career was effectively ended in the wake of his protests against police violence, says he sees parallels between himself and Macklemore. Continue reading...",
-        "published": "2026-09-16T19:23:54Z",
-        "image": "https://i.guim.co.uk/img/media/837ff35e958ff94069f882b8f847b94937587da3/1136_0_5757_4608/master/5757.jpg?width=140&quality=85&auto=format&fit=max&s=9c1d5fddb9286b391761022c7f9555a6",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Palestinian American activist arrested and ‘charged for trespassing at a public hearing’",
-        "link": "https://www.theguardian.com/us-news/2026/sep/16/noura-erakat-palestinian-arrested-florida",
-        "summary": "Noura Erakat says a Florida mayor shortened speaking time and banned discussion of investment in Israeli bonds The human rights lawyer Noura Erakat was arrested on Tuesday at a Palm Beach county, Florida , budget hearing about the county’s more than $1bn investments in Israeli bonds. Erakat, a prominent Palestinian-American activist, legal scholar and Guardian contributor, was one of several people in attendance at the public commission hearing who were forcibly removed by local law enforcement. The removal happened when the group attempted to speak out against the county’s investment in the bonds – the largest by a municipal government. Continue reading...",
-        "published": "2026-09-16T19:17:59Z",
-        "image": "https://i.guim.co.uk/img/media/97a2381d52873367f017086fc486ce02d9103119/0_989_5504_4403/master/5504.jpg?width=140&quality=85&auto=format&fit=max&s=50e84fb7961285ccb2a49bf66206ca3d",
-        "source": "The Guardian",
+        "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+        "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+        "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+        "published": "2026-09-16T21:41:36Z",
+        "image": null,
+        "source": "Al Jazeera",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "J.B. Hunt stock plunges 13% after company warns third-quarter earnings will fall",
-        "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-        "summary": "Shares of J.B. Hunt plunged 13% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-        "published": "2026-09-16T20:00:36Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "Watch: Why has the Federal Reserve raised interest rates?",
+        "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+        "summary": "The BBC's Samira Hussain looks at the factors considered in the increase and what it could mean for the US economy.",
+        "published": "2026-09-16T22:26:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1dd/live/a9d5b720-b21c-11f1-a430-4d16ee157c41.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Salesforce’s Marc Benioff to AI industry: Regulate yourselves or get sued",
+        "link": "https://fortune.com/2026/09/16/salesforce-marc-benioff-interview-dreamforce-ai-industry-regulate-yourselves-or-get-sued/",
+        "summary": "The outspoken CEO is hosting the company's annual Dreamforce conference this week in San Francisco.",
+        "published": "2026-09-16T21:48:56Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2294931541.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
+        "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
+        "summary": "This month, the president threatened to halt a broad swath of trade if interest rates were not cut, a possibility he resurfaced on Wednesday.",
+        "published": "2026-09-16T21:42:37Z",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16fed-meeting-trump-wzfv/16fed-meeting-trump-wzfv-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Stocks slide toward lowest level since July after Warsh’s hawkish press conference",
+        "link": "https://fortune.com/2026/09/16/warsh-fed-hike-ai-hyperscalers-treasury-yields/",
+        "summary": "The S&P 500 fell 1% and the Dow lost 1.7% as the Fed chair said rates weren't restrictive before Wednesday's hike.",
+        "published": "2026-09-16T21:23:29Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295045198-e1789593101656.jpg?w=2048",
+        "source": "Fortune",
         "section": "Business"
       },
       {
         "title": "What to know about the Fed’s decision.",
-        "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+        "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/what-to-know-about-the-feds-decision",
         "summary": "",
-        "published": "2026-09-16T19:42:17Z",
+        "published": "2026-09-16T21:17:32Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+        "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+        "summary": "The Federal Reserve’s first increase to interest rates since July 2023 comes less than two months before the midterm elections.",
+        "published": "2026-09-16T21:16:50Z",
         "image": "https://static01.nyt.com/images/2026/09/16/multimedia/2026-09-15-fed-dot-plot-index/2026-09-15-fed-dot-plot-index-mediumSquareAt3X.png",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-        "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-        "summary": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
-        "published": "2026-09-16T19:36:24Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "US Federal Reserve raises interest rates for the first time since 2023",
+        "link": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
+        "summary": "Trump urges lower rates after central bank agrees increase by quarter-percentage point to range of 3.75% to 4% Federal Reserve raises interest rates – live The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continues to fight to tamp down inflation. The Fed’s open market committee voted unanimously to raise its benchmark interest rate by a quarter-percentage point to a range of 3.75% to 4%. This is the first time the Fed has raised rates since July 2023 and potentially sets Kevin Warsh, the current Fed chair, on a collision course with Donald Trump. Continue reading...",
+        "published": "2026-09-16T21:01:39Z",
+        "image": "https://i.guim.co.uk/img/media/46b23287fa99f9dedd2afd3fdba6402033b94c13/145_0_4882_3907/master/4882.jpg?width=140&quality=85&auto=format&fit=max&s=a7f9ad74b727aa9f90f2b723a1d6f98c",
+        "source": "The Guardian",
         "section": "Business"
       },
       {
-        "title": "Safeguard Global’s four-day workweek looked like a win—until burnout and secret Friday work pushed its CEO to ditch the mandate",
-        "link": "https://fortune.com/2026/09/16/do-four-day-work-weeks-cause-burnout-secret-work/",
-        "summary": "Bjorn Reynolds, Safeguard Global’s CEO and founder, shares the lessons he learned from his company’s four-day workweek pilot.",
-        "published": "2026-09-16T19:29:32Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1478005987-e1789586709537.jpg?w=2048",
+        "title": "Man sentenced in $35 million Ponzi scheme that defrauded Travis Kelce: ‘He did this out of greed’",
+        "link": "https://fortune.com/2026/09/16/travis-kelce-victim-fraud-ponzi-scheme-sentencing-35-million/",
+        "summary": "He also asked to be married to his fiance while in prison.",
+        "published": "2026-09-16T20:44:02Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2244346396-e1789589503703.jpg?w=2048",
         "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Takeaways From the Fed’s Decision to Raise Interest Rates",
-        "link": "https://www.nytimes.com/2026/09/16/business/economy/fed-meeting-interest-rates-warsh-takeaways.html",
-        "summary": "Kevin M. Warsh, the Federal Reserve chairman, said the bank acted to fight inflation that ‘is too high and has been for too long.’",
-        "published": "2026-09-16T19:29:00Z",
-        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/live-blog-20260916-fed-meeting-warsh-interest-rates-header-2-vpzj/live-blog-20260916-fed-meeting-warsh-interest-rates-header-2-vpzj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "America’s bedrot era: How the dopamine recession created the ‘couch economy’",
-        "link": "https://fortune.com/2026/09/16/america-dopamine-recession-economy-bedrotting-never-leave-home/",
-        "summary": "New spending data shows how much of the economy now depends on people staying home, and a chase for quick, easy hits of stimulation may be driving it.",
-        "published": "2026-09-16T19:17:45Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1230820882-e1789481329951.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Fed Signals Another Rate Increase Could Be Coming",
-        "link": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
-        "summary": "Here’s how to read the Federal Reserve’s economic projections like a pro.",
-        "published": "2026-09-16T19:12:46Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "The Quiet Way A.I. Is Hitting the Work Force",
-        "link": "https://www.nytimes.com/2026/09/16/business/ai-raises-hiring.html",
-        "summary": "Lower wage growth and slower hiring in some sectors may be the result of artificial intelligence, especially for younger workers.",
-        "published": "2026-09-16T19:12:18Z",
-        "image": "https://static01.nyt.com/images/2026/09/14/business/00ai-wages/00ai-wages-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-        "link": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-        "summary": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
-        "published": "2026-09-16T20:04:23Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
-        "link": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
-        "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
-        "published": "2026-09-16T19:56:09Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
-        "link": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-        "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
-        "published": "2026-09-16T19:55:16Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Markets"
-      },
-      {
-        "title": "S&P upgrades Packaging Corp. rating to BBB+ on low leverage",
-        "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-packaging-corp-rating-to-bbb-on-low-leverage-93CH-4904391",
+        "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds",
+        "link": "https://www.investing.com/news/stock-market-news/google-should-appoint-antitrust-compliance-officer-us-judge-says-in-ad-tech-case-4904639",
         "summary": "",
-        "published": "2026-09-16T19:50:27Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9606Q_M.jpg",
+        "published": "2026-09-16T22:37:22Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F26C_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "INNIO’s credit rating upgraded to Ba3 by Moody’s",
-        "link": "https://www.investing.com/news/stock-market-news/innios-credit-rating-upgraded-to-ba3-by-moodys-93CH-4904390",
+        "title": "OpenAI plans regular reports on unexpected AI behavior",
+        "link": "https://www.investing.com/news/stock-market-news/openai-plans-regular-reports-on-unexpected-ai-behavior-4904658",
         "summary": "",
-        "published": "2026-09-16T19:49:46Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEB59082_M.jpg",
+        "published": "2026-09-16T22:36:37Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F27A_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Moody’s upgrades Performance Food notes on debt paydown",
-        "link": "https://www.investing.com/news/stock-market-news/moodys-upgrades-performance-food-notes-on-debt-paydown-93CH-4904389",
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+        "published": "2026-09-16T22:32:18Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "Exclusive-OpenAI’s rogue agents probed Hugging Face for weaknesses two months before major hack",
+        "link": "https://www.investing.com/news/stock-market-news/exclusiveopenais-rogue-agentsprobed-hugging-face-for-weaknesses-two-months-before-major-hack-4903289",
         "summary": "",
-        "published": "2026-09-16T19:47:59Z",
+        "published": "2026-09-16T22:32:08Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F0WO_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Holtec Nuclear suspends planned US IPO, Bloomberg News reports",
+        "link": "https://www.investing.com/news/stock-market-news/holtec-nuclear-suspends-planned-us-ipo-bloomberg-news-reports-4904657",
+        "summary": "",
+        "published": "2026-09-16T22:31:07Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F27R_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Haymaker Acquisition Corp V prices $250M IPO on NYSE",
+        "link": "https://www.investing.com/news/stock-market-news/haymaker-acquisition-corp-v-prices-250m-ipo-on-nyse-432SI-4904647",
+        "summary": "",
+        "published": "2026-09-16T22:27:01Z",
         "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "KNDS IPO may be delayed as defense shares weaken - Bloomberg",
-        "link": "https://www.investing.com/news/stock-market-news/knds-ipo-may-be-delayed-as-defense-shares-weaken--bloomberg-93CH-4904387",
+        "title": "Lennar profit halves as higher mortgage rates pressure homebuyers",
+        "link": "https://www.investing.com/news/stock-market-news/lennar-profit-halves-as-higher-mortgage-rates-pressure-homebuyers-4904642",
         "summary": "",
-        "published": "2026-09-16T19:43:55Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+        "published": "2026-09-16T22:12:34Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F272_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "US senators seek more information on Trump’s Saudi nuclear proposal, letter says",
-        "link": "https://www.investing.com/news/stock-market-news/us-senators-seek-more-information-on-trumps-saudi-nuclear-proposal-letter-says-4904386",
+        "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
+        "link": "https://www.investing.com/news/stock-market-news/banks-provide-22-billion-chip-loan-to-blackstone-alphabet-cloud-venture-bloomberg-news-reports-4904543",
         "summary": "",
-        "published": "2026-09-16T19:43:36Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F1SN_L.jpg",
+        "published": "2026-09-16T22:06:58Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8F22U_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "X will now let US users trade via cashtags",
-        "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
-        "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-        "published": "2026-09-16T19:57:22Z",
+        "title": "US automakers could soon be forced to include AM radio for free",
+        "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+        "published": "2026-09-16T22:37:08Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
-        "link": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
-        "summary": "Before Amazon’s October sale begins, learn how to investigate prices and track products like a pro.",
-        "published": "2026-09-16T19:45:41Z",
-        "image": "https://media.wired.com/photos/6aaaf0696efac6d4d3b8cab6/master/pass/Amazon-Prime-Big-Deal-Days-Are-Coming.-Don%E2%80%99t-Get-Duped.jpg",
+        "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+        "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+        "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+        "published": "2026-09-16T22:07:24Z",
+        "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
         "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-        "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-        "summary": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-        "published": "2026-09-16T19:35:29Z",
+        "title": "Noise wants to help everyday people become paid content creators",
+        "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "summary": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+        "published": "2026-09-16T21:35:00Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "MacOS 27 Golden Gate: Top New Features",
-        "link": "https://www.wired.com/story/macos-27-golden-gate-top-features/",
-        "summary": "Siri’s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install.",
-        "published": "2026-09-16T19:29:15Z",
-        "image": "https://media.wired.com/photos/6aaaec53c53df60b4a3e7eb4/master/pass/The-Top-New-Features-in-Apple%E2%80%99s-macOS-27-Golden-Gate.jpg",
+        "title": "Pulley, a Carta rival, is shutting down",
+        "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
+        "published": "2026-09-16T21:23:19Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+        "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+        "summary": "Group plans to be largely out of commission for several weeks.",
+        "published": "2026-09-16T21:08:14Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "published": "2026-09-16T21:07:24Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Washington Won’t Be Regulating AI Anytime Soon",
+        "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+        "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+        "published": "2026-09-16T21:00:00Z",
+        "image": "https://media.wired.com/photos/6aa9a839650c7d70ef723d0a/master/pass/politics_ai_regulation_slow.jpg",
         "source": "Wired",
         "section": "Technology"
       },
       {
-        "title": "Former Waymo CFO jumps to self-driving startup Wayve",
-        "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
-        "summary": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
-        "published": "2026-09-16T19:02:49Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-        "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-        "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-        "published": "2026-09-16T19:00:00Z",
-        "image": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-        "summary": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
-        "published": "2026-09-16T18:45:35Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-        "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
-        "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And […]",
-        "published": "2026-09-16T18:45:35Z",
+        "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+        "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+        "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether. The new film, called Odysseus: The Fall, comes […]",
+        "published": "2026-09-16T20:59:13Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "Trump Administration Moves to Gut a Core Endangered Species Protection",
+        "link": "https://www.nytimes.com/2026/09/16/climate/endangered-species-act-change.html",
+        "summary": "An internal memo reinterprets the law so that only the intentional killing of animals, not collateral harm, is illegal.",
+        "published": "2026-09-16T22:04:12Z",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16CLI-ENDANGERED-jtzq/16CLI-ENDANGERED-jtzq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "Passion Meets Precision at NASA’s Flight Research Lab",
+        "link": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
+        "summary": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight […]",
+        "published": "2026-09-16T21:06:08Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "Microscopic Videos That Show the Invisible Wonders Around Us",
+        "link": "https://www.nytimes.com/2026/09/16/science/microscopic-videos-invisble-nikon-small-world.html",
+        "summary": "The winners of this year’s Nikon Small World in Motion competition showcase the wiggly, feathery, undulating beauty of invisible life.",
+        "published": "2026-09-16T20:02:20Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "The Liftoff Scenario That Terrifies A.I. Doomsayers",
+        "link": "https://www.nytimes.com/2026/09/16/science/ai-recursive-self-improvement.html",
+        "summary": "“Recursive self-improvement” is the idea that artificial intelligence could learn to build and train itself, creating exponential new progress — and risk.",
+        "published": "2026-09-16T19:56:44Z",
+        "image": "https://static01.nyt.com/images/2026/09/15/multimedia/15SCI-RECURSIVE-AI-04-glzf/15SCI-RECURSIVE-AI-04-glzf-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
       {
         "title": "These Mice Have Partly Human Brains",
         "link": "https://www.nytimes.com/2026/09/16/science/human-mouse-brains-organoids.html",
@@ -463,187 +499,151 @@
         "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00SCI-CLANCY-INTRUSIVE-THOUGHTS-03-wthg/00SCI-CLANCY-INTRUSIVE-THOUGHTS-03-wthg-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Science"
-      },
-      {
-        "title": "NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar",
-        "link": "https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/",
-        "summary": "NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the […]",
-        "published": "2026-09-16T16:12:01Z",
-        "image": "https://www.nasa.gov/wp-content/uploads/2024/10/tdrs-data-stream-apr1080.mp4",
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "NASA Watches Earth’s Weight, Finds Center of Mass",
-        "link": "https://www.nasa.gov/science-research/earth-science/nasa-watches-earths-weight-finds-center-of-mass/",
-        "summary": "Seasonal changes redistribute enough water around Earth to shift the planet’s center of mass back and forth by fractions of an inch relative to its geometric center. NASA scientists are on the case, tracking the oscillations because Earth’s center of mass is a crucial reference point for satellite navigation and elevation measurements. A team, led […]",
-        "published": "2026-09-16T16:08:00Z",
-        "image": "https://www.nasa.gov/wp-content/uploads/2026/09/e1-geocenter-motion-video-clip.mp4",
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "Part-human part-mouse brain developed in science breakthrough",
-        "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-        "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
-        "published": "2026-09-16T15:53:27Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0701/live/5c142ed0-b1f0-11f1-bc1f-3f186ca4140c.jpg",
-        "source": "BBC News",
-        "section": "Science"
-      },
-      {
-        "title": "Massive Black Holes May Have Started as Little Red Dots",
-        "link": "https://www.nytimes.com/2026/09/16/science/little-red-dots-black-holes.html",
-        "summary": "A new simulation suggests little red dots, unusually compact objects seen in photos from space, might be one stage in the evolution of black holes.",
-        "published": "2026-09-16T15:47:45Z",
-        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16SCI-LITTLE-RED-DOTS-01-vzfl/16SCI-LITTLE-RED-DOTS-01-vzfl-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Arsenal rejected Dowman loan offers - Thursday's gossip",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&at_campaign=rss",
-        "summary": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer, Luca Weinhandl attracting interest from multiple Premier League clubs, plus more.",
-        "published": "2026-09-16T19:53:12Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/c9f6f2d0-b1fe-11f1-bc1f-3f186ca4140c.png",
+        "title": "De la Fuente extends Spain contract to 2032",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&at_campaign=rss",
+        "summary": "World Cup-winning head coach Luis de la Fuente agrees a contract extension with Spain until 2032.",
+        "published": "2026-09-16T22:02:44Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f0/live/d60f2240-b11d-11f1-8ecc-07cd1cee2987.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Chiefs star Travis Kelce is named among victims of $35m Ponzi scheme",
-        "link": "https://www.theguardian.com/sport/2026/sep/16/travis-kelce-victim-ponzi-scheme",
-        "summary": "Siddharth Jawahar gets 11 years in prison for fraud Prosecutors mention Kelce without further comment Several pro athletes said to have invested in Swiftarc firm Kansas City Chiefs tight end Travis Kelce is among the victims of a Ponzi scheme that took in more ⁠than $35m from unsuspecting investors, a Missouri prosecutor said. The prosecutor mentioned Kelce in court Tuesday as 38-year-old Siddharth Jawahar was ⁠sentenced to 11 years ⁠in prison. ​The US attorney’s office of the eastern district of Missouri said Jawahar pleaded guilty to three counts of wire fraud in ⁠US district court in St Louis in January. Continue reading...",
-        "published": "2026-09-16T19:24:24Z",
-        "image": "https://i.guim.co.uk/img/media/b83e9e57228f8994fd5fc74ac9ad0fba5649f2d3/0_0_4953_3963/master/4953.jpg?width=140&quality=85&auto=format&fit=max&s=2ded9f02ef09d04f71db7972cb13105d",
+        "title": "League Two Fleetwood host Arsenal in EFL Cup - full fourth-round draw",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&at_campaign=rss",
+        "summary": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round of the EFL Cup.",
+        "published": "2026-09-16T21:57:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20d/live/cf4e0ee0-b216-11f1-8117-470b3119e06f.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+        "link": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+        "summary": "Across four days Manchester United have lost the 199th derby to Manchester City, were told by JJ Gabriel he wants to leave, and have now been knocked out of the Carabao Cup by Brighton. Capitulating after being 2-0 up may be the pick of these dizzying blows, and when Marcus Rashford skated in with the chance to take the tie to 3-3 late on, there was no surprise he hit Jason Steele rather than the net. Continue reading...",
+        "published": "2026-09-16T21:18:39Z",
+        "image": "https://i.guim.co.uk/img/media/ce0f84e42b8f7aba53ae668ceac3ca63c6460ab4/323_0_3233_2587/master/3233.jpg?width=140&quality=85&auto=format&fit=max&s=bb61b8331ead128cde7b8877ebbc6ba0",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Leicestershire on brink of relegation after 27-point deduction",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/crkgwyp2287lo?at_medium=RSS&at_campaign=rss",
-        "summary": "Leicestershire are on the brink of relegation from County Championship Division One after being deducted 27 points for breaching pitch regulations.",
-        "published": "2026-09-16T19:13:11Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b905/live/12ee9140-b1ce-11f1-8493-1910d79d53eb.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "England's Hardcastle announces international retirement",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6z7zyzep4q2o?at_medium=RSS&at_campaign=rss",
-        "summary": "England women's all-time record try scorer Amy Hardcastle announces her international retirement.",
-        "published": "2026-09-16T18:53:00Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dde/live/d71e6d50-b1f7-11f1-b1d1-571ed4d7ff2c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "'It's a miracle' - fireball crash victim Millroy praises rescuer Hartog",
-        "link": "https://www.bbc.co.uk/sport/motorsport/articles/cvlyl5p7kl0no?at_medium=RSS&at_campaign=rss",
-        "summary": "British racing driver Ollie Millroy says it is a \"miracle I'm alive\" after fellow driver Loek Hartog \"did everything right\" when saving him from his blazing car.",
-        "published": "2026-09-16T18:36:10Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13cc/live/0c1599e0-b1e7-11f1-ac01-a9af2f94b2cc.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Points deduction puts Leicestershire on brink as Warwickshire go top: County Championship cricket, day two – as it happened",
-        "link": "https://www.theguardian.com/sport/live/2026/sep/16/yorkshire-v-somerset-sussex-v-notts-and-more-county-championship-cricket-day-two-live",
-        "summary": "Manav Suthar spun Warwickshire into pole position in the race for the County Championship title to set up a two-day, eight wicket victory Look away, and Cliff has another, a searing ball which spits and Leach gets an edge through to Bairstow. Somerset 86 for eight and floundering after a pretty catastrophic first 25 minutes. Non rhythmic applause as Ben Cliff approaches his hat-trick, but no cigar this time. Continue reading...",
-        "published": "2026-09-16T18:33:42Z",
-        "image": "https://i.guim.co.uk/img/media/a73ea1da726e34f13092098130198a08d64e9e8b/370_0_3483_2786/master/3483.jpg?width=140&quality=85&auto=format&fit=max&s=88142543b58e28919c0d8f33a8a663b0",
+        "title": "Enzo Le Fée makes amends from the spot as Sunderland overcome AZ",
+        "link": "https://www.theguardian.com/football/2026/sep/16/sunderland-az-alkmaar-europa-league-league-stage-match-report",
+        "summary": "Granit Xhaka, Sunderland’s captain, believes it is not unrealistic to dream about Régis Le Bris’ side travelling all the way to next spring’s Europa League final . It is rarely a good idea to dismiss Xhaka but reaching that showpiece in Frankfurt will necessitate considerably more efficient finishing on his team’s part than proved evident on a highly evocative night on Wearside. Continue reading...",
+        "published": "2026-09-16T21:06:31Z",
+        "image": "https://i.guim.co.uk/img/media/c06ce51f4a91f21d3e0057102d8947fdb074ae85/267_0_4247_3399/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=8c74f41c5ceb7764d66d8c6e552bd002",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Saudi club given stadium ban over Jota chants towards Neves",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwp842plmyymo?at_medium=RSS&at_campaign=rss",
-        "summary": "Saudi Pro League side Al-Taawoun are ordered to play two matches behind closed doors after supporters taunted Ruben Neves over the death of friend Diogo Jota.",
-        "published": "2026-09-16T18:32:11Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg",
+        "title": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+        "link": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026",
+        "summary": "Coach says Argentina’s gung-ho approach forced hand ‘No one is more hurt than me, no one wanted it more’ Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup semi-final defeat against Argentina this summer, but the England head coach accepts he made them too early. Tuchel said England were “waiting for death”, unable to cope with the attacking tactics adopted by Argentina in Atlanta as they chased the game after Anthony Gordon’s opener on the hour. He said fatigue and the success of defending with a back five in knockout games against Mexico and Norway also influenced his decisions to sit on the lead. Continue reading...",
+        "published": "2026-09-16T21:05:50Z",
+        "image": "https://i.guim.co.uk/img/media/40843a59121918d699ab4901cd166a7019877f83/468_275_4505_3605/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=d88cf8259aee6d4c2fc80d835e93d6c0",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Tammy Abraham’s double powers Aston Villa to Carabao Cup win at Coventry",
+        "link": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-carabao-cup-third-round-match-report",
+        "summary": "For Aston Villa, an overdue drama-free outing as Unai Emery’s side cruised into the Carabao Cup fourth round courtesy of a Tammy Abraham double and a Ross Barkley header. The satisfaction was detectable in Emery’s voice as he reflected on a night of positives: Abraham’s first goals of the season, Ibrahim Mbaye’s encouraging full debut and another half-hour for the £52m club-record signing, Johan Manzambi. Are things clicking into gear after a summer of changes? Continue reading...",
+        "published": "2026-09-16T21:02:19Z",
+        "image": "https://i.guim.co.uk/img/media/30871267286143a8dc300cbc556dd0617432d579/104_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=a600ca3649205b724934c45bff29ce57",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Painful endgame for Gray as stale Hibs slump",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c3qjk2nev7r8o?at_medium=RSS&at_campaign=rss",
+        "summary": "A club hero, David Gray ends his time as Hibs head coach not to the sound of euphoria from fans, but to the sound of a support collectively exhaling in relief, writes Tom English.",
+        "published": "2026-09-16T20:53:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5b/live/601cf190-b20b-11f1-95f2-19e1a2e8eef2.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
-        "summary": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
-        "published": "2026-09-16T18:11:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg",
-        "source": "BBC Sport",
+        "title": "‘Why can’t it be 100 times more popular?’: Ohanian aims high with women’s Athlos meeting | Sean Ingle",
+        "link": "https://www.theguardian.com/sport/2026/sep/16/alexis-ohanian-aims-high-with-womens-athlos-meeting-athletics",
+        "summary": "Keely Hodgkinson and Gaby Thomas among the stars at London event whose promoter, Alexis Ohanian, has big plans and hopes for women’s sport The timing could hardly be better. After a week when the discourse around women’s sport has been dominated by the actor Sydney Sweeney posing naked – and the intense backlash and counter-backlash – London will stage a major all-female track‑and‑field event on Friday. A sell-out crowd at the Athlos meeting at the StoneX Stadium in Hendon will feature Britain’s Keely Hodgkinson, along with the American stars Gabby Thomas and Tara Davis-Woodhall, competing for a prize fund of $1m (£750,000). There will be a red-carpet parade, celebrities galore and a celebration of the best of female sport. Continue reading...",
+        "published": "2026-09-16T20:45:19Z",
+        "image": "https://i.guim.co.uk/img/media/d6990d1eb43ce0b6f96c97d515aeb41f18fc24f6/312_0_3993_3195/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=5a65762b59054622d77c997f4d733915",
+        "source": "The Guardian",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
-        "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
-        "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
-        "published": "2026-09-16T19:49:20Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4117/live/d03a0410-b1eb-11f1-a430-4d16ee157c41.jpg",
-        "source": "BBC News",
+        "title": "Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88",
+        "link": "https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html",
+        "summary": "With work that breathed the spirit of the 1960s, he became fabulously wealthy from licensing his paintings and posters in all their euphoric Day-Glo glory.",
+        "published": "2026-09-16T22:15:32Z",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16obit-Max-cfpl/16obit-Max-cfpl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "Culture"
       },
       {
         "title": "Emergency Hearing Sought Over Kennedy Center Closure",
         "link": "https://www.nytimes.com/2026/09/16/arts/music/kennedy-center-closed-safety.html",
-        "summary": "Lawyers for Representative Joyce Beatty, a Democrat who is suing the center, has asked a federal judge to consider whether the closure violates a previous court order.",
-        "published": "2026-09-16T19:41:30Z",
+        "summary": "After a Democratic lawmaker asked a judge to consider whether the move violates a previous court order, center officials clarified that the closure was intended to last seven days.",
+        "published": "2026-09-16T21:37:50Z",
         "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17cul-kennedy-center-pcjm/17cul-kennedy-center-pcjm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "Trump Administration Outlines Plan for Signs Outside Smithsonian Museum",
-        "link": "https://www.nytimes.com/2026/09/16/arts/design/trump-signs-smithsonian-history-museum.html",
-        "summary": "In a letter, the Interior Department detailed what it hoped to convey on 12 signs to be installed outside the National Museum of American History.",
-        "published": "2026-09-16T19:40:00Z",
-        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16cul-Smithsonian-Signs-qzbk/16cul-Smithsonian-Signs-qzbk-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "The Good List: 6 Things to Add Delight to Your Day",
-        "link": "https://www.nytimes.com/2026/09/16/briefing/16-the-good-list-september-migration.html",
-        "summary": "Born to party, air theremin and ‘ba-dee-ya.’",
-        "published": "2026-09-16T19:17:11Z",
+        "title": "‘S.N.L.’ Adds Grace Reiter and Saidah Belo-Osagie to Cast",
+        "link": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
+        "summary": "The upcoming season of “Saturday Night Live” will feature Saidah Belo-Osagie and Grace Reiter as new faces.",
+        "published": "2026-09-16T21:29:33Z",
         "image": null,
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "On ‘Slow Horses,’ Kristin Scott Thomas’s Diana Taverner Is in Charge at Last",
-        "link": "https://www.nytimes.com/2026/09/16/arts/television/slow-horses-season-6-kristin-scott-thomas.html",
-        "summary": "Kristin Scott Thomas gives a morally gray tinge to “Lady Di” Taverner, who takes over as head of Britain’s MI5 secret service in Season 6.",
-        "published": "2026-09-16T19:03:54Z",
+        "title": "The Face of London in the 1960s Is Living Her Best Life",
+        "link": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
+        "summary": "The face of London in the 1960s is living her best life at the age of 77.",
+        "published": "2026-09-16T21:25:29Z",
+        "image": "https://static01.nyt.com/images/2026/09/15/multimedia/ST-TWIGGY-pfzq/ST-TWIGGY-pfzq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "New York Performing Arts Library Gets $60 Million Gift for Preservation",
+        "link": "https://www.nytimes.com/2026/09/16/arts/design/nypl-donation-performing-arts-library.html",
+        "summary": "The anonymous donation, the library’s largest ever, will support digitization of archival items related to theater, dance and music.",
+        "published": "2026-09-16T21:00:07Z",
         "image": null,
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "John Malkovich and Sam Rockwell on ‘Wild Horse Nine’",
-        "link": "https://www.nytimes.com/2026/09/16/movies/john-malkovich-sam-rockwell-wild-horse-nine.html",
-        "summary": "The longtime friends talk about sinister characters and the politics that underpin the C.I.A. story at the heart of their new darkly comic drama, “Wild Horse Nine.”",
-        "published": "2026-09-16T18:44:10Z",
-        "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20CUL-NEW-MALKOVICH-ROCKWELL-mqkj/20CUL-NEW-MALKOVICH-ROCKWELL-mqkj-mediumSquareAt3X.jpg",
+        "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+        "link": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+        "summary": "Now you have no excuse for not knowing the meaning of “cuffing season,” “shishito” or “glow-up.”",
+        "published": "2026-09-16T20:54:17Z",
+        "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16xp-dictionary-qvgt/16xp-dictionary-qvgt-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "Ex-BBC presenter questions role of Royal Family in new documentary",
-        "link": "https://www.bbc.co.uk/news/articles/cj207ddzy6ewo?at_medium=RSS&at_campaign=rss",
-        "summary": "John Humphrys, who presented Today and the Nine O'Clock News, heads a new Channel 4 documentary on the topic.",
-        "published": "2026-09-16T17:57:15Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ee/live/27a68920-b1f7-11f1-bd8b-ed45be4f6895.jpg",
-        "source": "BBC News",
+        "title": "The Midcareer Artist Camille Henrot Is Apparently Tireless",
+        "link": "https://www.nytimes.com/2026/09/15/arts/design/camille-henrot-polyglot-of-arts-and-letters-in-the-triple-spotlight.html",
+        "summary": "The French artist makes you feel like a reveler in her epiphanies, from slapstick commedia dell’arte to dog sculptures in Central Park. At midcareer she is apparently tireless.",
+        "published": "2026-09-16T20:34:01Z",
+        "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20CUL-NEW-CAMILLE-wtcl/20CUL-NEW-CAMILLE-wtcl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "Culture"
       },
       {
         "title": "Annie Dillard, Meditative Author of ‘Pilgrim at Tinker Creek,’ Dies at 81",
         "link": "https://www.nytimes.com/2026/09/16/books/annie-dillard-dead.html",
         "summary": "Her Thoreau-like account of journeys in the woods, published when she was 28, was the first of many ruminations on life and nature, good and evil.",
-        "published": "2026-09-16T17:51:08Z",
+        "published": "2026-09-16T20:33:25Z",
         "image": null,
         "source": "The New York Times",
         "section": "Culture"
