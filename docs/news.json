@@ -1,211 +1,247 @@
 {
-  "generated": "2026-09-19T20:38:18Z",
+  "generated": "2026-09-19T23:02:36Z",
   "lead": {
-    "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
-    "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease.",
-    "published": "2026-09-19T20:35:27Z",
-    "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-greenland-trump-01-hbvg/19int-greenland-trump-01-hbvg-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+    "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+    "published": "2026-09-19T23:00:27Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
+    "source": "BBC News",
     "section": "World"
   },
   "top": [
     {
+      "title": "News live: Taylor pledges ‘one of the biggest immigration cuts in Australian history’; tributes for Victorian Greens MP Tim Read",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb",
+      "summary": "Follow live updates Get our breaking news email , free app or daily news podcast The Victorian premier, Ben Carroll, said in a statement Read was a man of principle and compassion who had dedicated his life to being “a voice for Brunswick”. I always valued his intelligent and humane contributions to the public debate. I always respected his convictions and his determination to make life better for others. He knew his values. He lived them. Tim was a man of conviction and a thoroughly decent person. He brought sincerity, compassion and a strong sense of public duty to his work, earning respect across the Parliament. His commitment to integrity in public life was unwavering. He could always see the moral question at the heart of every political issue. It’s why he was so outspoken when it came to supporting the cause of the Palestinian people and why he continued to remind us all about how much coal was being burned in Victoria each day. He never lost perspective about what was truly important … Vale our brilliant friend. We will miss you. Continue reading...",
+      "published": "2026-09-19T22:54:34Z",
+      "image": "https://i.guim.co.uk/img/media/f5b87d87ae2a6fc24aa1aceafc4d812c71f6a18f/1376_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=fa5a02fa2f2578a2cacb3febfc3a79c4",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Baby born via surrogate can leave Texas for treatment in California, court rules",
+      "link": "https://www.theguardian.com/us-news/2026/sep/19/texas-california-surrogate-court",
+      "summary": "Ruling latest step in legal fight over medically fragile child born after surrogate rejected couple’s request for abortion The Texas supreme court has decided that the month-old infant that surrogate McKenna West gave birth to can be relocated to Los Angeles, a Thursday ruling that came weeks after a California court had recognized the biological parents’ custody rights. “Sustaining the life of the medically fragile child is the paramount concern in this time-sensitive matter,” the court wrote in a Thursday order, referring to the baby’s rare severe heart defect. West had attempted to block the biological parents from removing the child from Texas and taking him to a hospital in Los Angeles where the couple live. Continue reading...",
+      "published": "2026-09-19T22:46:17Z",
+      "image": "https://i.guim.co.uk/img/media/eed402966507f255ca55fad2b5ab89399373c757/543_0_3650_2920/master/3650.jpg?width=140&quality=85&auto=format&fit=max&s=0c46cb9e1df387ae8dde8696acece658",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Brown maintains perfect record with brutal Hedges stoppage",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cqy8z1jdr2y1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pat Brown continues his perfect start to life as a professional with a seventh successive stoppage to hand John Hedges his first defeat in front of a raucous Manchester crowd.",
+      "published": "2026-09-19T22:41:23Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a741/live/708e86a0-b478-11f1-a1f5-e10ab8971fa0.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c8r4v5y9w1gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Arsenal steal a last gasp leveller through Smilla Holmberg, denying Eva Olid her first win as Manchester United manager in her third game in charge.",
+      "published": "2026-09-19T22:40:53Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/e60c97b0-b459-11f1-a430-4d16ee157c41.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
+      "title": "The Most Handsome Melon in Mexico? Yes, It’s a Real Contest.",
+      "link": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
+      "summary": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons.",
+      "published": "2026-09-19T22:36:31Z",
+      "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-mexico-melon-06-vhgw-promo/19int-mexico-melon-06-vhgw-promo-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
+    },
+    {
+      "title": "Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley",
+      "link": "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley",
+      "summary": "The Arizona State Sun Devils cantered to victory in the first ever Union Jack Classic in front of a noisy crowd – despite thousands of empty seats You sensed that Britain’s first US college football game in nearly 40 years was going to be a very different experience when Wembley Way began to reverberate to the sound of steel, muscle and a few whoops long before kick-off. The noise came from the Arizona State Sun Devils’ marching band, who were so energetic their horns and trombones swished from left to right like air raid lights hunting a target as they played. Continue reading...",
+      "published": "2026-09-19T22:36:15Z",
+      "image": "https://i.guim.co.uk/img/media/3f713a7edf5d7b8917bc60c6e605f711a94032e4/300_0_3938_3152/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=9c5fa792de0d2e9fd031a928e42d9fd0",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Footballers and fans pay tribute to Noah Woods after toddler’s death in Suffolk",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/19/footballers-fans-noah-woods-suffolk-toddler-death-ipswich-town-everton",
+      "summary": "Players in Everton v Ipswich Town match wear black armbands as supporters join in minute’s applause Players wore black armbands during Everton’s home match against Ipswich Town on Saturday, as part of a tribute to three-year-old Noah Woods, whose body was found after he went missing in Suffolk this week. A photograph of the boy was shown on the big screen before the Premier League game in Liverpool, and three minutes after kick-off both sets of supporters stood to applaud in memory of Noah . Continue reading...",
+      "published": "2026-09-19T22:13:46Z",
+      "image": "https://i.guim.co.uk/img/media/519de39105425373a6403647ecc24c0a4e0ea577/708_63_3294_2636/master/3294.jpg?width=140&quality=85&auto=format&fit=max&s=afbaf8d365d4af463fc2930a95e142b8",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "Trump vows to create an ‘AI Force’ and nods to justice system after rejecting calls to slow down industry. ‘Rather, we will cherish it’",
+      "link": "https://fortune.com/2026/09/19/trump-ai-force-czar-law-enforcement-role-slowdown-development/",
+      "summary": "\"We will not in any way hinder or stifle the Growth of this incredible Industry,\" Trump posted on Truth Social.",
+      "published": "2026-09-19T22:13:20Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295317313-e1789852938799.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
+    },
+    {
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+      "published": "2026-09-19T22:03:05Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
+      "published": "2026-09-19T21:59:01Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b874/live/5423d830-b473-11f1-a430-4d16ee157c41.jpg",
+      "source": "BBC Sport",
+      "section": "Sports"
+    },
+    {
       "title": "With ‘Barely Breathing’, Duncan Sheik Became an Accidental Pop Star",
       "link": "https://www.nytimes.com/2026/09/19/arts/music/duncan-sheik-barely-breathing.html",
       "summary": "Sheik’s song “Barely Breathing” spent 55 weeks on the Billboard Hot 100 chart in the late 1990s. But the success only propelled him closer to Broadway.",
-      "published": "2026-09-19T20:18:14Z",
+      "published": "2026-09-19T21:48:55Z",
       "image": "https://static01.nyt.com/images/2026/09/19/arts/19cul-sheik-moment-1/19cul-sheik-moment-1-mediumSquareAt3X.jpg",
       "source": "The New York Times",
       "section": "Culture"
     },
     {
-      "title": "Group With Al Qaeda Links Claims Responsibility for Attack in Pakistan",
-      "link": "https://www.nytimes.com/2026/09/19/world/asia/pakistan-mosque-attack-bahadur.html",
-      "summary": "The attack on a mosque inside a police compound, killing at least two dozen people, is the latest example of the worsening violence near the Afghan border.",
-      "published": "2026-09-19T20:16:22Z",
-      "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-pakistan-mosque-htjb/19int-pakistan-mosque-htjb-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "World"
-    },
-    {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-      "published": "2026-09-19T20:16:07Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
-      "source": "BBC News",
-      "section": "World"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
-      "link": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-avoid-owning-nike-stock-despite-massive-pullback-4908119",
-      "summary": "",
-      "published": "2026-09-19T20:10:04Z",
-      "image": "https://content-media.investing.com/news/Nike_800x533_L_1601892889.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
-      "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
-      "summary": "The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.",
-      "published": "2026-09-19T20:09:58Z",
-      "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19biz-white-house-topart-qlbp/19biz-white-house-topart-qlbp-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
-    },
-    {
-      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
-      "published": "2026-09-19T20:03:23Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "As tobacconist firebombings intensify in Melbourne, nearby stores are being denied insurance",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/20/tobacco-shops-attacks-melbourne-ntwnfb",
-      "summary": "Arson attacks related to illegal tobacco trade are also causing revenue and reputation problems for neighbouring businesses Get our breaking news email , free app or daily news podcast Small businesses located near tobacconists are being denied insurance or priced out of coverage as rising arson attacks turn neighbouring shops into collateral damage. The problem has intensified after a spate of firebombings, which includes a recent Melbourne blaze that destroyed a Richmond tobacco retailer and nearly a dozen neighbouring shops, requiring 80 firefighters to contain. Continue reading...",
-      "published": "2026-09-19T20:00:57Z",
-      "image": "https://i.guim.co.uk/img/media/a289589fb3b26a9d70097606a90a2d0f0466ebad/0_0_6006_4805/master/6006.jpg?width=140&quality=85&auto=format&fit=max&s=f60f38d6486fcac12c4e1327d75f499f",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "published": "2026-09-19T19:57:47Z",
-      "image": null,
-      "source": "TechCrunch",
-      "section": "Technology"
-    },
-    {
-      "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-      "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
-      "summary": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the technology, though he gave almost no details about either plan. As global fears over AI have grown, especially in the past week in the face of multiple industry figures sounding the alarm about its dangers, the president has been critical of calls to slow down development of the fast-moving industry. Continue reading...",
-      "published": "2026-09-19T19:57:17Z",
-      "image": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Canadians warm to EU ‘associate membership’ proposal",
-      "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-      "summary": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
-      "published": "2026-09-19T19:53:55Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Belmont Park is back: inside New York’s $555m bet on horse racing",
-      "link": "https://www.theguardian.com/sport/2026/sep/19/belmont-park-reopening-horse-racing-new-york",
-      "summary": "The storied Long Island racetrack, rebuilt with a $455m state loan, is smaller, sleeker and designed for a changing audience. Can it create the public needed to sustain it? Henry Miller stood on the trackside apron of the new Belmont Park on Friday trying to decide what he thought of the place. “It has to grow on me,” said Miller, a 59-year-old retired sanitation worker from Brooklyn’s Bedford-Stuyvesant neighborhood who has been coming to New York racetracks for 47 years. “For me, it’s too much concrete. I don’t think it’s as friendly as the old Belmont.” Continue reading...",
-      "published": "2026-09-19T19:50:19Z",
-      "image": "https://i.guim.co.uk/img/media/c98cc1128e46ee571b5fd3d530395ce6f960fe88/875_355_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=0e0cc59e5f294c4403da465faf5c92df",
-      "source": "The Guardian",
-      "section": "Sports"
-    },
-    {
-      "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-      "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
-      "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
-      "published": "2026-09-19T19:50:10Z",
-      "image": null,
-      "source": "Al Jazeera",
-      "section": "World"
-    },
-    {
-      "title": "Moyes demands more from Everton - but don't mention Europe",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
-      "published": "2026-09-19T19:48:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/6f6fddc0-b458-11f1-ba76-4da528bd99e6.jpg",
+      "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+      "published": "2026-09-19T21:39:38Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6733/live/1337c710-b472-11f1-bc1f-3f186ca4140c.png",
       "source": "BBC Sport",
       "section": "Sports"
+    },
+    {
+      "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+      "link": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+      "summary": "In 2016 Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
+      "published": "2026-09-19T21:38:40Z",
+      "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-israel-pardon-top/Azaria-tlhw-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-        "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-        "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
-        "published": "2026-09-19T20:03:23Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "As tobacconist firebombings intensify in Melbourne, nearby stores are being denied insurance",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/20/tobacco-shops-attacks-melbourne-ntwnfb",
-        "summary": "Arson attacks related to illegal tobacco trade are also causing revenue and reputation problems for neighbouring businesses Get our breaking news email , free app or daily news podcast Small businesses located near tobacconists are being denied insurance or priced out of coverage as rising arson attacks turn neighbouring shops into collateral damage. The problem has intensified after a spate of firebombings, which includes a recent Melbourne blaze that destroyed a Richmond tobacco retailer and nearly a dozen neighbouring shops, requiring 80 firefighters to contain. Continue reading...",
-        "published": "2026-09-19T20:00:57Z",
-        "image": "https://i.guim.co.uk/img/media/a289589fb3b26a9d70097606a90a2d0f0466ebad/0_0_6006_4805/master/6006.jpg?width=140&quality=85&auto=format&fit=max&s=f60f38d6486fcac12c4e1327d75f499f",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
-        "link": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
-        "summary": "President had brushed away suggestions to slow down AI technology, even as his own party counseled caution Donald Trump on Saturday said he would appoint an artificial intelligence czar and create an “AI Force” to help monitor the technology, though he gave almost no details about either plan. As global fears over AI have grown, especially in the past week in the face of multiple industry figures sounding the alarm about its dangers, the president has been critical of calls to slow down development of the fast-moving industry. Continue reading...",
-        "published": "2026-09-19T19:57:17Z",
-        "image": "https://i.guim.co.uk/img/media/16036f1089514535d801d2d2f452cc57da7d985c/0_0_1353_1082/master/1353.jpg?width=140&quality=85&auto=format&fit=max&s=af31914fd31b473855086f5599de2828",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Canadians warm to EU ‘associate membership’ proposal",
-        "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-        "summary": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
-        "published": "2026-09-19T19:53:55Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Trump says he will create ‘AI Force’ with new ‘AI czar’",
-        "link": "https://www.aljazeera.com/news/2026/9/19/trump-says-he-will-create-ai-force-with-new-ai-czar?traffic_source=rss",
-        "summary": "The announcements come as AI faces mounting concerns from populations across the United States.",
-        "published": "2026-09-19T19:50:10Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Dutch riot police break up violent far-right protest in The Hague",
-        "link": "https://www.theguardian.com/world/2026/sep/19/far-right-protest-hague-violence-riot-police-malieveld",
-        "summary": "Authorities ban anti-immigration march after fireworks and other projectiles thrown at officers in city centre park Dutch riot police dispersed several hundred far-right protesters in The Hague on Saturday after violence erupted and local authorities banned a planned march in the city against immigration and asylum policies. The Dutch public broadcaster NOS reported that 24 people had been arrested, after some protesters threw fireworks and other projectiles at police. Continue reading...",
-        "published": "2026-09-19T19:43:14Z",
-        "image": "https://i.guim.co.uk/img/media/f2dff6f23fafc35ca4173d34e4e52c5fbef8b30a/2374_1135_3600_2879/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=6d49773d5d48e2133a058334e4954227",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "In Significant Escalation, Houthis Claim Attacks on Saudi Capital",
-        "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-        "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, where residents reported explosions, and on Saudi oil facilities. Saudi Arabia has not commented on the claims.",
-        "published": "2026-09-19T19:20:17Z",
-        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-saudi-explosions-wktl/19int-saudi-explosions-wktl-mediumSquareAt3X.jpg",
+        "title": "The Most Handsome Melon in Mexico? Yes, It’s a Real Contest.",
+        "link": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
+        "summary": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons.",
+        "published": "2026-09-19T22:36:31Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-mexico-melon-06-vhgw-promo/19int-mexico-melon-06-vhgw-promo-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
       },
       {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-        "published": "2026-09-19T19:13:49Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
+        "title": "Footballers and fans pay tribute to Noah Woods after toddler’s death in Suffolk",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/19/footballers-fans-noah-woods-suffolk-toddler-death-ipswich-town-everton",
+        "summary": "Players in Everton v Ipswich Town match wear black armbands as supporters join in minute’s applause Players wore black armbands during Everton’s home match against Ipswich Town on Saturday, as part of a tribute to three-year-old Noah Woods, whose body was found after he went missing in Suffolk this week. A photograph of the boy was shown on the big screen before the Premier League game in Liverpool, and three minutes after kick-off both sets of supporters stood to applaud in memory of Noah . Continue reading...",
+        "published": "2026-09-19T22:13:46Z",
+        "image": "https://i.guim.co.uk/img/media/519de39105425373a6403647ecc24c0a4e0ea577/708_63_3294_2636/master/3294.jpg?width=140&quality=85&auto=format&fit=max&s=afbaf8d365d4af463fc2930a95e142b8",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+        "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+        "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+        "published": "2026-09-19T22:03:05Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+        "link": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+        "summary": "In 2016 Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
+        "published": "2026-09-19T21:38:40Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-israel-pardon-top/Azaria-tlhw-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Ed Davey takes aim at Reform and Elon Musk as Lib Dem conference begins",
+        "link": "https://www.theguardian.com/politics/2026/sep/19/ed-davey-takes-aim-at-reform-and-elon-musk-as-lib-dem-conference-begins",
+        "summary": "Leader says party ‘won’t give up the fight’ to defeat ‘nasty populism’ in first-day speech to delegates in Brighton The Liberal Democrats’ leader, Sir Ed Davey, took aim at Nigel Farage and Elon Musk on the first day of his party’s annual conference, saying Lib Dems would not give up the fight to defeat “nasty populism” and Reform UK’s “£72m arsenal of hate and lies”. On stage at Brighton Centre, Davey called on the assembled delegates not to be deterred in the face of Reform’s hope “that the anger and the hatred and the lies will grind us down until eventually we just give up”. Continue reading...",
+        "published": "2026-09-19T21:37:52Z",
+        "image": "https://i.guim.co.uk/img/media/07fc1b3da38b5202a4425e8f19f73c6930afe9a2/26_0_2809_2248/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=421000a29e89d8111d8d0228d8d7e469",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+        "published": "2026-09-19T21:01:56Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
         "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+        "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+        "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
+        "published": "2026-09-19T20:47:20Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "In Significant Escalation, Houthis Attack Saudi Capital",
+        "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+        "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
+        "published": "2026-09-19T20:43:46Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-saudi-explosions-wktl/19int-saudi-explosions-wktl-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "Trump vows to create an ‘AI Force’ and nods to justice system after rejecting calls to slow down industry. ‘Rather, we will cherish it’",
+        "link": "https://fortune.com/2026/09/19/trump-ai-force-czar-law-enforcement-role-slowdown-development/",
+        "summary": "\"We will not in any way hinder or stifle the Growth of this incredible Industry,\" Trump posted on Truth Social.",
+        "published": "2026-09-19T22:13:20Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295317313-e1789852938799.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Arbitrator says Uber was ‘vicariously liable’ for a driver’s negligence in a fatal accident, rejecting argument that the company is a tech platform",
+        "link": "https://fortune.com/2026/09/19/arbitrator-uber-vicariously-liable-driver-negligence-fatal-accident/",
+        "summary": "The parents of a 23-year-old woman who was fatally struck after her Uber driver pulled over along a southern California highway were awarded $40 million.",
+        "published": "2026-09-19T21:05:05Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26261795737103.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Nobel laureate says Iran’s repression of society has increased since the war began, but ‘a wave of resistance among the people’ is rising up",
+        "link": "https://fortune.com/2026/09/19/nobel-laureate-narges-mohammadi-iran-repression-us-war-resistance/",
+        "summary": "Narges Mohammadi, 54, who was awarded the Nobel Peace Prize in 2023, was temporarily released from prison for medical reasons earlier this year.",
+        "published": "2026-09-19T20:51:06Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26262455449680-e1789850421627.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Lawsuit claims Anthropic, OpenAI, SpaceXAI and Google violated antitrust laws when they coordinated AI slowdown, reducing value of subscriptions",
+        "link": "https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/",
+        "summary": "The plaintiffs in the lawsuit contend they are not against the AI companies asking Congress, the White House or any other agency to develop AI regulation.",
+        "published": "2026-09-19T20:34:32Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26262593036783-e1789849457140.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "CNN, MS NOW and Politico Barred From White House After Trump’s Ban",
         "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
@@ -213,6 +249,15 @@
         "published": "2026-09-19T20:09:58Z",
         "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19biz-white-house-topart-qlbp/19biz-white-house-topart-qlbp-mediumSquareAt3X.jpg",
         "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
+        "link": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
+        "summary": "After a week of alarming warnings about artificial intelligence’s potential to destroy the world as we know it, our technology reporters Aisha Down , Blake Montgomery and Dan Milmo answer your questions on the reality of the AI threat In realistic terms how would artificial intelligence actually kill me? What is the main proxy threat? Nuclear war, death due to breakdown of society, a virus? I hear all these reports it could kill us but still unsure how that could practically happen? To be honest all sounds too wooly to really take seriously. Pottys99 Aisha: For what it’s worth, it seems unlikely that AI at this point can significantly change the equation around bioweapons or viruses … What has prevented bioweapon attacks through the past decades is not the difficulty of inventing new deadly viruses, but other, more prosaic issues. Consider the failure of Aum Shinrikyo to kill vast numbers of people with botulism and anthrax by spraying these around central Tokyo. There are a lot of logistical challenges, and chemical weapons seem more straightforward. Those exist without AI needing to invent new ones. Continue reading...",
+        "published": "2026-09-19T20:00:58Z",
+        "image": "https://i.guim.co.uk/img/media/45cdb6f3028083230359386d33a5e3eb46f57e94/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d520a0f65bc404fbe0dfac4a3716e772",
+        "source": "The Guardian",
         "section": "Business"
       },
       {
@@ -232,54 +277,45 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295424378-e1789842889208.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
-      },
-      {
-        "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
-        "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
-        "summary": "India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets.",
-        "published": "2026-09-19T18:58:53Z",
-        "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18Biz-India-Oil-Tariffs-01-fkbh/18Biz-India-Oil-Tariffs-01-fkbh-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Before getting dropped by Ed Sheeran, Macklemore had long supported Palestinians, and his latest gift catalyzed YouTube star Ms. Rachel to donate",
-        "link": "https://fortune.com/2026/09/19/ed-sheeran-tour-robert-kraft-macklemore-palestinians-israel-gaza/",
-        "summary": "Macklemore committed to donate his net earnings from Ed Sheeran's Loop Tour after he was dropped for making pro-Palestinian comments onstage at New Jersey's MetLife Stadium.",
-        "published": "2026-09-19T18:19:20Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26261805978425-e1789841338253.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "California’s billionaire tax will ‘kickstart a movement’ that spreads to more states, the federal government and other countries, Nobel laureates say",
-        "link": "https://fortune.com/2026/09/19/california-billionaire-wealth-tax-prop-40-movement-more-states-federal-government-other-countries/",
-        "summary": "\"The explosive growth of the state’s billionaires over the past few decades has made it one of the most unequal places in America.\"",
-        "published": "2026-09-19T17:57:58Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2242238651-e1789834007895.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "UK politics increasingly funded by billionaires as mega-donations surge",
-        "link": "https://www.theguardian.com/politics/2026/sep/19/uk-politics-increasingly-funded-by-billionaires-as-mega-donations-surge",
-        "summary": "Exclusive: A total £179m has been donated by wealthy individuals since 2019, research reveals British politics is increasingly being funded by individual billionaires with a wave of mega-donations having flooded into UK political parties over the past two parliaments. A total of £179m has been donated by wealthy individuals since 2019, research reveals. Continue reading...",
-        "published": "2026-09-19T16:00:50Z",
-        "image": "https://i.guim.co.uk/img/media/0ae9acca05bc0e953a0d580865b46ff4fe949d6a/554_0_4069_3255/master/4069.jpg?width=140&quality=85&auto=format&fit=max&s=9aaabcd4c791a0238300c76604586bc4",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Amodei, Anthropic’s Leader, Exposed A.I.’s Dangers. It’s Time to Act.",
-        "link": "https://www.nytimes.com/2026/09/18/business/ai-risk-silicon-valley-regulations.html",
-        "summary": "The Times columnist Kevin Roose sees reasons for optimism — and worry — as the world wakes up to what Silicon Valley has been talking about for years.",
-        "published": "2026-09-19T15:50:55Z",
-        "image": "https://static01.nyt.com/images/2026/09/17/business/00roose-future/00roose-future-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
       }
     ],
     "Markets": [
+      {
+        "title": "AI safety efforts will require more compute, not less: experts",
+        "link": "https://www.investing.com/news/stock-market-news/ai-safety-efforts-will-require-more-compute-not-less-experts-4908122",
+        "summary": "",
+        "published": "2026-09-19T21:29:18Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+        "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4908121",
+        "summary": "",
+        "published": "2026-09-19T21:20:03Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEA7S070_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+        "link": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main",
+        "summary": "The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel.",
+        "published": "2026-09-19T20:53:00Z",
+        "image": "https://images.wsj.net/im-64365735",
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "Will worries about AI Doom end the AI Boom? BCA answers",
+        "link": "https://www.investing.com/news/stock-market-news/will-worries-about-ai-doom-end-the-ai-boom-bca-answers-4908120",
+        "summary": "",
+        "published": "2026-09-19T20:16:51Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC180BO_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
       {
         "title": "Analyst explains why you should avoid owning Nike stock despite massive pullback",
         "link": "https://www.investing.com/news/stock-market-news/analyst-explains-why-you-should-avoid-owning-nike-stock-despite-massive-pullback-4908119",
@@ -287,15 +323,6 @@
         "published": "2026-09-19T20:10:04Z",
         "image": "https://content-media.investing.com/news/Nike_800x533_L_1601892889.jpg",
         "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-        "link": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-        "summary": "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
-        "published": "2026-09-19T19:08:27Z",
-        "image": null,
-        "source": "CNBC",
         "section": "Markets"
       },
       {
@@ -324,38 +351,29 @@
         "image": "https://content-media.investing.com/news/LYNXNPEC0Q0MJ_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
-      },
-      {
-        "title": "90% of retirees are making this miscalculation with their savings",
-        "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-        "summary": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
-        "published": "2026-09-19T18:40:00Z",
-        "image": "https://images.mktw.net/im-08685542",
-        "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "US Treasury’s Bessent, China’s He to meet on Sunday at JPMorgan headquarters",
-        "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
-        "summary": "",
-        "published": "2026-09-19T18:36:35Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8I0FR_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Many young investors can’t afford to invest without their parents’ help",
-        "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-        "summary": "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
-        "published": "2026-09-19T18:22:00Z",
-        "image": "https://images.mktw.net/im-96227400",
-        "source": "MarketWatch",
-        "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+        "published": "2026-09-19T20:44:40Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "published": "2026-09-19T20:39:13Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
         "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
         "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
         "published": "2026-09-19T19:57:47Z",
@@ -406,24 +424,6 @@
         "published": "2026-09-19T15:00:00Z",
         "image": null,
         "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "AI safety conversations have gotten unbelievable",
-        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-        "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-        "published": "2026-09-19T15:00:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-        "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-        "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into […]",
-        "published": "2026-09-19T15:00:00Z",
-        "image": null,
-        "source": "The Verge",
         "section": "Technology"
       }
     ],
@@ -503,38 +503,65 @@
     ],
     "Sports": [
       {
-        "title": "Belmont Park is back: inside New York’s $555m bet on horse racing",
-        "link": "https://www.theguardian.com/sport/2026/sep/19/belmont-park-reopening-horse-racing-new-york",
-        "summary": "The storied Long Island racetrack, rebuilt with a $455m state loan, is smaller, sleeker and designed for a changing audience. Can it create the public needed to sustain it? Henry Miller stood on the trackside apron of the new Belmont Park on Friday trying to decide what he thought of the place. “It has to grow on me,” said Miller, a 59-year-old retired sanitation worker from Brooklyn’s Bedford-Stuyvesant neighborhood who has been coming to New York racetracks for 47 years. “For me, it’s too much concrete. I don’t think it’s as friendly as the old Belmont.” Continue reading...",
-        "published": "2026-09-19T19:50:19Z",
-        "image": "https://i.guim.co.uk/img/media/c98cc1128e46ee571b5fd3d530395ce6f960fe88/875_355_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=0e0cc59e5f294c4403da465faf5c92df",
+        "title": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c8r4v5y9w1gyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Arsenal steal a last gasp leveller through Smilla Holmberg, denying Eva Olid her first win as Manchester United manager in her third game in charge.",
+        "published": "2026-09-19T22:40:53Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/e60c97b0-b459-11f1-a430-4d16ee157c41.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Union Jack Classic fails to spark on the pitch but electric atmosphere fires up Wembley",
+        "link": "https://www.theguardian.com/sport/2026/sep/19/union-jack-classic-fails-to-spark-on-the-pitch-but-electric-atmosphere-fires-up-wembley",
+        "summary": "The Arizona State Sun Devils cantered to victory in the first ever Union Jack Classic in front of a noisy crowd – despite thousands of empty seats You sensed that Britain’s first US college football game in nearly 40 years was going to be a very different experience when Wembley Way began to reverberate to the sound of steel, muscle and a few whoops long before kick-off. The noise came from the Arizona State Sun Devils’ marching band, who were so energetic their horns and trombones swished from left to right like air raid lights hunting a target as they played. Continue reading...",
+        "published": "2026-09-19T22:36:15Z",
+        "image": "https://i.guim.co.uk/img/media/3f713a7edf5d7b8917bc60c6e605f711a94032e4/300_0_3938_3152/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=9c5fa792de0d2e9fd031a928e42d9fd0",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Moyes demands more from Everton - but don't mention Europe",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Fifth in the Premier League table and yet to lose this season, Everton are on the up, but boss David Moyes wants further improvements - and don't mention Europe.",
-        "published": "2026-09-19T19:48:28Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/6f6fddc0-b458-11f1-ba76-4da528bd99e6.jpg",
+        "title": "'Brave' Brighton put in 'complete' performance to beat Arsenal - Murphy",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cqe8xjjw8ed8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Match of the Day pundit Danny Murphy praises Brighton's \"incredible\" performance in their 3-0 win over Arsenal, predicting they will cause problems for Premier League teams this season.",
+        "published": "2026-09-19T21:59:01Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b874/live/5423d830-b473-11f1-a430-4d16ee157c41.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Ashton hat-trick helps Warrington end Hull KR reign",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cqlym31j9z2yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Matty Ashton scores a hat-trick as Warrington Wolves beat Hull Kingston Rovers in the Super League play-off eliminators.",
-        "published": "2026-09-19T19:43:35Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d12/live/e0079850-b455-11f1-ba76-4da528bd99e6.jpg",
+        "title": "Arsenal may move for Endrick in January - Sunday's gossip",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq1j478n0ll7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Barcelona may launch a huge offer for Haaland, Arsenal are interested in struggling Endrick, and Liverpool insist on keeping Wirtz",
+        "published": "2026-09-19T21:39:38Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6733/live/1337c710-b472-11f1-bc1f-3f186ca4140c.png",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Coventry need to 'keep feet on the ground' after 'landmark' win - Lampard",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c6kgw17vqk98o?at_medium=RSS&at_campaign=rss",
-        "summary": "Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the Premier League.",
-        "published": "2026-09-19T19:24:35Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e8/live/79b35f40-b45e-11f1-a430-4d16ee157c41.jpg",
+        "title": "Gvardiol signals return to best at left-back for Man City",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35jrqyd7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Josko Gvardiol's season last time out was disrupted by a serious injury but the defender now appears to be returning towards his best by helping Manchester City to an impressive start to the new campaign.",
+        "published": "2026-09-19T21:31:17Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/dff9d400-b355-11f1-b949-71f91f81d1ab.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Carrick has faith in VAR despite derby error",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder that cost his side in their home defeat by Manchester City",
+        "published": "2026-09-19T21:30:56Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa39/live/bfe16820-b406-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Littler seals dramatic final-leg win over Aspinall",
+        "link": "https://www.bbc.co.uk/sport/darts/articles/cqy7z1vr8ey5o?at_medium=RSS&at_campaign=rss",
+        "summary": "World champion Luke Littler beats Nathan Aspinall 10-9 to reach the last eight of the World Series of Darts Finals in Amsterdam.",
+        "published": "2026-09-19T21:27:29Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bed/live/04efe210-b471-11f1-b1d1-571ed4d7ff2c.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
@@ -542,40 +569,31 @@
         "title": "European football: Martínez double gives Inter comeback draw at Roma",
         "link": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona",
         "summary": "Roma lead 2-0 after Manu Koné’s first-half double Strasbourg fans abuse Rosenior; Salah hits hat-trick Lautaro Martínez rode to Inter ’s rescue as the Serie A champions fought back from 2-0 down to force a 2-2 draw at Roma , in a meeting of what had been the last two sides with 100% records. Manu Koné’s double had given Roma a 2-0 lead at half-time but for the second time in a week Cristian Chivu’s side, inspired by Martínez, showed mettle as the champions fought back from such a deficit. Continue reading...",
-        "published": "2026-09-19T19:24:33Z",
+        "published": "2026-09-19T21:12:00Z",
         "image": "https://i.guim.co.uk/img/media/16232c007da72d3d11bdd8cded7031eed6b4d3ec/249_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=639462edd1911163772a7b7cd690526b",
         "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Celtic win 'changes game' - but can they reverse Rangers' derby dominance?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c607l0xdm8xro?at_medium=RSS&at_campaign=rss",
-        "summary": "Former Celtic captain Scott Brown believes a win for the Scottish champions against Rangers on Sunday \"changes the game\" after a turbulent week for Martin O'Neill's side.",
-        "published": "2026-09-19T19:19:06Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8156/live/fe89adb0-b45d-11f1-b213-1db858c3e27c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Britain beat Germany to win World Championship bronze",
-        "link": "https://www.bbc.co.uk/sport/basketball/articles/cm9dw4v67v29o?at_medium=RSS&at_campaign=rss",
-        "summary": "Great Britain men's team win bronze at the Wheelchair Basketball World Championships by defeating Germany, but GB women lose out in third-place play-off.",
-        "published": "2026-09-19T19:17:38Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f8/live/c8b39f60-b459-11f1-ba76-4da528bd99e6.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Coventry win first points of season in dramatic win over Forest",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
-        "published": "2026-09-19T19:14:53Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e8/live/5f203320-b45d-11f1-a430-4d16ee157c41.jpg",
-        "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "With ‘Barely Breathing’, Duncan Sheik Became an Accidental Pop Star",
+        "link": "https://www.nytimes.com/2026/09/19/arts/music/duncan-sheik-barely-breathing.html",
+        "summary": "Sheik’s song “Barely Breathing” spent 55 weeks on the Billboard Hot 100 chart in the late 1990s. But the success only propelled him closer to Broadway.",
+        "published": "2026-09-19T21:48:55Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/arts/19cul-sheik-moment-1/19cul-sheik-moment-1-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Matthew Rhys' sister 'so proud of him' after historic Emmy wins",
+        "link": "https://www.bbc.co.uk/news/articles/c61wx47n0408o?at_medium=RSS&at_campaign=rss",
+        "summary": "Rhys, from Cardiff, became the first person to win two lead acting Emmy prizes in one night.",
+        "published": "2026-09-19T20:34:46Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be1/live/91eccaa0-b464-11f1-a184-cb4c2456e9a6.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
       {
         "title": "At the Toronto International Film Festival, an Abundant but Mixed Bag",
         "link": "https://www.nytimes.com/2026/09/18/movies/jesse-eisenberg-toronto-international-film-festival.html",
@@ -628,24 +646,6 @@
         "published": "2026-09-19T13:29:32Z",
         "image": "https://i.guim.co.uk/img/media/bebe8a806c1318c6d04983b7350a578833bba093/153_0_3894_3116/master/3894.jpg?width=140&quality=85&auto=format&fit=max&s=0403b61235f8113eee35ebdd61873ff7",
         "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "New Bid to Claim Cranach Paintings Held by Norton Simon Museum",
-        "link": "https://www.nytimes.com/2026/09/19/arts/design/jacques-goudstikker-art-collection-museum-dispute.html",
-        "summary": "Courts have upheld the museum’s title to the paintings once looted by the Nazis, but a lawsuit seeks to press forward with the claim under a new California law.",
-        "published": "2026-09-19T13:00:07Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "10 Songs We’re Talking About",
-        "link": "https://www.nytimes.com/2026/09/19/arts/music/playlist-riley-green-kate-nash-ca7riel-paco-amoroso.html",
-        "summary": "Riley Green measures milestones, Grand Theft Audio VI flaunts collaboration, Kate Nash chooses to shout and more.",
-        "published": "2026-09-19T09:03:20Z",
-        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19cul-songs-riley-lqcv/19cul-songs-riley-lqcv-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
         "section": "Culture"
       }
     ]
