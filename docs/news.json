@@ -1,211 +1,238 @@
 {
-  "generated": "2026-09-18T21:40:32Z",
+  "generated": "2026-09-19T00:19:53Z",
   "lead": {
-    "title": "Trump says he is banning CNN and Politico from White House",
-    "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-    "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-    "published": "2026-09-18T21:34:51Z",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c10/live/9d352f80-b39a-11f1-bf60-ad6e22c4842e.jpg",
-    "source": "BBC News",
+    "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live",
+    "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+    "summary": "Greenland’s leadership emphasized that the agreement would fall far short of Trump’s stated desire for ‘the acquisition of Greenland by the United States’ Sign up for the US Breaking News email Shapiro and Newsom aren’t the only governors making moves on AI lately. Virginia Governor Abigail Spanberger, a Democrat, announced at a news conference today plans for tighter rules on data center development in order to address transparency, energy use and environmental concerns. And Nevada’s governor, Joe Lombardo, a Republican, signed an executive order aimed at tackling similar issues. Continue reading...",
+    "published": "2026-09-19T00:04:32Z",
+    "image": "https://i.guim.co.uk/img/media/92a055969a32a2b7574d2f152ae1fc3422e7a067/0_0_1283_1026/master/1283.jpg?width=140&quality=85&auto=format&fit=max&s=959512a0c63ba67ca43dcc637d59f77d",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Opinion | The Staring Contest Over the Dollar and the Yen",
-      "link": "https://www.wsj.com/opinion/bank-of-japan-interest-rate-yen-scott-bessent-07bd6b74?mod=rss_markets_main",
-      "summary": "Or is it a circular firing squad among Bessent, Tokyo and investors?",
-      "published": "2026-09-18T21:38:00Z",
-      "image": "https://opinion-images.wsj.net/im-69637720",
+      "title": "A New Buffett Takes On the Task of Preserving Berkshire Hathaway’s Culture",
+      "link": "https://www.wsj.com/finance/a-new-buffett-takes-on-the-task-of-preserving-berkshire-hathaways-culture-bdb9cc30?mod=rss_markets_main",
+      "summary": "Howie Buffett’s appointment as chairman ushers in a new era at Berkshire, and puts the conglomerate in uncharted territory.",
+      "published": "2026-09-19T00:11:00Z",
+      "image": "https://images.wsj.net/im-94051181",
       "source": "The Wall Street Journal",
       "section": "Markets"
     },
     {
-      "title": "Wall Street Ends Volatile Week with Quiet Finish",
-      "link": "https://www.wsj.com/finance/stocks/wall-street-ends-volatile-week-with-quiet-finish-8aa4d4f2?mod=rss_markets_main",
-      "summary": "The Dow Industrials fell for a third-straight week, while the Nasdaq composite eked out a small gain.",
-      "published": "2026-09-18T21:36:00Z",
-      "image": "https://images.wsj.net/im-95067149",
-      "source": "The Wall Street Journal",
-      "section": "Markets"
+      "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+      "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+      "published": "2026-09-19T00:09:40Z",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
     },
     {
-      "title": "Trump doubles down on banning CNN, MS Now and Politico from White House and warns more outlets could follow– live",
-      "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
-      "summary": "President repeats longstanding grievances and familiar attacks on ‘fake news’ in latest effort to restrict press freedom Trump bans CNN, MS Now and Politico from the White House Sign up for the US Breaking News email Shapiro and Newsom aren’t the only governors making moves on AI lately. Virginia Governor Abigail Spanberger, a Democrat, announced at a news conference today plans for tighter rules on data center development in order to address transparency, energy use and environmental concerns. And Nevada’s governor, Joe Lombardo, a Republican, signed an executive order aimed at tackling similar issues. Continue reading...",
-      "published": "2026-09-18T21:34:49Z",
-      "image": "https://i.guim.co.uk/img/media/6350a5ed175e9ec0d1e37d224beb0f83f33ae9ce/762_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=cc59232e46272a717dcaa96440144c17",
-      "source": "The Guardian",
-      "section": "World"
+      "title": "Exclusive-Anthropic considers releasing new AI model ahead of IPO, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say-4908007",
+      "summary": "",
+      "published": "2026-09-19T00:06:27Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8I005_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     }
   ],
   "latest": [
     {
-      "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
-      "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
-      "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
-      "published": "2026-09-18T21:37:38Z",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "published": "2026-09-19T00:12:07Z",
       "image": null,
-      "source": "CNBC",
-      "section": "Markets"
+      "source": "TechCrunch",
+      "section": "Technology"
     },
     {
-      "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-      "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-      "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-      "published": "2026-09-18T21:35:55Z",
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+      "summary": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.",
+      "published": "2026-09-19T00:02:03Z",
       "image": null,
-      "source": "CNBC",
-      "section": "Markets"
+      "source": "Al Jazeera",
+      "section": "World"
     },
     {
-      "title": "Arsenal open to Dowman loan in right circumstances",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-      "summary": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-      "published": "2026-09-18T21:30:38Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.78%",
-      "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-078-4907933",
+      "title": "Morgan Stanley private credit fund redemption requests remain elevated in third quarter",
+      "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-private-credit-fund-redemptions-remain-elevated-in-third-quarter-4907950",
       "summary": "",
-      "published": "2026-09-18T21:30:03Z",
-      "image": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
+      "published": "2026-09-19T00:01:07Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1YC_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Littler survives scare to progress at World Series Finals",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.",
-      "published": "2026-09-18T21:29:55Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Honeywell wins $53.9M Navy contract for navigation parts",
-      "link": "https://www.investing.com/news/stock-market-news/honeywell-wins-539m-navy-contract-for-navigation-parts-93CH-4907932",
+      "title": "Gemini hacked three companies in first known breakout by Google’s AI",
+      "link": "https://www.investing.com/news/stock-market-news/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj-reports-4907962",
       "summary": "",
-      "published": "2026-09-18T21:28:34Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R073_M.jpg",
+      "published": "2026-09-19T00:00:53Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1Z0_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Leidos wins $85m Air Force contract for aerospace design",
-      "link": "https://www.investing.com/news/stock-market-news/leidos-wins-85m-air-force-contract-for-aerospace-design-93CH-4907931",
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+      "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+      "published": "2026-09-19T00:00:26Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+      "summary": "Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.",
+      "published": "2026-09-18T23:56:09Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Exclusive-Paramount, states discuss CNN monitoring and film release commitment, sources say",
+      "link": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
       "summary": "",
-      "published": "2026-09-18T21:27:49Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
+      "published": "2026-09-18T23:54:28Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1ZV_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Lockheed Martin wins $871 million F-35 contract modification",
-      "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-871-million-f35-contract-modification-93CH-4907930",
-      "summary": "",
-      "published": "2026-09-18T21:27:29Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEL4D0YM_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "After threatening to seize Greenland by force, Trump agrees to leave it with Denmark and boost military presence. ‘We will be very protective of it!’",
+      "link": "https://fortune.com/2026/09/18/greenland-trump-denmark-control-us-military-presence/",
+      "summary": "Parliamentary action is still needed by the Danish and Greenland governments before it can be enforced.",
+      "published": "2026-09-18T23:52:15Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26251526045694-e1789774973315.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
     },
     {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 1.05%",
-      "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-105-4907927",
-      "summary": "",
-      "published": "2026-09-18T21:25:03Z",
-      "image": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "Two Centuries On, Smithsonian Connects Jefferson’s Hair to Hemings’s Children",
+      "link": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+      "summary": "A new book describes how cutting-edge genomics techniques yielded “extraordinary proof” that Thomas Jefferson fathered children with Sally Hemings.",
+      "published": "2026-09-18T23:45:27Z",
+      "image": null,
+      "source": "The New York Times",
+      "section": "Culture"
     },
     {
-      "title": "Trump is talking with Senate’s Thune about bill to cut data-center electricity costs",
-      "link": "https://www.investing.com/news/stock-market-news/trump-is-talking-with-senatesthune-about-bill-to-cut-datacenter-electricity-costs-4907925",
-      "summary": "",
-      "published": "2026-09-18T21:24:27Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1WL_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+      "published": "2026-09-18T23:38:22Z",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-deportation-hotel-1-tzvj/00int-deportation-hotel-1-tzvj-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Louisiana woman faces charges after 17 cats found dead in extreme-heat conditions",
-        "link": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-woman-charges-cats-found-dead",
-        "summary": "Madison Rebecca Colello, 29, surrenders after 20 other cats in severe distress rescued from business in town of Walker A Louisiana woman faces dozens of animal cruelty charges after 17 cats were found dead at a local business amid dangerously hot conditions without food or water, with 20 other cats in severe distress being rescued. Madison Rebecca Colello, 29, surrendered on Thursday morning at the Livingston parish detention center in Walker, Louisiana. She faces 17 felony counts of aggravated animal cruelty – in connection with the dead cats – and 37 misdemeanor counts of animal cruelty. Continue reading...",
-        "published": "2026-09-18T21:22:42Z",
-        "image": "https://i.guim.co.uk/img/media/f5564c9442d45d3690493c3a02d9a83f1f28b34c/0_33_612_490/master/612.jpg?width=140&quality=85&auto=format&fit=max&s=42d1d849258ee2eaab23de843c234c36",
+        "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+        "link": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child?traffic_source=rss",
+        "summary": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.",
+        "published": "2026-09-19T00:02:03Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
+        "summary": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+        "published": "2026-09-19T00:00:26Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Trump says Denmark deal gives US security ‘control’ over Greenland",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/trump-says-denmark-deal-gives-us-security-control-over-greenland?traffic_source=rss",
+        "summary": "Trump says the US will gain ‘permanent control’ over security in Greenland under a deal with Denmark.",
+        "published": "2026-09-18T23:56:09Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+        "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+        "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+        "published": "2026-09-18T23:38:22Z",
+        "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-deportation-hotel-1-tzvj/00int-deportation-hotel-1-tzvj-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Uber ordered to pay $40m over death of woman ejected by driver on freeway",
+        "link": "https://www.theguardian.com/technology/2026/sep/18/uber-40m-death-woman-killed-driver-freeway",
+        "summary": "California judge finds company ‘vicariously liable’ for driver’s negligence in death of Emily Normandin-Parker Uber was ordered to pay $40m to the parents of a 23-year-old woman who was killed after a driver kicked her and a friend out of his car by the side of a California freeway, according to newly public arbitration documents. An arbitrator, retired Calfornia judge Richard A Stone, found that the ride-share company was “vicariously liable” for the driver’s negligence. Continue reading...",
+        "published": "2026-09-18T23:34:53Z",
+        "image": "https://i.guim.co.uk/img/media/1a4470a0a82491e57fdd30f4b6ba4f0cdf9de53c/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=f08fa1f53887b545e71fcb106daff9b6",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "New cat species found, first in more than 100 years",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/new-cat-species-found-first-in-more-than-100-years?traffic_source=rss",
-        "summary": "A new species of living cat has been identified for the first time in more than a century.",
-        "published": "2026-09-18T21:06:15Z",
-        "image": null,
-        "source": "Al Jazeera",
+        "title": "Tennessee woman falsely charged with bank theft in North Dakota sues for $10m in damages",
+        "link": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+        "summary": "Angela Lipps, 50, has alleged in suit that Fargo police wrongly relied on AI facial recognition to charge and arrest A Tennessee woman who was falsely charged with bank theft in North Dakota and jailed for six months has sued for $10m in damages, alleging in a federal lawsuit that Fargo police improperly relied on an artificial intelligence (AI) facial recognition system to wrongly accuse her. Angela Lipps, 50, was arrested at gunpoint by US marshals at her home in Tennessee while babysitting her neighbor’s four children in July 2025. The mother of three and grandmother of five was booked into a county jail and remained there for almost four months without bail while awaiting extradition to North Dakota, where she was held for about two more months. Continue reading...",
+        "published": "2026-09-18T23:34:48Z",
+        "image": "https://i.guim.co.uk/img/media/925c4c514dbf8fa03c1ff6c5a2515c8452a4ff3f/192_0_1461_1170/master/1461.jpg?width=140&quality=85&auto=format&fit=max&s=b933ca0a23a204eb790caf6235c28251",
+        "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
-        "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss",
-        "summary": "Germany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
-        "published": "2026-09-18T21:06:14Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "UK court clears woman of voicing support for Hamas in university speech",
-        "link": "https://www.aljazeera.com/news/2026/9/18/uk-court-clears-woman-of-voicing-support-for-hamas-in-university-speech?traffic_source=rss",
-        "summary": "Sarah Cotte said her comments were not in support of Hamas, but in support of Palestinians' right to resist.",
-        "published": "2026-09-18T20:55:57Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "‘Daughter of Damascus’ Assala performs in Syria after 15-year exile",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/daughter-of-damascus-assala-performs-in-syria-after-15-year-exile?traffic_source=rss",
-        "summary": "Thousands of people cheered as they welcomed Syrian icon Assala Nasri back at a sold-out concert in Damascus.",
-        "published": "2026-09-18T20:38:00Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
-        "link": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
-        "summary": "Former air officers, including an air force general, were arrested in a series of operations.",
-        "published": "2026-09-18T20:20:23Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
-        "published": "2026-09-18T20:17:50Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "published": "2026-09-18T23:26:48Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
-        "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
-        "summary": "The US president insists media outlets report 'fiction and lies' as he enforces new bans on White House access.",
-        "published": "2026-09-18T19:50:04Z",
-        "image": null,
-        "source": "Al Jazeera",
+        "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+        "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+        "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
+        "published": "2026-09-18T23:18:02Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e8/live/2fe49140-b08a-11f1-b7c1-3dec1512f22d.jpg",
+        "source": "BBC News",
         "section": "World"
       }
     ],
     "Business": [
+      {
+        "title": "After threatening to seize Greenland by force, Trump agrees to leave it with Denmark and boost military presence. ‘We will be very protective of it!’",
+        "link": "https://fortune.com/2026/09/18/greenland-trump-denmark-control-us-military-presence/",
+        "summary": "Parliamentary action is still needed by the Danish and Greenland governments before it can be enforced.",
+        "published": "2026-09-18T23:52:15Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26251526045694-e1789774973315.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
+        "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
+        "summary": "Mr. Buffett, 71, is succeeding his father, Warren, but will not be running the company’s day-to-day operations.",
+        "published": "2026-09-18T22:25:54Z",
+        "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18xp-buffett/18xp-buffett-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "‘I now realize I was foolish’: Widow of early Roblox programmer allegedly defrauded out of $6 million trying to buy out a man from his escort contract",
+        "link": "https://fortune.com/2026/09/18/roblox-widow-lawsuit-escort-paid-6-million-contract/",
+        "summary": "A lawsuit says a male escort exploited Marianne Flippo's grief and rare illness to take $5.95 million meant to buy his way out of an escort contract.",
+        "published": "2026-09-18T21:36:18Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2259269081-e1789765726206.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
       {
         "title": "American, United and Southwest are all cutting ‘marginal routes’ as jet fuel prices spike",
         "link": "https://fortune.com/2026/09/18/airlines-cut-least-profitable-flights-jet-fuel/",
@@ -250,110 +277,137 @@
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2295625605-e1789764178549.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
-      },
-      {
-        "title": "‘It’s a dumb idea’: Republicans split from proposed ‘Trump dividend’ $5,000 plan if GOP wins midterms",
-        "link": "https://fortune.com/2026/09/18/republicans-split-trump-dividend-5000-midterms/",
-        "summary": "The promised check is \"nothing more than a recycled broken promise\" that gets often repeated.",
-        "published": "2026-09-18T20:07:54Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2294419035_a508c7-e1789761749121.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-        "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-        "summary": "The company is expected to generate $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-        "published": "2026-09-18T20:06:31Z",
-        "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18biz-anthropic-ipo-go-bzlw/18biz-anthropic-ipo-go-bzlw-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "‘No one knows what is in these deals’: Trump set to announce new Medicaid drug pricing model amid affordability concerns",
-        "link": "https://fortune.com/2026/09/18/trump-announce-medicaid-drug-price-affordability/",
-        "summary": "Trump signed a \"Most Favored Nations\" policy last year, committing the US to paying the lowest paid price for medications.",
-        "published": "2026-09-18T20:02:34Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26260854036875-e1789761329912.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Anthropic selects Accenture as first embedded evaluator to help implement Amodei's slowdown proposal",
-        "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
-        "summary": "Anthropic and OpenAI have been under intense scrutiny after researchers warned about the potential for AI to cause catastrophic harm to humanity.",
-        "published": "2026-09-18T21:37:38Z",
+        "title": "Morgan Stanley private credit fund redemption requests remain elevated in third quarter",
+        "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-private-credit-fund-redemptions-remain-elevated-in-third-quarter-4907950",
+        "summary": "",
+        "published": "2026-09-19T00:01:07Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1YC_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Gemini hacked three companies in first known breakout by Google’s AI",
+        "link": "https://www.investing.com/news/stock-market-news/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-wsj-reports-4907962",
+        "summary": "",
+        "published": "2026-09-19T00:00:53Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1Z0_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Exclusive-Paramount, states discuss CNN monitoring and film release commitment, sources say",
+        "link": "https://www.investing.com/news/stock-market-news/paramount-states-discuss-cnn-monitoring-and-film-release-commitment-sources-say-4907979",
+        "summary": "",
+        "published": "2026-09-18T23:54:28Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1ZV_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Lakers Buyers Lay Out Plans to Reach $30 Billion Valuation in Pitch to Investors",
+        "link": "https://www.wsj.com/finance/lakers-buyers-lay-out-plans-to-reach-30-billion-valuation-in-pitch-to-investors-66945709?mod=rss_markets_main",
+        "summary": "A group led by Bob Iger and Joshua Kushner estimate team revenue will more than double to at least $1.6 billion in a decade.",
+        "published": "2026-09-18T23:30:00Z",
+        "image": "https://images.wsj.net/im-03008531",
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+        "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+        "summary": "“By the time my mother died, the insurance company had paid out almost $600,000.”",
+        "published": "2026-09-18T23:30:00Z",
+        "image": "https://images.mktw.net/im-68469739",
+        "source": "MarketWatch",
+        "section": "Markets"
+      },
+      {
+        "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+        "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+        "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+        "published": "2026-09-18T23:28:06Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-        "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-        "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-        "published": "2026-09-18T21:35:55Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor",
+        "link": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525?mod=rss_markets_main",
+        "summary": "The health secretary disclosed over $250,000 in gifts from security specialist Gavin de Becker.",
+        "published": "2026-09-18T23:03:00Z",
+        "image": "https://images.wsj.net/im-54250444",
+        "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.78%",
-        "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-078-4907933",
+        "title": "US, China discuss cutting tariffs on US LNG ahead of Xi visit",
+        "link": "https://www.investing.com/news/stock-market-news/us-china-discuss-cutting-tariffs-on-us-lng-ahead-of-xi-visit-4907862",
         "summary": "",
-        "published": "2026-09-18T21:30:03Z",
-        "image": "https://content-media.investing.com/news/Mexican_Stock_Exchange_M_1440056312.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Honeywell wins $53.9M Navy contract for navigation parts",
-        "link": "https://www.investing.com/news/stock-market-news/honeywell-wins-539m-navy-contract-for-navigation-parts-93CH-4907932",
-        "summary": "",
-        "published": "2026-09-18T21:28:34Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6R073_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Leidos wins $85m Air Force contract for aerospace design",
-        "link": "https://www.investing.com/news/stock-market-news/leidos-wins-85m-air-force-contract-for-aerospace-design-93CH-4907931",
-        "summary": "",
-        "published": "2026-09-18T21:27:49Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB6U08A_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Lockheed Martin wins $871 million F-35 contract modification",
-        "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-wins-871-million-f35-contract-modification-93CH-4907930",
-        "summary": "",
-        "published": "2026-09-18T21:27:29Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEL4D0YM_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Colombia stocks higher at close of trade; COLCAP up 1.05%",
-        "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-105-4907927",
-        "summary": "",
-        "published": "2026-09-18T21:25:03Z",
-        "image": "https://content-media.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Trump is talking with Senate’s Thune about bill to cut data-center electricity costs",
-        "link": "https://www.investing.com/news/stock-market-news/trump-is-talking-with-senatesthune-about-bill-to-cut-datacenter-electricity-costs-4907925",
-        "summary": "",
-        "published": "2026-09-18T21:24:27Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1WL_L.jpg",
+        "published": "2026-09-18T23:01:43Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8H1RZ_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "published": "2026-09-19T00:12:07Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "published": "2026-09-18T23:25:01Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Would Australians support a smart glasses ban?",
+        "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+        "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+        "published": "2026-09-18T23:15:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg",
+        "source": "BBC News",
+        "section": "Technology"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "published": "2026-09-18T23:13:31Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "published": "2026-09-18T23:12:32Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "published": "2026-09-18T21:44:33Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
       {
         "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
         "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
@@ -364,70 +418,25 @@
         "section": "Technology"
       },
       {
-        "title": "Automattic names interim CFO after exec departures",
-        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-        "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-        "published": "2026-09-18T20:25:22Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-        "summary": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
-        "published": "2026-09-18T20:24:33Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "World model companies are keeping a lot of secrets",
-        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-        "published": "2026-09-18T20:18:14Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-        "link": "https://www.wired.com/review/apple-watch-ultra-4/",
-        "summary": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-        "published": "2026-09-18T19:36:48Z",
-        "image": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-        "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-        "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-        "published": "2026-09-18T19:21:09Z",
-        "image": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-        "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-        "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-        "published": "2026-09-18T19:20:50Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DCA-airport-1152x648.jpg",
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "summary": "But the military's overall use of AI seems to be accelerating.",
+        "published": "2026-09-18T20:26:33Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
         "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-        "published": "2026-09-18T18:49:30Z",
-        "image": null,
-        "source": "TechCrunch",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
+        "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
+        "published": "2026-09-18T22:03:40Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bfd/live/f534ea20-b374-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "Video Shows a San Diego Dog Seeming to Greet an Intruder. Why Didn’t He Bark?",
         "link": "https://www.nytimes.com/2026/09/18/us/san-diego-intruder-dog-video.html",
@@ -490,92 +499,92 @@
         "image": null,
         "source": "ScienceDaily",
         "section": "Science"
-      },
-      {
-        "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
-        "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
-        "summary": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before. The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs.",
-        "published": "2026-09-18T12:07:03Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Arsenal open to Dowman loan in right circumstances",
-        "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
-        "summary": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-        "published": "2026-09-18T21:30:38Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg",
+        "title": "Hodgkinson powers to Athlos win in speed suit",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwx2z4ervr6jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.",
+        "published": "2026-09-18T23:00:14Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eac/live/30e27b30-b3a9-11f1-a7fa-c95bcf5935e4.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Littler survives scare to progress at World Series Finals",
-        "link": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
-        "summary": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.",
-        "published": "2026-09-18T21:29:55Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6c/live/fad1d4e0-b3a4-11f1-84e0-d100e0413eb5.jpg",
+        "title": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cj3v47q6lde1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to the Premier League campaign.",
+        "published": "2026-09-18T22:42:10Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ee/live/e2bf7880-b3a9-11f1-bc1f-3f186ca4140c.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Wakefield make history with win over Leigh",
+        "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
+        "published": "2026-09-18T22:39:24Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d409/live/d38de810-b3ae-11f1-ad67-5d87a77e2776.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "'Everything was disappointing' - Alonso on Brentford defeat",
+        "link": "https://www.bbc.co.uk/sport/football/videos/ck0j3506706jo?at_medium=RSS&at_campaign=rss",
+        "summary": "Chelsea manager Xabi Alonso says everything about his side's performance in their loss at Brentford was \"disappointing\", stressing that they need to improve in every aspect of their game.",
+        "published": "2026-09-18T22:39:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a2e/live/ec5754e0-b3a8-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+        "link": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
+        "summary": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
+        "published": "2026-09-18T22:34:20Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/1bb6c400-b3ae-11f1-a430-4d16ee157c41.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+        "link": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
+        "summary": "Kane double helps Bayern Munich beat Union Berlin 7-0 Dieter Müller’s record of 129 games had stood since 1977 Harry Kane smashed the 49-year-old record for the fastest player to score 100 Bundesliga goals in Bayern Munich’s 7-0 victory over Union Berlin, his 98th league game for the club. Cologne’s Dieter Müller set the previous mark in 1977, but it took him 129 matches and, with the England captain scoring at better than a goal a game, a new record had been inevitable for some time. Since his arrival in 2023 Kane had been averaging a Bundesliga goal every 78.5 minutes and has now scored 152 in 154 appearances in all competitions, including 61 in 51 games last term. Continue reading...",
+        "published": "2026-09-18T22:04:40Z",
+        "image": "https://i.guim.co.uk/img/media/f8b7216be8dbc7b1d500744e5e70138d2bf3433d/680_0_4248_3398/master/4248.jpg?width=140&quality=85&auto=format&fit=max&s=15d63acd58eacc8e729f133dc17a5b61",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Brentford stay unbeaten as they put three past Chelsea",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Brentford maintain their unbeaten start in the Premier League as they score three second-half goals to beat Chelsea 3-0 at the Gtech Community Stadium.",
+        "published": "2026-09-18T22:00:19Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b9d/live/4de77c90-b3a8-11f1-bc1f-3f186ca4140c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Wakefield beat Leigh to claim historic last-four spot",
         "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6rer200vegwo?at_medium=RSS&at_campaign=rss",
         "summary": "Wakefield Trinity reach the Super League semi-finals for the first time in their history with a dominant win over Leigh Leopards.",
-        "published": "2026-09-18T21:24:16Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6773/live/974d3460-b39e-11f1-8640-6523aac40863.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Wakefield reach Super League playoff semi-finals after eliminator win against Leigh",
-        "link": "https://www.theguardian.com/sport/2026/sep/18/wakefield-trinity-leigh-leopards-super-league-match-report",
-        "summary": "Wakefield 26-16 Leigh Vagana and Faatili’s second-half tries seal victory Wakefield Trinity survived the sending off of Emre Guler to progress to the semi-finals of the Super League playoffs for the first time after proving to be far too strong for Leigh Leopards. Trinity, so long one of Super League’s perennial strugglers, have been revitalised under the ownership of Matt Ellis and the head coach Daryl Powell. In just three years, they have taken the club from the Championship to within 80 minutes of a first appearance in the Super League Grand Final. Continue reading...",
-        "published": "2026-09-18T21:13:27Z",
-        "image": "https://i.guim.co.uk/img/media/5b412df992ac7f6732e7d9968b0c9957d4b58f85/75_0_4616_3693/master/4616.jpg?width=140&quality=85&auto=format&fit=max&s=1d08183620ae40ac38a9d33a45efac90",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
-        "link": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
-        "summary": "Those early season thoughts that Chelsea might be the team best placed to challenge Arsenal are beginning to look over-optimistic. The two chaotic wins with which they began the season were always difficult to read: they might have been useful points picked up on the way to a more solid structure, or they might have represented evidence of significant problems. After three games without a win, it’s beginning to look like the latter. Brentford’s first home win over Chelsea since 1938 means they remain unbeaten, third in the table, coherent and disciplined. The comparison is impossible not to draw: as one side flails in an orgy of structured spending, their far less wealthy neighbours thrive with a clear plan and sense of direction. Continue reading...",
-        "published": "2026-09-18T21:12:38Z",
-        "image": "https://i.guim.co.uk/img/media/1220b3a3299140b98c0502ebb8063242ba17eb82/113_0_1740_1393/master/1740.jpg?width=140&quality=85&auto=format&fit=max&s=e194e245d76ad65984cbee83b50fa856",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Hodgkinson dazzles to win Athlos 800m",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/cmx2zrlyrx1yo?at_medium=RSS&at_campaign=rss",
-        "summary": "Great Britain's Keely Hodgkinson powers clear of the pack to win the Athlos 800m while sporting a unique, all black custom speed suit.",
-        "published": "2026-09-18T21:07:30Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7757/live/f1e3f420-b3a5-11f1-bc1f-3f186ca4140c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
-        "summary": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings.",
-        "published": "2026-09-18T20:57:06Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss",
-        "summary": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-        "published": "2026-09-18T20:35:52Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f87/live/2ec4a210-b39a-11f1-a430-4d16ee157c41.png",
+        "published": "2026-09-18T21:44:54Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a28/live/d1185100-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "Two Centuries On, Smithsonian Connects Jefferson’s Hair to Hemings’s Children",
+        "link": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+        "summary": "A new book describes how cutting-edge genomics techniques yielded “extraordinary proof” that Thomas Jefferson fathered children with Sally Hemings.",
+        "published": "2026-09-18T23:45:27Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
       {
         "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
         "link": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
@@ -636,15 +645,6 @@
         "summary": "Films by Jesse Eisenberg, Lee Chang-dong and Hirokazu Kore-eda make up for an uneven program.",
         "published": "2026-09-18T16:30:06Z",
         "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Five International Movies to Stream Now",
-        "link": "https://www.nytimes.com/2026/09/18/movies/international-movies-streaming.html",
-        "summary": "This month’s picks include a British prison thriller, a Brazilian drama, an animated film from Japan and more.",
-        "published": "2026-09-18T16:00:43Z",
-        "image": "https://static01.nyt.com/images/2026/09/18/arts/wasteman/wasteman-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       }
