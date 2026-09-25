@@ -1,218 +1,272 @@
 {
-  "generated": "2026-09-24T22:22:55Z",
+  "generated": "2026-09-25T01:29:06Z",
   "lead": {
-    "title": "U.N. Live Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
-    "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
-    "summary": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
-    "published": "2026-09-24T22:18:42Z",
-    "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-promo-330/24unga-header-netanyahu-03-tqvm-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "News live: Hume says AI hack shows Australia needs more AI; Albanese posts selfie with Greek PM after Trump controversy",
+    "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast AI hack of Medicare exposes Australia’s vulnerabilities Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk. Frontier AI now has capability to expose those vulnerabilities at a rate quicker than we can keep up, quicker than we can patch them. What if it was a less benign breach? What if it was a less benign actor? Let’s face it, clearly, Services Australia’s cybersecurity is woefully inadequate. I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia. Because AI is going to happen. Continue reading...",
+    "published": "2026-09-25T01:24:26Z",
+    "image": "https://i.guim.co.uk/img/media/713407574e90ae2d156edb10e223f2ccc6644940/503_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=795177e8df2069bcc5d438e86a0a4b1a",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "ODI Cricket",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Highlights from the second ODI of 2026 between England and Sri Lanka.",
-      "published": "2026-09-24T22:50:15Z",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcgb0.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
+      "title": "Trump’s state dinner for Xi Jinping will not be televised as White House continues to deny CNN full access – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+      "summary": "ABC, CBS, NBC and Fox News have refused to resume video coverage of White House events until full access has been restored to CNN Sign up for US Breaking News emails Lawyers for the news outlets President Trump banned from the White House have requested an emergency hearing after several journalists were turned away from the building Thursday morning, in apparent defiance of a federal judge’s order to restore their access. “This morning journalists from each of CNN, MS NOW, and POLITICO attempted to enter the White House and were turned away, and Secret Service agents confiscated the hard pass of journalists whose hard passes had not previously been confiscated,” a new court filing read. Continue reading...",
+      "published": "2026-09-25T01:23:26Z",
+      "image": "https://i.guim.co.uk/img/media/98ef9332c4cf653bd4bc1d080344a801bbc1716a/623_0_6170_4936/master/6170.jpg?width=140&quality=85&auto=format&fit=max&s=7539da068ea9041c9735e72901585ec8",
+      "source": "The Guardian",
+      "section": "World"
     },
     {
-      "title": "Trump-Xi summit in Washington features great fanfare but low expectations",
-      "link": "https://www.investing.com/news/stock-market-news/trump-welcomes-xi-to-washington-looking-for-a-trade-win-4914436",
-      "summary": "",
-      "published": "2026-09-24T22:13:06Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N0BG_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery.",
-      "link": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
-      "summary": "Scientists at the company announced their first finding: a group of enzymes whose function is unknown.",
-      "published": "2026-09-24T22:12:48Z",
-      "image": "https://static01.nyt.com/images/2026/09/23/science/23SCI-ANTHROPIC-ENZYME/23SCI-ANTHROPIC-ENZYME-mediumSquareAt3X.jpg",
+      "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+      "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+      "summary": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step.",
+      "published": "2026-09-25T01:12:39Z",
+      "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24SCI-SPACE-DATA-CENTERS-wgkc/24SCI-SPACE-DATA-CENTERS-wgkc-mediumSquareAt3X.jpg",
       "source": "The New York Times",
       "section": "Science"
+    },
+    {
+      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "published": "2026-09-25T01:10:35Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/c8cd8880-b855-11f1-a430-4d16ee157c41.jpg",
+      "source": "BBC News",
+      "section": "World"
     }
   ],
   "latest": [
     {
-      "title": "Major airline group opposes US diesel export ban, warning it could hike prices",
-      "link": "https://www.investing.com/news/stock-market-news/major-airline-group-opposes-us-diesel-export-ban-warning-it-could-hike-prices-4916338",
-      "summary": "",
-      "published": "2026-09-24T22:12:48Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N20F_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Anthropic proposes supervoting shares to give co-founders majority control -report",
-      "link": "https://www.investing.com/news/stock-market-news/anthropic-proposes-supervoting-shares-to-give-cofounders-majority-control-report-4916337",
-      "summary": "",
-      "published": "2026-09-24T22:11:38Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM3F1D5_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Toxic waste: 'Every person that played in the pool is dead'",
-      "link": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
-      "published": "2026-09-24T22:10:35Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
-      "source": "BBC News",
-      "section": "Science"
-    },
-    {
-      "title": "Trump, Xi to attend state dinner after White House meeting",
-      "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-      "published": "2026-09-24T22:09:33Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Uefa fears impact of Premier League spending on transfer market",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
-      "summary": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer.",
-      "published": "2026-09-24T22:09:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Microsoft puts Brad Smith in charge of communications",
-      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year. Microsoft CEO Satya […]",
-      "published": "2026-09-24T22:08:22Z",
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports […]",
+      "published": "2026-09-25T01:25:53Z",
       "image": null,
       "source": "The Verge",
       "section": "Technology"
     },
     {
-      "title": "MGM discusses bid for Barry Diller’s People Inc, WSJ reports",
-      "link": "https://www.investing.com/news/stock-market-news/mgm-discusses-bid-for-barry-dillers-people-inc-wsj-reports-4916328",
+      "title": "China's Xi urges U.S. to cooperate on AI",
+      "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+      "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+      "published": "2026-09-25T01:22:17Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+      "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+      "summary": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+      "published": "2026-09-25T01:18:44Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+      "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
+      "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
+      "published": "2026-09-25T01:12:19Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Nikkei 225 trapped in Ichimoku cloud range: Live levels",
+      "link": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
       "summary": "",
-      "published": "2026-09-24T22:06:52Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N1ZO_L.jpg",
+      "published": "2026-09-25T01:02:58Z",
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Nearly 200 people wrongly identified on Nevada’s voter rolls as non-citizens",
-      "link": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
-      "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizens The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections. In July, Donald Trump gave a speech saying DHS had found a combined 278,000 non-citizens on the rolls in Nevada, California, Pennsylvania and New Jersey. Follow-up letters to each of those states weakened the claim, saying there only could be as many as 278,000 non-citizens on the rolls, including up to 15,903 in Nevada. Continue reading...",
-      "published": "2026-09-24T22:06:15Z",
-      "image": "https://i.guim.co.uk/img/media/9b538afb235ae598fd75349deb149418f972c3ed/648_0_6478_5185/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=f1322a4248f46eecfca7635e6cea98ea",
-      "source": "The Guardian",
-      "section": "World"
+      "title": "Here's who is attending the Trump-Xi state dinner",
+      "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+      "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+      "published": "2026-09-25T01:02:40Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
     },
     {
-      "title": "Trump complains about lack of TV coverage stemming from his own effort to ban CNN – live",
-      "link": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
-      "summary": "The president welcomed China’s Xi Jinping at the White House, which media outlets opted not to provide video feed for because Trump’s aides had not yet restored access for three outlets he banned last week Journalists for CNN, MS Now and Politico allowed back into the White House after judge’s ruling Sign up for US Breaking News emails Lawyers for the news outlets President Trump banned from the White House have requested an emergency hearing after several journalists were turned away from the building Thursday morning, in apparent defiance of a federal judge’s order to restore their access. “This morning journalists from each of CNN, MS NOW, and POLITICO attempted to enter the White House and were turned away, and Secret Service agents confiscated the hard pass of journalists whose hard passes had not previously been confiscated,” a new court filing read. Continue reading...",
-      "published": "2026-09-24T22:05:58Z",
-      "image": "https://i.guim.co.uk/img/media/744a184489767f2824f1f82ea2eec54d28fa42fd/0_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=3860adc2c3b611c979dd7d4fbf33facb",
-      "source": "The Guardian",
-      "section": "World"
+      "title": "OpenAI to preview GPT-6 Cyber in coming weeks, Fortune reports",
+      "link": "https://www.investing.com/news/stock-market-news/openai-to-preview-gpt6-cyber-in-coming-weeks-fortune-reports-4916497",
+      "summary": "",
+      "published": "2026-09-25T01:02:25Z",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM5B1QY_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
     },
     {
-      "title": "Australia news live: Paterson says PM’s AI hack timing not a coincidence; gen Z going without for a house",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-      "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Charlton says AI incidents likely to become ‘more and more prevalent’ Andrew Charlton , the assistant minister for science, technology and the digital economy, said yesterday’s reported hack of Medicare by an OpenAI agent was a “novel” moment for cybersecurity, but was likely to become “more and more prevalent in the future”. In this type of situation, you know, you would expect for an incident which is as serious as this, you would expect that disclosure to be delivered in a very serious way. It was not delivered in a very serious way, it was delivered via an email to a public inbox. In fact, several of the indicators are now at the highest observed levels that we’ve seen, including wastewater, consumption, methamphetamine-related hospitalisations, and death. Continue reading...",
-      "published": "2026-09-24T22:04:23Z",
-      "image": "https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=140&quality=85&auto=format&fit=max&s=5b9acc1c60a18ed1ae2a01b3b7e04b3a",
-      "source": "The Guardian",
-      "section": "World"
+      "title": "Trump welcomes China’s Xi with fanfare, but no breakthroughs emerge",
+      "link": "https://www.investing.com/news/stock-market-news/trump-welcomes-xi-to-washington-looking-for-a-trade-win-4914436",
+      "summary": "",
+      "published": "2026-09-25T01:00:26Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N0BG_L.jpg",
+      "source": "Investing.com",
+      "section": "Markets"
+    },
+    {
+      "title": "‘Unabomber’ Review: A Not-So-Beautiful Mind",
+      "link": "https://www.nytimes.com/2026/09/24/movies/unabomber-review-a-not-so-beautiful-mind.html",
+      "summary": "Russell Crowe and Jacob Tremblay add welcome intrigue to this bifurcated true-crime drama.",
+      "published": "2026-09-25T01:00:04Z",
+      "image": null,
+      "source": "The New York Times",
+      "section": "Culture"
+    },
+    {
+      "title": "The Robust U.S. Economy Powers Through Rate Increases and Rising Bond Yields",
+      "link": "https://www.wsj.com/finance/investing/us-economy-bond-market-0bfda8b3?mod=rss_markets_main",
+      "summary": "AI-driven growth looks resistant to higher borrowing costs, spooking Treasury investors.",
+      "published": "2026-09-25T01:00:00Z",
+      "image": "https://images.wsj.net/im-26977146",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Nearly 200 people wrongly identified on Nevada’s voter rolls as non-citizens",
-        "link": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
-        "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizens The Department of Homeland Security (DHS) wrongly identified 185 people on Nevada’s voter rolls as non-citizens, state officials said this week, escalating concerns over the shoddy methodology the government is using to raise fear about non-citizen voting ahead of the midterm elections. In July, Donald Trump gave a speech saying DHS had found a combined 278,000 non-citizens on the rolls in Nevada, California, Pennsylvania and New Jersey. Follow-up letters to each of those states weakened the claim, saying there only could be as many as 278,000 non-citizens on the rolls, including up to 15,903 in Nevada. Continue reading...",
-        "published": "2026-09-24T22:06:15Z",
-        "image": "https://i.guim.co.uk/img/media/9b538afb235ae598fd75349deb149418f972c3ed/648_0_6478_5185/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=f1322a4248f46eecfca7635e6cea98ea",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Trump complains about lack of TV coverage stemming from his own effort to ban CNN – live",
-        "link": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
-        "summary": "The president welcomed China’s Xi Jinping at the White House, which media outlets opted not to provide video feed for because Trump’s aides had not yet restored access for three outlets he banned last week Journalists for CNN, MS Now and Politico allowed back into the White House after judge’s ruling Sign up for US Breaking News emails Lawyers for the news outlets President Trump banned from the White House have requested an emergency hearing after several journalists were turned away from the building Thursday morning, in apparent defiance of a federal judge’s order to restore their access. “This morning journalists from each of CNN, MS NOW, and POLITICO attempted to enter the White House and were turned away, and Secret Service agents confiscated the hard pass of journalists whose hard passes had not previously been confiscated,” a new court filing read. Continue reading...",
-        "published": "2026-09-24T22:05:58Z",
-        "image": "https://i.guim.co.uk/img/media/744a184489767f2824f1f82ea2eec54d28fa42fd/0_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=3860adc2c3b611c979dd7d4fbf33facb",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Australia news live: Paterson says PM’s AI hack timing not a coincidence; gen Z going without for a house",
-        "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-        "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Charlton says AI incidents likely to become ‘more and more prevalent’ Andrew Charlton , the assistant minister for science, technology and the digital economy, said yesterday’s reported hack of Medicare by an OpenAI agent was a “novel” moment for cybersecurity, but was likely to become “more and more prevalent in the future”. In this type of situation, you know, you would expect for an incident which is as serious as this, you would expect that disclosure to be delivered in a very serious way. It was not delivered in a very serious way, it was delivered via an email to a public inbox. In fact, several of the indicators are now at the highest observed levels that we’ve seen, including wastewater, consumption, methamphetamine-related hospitalisations, and death. Continue reading...",
-        "published": "2026-09-24T22:04:23Z",
-        "image": "https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=140&quality=85&auto=format&fit=max&s=5b9acc1c60a18ed1ae2a01b3b7e04b3a",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
-        "link": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-        "summary": "Country says US must lift sanctions on its oil exports and end the war on all fronts, including in Lebanon Iran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, and to start talks on its nuclear program the day after, so long as the US lifts sanctions on Iran’s oil exports in return, ends the war on all fronts – including in Lebanon – and releases some of Iran’s frozen assets. The proposal is designed to accelerate the steps first laid down in the memorandum of understanding signed by the US and Iran in June, particularly by helping the talks on Iran’s nuclear program start much more quickly than previously agreed. Continue reading...",
-        "published": "2026-09-24T21:57:34Z",
-        "image": "https://i.guim.co.uk/img/media/d19a32d6a77bb1262e0295d4661b6f15b2f2ca73/507_0_5056_4047/master/5056.jpg?width=140&quality=85&auto=format&fit=max&s=f73eb116159cbe923dd1f9e565aa633d",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins",
-        "link": "https://www.aljazeera.com/sports/2026/9/24/dr-congo-and-ivory-coast-top-africa-cup-of-nations-qualifying-opening-wins?traffic_source=rss",
-        "summary": "DR Congo beat Equatorial Guinea, while Ivory Coast cruise by Ghana and Cameroon beat Comoros as AFCON qualifiers begin.",
-        "published": "2026-09-24T21:56:15Z",
-        "image": null,
-        "source": "Al Jazeera",
-        "section": "World"
-      },
-      {
-        "title": "Haiti Turns to Roger Stone To Lobby Trump Administration",
-        "link": "https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html",
-        "summary": "The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document shows.",
-        "published": "2026-09-24T21:55:10Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-haiti-stone-vgmw/24int-haiti-stone-vgmw-mediumSquareAt3X.jpg",
+        "title": "U.N. Updates: Netanyahu Lashes Out at Critics and Underscores Threats to Israel",
+        "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news",
+        "summary": "In a combative speech, the prime minister defended Israeli military action across the Middle East, and attacked Mayor Zohran Mamdani of New York. Dozens of delegates walked out of the hall as he took the podium.",
+        "published": "2026-09-25T00:57:30Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-promo-330/24unga-header-netanyahu-03-tqvm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
       },
       {
-        "title": "Croatian court approves extradition in Nord Stream bombing case",
-        "link": "https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss",
-        "summary": "Nord Stream sabotage suspect to be extradited from Croatia; court ruling faces appeal with final decision still pending.",
-        "published": "2026-09-24T21:47:44Z",
+        "title": "Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech",
+        "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html",
+        "summary": "The Israeli prime minister accused Mayor Zohran Mamdani, an outspoken critic of Israel, of antisemitism. The mayor has become a political foil for the prime minister.",
+        "published": "2026-09-25T00:57:28Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-mamdani-topart-02-jvhq/24unga-live-mamdani-topart-02-jvhq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Iran Proposes 7-Day Plan to End War",
+        "link": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
+        "summary": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
+        "published": "2026-09-25T00:47:23Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-iran-offer-tglq/24unga-live-iran-offer-tglq-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "published": "2026-09-25T00:44:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef68/live/531a99b0-b851-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’",
+        "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
+        "summary": "Prime Minister Benjamin Netanyahu also reserved some of his ire for the mayor of the city hosting him, Zohran Mamdani.",
+        "published": "2026-09-25T00:40:57Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24int-unga-ledeall/24int-unga-ledeall-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "At least 41 die as boat capsizes in DRC’s Lake Tanganyika",
+        "link": "https://www.aljazeera.com/news/2026/9/25/at-least-41-die-as-boat-capsizes-in-drcs-lake-tanganyika?traffic_source=rss",
+        "summary": "Forty-nine passengers have been rescued and a search is under way for the missing.",
+        "published": "2026-09-25T00:38:13Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Mary Peltola’s campaign says reports of her using slurs and shoving staffer are exaggerated",
-        "link": "https://www.theguardian.com/us-news/2026/sep/24/mary-peltola-campaign-allegations",
-        "summary": "Alaska Democratic nominee in pivotal Senate race ‘struggled to deal with her grief’ after death of husband and mother, spokesperson said Mary Peltola’s campaign on Thursday downplayed a report that the Democratic nominee in Alaska’s pivotal Senate race shoved a staffer and used slurs, saying the article exaggerated her behavior, but acknowledging she struggled following the deaths of her husband and mother. The New York Times article published on Wednesday is based on text messages and interviews with nine former employees of Peltola, who served in the House of Representatives from 2022 till the beginning of last year and is now set to face Republican senator Dan Sullivan in the 3 November midterm elections. Continue reading...",
-        "published": "2026-09-24T21:46:30Z",
-        "image": "https://i.guim.co.uk/img/media/64ea489e0484c1f3636c7f5ff480eb0a58831657/230_0_3496_2797/master/3496.jpg?width=140&quality=85&auto=format&fit=max&s=c2617e6221da250eb1cd163fca5b0fab",
+        "title": "Brazil’s Lula and Flavio Bolsonaro still essentially tied in new poll",
+        "link": "https://www.aljazeera.com/news/2026/9/25/brazils-lula-and-flavio-bolsonaro-still-essentially-tied-in-new-poll?traffic_source=rss",
+        "summary": "Luiz Inacio Lula da Silva is up two points, but that's still within the poll's margin of error.",
+        "published": "2026-09-25T00:35:51Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
+        "link": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
+        "summary": "Other news networks boycott dinner in honor of Xi Jinping after officials deny CNN and MS Now permission US politics live – latest updates Journalists for CNN and MS Now were denied access to the White House state dinner in honor of Xi Jinping, China’s president, on Thursday evening, hours after a federal judge ruled the Trump administration must allow them in after imposing a ban last week. “About an hour before Xi’s arrival was scheduled, the White House said CNN could cover the event, but only with a photojournalist and audio technician, notably excluding the network’s editorial team consisting of a reporter and producer,” CNN reported . Continue reading...",
+        "published": "2026-09-25T00:24:54Z",
+        "image": "https://i.guim.co.uk/img/media/2e355e48b2c9523618a38f11f1028978cbe08ada/560_0_4896_3919/master/4896.jpg?width=140&quality=85&auto=format&fit=max&s=eb488e28217a630cc514badc507f15ec",
         "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "Tech Titans Will Mingle With Trump and Xi at State Dinner",
+        "title": "Tech Titans Mingle With Trump and Xi at State Dinner",
         "link": "https://www.nytimes.com/2026/09/24/business/economy/tech-executives-state-dinner-xi-trump.html",
-        "summary": "Prominent executives are expected to attend a dinner at the White House Thursday night, as the countries wrangle over tariffs, trade and potential A.I. regulation.",
-        "published": "2026-09-24T21:19:57Z",
+        "summary": "Prominent executives attended a dinner at the White House Thursday night, as the countries wrangled over tariffs, trade and potential A.I. regulation.",
+        "published": "2026-09-25T00:30:22Z",
         "image": "https://static01.nyt.com/images/2026/09/24/business/24dc-china-ceos/24dc-china-ceos-mediumSquareAt3X.png",
         "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Canada Goose Is Ensnared in Trump’s Tariff War With Canada",
+        "link": "https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html",
+        "summary": "The United States is a key market for brands that manufacture jackets and parkas in Canada, such as Canada Goose and Moose Knuckles.",
+        "published": "2026-09-24T23:43:29Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/00biz-canada-coat-tariffs-1-fqpb/00biz-canada-coat-tariffs-1-fqpb-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "White House Restores Access for CNN, MS NOW and Politico",
+        "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html",
+        "summary": "A judge ordered President Trump to reverse his ban on three media outlets, but it took several hours for them to get back in. The White House TV pool remains suspended.",
+        "published": "2026-09-24T23:07:20Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24biz-media-still-barred-jvlc/24biz-media-still-barred-jvlc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+        "published": "2026-09-24T23:03:53Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "'We're all broke': Would you chase a friend for £5?",
+        "link": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "summary": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "published": "2026-09-24T23:00:45Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
+        "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market",
+        "link": "https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html",
+        "summary": "The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.",
+        "published": "2026-09-24T22:52:13Z",
+        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/2026-biz-sept-promos-mortgage-rates/2026-biz-sept-promos-mortgage-rates-mediumSquareAt3X-v7.png",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to help deploy it",
+        "link": "https://fortune.com/2026/09/24/openai-launching-gpt-6-cyber-model-and-security-product-devday/",
+        "summary": "OpenAI is extending the two-pronged paradigm it established with the ChatGPT product and GPT models into a new realm with a cyber focused combo.",
+        "published": "2026-09-24T22:29:33Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2287517382-e1790285908117.jpg?w=2048",
+        "source": "Fortune",
         "section": "Business"
       },
       {
@@ -223,137 +277,128 @@
         "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23biz-holmes-prison-khlm/23biz-holmes-prison-khlm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
-      },
-      {
-        "title": "Massachusetts Is Investigating Gambling Companies’ Use of A.I.",
-        "link": "https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html",
-        "summary": "In response to a New York Times report on DraftKings, the state’s gaming commission said it would evaluate how each company deployed the technology.",
-        "published": "2026-09-24T20:50:28Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24biz-draftkings-massachusetts-tvpl/24biz-draftkings-massachusetts-tvpl-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "White House Restores Access for CNN, MS NOW and Politico",
-        "link": "https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html",
-        "summary": "A judge ordered President Trump to reverse his ban on three media outlets, but it took several hours for them to get back in. The White House TV pool remains suspended.",
-        "published": "2026-09-24T20:45:57Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24biz-media-still-barred-jvlc/24biz-media-still-barred-jvlc-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing",
-        "link": "https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html",
-        "summary": "Dr. Heidi Overton was pressed on the president’s false statements about the measles vaccine and his intervention in tobacco policy.",
-        "published": "2026-09-24T20:24:28Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24dc-fda-nominee-ctvj/24dc-fda-nominee-ctvj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "‘It’s so corrosive to democracy’: Over 50 federal prosecutors speak out against Trump’s $100,000 a month ‘insider trading’ scheme",
-        "link": "https://fortune.com/2026/09/24/over-50-federal-prosecutors-trump-100000-month-insider-trading/",
-        "summary": "\"We're in an environment where we all want to be looking to the founders, right?\"",
-        "published": "2026-09-24T20:23:14Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296586210-e1790280036950.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "The return of nostalgia is bringing back Toys “R” Us as it opens 120 stores, nine years after bankruptcy",
-        "link": "https://fortune.com/2026/09/24/the-return-of-nostalgia-is-bringing-back-toys-r-us-as-it-opens-120-stores-nine-years-after-bankruptcy/",
-        "summary": "Adult collectors are helping drive a toy boom, but the new stores are smaller than the ones shoppers remember.",
-        "published": "2026-09-24T20:17:16Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-459661000-e1790280385789.jpg?w=2048",
-        "source": "Fortune",
-        "section": "Business"
-      },
-      {
-        "title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-        "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
-        "summary": "Barry Diller's People Inc. has rescinded its offer to buy the remaining public shares of MGM Resorts.",
-        "published": "2026-09-24T20:11:24Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Major airline group opposes US diesel export ban, warning it could hike prices",
-        "link": "https://www.investing.com/news/stock-market-news/major-airline-group-opposes-us-diesel-export-ban-warning-it-could-hike-prices-4916338",
-        "summary": "",
-        "published": "2026-09-24T22:12:48Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N20F_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Anthropic proposes supervoting shares to give co-founders majority control -report",
-        "link": "https://www.investing.com/news/stock-market-news/anthropic-proposes-supervoting-shares-to-give-cofounders-majority-control-report-4916337",
-        "summary": "",
-        "published": "2026-09-24T22:11:38Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM3F1D5_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Trump, Xi to attend state dinner after White House meeting",
-        "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-        "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-        "published": "2026-09-24T22:09:33Z",
+        "title": "China's Xi urges U.S. to cooperate on AI",
+        "link": "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+        "summary": "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+        "published": "2026-09-25T01:22:17Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "MGM discusses bid for Barry Diller’s People Inc, WSJ reports",
-        "link": "https://www.investing.com/news/stock-market-news/mgm-discusses-bid-for-barry-dillers-people-inc-wsj-reports-4916328",
-        "summary": "",
-        "published": "2026-09-24T22:06:52Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N1ZO_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
-        "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-        "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
-        "published": "2026-09-24T22:03:00Z",
-        "image": "https://images.mktw.net/im-48364873",
-        "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "WSJ Dollar Index Rises 0.19% to 96.97",
-        "link": "https://www.wsj.com/finance/currencies/asian-currencies-broadly-weaken-as-treasury-yields-surge-d5c5d1cf?mod=rss_markets_main",
-        "summary": "The WSJ Dollar Index rose 0.2% — up for five consecutive trading days.",
-        "published": "2026-09-24T22:02:00Z",
+        "title": "Tesla poised to scale production of heavy-duty Semi trucks with opening of Nevada factory",
+        "link": "https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html",
+        "summary": "Elon Musk's automaker is set to open its first heavy-duty truck factory in Sparks, Nevada, as Tesla seeks to expand its reach.",
+        "published": "2026-09-25T01:18:44Z",
         "image": null,
-        "source": "The Wall Street Journal",
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Ares fund withdrawal requests decline as private credit redemptions ease",
-        "link": "https://www.investing.com/news/stock-market-news/ares-fund-withdrawal-requests-decline-as-private-credit-redemptions-ease-4916327",
+        "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+        "link": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
+        "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
+        "published": "2026-09-25T01:12:19Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "Nikkei 225 trapped in Ichimoku cloud range: Live levels",
+        "link": "https://www.investing.com/news/stock-market-news/nikkei-225-tests-200-sma-resistance-at-65337-live-levels-93CH-4908214",
         "summary": "",
-        "published": "2026-09-24T22:00:33Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
+        "published": "2026-09-25T01:02:58Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Bond Traders Are Paying Too Much Attention to the Oil Price",
-        "link": "https://www.wsj.com/finance/investing/bond-traders-are-paying-too-much-attention-to-the-oil-price-faa6a6cb?mod=rss_markets_main",
-        "summary": "Bond yields and oil are dancing to the same tune, but in some ways that doesn’t make sense.",
-        "published": "2026-09-24T22:00:00Z",
-        "image": "https://images.wsj.net/im-52674369",
+        "title": "Here's who is attending the Trump-Xi state dinner",
+        "link": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+        "summary": "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+        "published": "2026-09-25T01:02:40Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "OpenAI to preview GPT-6 Cyber in coming weeks, Fortune reports",
+        "link": "https://www.investing.com/news/stock-market-news/openai-to-preview-gpt6-cyber-in-coming-weeks-fortune-reports-4916497",
+        "summary": "",
+        "published": "2026-09-25T01:02:25Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEM5B1QY_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Trump welcomes China’s Xi with fanfare, but no breakthroughs emerge",
+        "link": "https://www.investing.com/news/stock-market-news/trump-welcomes-xi-to-washington-looking-for-a-trade-win-4914436",
+        "summary": "",
+        "published": "2026-09-25T01:00:26Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8N0BG_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "The Robust U.S. Economy Powers Through Rate Increases and Rising Bond Yields",
+        "link": "https://www.wsj.com/finance/investing/us-economy-bond-market-0bfda8b3?mod=rss_markets_main",
+        "summary": "AI-driven growth looks resistant to higher borrowing costs, spooking Treasury investors.",
+        "published": "2026-09-25T01:00:00Z",
+        "image": "https://images.wsj.net/im-26977146",
         "source": "The Wall Street Journal",
         "section": "Markets"
       }
     ],
     "Technology": [
+      {
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+        "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports […]",
+        "published": "2026-09-25T01:25:53Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document […]",
+        "published": "2026-09-24T23:50:55Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can […]",
+        "published": "2026-09-24T23:42:39Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+        "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+        "published": "2026-09-24T23:24:33Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+        "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+        "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+        "published": "2026-09-24T22:29:48Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2271874300-1152x648.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
       {
         "title": "Microsoft puts Brad Smith in charge of communications",
         "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
@@ -364,6 +409,15 @@
         "section": "Technology"
       },
       {
+        "title": "Donald Duck's uncle was partly based on Wernher von Braun",
+        "link": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+        "summary": "Introducing the \"world-famous authority on outer space...\"",
+        "published": "2026-09-24T21:40:07Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-092426a-lg-1152x648.jpg",
+        "source": "Ars Technica",
+        "section": "Technology"
+      },
+      {
         "title": "Anonymous Men Have Turned Cyberharassment Into a Group Sport—Here’s One Woman’s Side of the Story",
         "link": "https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/",
         "summary": "This week on Uncanny Valley, we take you behind our feature on the women struggling after being targeted by the burnerverse.",
@@ -371,63 +425,36 @@
         "image": "https://media.wired.com/photos/6ab454752f4fc19ebd23c7b2/master/pass/Uncanny-Valley-Burnerverse.jpg",
         "source": "Wired",
         "section": "Technology"
-      },
-      {
-        "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-        "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
-        "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-        "published": "2026-09-24T20:45:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-        "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]",
-        "published": "2026-09-24T19:59:26Z",
-        "image": null,
-        "source": "The Verge",
-        "section": "Technology"
-      },
-      {
-        "title": "I Think I Found an AI Agent Worth the Risk",
-        "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-        "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-        "published": "2026-09-24T19:36:35Z",
-        "image": "https://media.wired.com/photos/6ab4547c6d288ac352d9673f/master/pass/Model-Behavior-AI-Worth-the-Risk-Business.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-        "link": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-        "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-        "published": "2026-09-24T19:30:42Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-1152x648.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-        "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-        "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-        "published": "2026-09-24T19:15:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-        "link": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-        "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-        "published": "2026-09-24T19:07:19Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/polymarket-mlb-all-star-game-1152x648-1790274426.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "How Trump Has Disrupted National Parks",
+        "link": "https://www.nytimes.com/2026/09/19/climate/trump-national-park-service-budget-cuts.html",
+        "summary": "Maintenance projects have been put off around the country and resources diverted to the president’s favored projects in Washington.",
+        "published": "2026-09-25T00:52:23Z",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19cli-national-parks-01-jvgk/19cli-national-parks-01-jvgk-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
+      {
+        "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+        "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+        "summary": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+        "published": "2026-09-24T23:45:08Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce2e/live/7c8182b0-b738-11f1-bc1f-3f186ca4140c.png",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery.",
+        "link": "https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html",
+        "summary": "Scientists at the company announced their first finding: a group of enzymes whose function is unknown.",
+        "published": "2026-09-24T22:12:48Z",
+        "image": "https://static01.nyt.com/images/2026/09/23/science/23SCI-ANTHROPIC-ENZYME/23SCI-ANTHROPIC-ENZYME-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Science"
+      },
       {
         "title": "Toxic waste: 'Every person that played in the pool is dead'",
         "link": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
@@ -449,7 +476,7 @@
       {
         "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
         "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
-        "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday as the 75th signatory during a signing ceremony in the nation’s largest city Abidjan, marking the largest milestone yet for the international coalition of like-minded countries committed to peaceful and responsible space exploration. “The United States and Côte d’Ivoire already cooperate on Earth,” said NASA’s Deputy Administrator […]",
+        "summary": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible exploration of the Moon, Mars, and beyond. “The United States […]",
         "published": "2026-09-24T21:27:17Z",
         "image": null,
         "source": "NASA",
@@ -472,36 +499,63 @@
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
         "source": "BBC News",
         "section": "Science"
-      },
-      {
-        "title": "A Second Judge Strikes Down New York’s Climate ‘Superfund’ Law",
-        "link": "https://www.nytimes.com/2026/09/24/climate/new-york-climate-superfund-law.html",
-        "summary": "A federal judge ruled that the new law, which would force fossil fuel companies to pay $75 billion to help cover the costs of climate change, was unconstitutional.",
-        "published": "2026-09-24T19:23:03Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24cli-superfund-mkbh/24cli-superfund-mkbh-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "Suicide Rate Dropped Slightly in 2024, C.D.C. Finds",
-        "link": "https://www.nytimes.com/2026/09/23/well/mind/suicide-rate-2024-cdc.html",
-        "summary": "Suicide deaths have often fluctuated over the years but a sustained downward trend remains elusive.",
-        "published": "2026-09-24T18:40:42Z",
-        "image": "https://static01.nyt.com/images/2026/09/23/well/23WELL-CDC-SUICIDE-NUMBERS1/23WELL-CDC-SUICIDE-NUMBERS1-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-        "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
-        "published": "2026-09-24T18:01:45Z",
-        "image": "https://www.youtube.com/embed/pvxsvdgSZaI",
-        "source": "NASA",
-        "section": "Science"
       }
     ],
     "Sports": [
+      {
+        "title": "US edge opening session of Presidents Cup",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cm62k9gx9j37o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US begin their bid to win an 11th consecutive Presidents Cup by opening up a 3-2 lead over the International team on day one.",
+        "published": "2026-09-24T22:56:19Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cecb/live/b7eceab0-b869-11f1-9c87-39f93ad008c3.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
+        "link": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
+        "summary": "At least Germany can be sure it will not be dull. Jürgen Klopp had predicted his debut as head coach could be wild, a trait he would accept as long as his team were lively enough. Both transpired in a frayed, pinball-like game whose lack of quality could be forgiven on account of its entertainment levels. The Netherlands more than merited a brilliant late equaliser from Cody Gakpo and by the time those present had drawn breath it felt appropriate that, for all the talk of new dawns, everyone finished back where they had started. World domination is a far-off prospect for both of these flailing giants on such scrappy, frenetic evidence. But at least those with a stake in this famous old fixture, largely shorn of the spite and spit that defined it of old, could come away feeling something. Restoring those essential sensations of joy, pain and meaning sits at the very top of Klopp’s priorities. Germany looked raw and scattergun for long periods, reined in only by their lack of technical aptitude, but there were signs of an energy that had long been missing. Continue reading...",
+        "published": "2026-09-24T22:39:11Z",
+        "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&quality=85&auto=format&fit=max&s=e5bc0fa4b4907c68f97305f244829686",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Bellamy wants more from Wales after loss to Portugal",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c63eqkdnvkq8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Craig Bellamy believes there is \"more to come\" from his Wales side in the Nations League following their opening-match loss in Lisbon.",
+        "published": "2026-09-24T22:28:33Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/f017e350-b85e-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "NBA's first MVP Pettit dies aged 93",
+        "link": "https://www.bbc.co.uk/sport/basketball/articles/c52e0l1lxl4ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Bob Pettit, one of the earliest stars of the NBA and the first man to win the MVP award, has died aged 93.",
+        "published": "2026-09-24T22:27:55Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b6/live/930c0710-b866-11f1-a665-1bcd19a2555e.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Man Utd borrow another £90m as debt tops £1.1bn",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall debt to more than £1.1bn.",
+        "published": "2026-09-24T22:22:43Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "‘Outplayed’: Mitch Marsh rues Australia’s ODI capitulation to South Africa",
+        "link": "https://www.theguardian.com/sport/2026/sep/25/south-africa-australia-first-odi-report",
+        "summary": "South Africa 297-8; Australia 230 | South Africa win by 67 runs Captain’s blistering 60 not enough to topple hosts in Durban Mitch Marsh could not hide his dismay at how Australia capitulated tamely in their opening ODI in South Africa, succumbing to a 67-run defeat after a succession of cheap dismissals in a sorry run chase at Durban. Stand-in skipper Marsh himself seemed to have laid the foundations for victory with his blistering opening knock of 60, but after he had perished needlessly to the spinning wiles of Kehav Maharaj, none of his team could cement the partnerships to get them anywhere near the hosts’ 298-run target. Continue reading...",
+        "published": "2026-09-24T22:14:21Z",
+        "image": "https://i.guim.co.uk/img/media/0c64822516bcbe9c7666311636f6411a88eb471b/454_0_3544_2836/master/3544.jpg?width=140&quality=85&auto=format&fit=max&s=0433aac19d1b3113f57e8b2d385b88ea",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
       {
         "title": "Uefa fears impact of Premier League spending on transfer market",
         "link": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
@@ -519,63 +573,27 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/2ce7a380-b862-11f1-93a5-e363768bffbc.jpg",
         "source": "BBC Sport",
         "section": "Sports"
-      },
-      {
-        "title": "Israel’s Saied Abu Farchi sent off for gun gesture celebration in defeat by Austria",
-        "link": "https://www.theguardian.com/football/2026/sep/24/israel-saied-abu-farchi-sent-off-gun-gesture-celebration-austria-nations-league",
-        "summary": "Forward uses corner flag to simulate gun after equaliser Nations League match ends in 3-1 loss for Israel Israel’s forward Saied Abu Farchi was ⁠sent off for celebrating his goal against Austria in ⁠his side’s 3-1 ​Nations League defeat on Thursday by using the corner ⁠flag to simulate a gun. Abu Farchi headed home in the 55th ⁠minute to bring Israel level after ​Austria had ‌taken the lead ‌through a Romano Schmid penalty before ‌half-time at the Raiffeisen Arena in Linz. Continue reading...",
-        "published": "2026-09-24T21:55:52Z",
-        "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&quality=85&auto=format&fit=max&s=f9b23bf35d01013b8576f59f53c93a53",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel.",
-        "published": "2026-09-24T21:40:37Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
-        "link": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
-        "summary": "Barcelona winger says England cannot play like Spain Gordon: ‘The Mexico game set us up a bit’ Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through possession is not part of English football’s DNA. Although Gordon revealed surprise at being substituted when England were 1-0 up in their World Cup semi-final against Argentina , the winger refused to blame the defeat on Tuchel’s decisions and argued that wider cultural issues influenced the side’s collapse. England’s perennial struggle to keep the ball when under pressure flared when a place in the final was within touching distance in July, allowing Argentina to fight back and go through with two late goals. The pain has not gone away and there has been intense scrutiny of Tuchel’s role in Atlanta. The head coach’s tactical choices were criticised and he faced a backlash after saying “ball possession” was not in his team’s DNA. Continue reading...",
-        "published": "2026-09-24T21:30:08Z",
-        "image": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=140&quality=85&auto=format&fit=max&s=fa1302581c9fae51d6508f9dd818bf1f",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Felix gives Portugal win over Wales in Nations League opener",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Watch the best of the action as Portugal beat Wales 1-0 in Lisbon in the Nations League",
-        "published": "2026-09-24T21:09:33Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98f/live/8c586740-b859-11f1-b1d1-571ed4d7ff2c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
-        "link": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
-        "summary": "Jürgen Klopp had predicted his bow as Germany manager could be wild, a trait he would accept as long as his team looked lively. He got both in a strange, frayed and at times alarmingly pinball-like game that ended with a dramatic Netherlands equaliser and mounting injury worries. Felix Nmecha’s first-half goal, scored to the chagrin of opponents who felt play should have stopped with Brian Brobbey requiring treatment, seemed to have provided an early shot of positivity. But a brilliant added-time strike from Cody Gakpo, volleyed in from Ruben van Bommel’s delicious cross, earned the home side a deserved draw to the delight of their debutant head coach Xavi. The fitness of Jamal Musiala and Kai Havertz, who both pulled up lame, may be a longer-term preoccupation for Klopp than this skittish defensive display and will set alarm bells ringing at their clubs. Continue reading...",
-        "published": "2026-09-24T20:59:30Z",
-        "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&quality=85&auto=format&fit=max&s=e5bc0fa4b4907c68f97305f244829686",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "João Félix strike for Portugal enough to sink Wales but Ronaldo fever falls flat",
-        "link": "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report",
-        "summary": "There was a comic-strip feel to another eventful evening in the world of Cristiano Ronaldo. Where to start? It was the 67th minute when his No 7 went up on the fourth official’s board, prompting Ronaldo to remove the captain’s armband from his left bicep before departing to a universal ovation, but for the pocket of Wales supporters. The referee, Donatas Rumsas, hurried him off the pitch but Ronaldo, his hair glazed copper, was presumably ruminating on a series of missed chances, a sitter from a few yards at the start of the second half, and a disallowed goal. The grandiose “Siu” celebration went to waste, though try telling that to the locals who worship him. In the end, Portugal earned a narrow Nations League victory courtesy of another Al-Nassr forward, João Félix’s first-half strike from the edge of the box beating Danny Ward in the Wales goal. Nuno Mendes, among the Portugal players who passed up chances, moved infield and located João Félix, who 20 yards from goal sent a shot in via a nick off the Wales captain, Ben Davies. The Wales squad is thin and many of those who started here have been lightly raced of late but they could have snatched an equaliser when Brennan Johnson hit the crossbar and Rúben Dias desperately denied Lewis Koumas. Continue reading...",
-        "published": "2026-09-24T20:55:15Z",
-        "image": "https://i.guim.co.uk/img/media/a345cbed7acaff2fdd5549aedcda8bccd5328618/80_0_4249_3400/master/4249.jpg?width=140&quality=85&auto=format&fit=max&s=92bab8cee8c9e1e0cccea65d0c7f36b6",
-        "source": "The Guardian",
-        "section": "Sports"
       }
     ],
     "Culture": [
+      {
+        "title": "‘Unabomber’ Review: A Not-So-Beautiful Mind",
+        "link": "https://www.nytimes.com/2026/09/24/movies/unabomber-review-a-not-so-beautiful-mind.html",
+        "summary": "Russell Crowe and Jacob Tremblay add welcome intrigue to this bifurcated true-crime drama.",
+        "published": "2026-09-25T01:00:04Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Ai Weiwei unveils his epic new Australian work: ‘90% of art is just garbage. Real art questions the existing order’",
+        "link": "https://www.theguardian.com/artanddesign/2026/sep/25/ai-weiwei-unveils-mushrooms-new-public-artwork-tallawoladah-lawn-sydney-mca",
+        "summary": "From his farm in Portugal, the acclaimed artist speaks about war, peace, the state of the world – and his 40 metre sculpture Mushrooms, on Sydney Harbour “It’s like a film set. Like it’s not real,” the bemused Uber driver says as we pass through a succession of silent rural villages washed with milky sunlight. He’s right: signs of human life are weirdly absent during our windy journey through the Alentejo. I’m making my way to Ai Weiwei’s secluded farm, nestled deep in the Portuguese countryside, where arguably the world’s best known living artist has quietly lived for the last six years. When I arrive, I am ushered inside a vast cathedral of a building, a replica of Ai’s erstwhile, and controversially demolished , studio in Shanghai. The space is cavernous. It’s gridded by huge wooden columns and its dizzyingly high ceilings are webbed with beams. There is no artwork on the walls, nor are there any obvious signs of production or activity. Continue reading...",
+        "published": "2026-09-25T00:00:33Z",
+        "image": "https://i.guim.co.uk/img/media/3c6536bb8263c9a4f4883e049d1f7de247ef5e5a/144_0_1707_1366/master/1707.jpg?width=140&quality=85&auto=format&fit=max&s=f4f899a24de906cb1ed0d8f25fe9674c",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
       {
         "title": "Catherine Zeta-Jones bases new role on funny Welsh people she knows",
         "link": "https://www.bbc.co.uk/news/articles/cq2e0lr39dv7o?at_medium=RSS&at_campaign=rss",
@@ -627,24 +645,6 @@
         "summary": "When a B-25 bomber crashed into the Empire State Building in 1945, a Times photographer leaned far out to get close up.",
         "published": "2026-09-24T19:33:43Z",
         "image": "https://static01.nyt.com/images/2026/09/27/multimedia/0927-EYEWITNESS-SISTO-1/00-175-PROJECTS-EYEWITNESS-SISTO-04-lcgp-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Taylor Swift Announces ‘The Life of a Showgirl: The Encore,’ Featuring 4 New Songs",
-        "link": "https://www.nytimes.com/2026/09/23/arts/music/taylor-swift-life-of-a-showgirl-encore.html",
-        "summary": "“The Life of a Showgirl: The Encore,” featuring four new songs, will release on Friday.",
-        "published": "2026-09-24T18:43:28Z",
-        "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23cul-new-music-bqtj/23cul-new-music-bqtj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "What to Know About a Federal Film Tax Credit",
-        "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credits.html",
-        "summary": "There is bipartisan support behind a bill that is meant to lure movie and TV production back to the United States.",
-        "published": "2026-09-24T18:31:22Z",
-        "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24cul-film-taxcredit-explainer-pzml/24cul-film-taxcredit-explainer-pzml-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       }
