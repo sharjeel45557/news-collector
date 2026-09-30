@@ -1,651 +1,651 @@
 {
-  "generated": "2026-09-30T06:41:45Z",
+  "generated": "2026-09-30T13:41:22Z",
   "lead": {
-    "title": "Australia news live: five-year-old seriously injured after being struck by ebike rider in Sydney",
-    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
-    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in our cultural institutions in this country. Children should go to school to get evidence-based education, not to be brainwashed by fossil fuel corporations seeking to build social licence. Continue reading...",
-    "published": "2026-09-30T06:33:19Z",
-    "image": "https://i.guim.co.uk/img/media/a3330cc755b106fe79451aa20e59760c6ea208f7/1814_419_6109_4890/master/6109.jpg?width=140&quality=85&auto=format&fit=max&s=fd1c0c6481da770a24f6eef9ad7cda92",
-    "source": "The Guardian",
+    "title": "Live Updates: Pilot May Have Attempted to Crash Flight to Israel, Netanyahu Says",
+    "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+    "summary": "One pilot stabbed another during a flight from Dubai to Tel Aviv, forcing the plane to make an emergency landing in Saudi Arabia, Prime Minister Benjamin Netanyahu said. The motive for the attack was not immediately clear.",
+    "published": "2026-09-30T13:37:08Z",
+    "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-0750ET-kpgt/30israel-plane-0750ET-kpgt-mediumSquareAt3X.jpg",
+    "source": "The New York Times",
     "section": "World"
   },
   "top": [
     {
-      "title": "UK economy ‘slightly larger’ than previously estimated after April-June growth revised up – business live",
+      "title": "Major car rivals are teaming up to solve the biggest EV roadblock: Reliable charging",
+      "link": "https://www.marketwatch.com/story/major-car-rivals-are-teaming-up-to-solve-the-biggest-ev-roadblock-reliable-charging-a11b70c0?mod=mw_rss_topstories",
+      "summary": "A coalition of carmakers says that in nine months, it has doubled the number of charging ports it offers — although its network size still pales in comparison to Tesla’s.",
+      "published": "2026-09-30T13:37:00Z",
+      "image": "https://images.mktw.net/im-70850351",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
+      "link": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
+      "summary": "In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.",
+      "published": "2026-09-30T13:36:53Z",
+      "image": "https://static01.nyt.com/images/2026/09/30/world/30biz-china-ai-DeepSeek/30biz-china-ai-DeepSeek-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
+      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+      "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+      "published": "2026-09-30T13:33:00Z",
+      "image": "https://images.mktw.net/im-91472337",
+      "source": "MarketWatch",
+      "section": "Markets"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+      "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+      "summary": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+      "published": "2026-09-30T13:40:09Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Fed’s Preferred Inflation Gauge Points to Continued Price Pressures",
+      "link": "https://www.nytimes.com/2026/09/30/business/pce-inflation-fed-interest-rates.html",
+      "summary": "The Personal Consumption Expenditures price index showed little sign of easing in August, though revised data showed inflation had been slightly cooler than previously believed.",
+      "published": "2026-09-30T13:32:23Z",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30dc-pce-vgmc/30dc-pce-vgmc-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+      "published": "2026-09-30T13:30:00Z",
+      "image": "https://images.mktw.net/im-88944109",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "Gold Rises But Still Headed for Monthly Loss",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-markets-await-u-s-economic-data-f233fc21?mod=rss_markets_main",
+      "summary": "Gold prices extended gains, supported by an easing dollar and falling U.S. Treasury yields, but remained on track for a monthly loss of more than 6%.",
+      "published": "2026-09-30T13:29:00Z",
+      "image": null,
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "Israeli minister claims ‘terrorist’ wanted to crash plane after Tel Aviv-bound flight’s emergency landing – latest",
+      "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+      "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots Full report: Israel-bound passenger plane makes emergency landing in Saudi Arabia A second FlyDubai flight from Dubai to Tel Aviv landed safely at its destination after the tracking data website Flightradar24 initially showed the plane diverting back towards the UAE. Flight FZ1081 was later shown to be on its way to Israel, where it landed in Tel Aviv this afternoon. There was no immediate comment from Flightradar24. Continue reading...",
+      "published": "2026-09-30T13:28:56Z",
+      "image": "https://i.guim.co.uk/img/media/dd8e6f7f0e37fbfeab727848d2e30203b218a290/0_0_1253_1002/master/1253.jpg?width=140&quality=85&auto=format&fit=max&s=c6b8ec672c6cd40b2f49f8aa6efa316a",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "South Africa v Australia: third men’s one-day international – live",
+      "link": "https://www.theguardian.com/sport/live/2026/sep/30/south-africa-v-australia-third-mens-odi-live",
+      "summary": "Updates from the ODI match at NWC Oval Start time in Potchefstroom is 1.30pm local/9.30pm AEST Any thoughts? Get in touch with an email 2nd over: Australia 10-0 (Marsh 5, Head 5) And the quiet times lasted one over! First Head, then Marsh, play pull shots from Williams for four. 1st over: Australia 0-0 (Marsh 0, Head 0) A maiden over to begin the match. That’s quite something from Coetzee, who has got the ball swerving around the place like a remote-controlled plane. There has been early swing in this series, before the belting of the ball begins. Marsh is happy to wait, defending stoutly. Continue reading...",
+      "published": "2026-09-30T13:25:06Z",
+      "image": "https://i.guim.co.uk/img/media/d438ce9780a5413bc818e6ee8273864e769871c8/1414_583_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=e1f86658cad2464e4bc69629e737b316",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+      "summary": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
+      "published": "2026-09-30T13:24:00Z",
+      "image": "https://images.mktw.net/im-50178024",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
+      "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+      "summary": "Some investors worry that AI agents pose a risk to Amazon, but a Rosenblatt analyst thinks the company “can navigate this period of transition largely unaffected.”",
+      "published": "2026-09-30T13:24:00Z",
+      "image": "https://images.mktw.net/im-49250014",
+      "source": "MarketWatch",
+      "section": "Markets"
+    },
+    {
+      "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-      "summary": "Rolling coverage of the latest economic and financial news Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war continues through the coldest months of winter. The government’s cap on energy prices is poised to jump by 16% to the equivalent of £1,999 for the average annual dual-fuel bill in a further blow to struggling households, according to figures from the leading forecaster Cornwall Insight. “Consumer spending growth remained at the previous estimate of 0.3%, but business investment growth was revised up to 1.8%. That offers at least some evidence that the UK may be starting to catch the AI-driven investment wave very visible in the US.” Continue reading...",
-      "published": "2026-09-30T06:34:03Z",
+      "summary": "UK cements its place as fastest-growing G7 country so far this year This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later. Chris Beauchamp , chief market analyst at IG , says: “Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister. The highest growth in the G7 for the first half is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.” The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes. The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%). “The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%. “However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter. “Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter. This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods. Continue reading...",
+      "published": "2026-09-30T13:22:34Z",
       "image": "https://i.guim.co.uk/img/media/c413dd6eaf66a5ad05a6b46f5d2ad27f6063ccb6/2380_0_4975_3982/master/4975.jpg?width=140&quality=85&auto=format&fit=max&s=96abf0337f1a9294a83f13bb86c64f19",
       "source": "The Guardian",
       "section": "Business"
     },
     {
-      "title": "Orionid meteor shower to streak across night sky this week",
-      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
-      "published": "2026-09-30T06:32:14Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95d/live/36a60d80-bb3c-11f1-a9b8-670e5d9d8eee.jpg",
-      "source": "BBC News",
-      "section": "Science"
-    },
-    {
-      "title": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
-      "published": "2026-09-30T06:26:34Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/311a/live/b24e22b0-bc40-11f1-8666-b5dc4bdc94cb.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Energy bills in Great Britain forecast to jump by £276 a year from January",
-      "link": "https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war",
-      "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill as impact of Iran war puts squeeze on homes Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war continues through the coldest months of winter. The government’s cap on energy prices is poised to jump by 16% to the equivalent of £1,999 for the average annual dual-fuel bill in a further blow to struggling households, according to figures from the leading forecaster Cornwall Insight. Continue reading...",
-      "published": "2026-09-30T06:17:33Z",
-      "image": "https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1271_90_6628_5303/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=3fd08f9b71c4eb82e044c4ad166394d6",
-      "source": "The Guardian",
+      "title": "Why Israel is interfering in Palestinian education",
+      "link": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+      "summary": "The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.",
+      "published": "2026-09-30T13:22:33Z",
+      "image": null,
+      "source": "Al Jazeera",
       "section": "World"
-    },
-    {
-      "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
-      "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
-      "summary": "",
-      "published": "2026-09-30T06:17:24Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Six tech and healthcare picks up 18%–32% this month - the leader is up 34%",
-      "link": "https://www.investing.com/news/stock-market-news/six-tech-and-healthcare-picks-up-1832-this-month--the-leader-is-up-34-4924141",
-      "summary": "",
-      "published": "2026-09-30T06:14:39Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Half a million trees to be planted in England in three years, says government",
-      "link": "https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle",
-      "summary": "Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weather Half a million trees will be planted across England in the next three years to protect against extreme weather, the environment secretary, Angela Eagle, will pledge on Wednesday morning. Mayors, local authorities, charities and grassroots groups will be given new funding and responsibilities for restoring natural landscapes such as wetlands, river edges and meadows, which can provide natural flood management and reduce the damage done by droughts. Continue reading...",
-      "published": "2026-09-30T06:08:17Z",
-      "image": "https://i.guim.co.uk/img/media/9180db3f9519fc2a08e087c42137e2e6b47f08f1/656_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=840d98e82db62a5a6e36d07e174178d7",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "The part-timers who won three Wembley finals in a row",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&at_campaign=rss",
-      "summary": "You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.",
-      "published": "2026-09-30T06:07:28Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58b/live/3b41aaf0-bb16-11f1-bc1f-3f186ca4140c.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Why is SoftBank Group stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4924136",
-      "summary": "",
-      "published": "2026-09-30T06:07:18Z",
-      "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Asian Equities Mostly Rise as Reduced Fed Rate-Hike Prospects Bolster Risk Appetite",
-      "link": "https://www.wsj.com/finance/investing/asian-equities-mostly-rise-as-reduced-fed-rate-hike-prospects-bolster-risk-appetite-ee03b720?mod=rss_markets_main",
-      "summary": "Asian equities mostly rose while bond yields eased, as diminished expectations for Federal Reserve rate hikes in the near term boosted risk appetite and paused the climb in U.S. Treasury yields.",
-      "published": "2026-09-30T06:06:00Z",
-      "image": "https://images.wsj.net/im-45267472",
-      "source": "The Wall Street Journal",
-      "section": "Markets"
-    },
-    {
-      "title": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
-      "link": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
-      "summary": "Kuala Lumpur plans to send a total of 5,000 Myanmar nationals back to the war-torn country despite persecution concerns Malaysia began sending back about 1,500 Myanmar nationals on Tuesday, the government confirmed, as it launched a scheme that rights groups say may endanger migrants and asylum seekers by returning them to the war-torn country. The group is the first of 5,000 Myanmar citizens that Kuala Lumpur says agreed to “voluntary” repatriation from detention centres amid a huge uptick in anti-migrant sentiment in Malaysia. Continue reading...",
-      "published": "2026-09-30T06:05:11Z",
-      "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232",
-      "source": "The Guardian",
-      "section": "World"
-    },
-    {
-      "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.12%",
-      "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-112-4924133",
-      "summary": "",
-      "published": "2026-09-30T06:05:04Z",
-      "image": "https://content-media.investing.com/news/LYNXMPED6O07Z_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Flex your football brain with our daily quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckrerle810geo?at_medium=RSS&at_campaign=rss",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "published": "2026-09-30T06:02:43Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC Sport",
-      "section": "Sports"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Energy bills in Great Britain forecast to jump by £276 a year from January",
-        "link": "https://www.theguardian.com/money/2026/sep/30/energy-bills-great-britain-forecast-to-rise-iran-war",
-        "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill as impact of Iran war puts squeeze on homes Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war continues through the coldest months of winter. The government’s cap on energy prices is poised to jump by 16% to the equivalent of £1,999 for the average annual dual-fuel bill in a further blow to struggling households, according to figures from the leading forecaster Cornwall Insight. Continue reading...",
-        "published": "2026-09-30T06:17:33Z",
-        "image": "https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1271_90_6628_5303/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=3fd08f9b71c4eb82e044c4ad166394d6",
+        "title": "Israeli minister claims ‘terrorist’ wanted to crash plane after Tel Aviv-bound flight’s emergency landing – latest",
+        "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+        "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots Full report: Israel-bound passenger plane makes emergency landing in Saudi Arabia A second FlyDubai flight from Dubai to Tel Aviv landed safely at its destination after the tracking data website Flightradar24 initially showed the plane diverting back towards the UAE. Flight FZ1081 was later shown to be on its way to Israel, where it landed in Tel Aviv this afternoon. There was no immediate comment from Flightradar24. Continue reading...",
+        "published": "2026-09-30T13:28:56Z",
+        "image": "https://i.guim.co.uk/img/media/dd8e6f7f0e37fbfeab727848d2e30203b218a290/0_0_1253_1002/master/1253.jpg?width=140&quality=85&auto=format&fit=max&s=c6b8ec672c6cd40b2f49f8aa6efa316a",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Half a million trees to be planted in England in three years, says government",
-        "link": "https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle",
-        "summary": "Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weather Half a million trees will be planted across England in the next three years to protect against extreme weather, the environment secretary, Angela Eagle, will pledge on Wednesday morning. Mayors, local authorities, charities and grassroots groups will be given new funding and responsibilities for restoring natural landscapes such as wetlands, river edges and meadows, which can provide natural flood management and reduce the damage done by droughts. Continue reading...",
-        "published": "2026-09-30T06:08:17Z",
-        "image": "https://i.guim.co.uk/img/media/9180db3f9519fc2a08e087c42137e2e6b47f08f1/656_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=840d98e82db62a5a6e36d07e174178d7",
+        "title": "Why Israel is interfering in Palestinian education",
+        "link": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+        "summary": "The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.",
+        "published": "2026-09-30T13:22:33Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+        "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+        "summary": "Students have been protesting against conditions and resources in secondary schools since last week.",
+        "published": "2026-09-30T13:18:01Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d901/live/a477e710-bc46-11f1-a76b-c53c7866f2b5.jpg",
+        "source": "BBC News",
+        "section": "World"
+      },
+      {
+        "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+        "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+        "summary": "Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?",
+        "published": "2026-09-30T13:14:39Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Moth Swarms Sweep Across Australia. That’s Good News.",
+        "link": "https://www.nytimes.com/2026/09/30/world/australia/bogong-moth-migration.html",
+        "summary": "Bogong moths have been in decline since the 1980s, but this spring the insects have been sighted in the thousands across southeastern Australia, delighting scientists.",
+        "published": "2026-09-30T13:10:47Z",
+        "image": null,
+        "source": "The New York Times",
+        "section": "World"
+      },
+      {
+        "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+        "summary": "Chief of defence of the Dutch armed forces, Gen Onno Eichelsheim, says Europe urgently needs to learn lessons from Ukraine Meanwhile, Ukraine’s total war costs will reach $155bn this year and ⁠the government is ​struggling to close a $27bn funding gap to ensure it can still conduct combat operations at the start of 2027, prime minister Sergii Koretskyi said . Koretskyi said the ⁠government planned to cover $7bn of the gap by postponing expenditure, reallocating money from other parts of the budget and cutting some costs, and was in talks with partners on how to cover ⁠the remaining $20bn, Reuters reported. Continue reading...",
+        "published": "2026-09-30T13:09:26Z",
+        "image": "https://i.guim.co.uk/img/media/45398104dea14793129a35a633a60c2cb97118d1/290_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=2aa55540d8a5f1e8f130ffb3616cba88",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Malaysia begins Myanmar repatriations despite warnings from UN and rights groups",
-        "link": "https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups",
-        "summary": "Kuala Lumpur plans to send a total of 5,000 Myanmar nationals back to the war-torn country despite persecution concerns Malaysia began sending back about 1,500 Myanmar nationals on Tuesday, the government confirmed, as it launched a scheme that rights groups say may endanger migrants and asylum seekers by returning them to the war-torn country. The group is the first of 5,000 Myanmar citizens that Kuala Lumpur says agreed to “voluntary” repatriation from detention centres amid a huge uptick in anti-migrant sentiment in Malaysia. Continue reading...",
-        "published": "2026-09-30T06:05:11Z",
-        "image": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=140&quality=85&auto=format&fit=max&s=2449c5f8eaadceba9e89b9521d583232",
+        "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+        "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+        "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’s influence, and risks casting a shadow over UK-China cooperation at a time when the bilateral relationship is enjoying a revival. The UK’s domestic security service on Wednesday warned researchers and academics to cease work with the China Academy of General Technology (CAGT), an organisation MI5 described as a “significant threat”. Continue reading...",
+        "published": "2026-09-30T13:07:24Z",
+        "image": "https://i.guim.co.uk/img/media/cdde4efea06e37ebe5d234a8044fbbcd0be57a1b/409_0_2697_2158/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=27aaed43b36c48b1c182127ad1b66acc",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "World’s seas heated by a record 23 zettajoules last year",
-        "link": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
-        "summary": "The injection of thermal energy, 40 times that used by humanity in total, comes amid an increasing rise in sea levels and continuing acidification A record-breaking 23 zettajoules of heat was sunk into the world’s seas last year, leaving ocean waters hotter, higher and less hospitable, a report has found. The explosive addition of thermal energy, which was almost 40 times greater than all the energy humanity used that year, comes amid far-reaching changes to the deep water bodies fundamental to life on Earth. Continue reading...",
-        "published": "2026-09-30T06:00:13Z",
-        "image": "https://i.guim.co.uk/img/media/2bdc72b5bc11ccf5d1859f17fd5d425d21944b92/1093_0_5466_4373/master/5466.jpg?width=140&quality=85&auto=format&fit=max&s=bb495ba2af8b9dd353841ce4469bc6ab",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Menopause supplements costing more than £400 a year ‘no better than cheap multivitamin’",
-        "link": "https://www.theguardian.com/society/2026/sep/30/menopause-supplements-no-better-than-multivitamin-which",
-        "summary": "Many products aimed at women over 45 lack meaningful quantities of key nutrients, consumer watchdog Which? found Menopause supplements costing more than £400 a year are no better than a £22-a-year multivitamin, according to analysis by the consumer watchdog Which?. Which? found that many popular supplements that are aimed at women over 45 going through menopause or perimenopause lack meaningful quantities of key nutrients, yet cost 20 times more than standard multivitamins. Continue reading...",
-        "published": "2026-09-30T06:00:11Z",
-        "image": "https://i.guim.co.uk/img/media/f423c7ff9402d466eece57419aca2080bc7930d8/722_0_7216_5773/master/7216.jpg?width=140&quality=85&auto=format&fit=max&s=957491b78a8e87409f065b6fb0c80e66",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
-        "link": "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
-        "summary": "In today’s newsletter: ​At Labour conference members are basking in the glow of the Burnham bounce. But beneath the enthusiasm lies a growing sense that delivery must follow hopeful messaging Good morning from Liverpool (and hello again to the newsletter subscribers I met in person, as I took First Edition on tour to Labour party conference). It’s the first gathering of the party faithful since Andy Burnham ousted Keir Starmer in July, in what I’ve heard delicately referred to as a “soft coup”, and the theme of this conference is “Hope again.” UK news | One of the five men arrested near RAF Fairford as part of a terror investigation that prompted fears of an Iran-backed plot called the police to report the incident . The call from the man, in his 20s and from London, was one reason armed police were scrambled to arrest the men. Football | The Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than £900m. France | More than 400 people, most of them children, have been detained in France on Tuesday after teenagers across the country blockaded their schools in protest at class sizes, teacher shortages and long timetables. US politics | The Trump administration can resume quickly deporting immigrants to a “third countries” , or countries other than those immigrants’ homeland, without giving them any opportunity to contest their removals, the supreme court ruled on Tuesday. UK news | A six-month trial of live facial recognition technology in London’s railway stations cost more than £320,000 and led to one false match against a watchlist of suspects and no arrests. Continue reading...",
-        "published": "2026-09-30T05:59:53Z",
-        "image": "https://i.guim.co.uk/img/media/6e8a1c247e65f98875f42ff17245ad083fd2db61/388_0_4736_3789/master/4736.jpg?width=140&quality=85&auto=format&fit=max&s=894af4586ff8dba3f86818ae817087e9",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Approval of biggest coal project in NSW planning commission’s history described as ‘infamous betrayal’",
-        "link": "https://www.theguardian.com/australia-news/2026/sep/30/hunter-valley-coal-project-singleton-ipc-planning-decision",
-        "summary": "Independent Planning Commission says climate change impacts from Hunter Valley project will be ‘outweighed’ by economic benefits Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The New South Wales independent planner has approved the biggest coalmine project to ever go before it, allowing mining to continue until 2045 at a Hunter Valley project described by climate groups as a “carbon bomb”. The Independent Planning Commission (IPC) has greenlit the Hunter Valley Operations (HVO) Continuation Project after a contentious assessment that drew in climate and environment groups, unions, state authorities and more than 10,000 public submissions. Continue reading...",
-        "published": "2026-09-30T05:48:20Z",
-        "image": "https://i.guim.co.uk/img/media/c1983bb97d7b3afbead813cd8443ac0ec20a0751/1196_0_2832_2266/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=8f1c8fc8c5140d76bc3b6fda036eeaa9",
-        "source": "The Guardian",
-        "section": "World"
-      },
-      {
-        "title": "Double beds, aircon and big-screen TVs: Indonesia suspends officials over luxury prison cells",
-        "link": "https://www.theguardian.com/world/2026/sep/30/indonesia-prison-officials-suspended-luxury-apartments-prisoners",
-        "summary": "Indonesia’s prisons have long faced allegations that well-connected inmates can obtain preferential treatment through bribery Five Indonesian prison officials have been suspended after investigators found an apartment-style compound complete with airconditioners, big-screen televisions and expensive cars allegedly used by inmates at a prison near Jakarta. “We found strong indications that certain prisoners had access to special facilities unavailable to ordinary prisoners,” said Syafrida Rachmawati Rasahan, a member of Indonesia’s ombudsman, on Tuesday. “We encountered prisoners inside the residential compound and discovered facilities resembling home stays, apartments and villas rather than prison housing.” Continue reading...",
-        "published": "2026-09-30T05:27:22Z",
-        "image": "https://i.guim.co.uk/img/media/8191733e961c4cf8ba128c7218b7128587cd5350/0_250_1510_1208/master/1510.jpg?width=140&quality=85&auto=format&fit=max&s=9a5dccfecbbf4327fd29925bf3804191",
+        "title": "Grenfell fire police investigators hand files on 20 firms and 54 people to CPS",
+        "link": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
+        "summary": "Met calls move ‘milestone’ moment that paves way for ‘very best possible evidence for charging decisions’ Police investigating the 2017 Grenfell Tower fire have handed over files of evidence relating to 20 companies and 54 individuals to prosecutors. The Metropolitan police described the move as a “milestone” moment that paved the way for what it said would be “the very best possible evidence for charging decisions”. Continue reading...",
+        "published": "2026-09-30T13:05:24Z",
+        "image": "https://i.guim.co.uk/img/media/08fa0b35f5fbebc8400b2540d9fc370a9df1c1ff/270_0_4694_3755/master/4694.jpg?width=140&quality=85&auto=format&fit=max&s=7ec2a5ef892e12b45e923ffe57653975",
         "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "‘Delays are always welcome’: 10 of the best railway station pubs in the UK",
-        "link": "https://www.theguardian.com/travel/2026/sep/30/best-renovated-railway-station-pubs-uk",
-        "summary": "Converted from Victorian buffet bars, ticket offices and waiting rooms, these station pubs offer beautifully restored interiors, real ales and a slice of railway history No prizes for guessing what this pub used to be… The Old Ticket Office has high ceilings, walls painted shades of locomotive green and booths resembling train carriages; there are outdoor tables on Station Square. A live train departures board theoretically prevents passengers lingering too long, and a canning machine means any draught beer is also available to take away (the hatch on platform 4 also does takeaway orders). There are five handpulls plus Young’s usual spritz menu and other drinks, plus light bites and pizzas. The pub is currently closed for roof repairs and expected to reopen by the end of October. Continue reading...",
-        "published": "2026-09-30T06:00:12Z",
-        "image": "https://i.guim.co.uk/img/media/00c9c03cd69596e1d2661ef3e0c06448e07dddc8/268_0_1665_1333/master/1665.jpg?width=140&quality=85&auto=format&fit=max&s=3529c4324b432acbbd45e0d083cbe22d",
+        "title": "Fed’s Preferred Inflation Gauge Points to Continued Price Pressures",
+        "link": "https://www.nytimes.com/2026/09/30/business/pce-inflation-fed-interest-rates.html",
+        "summary": "The Personal Consumption Expenditures price index showed little sign of easing in August, though revised data showed inflation had been slightly cooler than previously believed.",
+        "published": "2026-09-30T13:32:23Z",
+        "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30dc-pce-vgmc/30dc-pce-vgmc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – business live",
+        "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
+        "summary": "UK cements its place as fastest-growing G7 country so far this year This morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office until almost a month later. Chris Beauchamp , chief market analyst at IG , says: “Still on a post-speech high, the upgraded figure is yet more good news for the UK’s still-new(ish) prime minister. The highest growth in the G7 for the first half is certainly a headline and one that will help keep nervous MPs in line for a while, plus it helps take off pressure for a new election - why risk it now when things appear to be improving nicely.” The upward revision to real GDP growth in Q2, from 0.4% q/q to 0.5% q/q, suggests that the economy has been a bit more resilient to higher energy prices in the first half of the year than previously thought. This resilience may continue into Q3, but we still expect it to fade in Q4 as higher inflation takes a bigger bite out of households’ real incomes. The 0.5% q/q gain in Q2 real GDP followed unrevised growth of 0.6% q/q in Q1, with the breakdown still showing that the economy is no longer being heavily supported by government spending, which contracted by 0.5% q/q (revised down from -0.3%). “The upward revisions to Q2 GDP growth means the economy was even stronger in the first half of the year than we previously expected, despite the Iran war. What’s more, the composition of growth looks a little healthier. Surveys suggest that much of that positive momentum has been carried forward into Q3 meaning we have revised up our annual GDP forecast to 1.4%. “However, the next six months looks tougher with potential interest rate rises, a sharp increase in inflation and another tax raising budget all to come. That will drag heavily on growth over the winter. “Greggs served up a tasty trading update, with total sales growth accelerating to 7.7% over the third quarter. This was driven by more settled weather in recent months, alongside ongoing menu development and product innovation. New store openings also played their part, with the group on track for 100-110 net openings this year, excluding 12 Express locations, making it easier for more customers to tuck into their freshly baked goods. Continue reading...",
+        "published": "2026-09-30T13:22:34Z",
+        "image": "https://i.guim.co.uk/img/media/c413dd6eaf66a5ad05a6b46f5d2ad27f6063ccb6/2380_0_4975_3982/master/4975.jpg?width=140&quality=85&auto=format&fit=max&s=96abf0337f1a9294a83f13bb86c64f19",
         "source": "The Guardian",
         "section": "Business"
       },
       {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-        "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-        "published": "2026-09-30T05:27:23Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
+        "title": "Condé Nast C.E.O. Leaves to Run Mattel",
+        "link": "https://www.nytimes.com/2026/09/30/business/media/conde-nast-roger-lynch-steps-down.html",
+        "summary": "Roger Lynch, who has led the publisher for more than seven years, will become the chief executive of the toy company, he said Wednesday.",
+        "published": "2026-09-30T13:21:22Z",
+        "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30Biz-Conde-gpmk/30Biz-Conde-gpmk-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Mattel names Roger Lynch as CEO, replacing Ynon Kreiz",
+        "link": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html",
+        "summary": "Mattel announced on Wednesday that Roger Lynch would serve as CEO and Chairman, replacing Ynon Kreiz.",
+        "published": "2026-09-30T13:19:37Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Business"
+      },
+      {
+        "title": "New report finds that rapid expansion of tokenization is giving rise to new styles of investing",
+        "link": "https://fortune.com/2026/09/30/new-report-expansion-tokenization-new-styles-investing/",
+        "summary": "Dune, a data analytics platform, found that the $34 billion market for tokenized assets now looks more like an always-open crypto trading platform.",
+        "published": "2026-09-30T13:00:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2259164948-e1790736165198.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Greggs to cut 740 jobs and close factories",
+        "link": "https://www.bbc.co.uk/news/videos/cj4gkn1xg6ddo?at_medium=RSS&at_campaign=rss",
+        "summary": "High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.",
+        "published": "2026-09-30T12:54:22Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da6/live/c35a1600-bccb-11f1-bc2e-018d645d8d21.jpg",
         "source": "BBC News",
         "section": "Business"
       },
       {
-        "title": "Drop in donations puts community pantry at risk",
-        "link": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
-        "summary": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
-        "published": "2026-09-30T05:25:52Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4303/live/07893380-bc25-11f1-bd53-1b67dc8fba34.jpg",
-        "source": "BBC News",
+        "title": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
+        "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
+        "summary": "Holiday retail sales are expected to grow this holiday season and top $1 trillion for the first time, though that growth is boosted by inflation.",
+        "published": "2026-09-30T12:48:46Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Business"
       },
       {
-        "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-        "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-        "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-        "published": "2026-09-30T05:18:13Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "Risks being taken with heating oil orders, firm says",
-        "link": "https://www.bbc.co.uk/news/articles/crd68d96zeq8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Customers in Berkshire and Hampshire are leaving it late to refill their tanks, an oil firm says.",
-        "published": "2026-09-30T05:08:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15cb/live/1a4d89a0-bc0a-11f1-a524-3125ac41b7f5.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "Andy Burnham wants to review the UK’s relationship with the EU. What are the options?",
-        "link": "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options",
-        "summary": "The PM said Brexit has ‘done more harm than good’ and wants an assessment before the next UK-EU summit Andy Burnham has said Brexit has “done more harm than good” and pledged to launch a major review of the UK’s relationship with the EU, opening the door to a potential referendum over rejoining the union. He said he would “lay out options” around the time of the next EU-UK summit, due to be held at the end of November or soon after. Continue reading...",
-        "published": "2026-09-30T05:00:13Z",
-        "image": "https://i.guim.co.uk/img/media/f0754c2122e7e6a57944501b6f44159ec8848b79/276_0_3179_2544/master/3179.jpg?width=140&quality=85&auto=format&fit=max&s=6af5f5a386db686d9edaee3e69daf969",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "Facing the future without the 'bank of mum and dad'",
-        "link": "https://www.bbc.co.uk/news/articles/ck7902ejw10vo?at_medium=RSS&at_campaign=rss",
-        "summary": "Young people struggling to make ends meet respond to the government's Your First Home scheme.",
-        "published": "2026-09-30T04:56:57Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b882/live/353b66a0-bc10-11f1-a430-4d16ee157c41.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "Economic growth and democratic decline: the ‘cotton king’ who reshaped Benin",
-        "link": "https://www.theguardian.com/world/2026/sep/30/benin-patrice-talon-cotton-king",
-        "summary": "Patrice Talon has transformed the west African country’s economy and infrastructure at the expense of political freedom In recent years, a building boom has reshaped Benin’s largest city, Cotonou, and a shiny new coastal road has reduced journey times to Ouidah, the west African country’s spiritual and cultural capital. In the last decade, Benin’s annual GDP has grown from 3% to 6%, a regional high, and an industrial zone has been launched north-west of Cotonou to help industrialise the relatively small nation’s largely informal economy. Continue reading...",
-        "published": "2026-09-30T04:00:11Z",
-        "image": "https://i.guim.co.uk/img/media/ba9e4faa8267ae2e4d4796549c21882f5c45f2af/2031_931_2994_2395/master/2994.jpg?width=140&quality=85&auto=format&fit=max&s=753055ca40e81453cff966cd1fb00bec",
-        "source": "The Guardian",
+        "title": "Girls Who Code CEO: the most discerning people in the AI debate aren’t in Silicon Valley. They’re teenage girls",
+        "link": "https://fortune.com/2026/09/30/girls-who-code-ceo-teenage-girls-best-judgment-on-ai/",
+        "summary": "Teen girls aren’t falling behind, they're asking better questions — and showing AI companies what user agency looks like.",
+        "published": "2026-09-30T12:30:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/SusanGouijnstook_Headshot8-e1790618043302.jpg?w=2048",
+        "source": "Fortune",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
-        "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
-        "summary": "",
-        "published": "2026-09-30T06:17:24Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEB310J3_M.jpg",
-        "source": "Investing.com",
+        "title": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
+        "link": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
+        "summary": "The personal consumption expenditures price index was projected to show an annual gain of 3.7% on headline and 3.3% for core, according to the Dow Jones consensus.",
+        "published": "2026-09-30T13:40:09Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Six tech and healthcare picks up 18%–32% this month - the leader is up 34%",
-        "link": "https://www.investing.com/news/stock-market-news/six-tech-and-healthcare-picks-up-1832-this-month--the-leader-is-up-34-4924141",
-        "summary": "",
-        "published": "2026-09-30T06:14:39Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM6N11N_L.jpg",
-        "source": "Investing.com",
+        "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+        "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+        "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+        "published": "2026-09-30T13:30:00Z",
+        "image": "https://images.mktw.net/im-88944109",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Why is SoftBank Group stock surging today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4924136",
-        "summary": "",
-        "published": "2026-09-30T06:07:18Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEBAG0BO_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Asian Equities Mostly Rise as Reduced Fed Rate-Hike Prospects Bolster Risk Appetite",
-        "link": "https://www.wsj.com/finance/investing/asian-equities-mostly-rise-as-reduced-fed-rate-hike-prospects-bolster-risk-appetite-ee03b720?mod=rss_markets_main",
-        "summary": "Asian equities mostly rose while bond yields eased, as diminished expectations for Federal Reserve rate hikes in the near term boosted risk appetite and paused the climb in U.S. Treasury yields.",
-        "published": "2026-09-30T06:06:00Z",
-        "image": "https://images.wsj.net/im-45267472",
+        "title": "Gold Rises But Still Headed for Monthly Loss",
+        "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-markets-await-u-s-economic-data-f233fc21?mod=rss_markets_main",
+        "summary": "Gold prices extended gains, supported by an easing dollar and falling U.S. Treasury yields, but remained on track for a monthly loss of more than 6%.",
+        "published": "2026-09-30T13:29:00Z",
+        "image": null,
         "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.12%",
-        "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-112-4924133",
-        "summary": "",
-        "published": "2026-09-30T06:05:04Z",
-        "image": "https://content-media.investing.com/news/LYNXMPED6O07Z_M.jpg",
-        "source": "Investing.com",
+        "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+        "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+        "summary": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
+        "published": "2026-09-30T13:24:00Z",
+        "image": "https://images.mktw.net/im-50178024",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Glencore and Yancoal win approval for Hunter Valley coal expansion",
-        "link": "https://www.investing.com/news/stock-market-news/glencore-and-yancoal-win-approval-for-hunter-valley-coal-expansion-93CH-4924131",
-        "summary": "",
-        "published": "2026-09-30T06:02:40Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg",
-        "source": "Investing.com",
+        "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
+        "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+        "summary": "Some investors worry that AI agents pose a risk to Amazon, but a Rosenblatt analyst thinks the company “can navigate this period of transition largely unaffected.”",
+        "published": "2026-09-30T13:24:00Z",
+        "image": "https://images.mktw.net/im-49250014",
+        "source": "MarketWatch",
         "section": "Markets"
       },
       {
-        "title": "Top China Biopharma Stocks to Watch, According to Bernstein",
-        "link": "https://www.investing.com/news/stock-market-news/top-china-biopharma-stocks-to-watch-according-to-bernstein-4924125",
-        "summary": "",
-        "published": "2026-09-30T05:48:14Z",
-        "image": "https://content-media.investing.com/news/LYNXNPEB870T2_M.jpg",
-        "source": "Investing.com",
+        "title": "Stock Futures Rise After Inflation Data Eases Rate-Hike Fears",
+        "link": "https://www.wsj.com/finance/investing/stock-futures-rise-as-oil-prices-rate-hike-bets-ease-612e058d?mod=rss_markets_main",
+        "summary": "U.S. stock futures rose after U.S. inflation data soothed investor concerns that the Federal Reserve would hike rates in October.",
+        "published": "2026-09-30T13:22:00Z",
+        "image": "https://images.wsj.net/im-18474370",
+        "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Australia’s Metrics freezes some fund redemptions in sign of private credit market stress",
-        "link": "https://www.investing.com/news/stock-market-news/australias-metrics-freezes-some-fund-redemptions-in-sign-of-private-credit-market-stress-4924093",
-        "summary": "",
-        "published": "2026-09-30T05:42:29Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM8T0C9_L.jpg",
-        "source": "Investing.com",
+        "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+        "link": "https://www.cnbc.com/2026/09/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+        "summary": "Micron reports earnings tonight, and the PCE price index for August came in cooler than expected.",
+        "published": "2026-09-30T13:15:47Z",
+        "image": null,
+        "source": "CNBC",
+        "section": "Markets"
+      },
+      {
+        "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+        "link": "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
+        "summary": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+        "published": "2026-09-30T13:15:33Z",
+        "image": null,
+        "source": "CNBC",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-        "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-        "summary": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-        "published": "2026-09-30T05:30:53Z",
-        "image": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png",
-        "source": "Wired",
+        "title": "WhatsApp introduces optional parental controls for teenagers",
+        "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
+        "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
+        "published": "2026-09-30T13:01:30Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b8/live/e7f33150-bcc5-11f1-ae14-0b840f99ba59.jpg",
+        "source": "BBC News",
         "section": "Technology"
       },
       {
-        "title": "LG Promo Codes and Coupons for October 2026",
-        "link": "https://www.wired.com/story/lg-promo-code/",
-        "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-        "published": "2026-09-30T05:00:00Z",
-        "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "30% Off Canon Promo Codes | October 2026",
-        "link": "https://www.wired.com/story/canon-promo-code/",
-        "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.",
-        "published": "2026-09-30T05:00:00Z",
-        "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Fanatics Promo Code: 10% Off",
-        "link": "https://www.wired.com/story/fanatics-promo-code/",
-        "summary": "Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.",
-        "published": "2026-09-30T05:00:00Z",
-        "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Apple Pay finally launches in India after years on the sidelines",
-        "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-        "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-        "published": "2026-09-30T04:08:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
-        "published": "2026-09-30T00:19:13Z",
+        "title": "Amazon’s new Fire TV Stick 4K can pull power directly from your TV",
+        "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+        "summary": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick Amazon launched earlier this year. The Fire TV Stick […]",
+        "published": "2026-09-30T13:00:16Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       },
       {
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-        "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-        "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-        "published": "2026-09-29T23:30:55Z",
+        "title": "Charter Space raises $5M to bring insurance to the stars",
+        "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+        "summary": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+        "published": "2026-09-30T13:00:00Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "Range Rover Sport Electric: Price, Specs, Availability",
-        "link": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
-        "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
-        "published": "2026-09-29T23:01:00Z",
-        "image": "https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg",
-        "source": "Wired",
+        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+        "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+        "summary": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which on Wednesday announced the launch of “Group Hangouts,” a new feature that lets groups of friends […]",
+        "published": "2026-09-30T13:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time",
+        "link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review",
+        "summary": "The original Sonos Ace headphones should have been a triumphant entry into a new product category. Instead, they were overshadowed by Sonos's disastrous app redesign. And while the original Ace are well built, sound good, and are incredibly comfortable, they weren't good Sonos headphones: Their flagship feature let you reroute audio from a Sonos soundbar […]",
+        "published": "2026-09-30T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Potato by air",
+        "link": "https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery",
+        "summary": "The Wing Hummingbird 7000W-B delivery drone weighs less than 15 pounds. It has 16 propellers - four for horizontal movement and 12 for vertical - a top speed of 60 miles per hour, a carrying capacity of up to 2.7 pounds, and a delivery radius of about six miles. It is authorized by the FAA […]",
+        "published": "2026-09-30T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "You’ll soon be able to order DoorDash by text message",
+        "link": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+        "summary": "DoorDash is launching new ways to use the local delivery platform, including text message ordering, drone deliveries, and retail returns. The new message ordering feature builds on capabilities that the Ask DoorDash AI chatbot introduced to the DoorDash app in June, allowing you to get recommendations and offload your browsing while skipping the app entirely. […]",
+        "published": "2026-09-30T13:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+        "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment On Frontier Responsibilities, was shared online by tech founder and presidential advisor David Sacks, and has been signed by […]",
+        "published": "2026-09-30T12:24:32Z",
+        "image": null,
+        "source": "The Verge",
         "section": "Technology"
       }
     ],
     "Science": [
       {
-        "title": "Dead animals found in canal where children row",
-        "link": "https://www.bbc.co.uk/news/articles/cq783py14ry3o?at_medium=RSS&at_campaign=rss",
-        "summary": "Residents in Brentford raise concerns about sewage flowing into the local canal network.",
-        "published": "2026-09-30T05:11:11Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa7a/live/db3c83b0-bb50-11f1-a071-65d2e11c8f4a.jpg",
+        "title": "Cannabis users were twice as likely to commit violence, review finds",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020255.htm",
+        "summary": "A review of more than 265,000 people found that cannabis use was associated with higher rates of both committing violence and becoming a victim of it. The researchers say the link is significant but does not prove cannabis itself is the cause.",
+        "published": "2026-09-30T12:49:01Z",
+        "image": null,
+        "source": "ScienceDaily",
+        "section": "Science"
+      },
+      {
+        "title": "A record-breaking X-ray flash may reveal the birth of a magnetar",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260930020252.htm",
+        "summary": "Astronomers have found strong evidence that some mysterious, minutes-long X-ray flashes are produced when two neutron stars collide and create a magnetar. One record-setting event glowed in X-rays for nearly 10 minutes, potentially opening a new way to find these extreme cosmic mergers.",
+        "published": "2026-09-30T12:27:27Z",
+        "image": null,
+        "source": "ScienceDaily",
+        "section": "Science"
+      },
+      {
+        "title": "Only 28% of nurdles 'recovered', researchers say",
+        "link": "https://www.bbc.co.uk/news/articles/c5zjzr4rrl8lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Scientists predict that nurdles will continue to wash up on North East beaches.",
+        "published": "2026-09-30T12:16:06Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6270/live/2ec69ae0-918d-11f1-b2ab-0dd01740f9f6.jpg",
         "source": "BBC News",
         "section": "Science"
       },
       {
-        "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-        "link": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-        "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Arp 78: Peculiar […]",
-        "published": "2026-09-30T04:05:00Z",
+        "title": "Ocean heatwaves are hiding months of extra warming",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+        "summary": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months. Researchers found that conventional measurements underestimate total heat exposure by more than 150% on average, potentially overlooking a major source of stress on marine ecosystems.",
+        "published": "2026-09-30T12:15:10Z",
         "image": null,
-        "source": "NASA",
+        "source": "ScienceDaily",
         "section": "Science"
       },
       {
-        "title": "Powerful Storms Continue to Prowl the Pacific",
-        "link": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-        "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-        "published": "2026-09-30T04:01:00Z",
+        "title": "Mulberry may reshape gut bacteria and influence metabolism",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+        "summary": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on the plant part and processing method, and the benefits have yet to be confirmed in humans.",
+        "published": "2026-09-30T11:45:42Z",
         "image": null,
-        "source": "NASA",
+        "source": "ScienceDaily",
         "section": "Science"
       },
       {
-        "title": "How AI is creating a UK super-museum and revealing our planet's history",
-        "link": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
-        "published": "2026-09-30T00:46:29Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f156/live/89546d90-b29c-11f1-9b18-ad61bef6e34f.jpg",
-        "source": "BBC News",
+        "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+        "summary": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments, but instead found ancient igneous rocks that were altered by water on at least three separate occasions.",
+        "published": "2026-09-30T11:34:31Z",
+        "image": null,
+        "source": "ScienceDaily",
         "section": "Science"
       },
       {
-        "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-        "link": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-        "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for long-term human presence on the Moon through the Artemis and Moon Base programs, communications systems will be just as important as spacecraft and […]",
-        "published": "2026-09-29T21:27:56Z",
+        "title": "Black hole jets may decide the fate of entire galaxies",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260928100527.htm",
+        "summary": "Powerful jets from supermassive black holes can disturb star-forming gas far beyond a galaxy’s visible edge, leaving a glowing trail hundreds of thousands of light-years long. By keeping this gas hot and preventing it from falling inward, the jets may help determine whether a galaxy keeps forming stars or becomes quiet.",
+        "published": "2026-09-30T10:51:59Z",
         "image": null,
-        "source": "NASA",
+        "source": "ScienceDaily",
         "section": "Science"
       },
       {
-        "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-        "link": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
-        "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery contract is valued at approximately $23.5 million over a five-year period of performance and entails conjunction assessment screening services for all NASA uncrewed spacecraft, support […]",
-        "published": "2026-09-29T21:00:00Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "NASA Features Exploration, Science at International Space Conference",
-        "link": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
-        "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector. The IAC, organized by the International Astronautical […]",
-        "published": "2026-09-29T20:55:24Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-        "link": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-        "summary": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an […]",
-        "published": "2026-09-29T20:08:01Z",
-        "image": null,
-        "source": "NASA",
+        "title": "See How El Niño Is Washing Ashore in California",
+        "link": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
+        "summary": "An enormous pulse of wave energy will soon reach the coast and continue north, raising sea levels by half a foot and increasing threats from swells and tides.",
+        "published": "2026-09-30T10:37:40Z",
+        "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30cli-elnino-wave-fzkw/30cli-elnino-wave-fzkw-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
         "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "The part-timers who won three Wembley finals in a row",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o?at_medium=RSS&at_campaign=rss",
-        "summary": "You probably knew Pep Guardiola's Manchester City won four League Cups on the bounce between 2018 and 2021 – but another side did the silverware hat-trick first.",
-        "published": "2026-09-30T06:07:28Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58b/live/3b41aaf0-bb16-11f1-bc1f-3f186ca4140c.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Flex your football brain with our daily quizzes",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckrerle810geo?at_medium=RSS&at_campaign=rss",
-        "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-        "published": "2026-09-30T06:02:43Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "How do teams deal with longer international window?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ckwyz97v042vo?at_medium=RSS&at_campaign=rss",
-        "summary": "With the international window extended to four games, how do nations like Northern Ireland deal with the additional demands on players and staff?",
-        "published": "2026-09-30T05:25:05Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5404/live/206e7440-bbf4-11f1-9074-3d74885a19d6.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "New date and return to previous format for 2027 NW200",
-        "link": "https://www.bbc.co.uk/sport/motorsport/articles/cmn5d0xlwyqwo?at_medium=RSS&at_campaign=rss",
-        "summary": "The 2027 North West 200 international road race moves back a week to avoid a clash with the Northern Ireland Assembly and reverts back to its previous format, with qualifying commencing on Tuesday.",
-        "published": "2026-09-30T05:22:47Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7cf/live/9a624aa0-bc04-11f1-90b9-913e4354ed35.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "England can take vital lessons from worst defeats into Rugby World Cup, says Johnson",
-        "link": "https://www.theguardian.com/sport/2026/sep/30/england-vital-lessons-from-defeat-rugby-world-cup-martin-johnson-steve-borthwick",
-        "summary": "Former captain says losses can benefit team next year Johnson refuses to comment on Henry Pollock hype Martin Johnson believes England’s most painful defeats under Steve Borthwick can benefit them at the Rugby World Cup in Australia next year. England endured some disastrous moments during the Six Nations this year, most notably the 42-21 defeat by Ireland at Twickenham , and finished the tournament with a solitary win against Wales. Summer Nations Championship fixtures began with an away defeat by the world champions, South Africa, before victories against Fiji and Argentina. Continue reading...",
-        "published": "2026-09-29T23:01:03Z",
-        "image": "https://i.guim.co.uk/img/media/a588a9a7d90eb57b9952124f69e2fb2169861894/239_0_3888_3111/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=5a1f9f1187512a444d888729d7908926",
+        "title": "South Africa v Australia: third men’s one-day international – live",
+        "link": "https://www.theguardian.com/sport/live/2026/sep/30/south-africa-v-australia-third-mens-odi-live",
+        "summary": "Updates from the ODI match at NWC Oval Start time in Potchefstroom is 1.30pm local/9.30pm AEST Any thoughts? Get in touch with an email 2nd over: Australia 10-0 (Marsh 5, Head 5) And the quiet times lasted one over! First Head, then Marsh, play pull shots from Williams for four. 1st over: Australia 0-0 (Marsh 0, Head 0) A maiden over to begin the match. That’s quite something from Coetzee, who has got the ball swerving around the place like a remote-controlled plane. There has been early swing in this series, before the belting of the ball begins. Marsh is happy to wait, defending stoutly. Continue reading...",
+        "published": "2026-09-30T13:25:06Z",
+        "image": "https://i.guim.co.uk/img/media/d438ce9780a5413bc818e6ee8273864e769871c8/1414_583_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=e1f86658cad2464e4bc69629e737b316",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "I'd stick my Man City medals in bin - Keane",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&at_campaign=rss",
-        "summary": "Roy Keane says he would throw his \"medals in the bin\" if he were a Manchester City player after the club were found guilty of all charges relating to breaches of Premier League financial rules.",
-        "published": "2026-09-29T22:57:36Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f828/live/4dd96190-bc55-11f1-8053-53e939fa7624.jpg",
+        "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+        "published": "2026-09-30T13:17:44Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "New coach, new players, but same old failings hamper Scotland",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss",
-        "summary": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English.",
-        "published": "2026-09-29T22:30:20Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea0/live/5005de80-bc55-11f1-8053-53e939fa7624.jpg",
+        "title": "Who made your County Championship team of the season?",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c6dx01807d1ro?at_medium=RSS&at_campaign=rss",
+        "summary": "The votes have been counted... who made your County Championship team of the season?",
+        "published": "2026-09-30T12:59:33Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b537/live/62382f90-bcc3-11f1-bc2e-018d645d8d21.png",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Time for Tuchel to offer Alexander-Arnold some trust",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&at_campaign=rss",
-        "summary": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return, writes Phil McNulty.",
-        "published": "2026-09-29T22:06:30Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg",
+        "title": "Bahrain GP in Malaysia declared heat-hazard race",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cwg7klkxzzylo?at_medium=RSS&at_campaign=rss",
+        "summary": "This weekend's Bahrain Grand Prix in Malaysia is declared a heat-hazard race, the third time the designation has been used this year.",
+        "published": "2026-09-30T12:46:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8f/live/b8903430-bcca-11f1-9f83-d9975ff80416.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Football Daily",
+        "link": "https://www.bbc.co.uk/sounds/play/p0pd5x19?at_medium=RSS&at_campaign=rss",
+        "summary": "Kieran Maguire & Dale Johnson answer listener questions on the Man City verdict.",
+        "published": "2026-09-30T12:34:00Z",
+        "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Olympic champion Muirhead makes curling return with Lammie",
+        "link": "https://www.bbc.co.uk/sport/articles/cq23xjx0r5kdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Olympic champion Eve Muirhead makes her comeback at the Scottish Mixed Curling Championships on Thursday after revoking her retirement.",
+        "published": "2026-09-30T12:33:05Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d1/live/be127330-bcc7-11f1-a64c-550be9e3c66b.png",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmqxvqyy125lo?at_medium=RSS&at_campaign=rss",
+        "summary": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed.",
+        "published": "2026-09-30T12:29:34Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988e/live/c134f9d0-bcd0-11f1-9f83-d9975ff80416.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Republic of Ireland will play second Israel game - Hallgrimsson",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqd081x1mlvdo?at_medium=RSS&at_campaign=rss",
+        "summary": "Republic of Ireland head coach Heimir Hallgrimsson says the team's second Uefa Nations League game against Israel will go ahead as planned.",
+        "published": "2026-09-30T11:52:39Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0163/live/d6a1b2a0-bcc0-11f1-810a-9579202680fa.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
-        "title": "Radioactive trees to fighting fish: the best of Photoworks festival 2026 – in pictures",
-        "link": "https://www.theguardian.com/artanddesign/gallery/2026/sep/30/best-of-photoworks-festival-2026-in-pictures",
-        "summary": "There are origami cats, Ecuadorian midwives and painful images from the Ukraine war at this year’s event, all under the theme ‘Un/Stable: Lands, Anxieties, Dreams’ Continue reading...",
-        "published": "2026-09-30T06:00:13Z",
-        "image": "https://i.guim.co.uk/img/media/7d52cb8eddd76ce21c1420be572418fc8cd02729/1583_0_5137_4108/master/5137.jpg?width=140&quality=85&auto=format&fit=max&s=d5da3a09c979575c47cf90153ea0a708",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Jimmy Fallon Pokes Fun at America’s New A.I. Chatbot",
-        "link": "https://www.nytimes.com/2026/09/30/arts/television/jimmy-fallon-trump-america-ai-chatbot.html",
-        "summary": "“Yeah, everyone’s afraid of A.I., and nobody trusts the federal government, so Trump was like, ‘Let’s combine them,’” Jimmy Fallon said.",
-        "published": "2026-09-30T05:21:14Z",
+        "title": "20 Years Later, Sofia Coppola’s ‘Marie Antoinette’ Is Back at Versailles",
+        "link": "https://www.nytimes.com/2026/09/30/movies/marie-antoinette-versailles-sofia-coppola.html",
+        "summary": "Once criticized for its modern soundtrack and pastel aesthetics, the director’s portrait of royal ennui is now being honored in the chateau where it was filmed.",
+        "published": "2026-09-30T13:19:44Z",
         "image": null,
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "TV tonight: a new mismatched detective duo for crime drama fans",
-        "link": "https://www.theguardian.com/tv-and-radio/2026/sep/30/tv-tonight-a-new-mismatched-detective-duo-for-drama-fans",
-        "summary": "Richard Armitage’s smug scientist and Annabel Scholey’s frosty cop team up to solve a murder. Plus Martin Compston’s raucous cocktail sesh in Las Vegas. Here’s what to watch this evening 9pm, ITV1 If you have room for one more mismatched detective duo in your life, this new drama introduces Dr Ethan Winter (Richard Armitage), an unbearably smug forensic pathologist who can “read a body like a book”, and DI Lauren Bell (Annabel Scholey), a diligent, frosty cop. The pair are on a collision course as the murder of a young woman lands in their in trays. But when an explosive postmortem raises the stakes, they are forced to tolerate each other. Phil Harrison Continue reading...",
-        "published": "2026-09-30T05:20:10Z",
-        "image": "https://i.guim.co.uk/img/media/138fc232b64011a58e09f6802be2b4d2f236884c/513_175_2616_2093/master/2616.jpg?width=140&quality=85&auto=format&fit=max&s=1de08016d506a96a157752430cbebd92",
+        "title": "Lady A singer Charles Kelley reveals blood cancer diagnosis",
+        "link": "https://www.bbc.co.uk/news/articles/ck7v424j7l0no?at_medium=RSS&at_campaign=rss",
+        "summary": "The Grammy-winning US country music star, 45, says he currently feels \"great\" and is \"hopeful\".",
+        "published": "2026-09-30T12:54:31Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c920/live/47d59710-bcc7-11f1-ae14-0b840f99ba59.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Heavy metal is about uplifting the downtrodden. So why is alleged abuse by Marilyn Manson so easily forgotten?",
+        "link": "https://www.theguardian.com/music/2026/sep/30/metal-marilyn-manson-slipknot",
+        "summary": "Slipknot sharing their stage with a man accused of wrongdoing by more than a dozen women is the antithesis of everything the genre should stand for, even if he denies it Continue reading...",
+        "published": "2026-09-30T12:53:08Z",
+        "image": "https://i.guim.co.uk/img/media/b6d8427817344e3d39050e8a84506d177eb4a8cb/238_10_2946_2355/master/2946.jpg?width=140&quality=85&auto=format&fit=max&s=6d5f4d079a85a8051bcf0331cf88fd70",
         "source": "The Guardian",
         "section": "Culture"
       },
       {
-        "title": "‘They’ll never bring us dowwwwwwwn!’ Wicked’s stars pick their favourite songs from the smash hit",
-        "link": "https://www.theguardian.com/stage/2026/sep/30/wicked-stars-favourite-songs-idina-menzel-stephen-schwartz-broadway",
-        "summary": "The musical powerhouse has spawned huge hits, but which do its troupers love to belt out – even for the 1,700th time? From Broadway legend Idina Menzel to composer Stephen Schwartz, they reveal all Idina Menzel originated the role of Elphaba, the witch of the west who turns out not to be so wicked (but still very green) . She won a Tony on Broadway, starred in the West End run and made a cheeky cameo in the recent film version Continue reading...",
-        "published": "2026-09-30T04:00:10Z",
-        "image": "https://i.guim.co.uk/img/media/b71243d9a0b585e2a6a3de206aaedd1144b26732/872_516_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=f7efcd1871db146687754fb199d4d8ba",
+        "title": "Shane Richie banned from driving after speeding",
+        "link": "https://www.bbc.co.uk/news/articles/c9zrz5jz86kjo?at_medium=RSS&at_campaign=rss",
+        "summary": "The EastEnders star blames \"baiting\" from paparazzi as he is banned for six months.",
+        "published": "2026-09-30T12:46:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf4/live/277a0af0-bcb8-11f1-b3b2-8f83c947a78c.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Oasis take legal action to stop sale of unheard tapes",
+        "link": "https://www.bbc.co.uk/news/articles/cw98070pq999o?at_medium=RSS&at_campaign=rss",
+        "summary": "The auction house said it was \"very disappointed\" the lot could no longer be sold.",
+        "published": "2026-09-30T12:33:22Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd74/live/ee178740-bcc3-11f1-874a-09d072a27eab.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Can Trump Legally Demolish the Kennedy Center? Experts Say Not Easily.",
+        "link": "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html",
+        "summary": "The president has entertained the idea of tearing down the performing arts venue. Analysts say any plan would face multiple daunting challenges.",
+        "published": "2026-09-30T12:25:02Z",
+        "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30cul-kennedy-demo-wcpv/30cul-kennedy-demo-wcpv-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "The Pussycat Dolls review – Nicole Scherzinger’s star power dominates fraught reunion",
+        "link": "https://www.theguardian.com/music/2026/sep/30/pussycat-dolls-review-nicole-scherzinger-utilita-arena-birmingham-uk-tour",
+        "summary": "Utilita Arena, Birmingham First announced in 2019 and now launching with just three of the original lineup, the Dolls whip up a whirlwind of hair-flipping and put on a decent spectacle The road to the Pussycat Dolls’ comeback tour has been fraught. Originally announced in 2019 with all but one of the group’s original members on board, the pandemic and then a legal dispute, led to its cancellation. After a few years of silence, three members – Nicole Scherzinger, Ashley Roberts and Kimberly Wyatt – shared plans for a 53-date world tour as a trio. Poor ticket sales nixed the US leg, though, while Maga-supporting former member Jessica Sutta alleged she was left out of the reunion because she was viewed as “a liability” (the group did not comment). Does a girlband ostensibly created as a dance troupe work as a trio? While Scherzinger’s voice pushed them into pop stardom – they scored six UK Top 3 hits in their initial 2005-09 run – their appeal was largely the fierce group choreography. On stage in Birmingham, they give it their best go. The nearly two-hour show is a whirlwind of hair-flipping, booty-shaking and synchronised strutting. Throughout When I Grow Up, Beep and I Don’t Need a Man, Scherzinger is still on lead vocals, predictably so after her recent Tony award-winning run on Broadway in Sunset Blvd. Roberts and Wyatt are given some time to shine, though: their solos amid the clacking pots-and-pans percussion of Wait a Minute feel pointed, as if to say that, yes, their mics are on. Continue reading...",
+        "published": "2026-09-30T12:08:37Z",
+        "image": "https://i.guim.co.uk/img/media/238f07f23c8c8c9e216478640a034f66eeceebde/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28cab5270866fc1ce0a44b18c2a83b6f",
         "source": "The Guardian",
         "section": "Culture"
       },
       {
-        "title": "A Knockout Show Resets the Record With ‘Krasner and Pollock’",
-        "link": "https://www.nytimes.com/2026/09/29/arts/design/krasner-pollock-review-metropolitan-museum-art.html",
-        "summary": "She had to settle for the kitchen as her studio but Lee Krasner finally gets her share of the spotlight at the Metropolitan Museum of Art.",
-        "published": "2026-09-29T21:27:32Z",
-        "image": "https://static01.nyt.com/images/2026/09/30/multimedia/29cul-krasner-pollock-review-tfqj/29cul-krasner-pollock-review-tfqj-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "At U.C.L.A., a Bollywood Dance Team Like ‘Best of the Best’",
-        "link": "https://www.nytimes.com/2026/09/28/arts/bonding-and-battling-the-college-life-of-a-bollywood-dance-team.html",
-        "summary": "“For a lot of South Asians, dance is the way we connect,” said a member of the U.C.L.A. team Nashaa. Our photographer captured glimpses of the team last year, from audition to competitions.",
-        "published": "2026-09-29T20:46:04Z",
-        "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04cul-bollywood-dance-lkpw/04cul-bollywood-dance-lkpw-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "What’s This ‘S.N.L’ Star’s Next Move Beyond Trump? A New Comedy Special.",
-        "link": "https://www.nytimes.com/2026/09/26/arts/television/snl-james-austin-johnson-trump.html",
-        "summary": "Johnson found fame playing President Trump on “S.N.L.” He hopes a new comedy special shows he has more to offer than just impersonations.",
-        "published": "2026-09-29T19:09:12Z",
-        "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04cul-james-austin-johnson-promo/04cul-james-austin-johnson-promo-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "As Mr. Belding on “Saved by the Bell,” Dennis Haskins Made Principals Your Pal",
-        "link": "https://www.nytimes.com/2026/09/29/arts/television/mr-belding-dennis-haskins-saved-by-the-bell.html",
-        "summary": "As Mr. Belding on “Saved by the Bell,” Dennis Haskins helped change an onscreen dynamic that paved the way for principals to come.",
-        "published": "2026-09-29T18:40:43Z",
-        "image": "https://static01.nyt.com/images/2026/09/29/arts/29cul-belding-principal/29cul-belding-principal-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
+        "title": "First Glastonbury 2027 tickets to go on sale",
+        "link": "https://www.bbc.co.uk/news/articles/cv62kp9enz08o?at_medium=RSS&at_campaign=rss",
+        "summary": "Glastonbury Festival will take place from 23-27 June 2027 at Worthy Farm in Somerset.",
+        "published": "2026-09-30T11:47:05Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/493f/live/ff82f790-bcbd-11f1-babe-4199b0e7ccea.jpg",
+        "source": "BBC News",
         "section": "Culture"
       }
     ]
