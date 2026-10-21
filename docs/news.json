@@ -1,632 +1,623 @@
 {
-  "generated": "2026-10-21T13:46:04Z",
+  "generated": "2026-10-21T18:36:55Z",
   "lead": {
-    "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
-    "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
-    "summary": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
-    "published": "2026-10-21T13:37:49Z",
-    "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-china-ai-rules-01-lvpc/21int-china-ai-rules-01-lvpc-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+    "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+    "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
+    "published": "2026-10-21T18:22:28Z",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4c/live/6c343880-cd77-11f1-bc2e-018d645d8d21.jpg",
+    "source": "BBC News",
     "section": "World"
   },
   "top": [
     {
-      "title": "Websites taken down across Europe ahead of critical cyber-security update",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two critical vulnerabilities have been identified with PHP, a programming language which is widely used across the internet.",
-      "published": "2026-10-21T13:45:27Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5e/live/02351720-cd44-11f1-8177-0f8bd59b54c4.jpg",
-      "source": "BBC News",
-      "section": "Technology"
-    },
-    {
-      "title": "South Africa v Australia: second men’s cricket Test, day four – live",
-      "link": "https://www.theguardian.com/sport/live/2026/oct/21/south-africa-v-australia-second-test-day-four-cricket-st-georges-park-gqeberha-live-updates",
-      "summary": "Updates as the Proteas host Australia at St George’s Park Any thoughts? Get in touch with an email 9th over: Australia 22-2 (Head 14, Labuschagne 6) This is some spell from Rabada. Operating at serious pace, even if there’s a little sauce on those readings. Making Head hop around by bowling at the pads, where Head has had a lot of trouble recently, getting out to leading edges a number of times, when he’s not dragging balls onto the stumps. Eventually he’s able to jump up and stab down a ball to leg, to get off strike. Labuschagne gets about a quarter of his bat on another quick delivery to edge it through square leg for two. 8th over: Australia 19-2 (Head 13, Labuschagne 4) Positive for Labuschagne, but risky, hurling the bat at Jansen’s angle across him and lifting a ball over backward point. There to hit, as they say. Continue reading...",
-      "published": "2026-10-21T13:40:35Z",
-      "image": "https://i.guim.co.uk/img/media/9687163421fab6748401fc1d7580f28d7a36b044/886_292_3047_2437/master/3047.jpg?width=140&quality=85&auto=format&fit=max&s=d805a5c2d1d4bd6600172618b5ccfa4c",
+      "title": "Como v Manchester United: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+      "summary": "⚽️ Champions League updates from 5.45pm BST ⚽️ Live scoreboard | Champions League table | Mail Simon The players are on the pitch and very nearly ready to go. Poor mascot coming out to pick up the match ball looks like someone just dragged him out of a ditch. Continue reading...",
+      "published": "2026-10-21T18:32:59Z",
+      "image": "https://i.guim.co.uk/img/media/6106c249ba18df62a02543565f1700416d3ae6e4/1353_292_3453_2763/master/3453.jpg?width=140&quality=85&auto=format&fit=max&s=79b9da1d5c60a763248a4f165d47fb34",
       "source": "The Guardian",
       "section": "Sports"
     },
     {
-      "title": "SpaceX Boosts the A.I. Rally",
-      "link": "https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html",
-      "summary": "Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.",
-      "published": "2026-10-21T13:37:04Z",
-      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21db-musk-vqjz/21db-musk-vqjz-mediumSquareAt3X.jpg",
-      "source": "The New York Times",
-      "section": "Business"
+      "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+      "summary": "U.S. stocks rose, with the Nasdaq leading gains, after SpaceX’s earnings gave a big boost to the artificial-intelligence trade.",
+      "published": "2026-10-21T18:30:00Z",
+      "image": "https://images.wsj.net/im-80763161",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "Fuel leak which killed fish in River Taff stopped",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
+      "summary": "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby.",
+      "published": "2026-10-21T18:28:06Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996f/live/00f5b420-cae5-11f1-9a04-8f1bfcd98c61.jpg",
+      "source": "BBC News",
+      "section": "Science"
     }
   ],
   "latest": [
     {
-      "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-      "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-      "summary": "United is opening a 54,000-square-foot lounge as part of the revamp of Houston's George Bush Intercontinental Airport.",
-      "published": "2026-10-21T13:44:35Z",
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
+      "published": "2026-10-21T18:35:56Z",
+      "image": null,
+      "source": "NASA",
+      "section": "Science"
+    },
+    {
+      "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+      "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+      "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+      "published": "2026-10-21T18:33:02Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+      "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
+      "summary": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
+      "published": "2026-10-21T18:32:12Z",
       "image": null,
       "source": "CNBC",
       "section": "Business"
     },
     {
-      "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
-      "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-      "summary": "The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.",
-      "published": "2026-10-21T13:44:12Z",
+      "title": "Xbox mandates a four-day return to office",
+      "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
+      "summary": "Microsoft asked its employees to return to the office three days per week last year, and it's now upping this requirement to four days a week for most Xbox employees. An internal memo, seen by The Verge, describes the change as a \"need to create more opportunities for people to work together\" after feedback from […]",
+      "published": "2026-10-21T18:31:15Z",
       "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-      "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-      "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-      "published": "2026-10-21T13:44:01Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-      "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-      "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-      "published": "2026-10-21T13:39:42Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "SpaceX, Tesla shares rise after Musk says committees exploring possible merger",
-      "link": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262",
-      "summary": "",
-      "published": "2026-10-21T13:36:05Z",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM1A1H9_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Salesforce surged 48% since July, yet the rally looks far from over",
-      "link": "https://www.investing.com/news/stock-market-news/salesforce-surged-48-since-july-yet-the-rally-looks-far-from-over-4963256",
-      "summary": "",
-      "published": "2026-10-21T13:35:38Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEA9P078_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "S&P, Nasdaq open higher as SpaceX, Tesla climb on Musk’s update on possible merger",
-      "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
-      "summary": "",
-      "published": "2026-10-21T13:35:35Z",
-      "image": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "published": "2026-10-21T13:35:27Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg",
-      "source": "BBC News",
-      "section": "World"
-    },
-    {
-      "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
-      "link": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
-      "summary": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
-      "published": "2026-10-21T13:34:37Z",
-      "image": "https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg",
-      "source": "Wired",
+      "source": "The Verge",
       "section": "Technology"
     },
     {
-      "title": "Wall St says Tesla-SpaceX deal inevitable but Musk says it’s not certain",
-      "link": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
-      "summary": "",
-      "published": "2026-10-21T13:31:42Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0ZP_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
+      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
+      "link": "https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale",
+      "summary": "If you’ve been curious about Star Wars Zero Company, the XCOM-like strategy game set in the Star Wars universe, Amazon has both the PlayStation 5 and Xbox Series S/X physical editions on sale for $47.99 and $49.99, respectively. The game usually sells for $59.99. While I’m not usually enthused by turn-based strategy games, I’ve been […]",
+      "published": "2026-10-21T18:30:00Z",
+      "image": null,
+      "source": "The Verge",
+      "section": "Technology"
+    },
+    {
+      "title": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+      "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Bayern v Arsenal | Live scores | Table | Mail Sarah Real Madrid : Courtois; Valverde, Huijsen, Rudiger, Carreras; Silva, Camavinga, Bellingham; Guler, Mbappe, Vini Jr. Bench: Lunin, Éder Militão, Endrick, Alexander-Arnold, Tchouaméni, Konaté, Cucurella, Carlos Espí, Brahim Díaz, Dumfries, Diomande, Thiago Pitarch Continue reading...",
+      "published": "2026-10-21T18:26:06Z",
+      "image": "https://i.guim.co.uk/img/media/5b9298006e29929d53a8250c584ccffb01010669/961_167_4659_3728/master/4659.jpg?width=140&quality=85&auto=format&fit=max&s=6fbec370cdd222f3e6ec1ece380dc978",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "Bayern Munich v Arsenal: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+      "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Clockwatch | Live scores | Table | Mail Scott More scene-setting. Courtesy of our man David Hytner in Munich. Look at that bench; Arsenal’s squad goes deep. Which doesn’t necessarily explain the headline below … but it can’t not help. The good people o’ Opta explain all. Continue reading...",
+      "published": "2026-10-21T18:25:09Z",
+      "image": "https://i.guim.co.uk/img/media/cc3412405b05fa41f9e63156a1336d9c8d1b1dce/453_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4801187c6a6fc43d88bdfd9b7812a9a4",
+      "source": "The Guardian",
+      "section": "Sports"
+    },
+    {
+      "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+      "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+      "summary": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+      "published": "2026-10-21T18:23:52Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "Amazon abandons $427 million GW campus data center plan and pledges land donations worth $65 million instead",
+      "link": "https://fortune.com/2026/10/21/amazon-427-million-gw-campus-data-center-65-million/",
+      "summary": "The tech giant is not building upon its portfolio of Virginia-based data centers with the university’s property.",
+      "published": "2026-10-21T18:19:14Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1167712182-e1792605920654.jpg?w=2048",
+      "source": "Fortune",
+      "section": "Business"
+    },
+    {
+      "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+      "summary": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+      "published": "2026-10-21T18:17:57Z",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-heating-oil/21biz-heating-oil-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Family of prison officer killed by IRA receives state apology",
-        "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-        "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-        "published": "2026-10-21T13:35:27Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eddf/live/9ed26bb0-cc7b-11f1-bc2e-018d645d8d21.jpg",
+        "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+        "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+        "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. Continue reading...",
+        "published": "2026-10-21T18:17:48Z",
+        "image": "https://i.guim.co.uk/img/media/18ce40d2ccd99c2b0094fdd66a6f3607901f0017/238_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7233a07dfdfcd85cb535e91fae6052bf",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Former Tory election candidate suspended over contract killing claims",
+        "link": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+        "summary": "Jack Ross was filmed allegedly discussing with an undercover reporter violent options to deal with enemies A former Conservative election candidate has been suspended from the party after he was seemingly filmed discussing the cost of hiring contract killers and offering to “broker” the services of a far-right activist with alleged paramilitary links. Jack Ross was filmed apparently asking an undercover reporter “What do you want done?” before listing the type of violent options that could be bought. Continue reading...",
+        "published": "2026-10-21T18:13:55Z",
+        "image": "https://i.guim.co.uk/img/media/d7c6c678fc8a6629030e48cfc483b2a5757c7b0b/1003_0_5013_4013/master/5013.jpg?width=140&quality=85&auto=format&fit=max&s=a068c43c429e881c4248f21316faa88c",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+        "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+        "published": "2026-10-21T18:10:42Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce68/live/40f9c020-cd60-11f1-bc2e-018d645d8d21.jpg",
         "source": "BBC News",
         "section": "World"
       },
       {
-        "title": "Israeli military detains US politician Brad Lander and rabbis at olive harvest",
-        "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-        "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. “I’ve been detained by the IDF, along with a group of rabbis and volunteers,” Lander posted from a bus taking him to a police station. “We were simply harvesting olives in a grove near Nahalin in the West Bank. The occupation is a crime under international law. Harvesting olives isn’t a crime under any law I know.” Continue reading...",
-        "published": "2026-10-21T13:30:01Z",
-        "image": "https://i.guim.co.uk/img/media/f56abaea059f5e162403a039c7a7762b3e3fd0e1/400_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1b941df5a7be1198c6cb604142fbb213",
+        "title": "Epstein’s attorney and accountant accused of ‘facilitating and concealing’ his crimes in lawsuit",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit",
+        "summary": "New Mexico lawsuit claims ‘in exchange for furthering Epstein’s criminal project, his associates received generous salaries’ The attorney general of New Mexico on Wednesday filed a civil lawsuit against Jeffrey Epstein’s longtime attorney, Darren Indyke, and Epstein’s longtime accountant, Richard Kahn, accusing them of having “facilitated and concealed” Epstein’s crimes, and is seeking to stop them from being paid by Epstein’s estate while the litigation plays out. The lawsuit , filed in the US district court for the district of New Mexico, names Kahn and Indyke as defendants both in their individual capacity, and in their capacity as co-executors of Epstein’s estate. The complaint also names the Epstein’s estate, and the 1953 Trust, which holds the estate’s assets. Continue reading...",
+        "published": "2026-10-21T18:03:11Z",
+        "image": "https://i.guim.co.uk/img/media/22578610f2b453d1bab734844fd2b49aa287a518/194_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=92f53559c9d4b5f919d7f5181dce524c",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Burnham and Badenoch clash over Jackdaw gasfield as Trump welcomes decision – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-        "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said: Approving Jackdaw shows the toxic grip fossil fuel lobbyists still hold over our energy policy. Andy Burnham promised pragmatism [see 8.40am ] , but there is nothing pragmatic about rubber-stamping a project that won’t lower energy bills, won’t boost energy security and will create just 27 full-time jobs … True pragmatism means severing our reliance on expensive oil and gas that leaves British households broke, supercharges extreme weather, and leaves our energy security at the mercy of petrostates. Is the prime minister living in a parallel universe? One where we haven’t just endured our hottest summer on record, with droughts, wildfires and, in all likelihood, the most heat-related deaths on record? And where the UN hasn’t warned that we’re on the brink of breaching the all-important 1.5 degree warming limit? Shell will be cheering this decision but it won’t knock a penny off our energy bills, which is what’s keeping people up at night, or make a meaningful difference to our gas supply. Jackdaw will provide around just 2% of our gas demand for roughly ten years. It has been oversold and won’t stop the decline in North Sea jobs, as it will be largely unmanned and operated remotely. Continue reading...",
-        "published": "2026-10-21T13:29:54Z",
-        "image": "https://i.guim.co.uk/img/media/00aac9f3adde47e75eb3db3d844f0904c3353018/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=c117c019ac984574b032f1aaf09dcfc6",
+        "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+        "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+        "summary": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident The Washington Post photojournalist who was attacked and seriously injured by Israeli settlers on the West Bank on Friday has described how she was saved with the help of local Palestinians. Heidi Levine sustained four fractured vertebrae, two broken ribs and four puncture wounds when she was knocked to the ground and repeatedly beaten by a crowd of masked settlers while she and other journalists were covering the olive harvest in the Palestinian village of Abu Falah, north of Ramallah. Continue reading...",
+        "published": "2026-10-21T17:59:14Z",
+        "image": "https://i.guim.co.uk/img/media/3c0f375b1348bd364968b1932c5016422336fce8/470_0_4683_3749/master/4683.jpg?width=140&quality=85&auto=format&fit=max&s=d7cae39e55221ca53c6c46cc362d541c",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-        "summary": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian olive harvesters.",
-        "published": "2026-10-21T13:28:04Z",
-        "image": null,
-        "source": "NPR",
-        "section": "World"
-      },
-      {
-        "title": "Thousands march in Greece over public education failures and cost of living – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-        "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow on allegations of fighting as a mercenary for Ukraine ( 11:24 ). In a post on Truth Social, he said : “Stephen Hubbard, taken four years ago by Russia during the Biden Administration, was just released from prison, at the request of President Donald J. Trump, made directly to President Vladimir Putin in a telephone conversation last week. Stephen is on his way back home and will soon be with his family. The United States, out of respect for President Trump, was not required to give anything in return - an unprecedented situation for Russia. There was no “swap” necessary for this release. Continue reading...",
-        "published": "2026-10-21T13:28:03Z",
-        "image": "https://i.guim.co.uk/img/media/d748117c85bca5a45c4bd056e5fd3f2f780c280b/405_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=b4950ebe667b9b30c98517698e167fe9",
+        "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+        "link": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+        "summary": "Steve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’ They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now encompasses some extraordinary lies. Steve Witkoff delivered one as he sat down with Vladimir Putin in his native St Petersburg on Wednesday, aiming to close the deal on Russia’s land grab in Ukraine with the White House’s strategy of maximum pressure on Kyiv and saccharine flattery of the Kremlin. Continue reading...",
+        "published": "2026-10-21T17:57:48Z",
+        "image": "https://i.guim.co.uk/img/media/053eb1d316f4ad3edc60799d1b04b844bba8d1d7/172_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=cc9a90a71be7f6483b2a9ca28fa7bfa5",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
-        "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
-        "summary": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
-        "published": "2026-10-21T13:24:12Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "As fans reject AI-generated music, even boosters are drawing the line",
-        "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
-        "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced it had removed about 50m songs considered AI slop from its recommendations to users over the past year. Continue reading...",
-        "published": "2026-10-21T13:22:51Z",
-        "image": "https://i.guim.co.uk/img/media/8247f9d5d61677fd63d2d0b76590621d1901f9e1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=855ef4357130e6b6273f00a29fe75e7c",
+        "title": "Chemical tank explosion in Toledo, Ohio, prompts mass evacuation",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
+        "summary": "Officials say the explosion released an airborne irritant that can cause burning of the eyes, nose, mouth and skin Officials are investigating a tank explosion in Toledo, Ohio, that released a chemical into the air, causing a mass evacuation in the area. One person, a first responder, was injured and taken to the hospital, but officials believe the injuries are non-life-threatening. They are also unsure about the cause of the explosion. Continue reading...",
+        "published": "2026-10-21T17:52:50Z",
+        "image": "https://i.guim.co.uk/img/media/061c69c8a2f9c43555506bac9e7c8c984bd7f094/0_0_4796_3838/master/4796.jpg?width=140&quality=85&auto=format&fit=max&s=6af9fcafcb037c454ff8f67d98a9cff8",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits £24bn",
-        "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-        "summary": "Consumer prices rise by more than expected while government’s debt interest payments surge to record high for September Business live – latest updates Inflation surged to 3.5% last month while the government deficit was a worse-than-forecast £24.5bn, in a double dose of bad news for John Healey before next week’s budget. The Office for National Statistics said annual inflation rose from 3.1% in August , overshooting City forecasts of a rise in the consumer prices index (CPI) to 3.4%, as a result of the surging cost of fuel. Continue reading...",
-        "published": "2026-10-21T13:21:16Z",
-        "image": "https://i.guim.co.uk/img/media/2e51fbd24ddfbd516a71422c5fb55bf2d29d53ac/1377_631_3681_2945/master/3681.jpg?width=140&quality=85&auto=format&fit=max&s=9976dbacb3852d0c6e18a0f64d30c32d",
+        "title": "Thousands of California public employees begin strike over contract",
+        "link": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+        "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers began a sweeping, one-day strike on Wednesday, with workers set to rally outside government buildings in several cities, as tensions boiled over lapsed contract negotiations with Governor Gavin Newsom’s administration. SEIU Local 1000, a union that represents roughly 100,000 public employees, including nurses and teachers, has been pushing for higher wages, flexible telework and affordable healthcare. Continue reading...",
+        "published": "2026-10-21T17:51:29Z",
+        "image": "https://i.guim.co.uk/img/media/29298c46ff80433503b00cf87b93f45102ca3303/554_0_6312_5051/master/6312.jpg?width=140&quality=85&auto=format&fit=max&s=6ebf4592724563573963546f54fc51a3",
         "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-        "link": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-        "summary": "United is opening a 54,000-square-foot lounge as part of the revamp of Houston's George Bush Intercontinental Airport.",
-        "published": "2026-10-21T13:44:35Z",
+        "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+        "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
+        "summary": "Co-CEO Ted Sarandos has said the streamer needs new avenues for growth and to improve execution around its content strategy.",
+        "published": "2026-10-21T18:32:12Z",
         "image": null,
         "source": "CNBC",
         "section": "Business"
       },
       {
-        "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
-        "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-        "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
-        "published": "2026-10-21T13:30:57Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
-      },
-      {
-        "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
-        "link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-        "summary": "French government bond yields highest since 2002 as country rocked by protests; UK approves controversial North Sea gasfield Jackdaw The approval of Jackdaw is an “important step” for the North Sea, according to Shell . The UK energy giant jointly owns Jackdaw operator Adura , which is headquartered in Aberdeen, together with Norway’s Equinor . This is an important step in ensuring the UK North Sea can continue to contribute to the country’s energy security and economy. Long-term energy projects depend on a competitive and stable investment environment, alongside timely and predictable regulatory decisions. Continue reading...",
-        "published": "2026-10-21T13:24:23Z",
-        "image": "https://i.guim.co.uk/img/media/0704a051cf34b4e413070fc91bc4f1e95d37619a/655_0_6797_5438/master/6797.jpg?width=140&quality=85&auto=format&fit=max&s=96ba0e751ecb2fbded706930cdf0143a",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "How The New York Times Reports on A.I. Images",
-        "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-        "summary": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.",
-        "published": "2026-10-21T13:21:54Z",
-        "image": null,
+        "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
+        "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+        "summary": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+        "published": "2026-10-21T18:23:52Z",
+        "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Australians also don’t like data centers: NextDC shares fall 42% after community opposition stalls a grid upgrade",
-        "link": "https://fortune.com/2026/10/21/australia-nextdc-shares-fall-data-center/",
-        "summary": "NextDC also cut capital spending by up to 750 million Australian dollars and put new data center projects and land purchases on hold.",
-        "published": "2026-10-21T12:44:59Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2288248919-e1792586288939.jpg?w=2048",
+        "title": "Amazon abandons $427 million GW campus data center plan and pledges land donations worth $65 million instead",
+        "link": "https://fortune.com/2026/10/21/amazon-427-million-gw-campus-data-center-65-million/",
+        "summary": "The tech giant is not building upon its portfolio of Virginia-based data centers with the university’s property.",
+        "published": "2026-10-21T18:19:14Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1167712182-e1792605920654.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
       },
       {
-        "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-        "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-        "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners UK politics live – latest updates Miatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understands, in what would be a blow for the North Sea energy industry and a major victory for climate campaigners. Officials say the energy secretary is minded to refuse approval for the field, which would be one of the biggest in the North Sea. Fahnbulleh approved the smaller Jackdaw gasfield on Wednesday, prompting protests from some in the green movement. Continue reading...",
-        "published": "2026-10-21T12:31:05Z",
-        "image": "https://i.guim.co.uk/img/media/3451af0946c873b466357da85a4a7ce137a18c51/0_761_2849_2278/master/2849.jpg?width=140&quality=85&auto=format&fit=max&s=f8b0f03aca998f966f3577de905c244f",
-        "source": "The Guardian",
-        "section": "Business"
-      },
-      {
-        "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
-        "link": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
-        "summary": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions.",
-        "published": "2026-10-21T12:27:28Z",
-        "image": "https://static01.nyt.com/images/2026/09/22/multimedia/Biz-Northsea-Decision-01-mvjg/Biz-Northsea-Decision-01-mvjg-mediumSquareAt3X.jpg",
+        "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+        "link": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+        "summary": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+        "published": "2026-10-21T18:17:57Z",
+        "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-heating-oil/21biz-heating-oil-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-        "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-        "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-        "published": "2026-10-21T12:17:12Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg",
+        "title": "Meta fined $25bn for 'lies' over user data privacy",
+        "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+        "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+        "published": "2026-10-21T18:01:11Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
         "source": "BBC News",
+        "section": "Business"
+      },
+      {
+        "title": "GM simulated 300,000 EV battery designs—using 34,000 years of computer time—before building a single cell. Now comes the physical part",
+        "link": "https://fortune.com/2026/10/21/gm-forward-simulated-battery-cell-34000-years-computer-time/",
+        "summary": "At GM Forward, the automaker showed how much of its next generation of vehicles is now designed and tested in simulation. The real cells come later.",
+        "published": "2026-10-21T18:00:00Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/gm-batt.png?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
+        "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
+        "summary": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.",
+        "published": "2026-10-21T17:26:13Z",
+        "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Burnham approves Jackdaw – and Labour’s unity on climate action is imperilled with the stroke of a pen | Zoe Williams",
+        "link": "https://www.theguardian.com/commentisfree/2026/oct/21/andy-burnham-approve-jackdaw-labour-climate-action",
+        "summary": "This foolish decision undermines hopes that this government will take the necessary steps the climate crisis demands When the news broke that the UK government had approved the Jackdaw gasfield , I was at a Guardian climate event at the Royal Geographical Society. Appropriately, the theme suggested by readers was what can the public actually do in the face of what feels like paralysing climate doom? There is so much going on that is hopeful: biodiversity tracking, river protection, rewilding. Shruti Suresh, from the independent watchdog Global Witness, told those in attendance that if they wanted to effect change, they should protest against Jackdaw and the Rosebank oilfield project. The message was so well understood that it didn’t need labouring. The mood in the room when the news came in was one of audible dismay. People had just watched the minister for climate transition declare that she could see the challenges ahead and was ready for them. The Jackdaw announcement will face immediate protest and legal challenge, but it sends a very clear signal from the government: we don’t mean what we say about ending emissions. Zoe Williams is a Guardian columnist Continue reading...",
+        "published": "2026-10-21T17:14:42Z",
+        "image": "https://i.guim.co.uk/img/media/b306c26509f1b6a89e2966e9862b7d4ae943c4b1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=56aa45e1d173c407d0d170c50437f06b",
+        "source": "The Guardian",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
-        "link": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-        "summary": "The comments come as investors scrutinize the debt, borrowing costs and economics of companies building AI infrastructure.",
-        "published": "2026-10-21T13:44:12Z",
+        "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+        "link": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+        "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
+        "published": "2026-10-21T18:33:02Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-        "link": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-        "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-        "published": "2026-10-21T13:44:01Z",
+        "title": "UAL options activity points to bullish positioning after earnings beat",
+        "link": "https://www.investing.com/news/stock-market-news/ual-options-activity-points-to-bullish-positioning-after-earnings-beat-93CH-4963808",
+        "summary": "",
+        "published": "2026-10-21T18:09:04Z",
+        "image": "https://content-media.investing.com/news/LYNXNPEC0K0OX_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Philip Morris International options activity points to institutional hedging after Q3 earnings",
+        "link": "https://www.investing.com/news/stock-market-news/philip-morris-international-options-activity-points-to-institutional-hedging-after-q3-earnings-93CH-4963806",
+        "summary": "",
+        "published": "2026-10-21T18:06:50Z",
+        "image": "https://content-media.investing.com/news/phillip_morris_x_M_1440050322.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "GM targets ‘eyes-off’ autonomous driving for pickups, SUVs",
+        "link": "https://www.investing.com/news/stock-market-news/gm-targets-eyesoff-autonomous-driving-for-pickupssuvs-4963805",
+        "summary": "",
+        "published": "2026-10-21T18:06:41Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEA601RR_M.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Palo Alto Networks, MicroStrategy among market cap stock movers on Wednesday",
+        "link": "https://www.investing.com/news/stock-market-news/palo-alto-networks-microstrategy-among-market-cap-stock-movers-on-wednesday-93CH-4963804",
+        "summary": "",
+        "published": "2026-10-21T18:06:38Z",
+        "image": "https://content-media.investing.com/news/moved_LYNXMPEL6T0PD_L.jpg",
+        "source": "Investing.com",
+        "section": "Markets"
+      },
+      {
+        "title": "Capital One delivered a strong quarter. Why we're not declaring victory just yet",
+        "link": "https://www.cnbc.com/investingclub/2026/10/21/capital-one-delivered-a-strong-quarter-why-were-not-declaring-victory-just-yet.html",
+        "summary": "Capital One reported solid earnings, but one of our biggest concerns still remains.",
+        "published": "2026-10-21T18:06:31Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-        "link": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-        "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-        "published": "2026-10-21T13:39:42Z",
+        "title": "GM aims to develop vehicles in as little as two years with AI, software push",
+        "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+        "summary": "General Motors is targeting a roughly two-year vehicle development cycle as it expands its use of artificial intelligence, simulation and vehicle software.",
+        "published": "2026-10-21T18:03:55Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "SpaceX, Tesla shares rise after Musk says committees exploring possible merger",
-        "link": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262",
+        "title": "Procter & Gamble, Western Digital, Lockheed Martin and more set to report Thursday",
+        "link": "https://www.investing.com/news/stock-market-news/procter--gamble-western-digital-lockheed-martin-and-more-set-to-report-thursday-93CH-4963798",
         "summary": "",
-        "published": "2026-10-21T13:36:05Z",
-        "image": "https://content-media.investing.com/news/moved_LYNXMPEM1A1H9_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Salesforce surged 48% since July, yet the rally looks far from over",
-        "link": "https://www.investing.com/news/stock-market-news/salesforce-surged-48-since-july-yet-the-rally-looks-far-from-over-4963256",
-        "summary": "",
-        "published": "2026-10-21T13:35:38Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEA9P078_M.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "S&P, Nasdaq open higher as SpaceX, Tesla climb on Musk’s update on possible merger",
-        "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-spacex-surges-on-upbeat-earnings-4961479",
-        "summary": "",
-        "published": "2026-10-21T13:35:35Z",
-        "image": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Wall St says Tesla-SpaceX deal inevitable but Musk says it’s not certain",
-        "link": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
-        "summary": "",
-        "published": "2026-10-21T13:31:42Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9K0ZP_L.jpg",
-        "source": "Investing.com",
-        "section": "Markets"
-      },
-      {
-        "title": "Why would Musk merge SpaceX and Tesla?",
-        "link": "https://www.investing.com/news/stock-market-news/explainerwhy-would-musk-merge-spacex-and-tesla-4961493",
-        "summary": "",
-        "published": "2026-10-21T13:31:11Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9K043_L.jpg",
+        "published": "2026-10-21T18:01:23Z",
+        "image": "https://content-media.investing.com/news/LYNXMPEA5N18J_M.jpg",
         "source": "Investing.com",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone",
-        "link": "https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/",
-        "summary": "The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.",
-        "published": "2026-10-21T13:34:37Z",
-        "image": "https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
-        "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
-        "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-        "published": "2026-10-21T13:30:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Roku Pro Series OLED TV Review (2026)",
-        "link": "https://www.wired.com/review/roku-pro-series-oled/",
-        "summary": "It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.",
-        "published": "2026-10-21T13:21:18Z",
-        "image": "https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-        "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-        "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12, […]",
-        "published": "2026-10-21T13:09:26Z",
+        "title": "Xbox mandates a four-day return to office",
+        "link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days",
+        "summary": "Microsoft asked its employees to return to the office three days per week last year, and it's now upping this requirement to four days a week for most Xbox employees. An internal memo, seen by The Verge, describes the change as a \"need to create more opportunities for people to work together\" after feedback from […]",
+        "published": "2026-10-21T18:31:15Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       },
       {
-        "title": "Mach9 raises $34M after pivoting to AI CAD software",
-        "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
-        "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-        "published": "2026-10-21T13:00:00Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-        "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-        "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-        "published": "2026-10-21T12:35:00Z",
-        "image": "https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "I reviewed the iPhone Duo, ask me anything",
-        "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-        "summary": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, and I'm ready to answer your questions about it. The Duo represents […]",
-        "published": "2026-10-21T12:15:00Z",
+        "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
+        "link": "https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale",
+        "summary": "If you’ve been curious about Star Wars Zero Company, the XCOM-like strategy game set in the Star Wars universe, Amazon has both the PlayStation 5 and Xbox Series S/X physical editions on sale for $47.99 and $49.99, respectively. The game usually sells for $59.99. While I’m not usually enthused by turn-based strategy games, I’ve been […]",
+        "published": "2026-10-21T18:30:00Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       },
       {
-        "title": "Apple iPhone Duo Review: Is It Worth It?",
-        "link": "https://www.wired.com/review/apple-iphone-duo/",
-        "summary": "Apple made an astonishingly good first foldable. Now iOS and third-party apps need time to catch up.",
-        "published": "2026-10-21T12:00:00Z",
-        "image": "https://media.wired.com/photos/6ad7940031b157a7a885ace4/master/pass/DSC_9923.jpg",
+        "title": "GM Wants Your Car to Do Your Chores",
+        "link": "https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/",
+        "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+        "published": "2026-10-21T18:00:00Z",
+        "image": "https://media.wired.com/photos/6ad86a30ddab9d722491775f/master/pass/2027%20Cadillac%20Escalade%20IQ.jpg",
         "source": "Wired",
+        "section": "Technology"
+      },
+      {
+        "title": "GM is giving OnStar an AI makeover",
+        "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+        "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+        "published": "2026-10-21T18:00:00Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+        "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+        "summary": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained […]",
+        "published": "2026-10-21T18:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+        "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+        "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil […]",
+        "published": "2026-10-21T18:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+        "link": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+        "summary": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for 10 hours of cloud playtime. […]",
+        "published": "2026-10-21T18:00:00Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+        "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+        "published": "2026-10-21T17:59:12Z",
+        "image": null,
+        "source": "TechCrunch",
         "section": "Technology"
       }
     ],
     "Science": [
       {
-        "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
-        "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were associated with lower incidence.",
-        "published": "2026-10-21T13:22:17Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Too much RNA can starve cells of energy, scientists discover",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-        "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system. The discovery could help explain how viral infections and certain aging-related diseases damage cells.",
-        "published": "2026-10-21T13:02:34Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines",
-        "link": "https://www.nytimes.com/2026/10/20/science/ketamine-fda-spravato-ketafree.html",
-        "summary": "Spurred on by the Trump administration’s embrace of psychedelic medicine, researchers are experimenting with new — and not so new — forms of the anesthetic.",
-        "published": "2026-10-21T12:41:58Z",
-        "image": "https://static01.nyt.com/images/2026/09/14/science/14SCI-KETAMINE-FDA/14SCI-KETAMINE-FDA-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Science"
-      },
-      {
-        "title": "A train was delayed by a solar storm. But something didn't add up.",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-        "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.",
-        "published": "2026-10-21T12:35:57Z",
-        "image": null,
-        "source": "ScienceDaily",
-        "section": "Science"
-      },
-      {
-        "title": "NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface",
-        "link": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/",
-        "summary": "From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]",
-        "published": "2026-10-21T12:17:58Z",
+        "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+        "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+        "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]",
+        "published": "2026-10-21T18:35:56Z",
         "image": null,
         "source": "NASA",
         "section": "Science"
       },
       {
-        "title": "Astronauts’ hearts just passed a surprising test for Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-        "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet.",
-        "published": "2026-10-21T11:59:14Z",
+        "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+        "link": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+        "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA’s contributions to aeronautics and the agency’s continued commitment to […]",
+        "published": "2026-10-21T16:31:11Z",
         "image": null,
-        "source": "ScienceDaily",
+        "source": "NASA",
         "section": "Science"
       },
       {
-        "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.",
-        "published": "2026-10-21T11:57:49Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4da/live/ee815af0-cd3d-11f1-bc2e-018d645d8d21.png",
+        "title": "Can a giant tunnel save Windermere?",
+        "link": "https://www.bbc.co.uk/news/videos/ck4g1j7nnqvjo?at_medium=RSS&at_campaign=rss",
+        "summary": "A £3.6bn proposal to stop sewage being discharged into Windermere, England's largest lake, has been unveiled.",
+        "published": "2026-10-21T16:30:54Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1f/live/1c7923f0-cd68-11f1-9a39-31b474234113.jpg",
         "source": "BBC News",
         "section": "Science"
       },
       {
-        "title": "Astronaut surprise video leaves pupils starstruck",
-        "link": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The surprise came after a teacher's father met Peake while working on a cruise ship.",
-        "published": "2026-10-21T11:55:19Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1186/live/d4f1f850-cd3e-11f1-bc2e-018d645d8d21.jpg",
+        "title": "Will Jackdaw cut your energy bills?",
+        "link": "https://www.bbc.co.uk/news/videos/cqvg0ke2v9njo?at_medium=RSS&at_campaign=rss",
+        "summary": "BBC Verify's Ben Chu explains why energy prices are so high, and what Jackdaw could mean for your bills.",
+        "published": "2026-10-21T16:17:49Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a776/live/632e2f20-cd68-11f1-9a39-31b474234113.png",
         "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Tracks Along the Longest Drive on Another World",
+        "link": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+        "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for the farthest distance driven on another celestial […]",
+        "published": "2026-10-21T15:50:44Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "Orionid meteor shower to peak in UK skies into Thursday",
+        "link": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+        "summary": "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week.",
+        "published": "2026-10-21T15:44:20Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d801/live/ecdce820-cbdc-11f1-b139-f77a8b036d06.png",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "link": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+        "published": "2026-10-21T15:36:31Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2643/live/6503a5b0-cd58-11f1-bc2e-018d645d8d21.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
+      {
+        "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+        "link": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
+        "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D […]",
+        "published": "2026-10-21T15:05:08Z",
+        "image": null,
+        "source": "NASA",
         "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "PSG beat Barça, Rio’s grand for Liverpool and Ronaldo’s CV | Football Weekly – video",
-        "link": "https://www.theguardian.com/football/video/2026/oct/21/psg-beat-barca-rios-grand-for-liverpool-and-ronaldos-cv-football-weekly-video",
-        "summary": "Max Rushden is joined by Nicky Bandini , Lars Sivertsen and Will Unwin to discuss Tuesday night’s Champions League action Continue reading...",
-        "published": "2026-10-21T13:02:43Z",
-        "image": "https://i.guim.co.uk/img/media/1874a8dec20628eae378c70826d90e0ee2135d90/696_0_4040_3232/master/4040.jpg?width=140&quality=85&auto=format&fit=max&s=7063ca9c5ef8f7c341ef3180cac663c5",
+        "title": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
+        "link": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+        "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Bayern v Arsenal | Live scores | Table | Mail Sarah Real Madrid : Courtois; Valverde, Huijsen, Rudiger, Carreras; Silva, Camavinga, Bellingham; Guler, Mbappe, Vini Jr. Bench: Lunin, Éder Militão, Endrick, Alexander-Arnold, Tchouaméni, Konaté, Cucurella, Carlos Espí, Brahim Díaz, Dumfries, Diomande, Thiago Pitarch Continue reading...",
+        "published": "2026-10-21T18:26:06Z",
+        "image": "https://i.guim.co.uk/img/media/5b9298006e29929d53a8250c584ccffb01010669/961_167_4659_3728/master/4659.jpg?width=140&quality=85&auto=format&fit=max&s=6fbec370cdd222f3e6ec1ece380dc978",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Kildunne drops to bench as England ring changes",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years.",
-        "published": "2026-10-21T12:47:48Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f042/live/edffdfd0-cd46-11f1-8177-0f8bd59b54c4.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Red Roses drop Kildunne to bench for Canada rematch as Mitchell seeks England reset",
-        "link": "https://www.theguardian.com/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset",
-        "summary": "Star back loses starting place following 24-21 upset Mitchell: ‘This week is about getting back to who we are’ Ellie Kildunne has been dropped to the bench for England’s third and final Test against Canada on Friday as the Red Roses look to bounce back from their first loss in four years. The Maple Leafs defeated England 24-21 last Friday to end the Red Roses’ 41-game unbeaten streak. Kildunne starting from the bench, with Emma Sing at full-back, is one of four changes the head coach, John Mitchell, has made to his starting XV for the Test in Ottawa. Continue reading...",
-        "published": "2026-10-21T12:45:18Z",
-        "image": "https://i.guim.co.uk/img/media/6744bd901e62cf52853ef8dd265fdf8b7ce06baf/713_278_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=4699cf47512261a1713060e3b80daa6f",
+        "title": "Bayern Munich v Arsenal: Champions League – live",
+        "link": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+        "summary": "⚽️ Champions League updates from 8pm BST ⚽️ Clockwatch | Live scores | Table | Mail Scott More scene-setting. Courtesy of our man David Hytner in Munich. Look at that bench; Arsenal’s squad goes deep. Which doesn’t necessarily explain the headline below … but it can’t not help. The good people o’ Opta explain all. Continue reading...",
+        "published": "2026-10-21T18:25:09Z",
+        "image": "https://i.guim.co.uk/img/media/cc3412405b05fa41f9e63156a1336d9c8d1b1dce/453_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4801187c6a6fc43d88bdfd9b7812a9a4",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "Cristiano Ronaldo asked for punishment ‘without mitigation’, then fought to cut it",
-        "link": "https://www.theguardian.com/football/2026/oct/21/cristiano-ronaldo-punishment-portugal-walkout-without-mitigation-fought-to-cut-it",
-        "summary": "He presented several arguments after Portugal walkout Inquiry chose to halve, then halve again his punishment Cristiano Ronaldo successfully fought to reduce his punishment for walking out on a Portugal training camp, after publicly saying his sanction should be imposed “without mitigating circumstances”. Ronaldo said in a lengthy statement on social media after he left the camp in Denmark last month that he should be punished as the Portuguese Football Federation (FPF) saw fit and that his role as captain constituted “an aggravating factor”. Continue reading...",
-        "published": "2026-10-21T12:40:41Z",
-        "image": "https://i.guim.co.uk/img/media/15e6439f977f0f2959cdf2556b0d65fdf3885bbc/420_112_1808_1446/master/1808.jpg?width=140&quality=85&auto=format&fit=max&s=ef6e7717e7a2ca255bc70af40f2aaf9a",
+        "title": "Jimmy Anderson set to retire from cricket as Lancashire opt against renewing contract",
+        "link": "https://www.theguardian.com/sport/2026/oct/21/jimmy-anderson-set-to-retire-from-cricket-lancashire-contract",
+        "summary": "England bowler may have played last game at age 44 Lancashire tell Anderson he does not fit their plans Jimmy Anderson is expected to call time on his remarkable career at the age of 44 after being told his contract at Lancashire will not be renewed for next season. A change of direction is under way at Old Trafford after the club finished second-bottom of Division Two in this year’s County Championship and failed to get out of the group stages in both men’s white-ball competitions. Continue reading...",
+        "published": "2026-10-21T17:27:54Z",
+        "image": "https://i.guim.co.uk/img/media/2a3cacf69a5ab7388efadbe84e94c9ec5cce5494/380_0_3071_2456/master/3071.jpg?width=140&quality=85&auto=format&fit=max&s=ef4f5e2ad84936addf989837e72a9745",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "‘Invasive and extreme’: doctors fight anti-trans measure requiring genital exams for student athletes",
-        "link": "https://www.theguardian.com/us-news/2026/oct/21/washington-anti-trans-sports-genital-exams",
-        "summary": "A Washington referendum has drawn broad opposition from adults who work with queer and trans teens For Kelsey Gellner, a Seattle-based pediatric nurse, a statewide proposal to bar trans girls from sports participation feels like a violation of her duty as a medical professional. The ballot initiative includes a requirement she calls “invasive and extreme”: all students who wish to compete on girls’ teams would have to undergo genital exams. “I tell my kids and patients that my No 1 job is to keep them safe,” said Gellner, who is also a board member of the Washington State Nurses Association. “I can say with confidence that girls do not want to have an unnecessary exam that creates an unsafe barrier.” Continue reading...",
-        "published": "2026-10-21T12:30:18Z",
-        "image": "https://i.guim.co.uk/img/media/a61e7eed6e46e44a62cf86415afa5a9cea7a7e53/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=10cd39aaf43981371b60da7c232fe8ee",
+        "title": "Maro Itoje seals England future by agreeing new deal with Saracens",
+        "link": "https://www.theguardian.com/sport/2026/oct/21/maro-itoje-england-saracens-new-deal-rugby",
+        "summary": "Captain will resist lure of big-money move to France ‘Maro is everything we want at the club – a brilliant leader’ Maro Itoje has reaffirmed his long‑term commitment to England, rejecting interest from France by agreeing a new deal with Saracens. Itoje’s existing deal, signed in 2024, was due to expire after the World Cup next year but he has agreed terms with his club despite interest from Top 14 sides. A move to either Perpignan or Bordeaux had been mooted but the 31-year-old is to commit his future to the club he first represented in 2013 with a new deal, believed to be until 2029. Continue reading...",
+        "published": "2026-10-21T17:00:52Z",
+        "image": "https://i.guim.co.uk/img/media/65e83bd300899d2f87103e974e6073f1f69e3b17/420_0_6529_5222/master/6529.jpg?width=140&quality=85&auto=format&fit=max&s=8cfdd861f4febb7acc3e804375161fbc",
         "source": "The Guardian",
         "section": "Sports"
       },
       {
-        "title": "MVP urges MMA fighters to form union over pay",
-        "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cqe9ldzp9n73o?at_medium=RSS&at_campaign=rss",
-        "summary": "Michael 'Venom' Page says MMA fighters need to form a union and \"move as one\" if they want to secure better pay in the sport.",
-        "published": "2026-10-21T12:21:59Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/134f/live/bba87b80-cd43-11f1-8177-0f8bd59b54c4.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Third time this century - how Australia's stark collapse unfolded",
+        "title": "'Playing for their careers' - Australia reeling after extraordinary day",
         "link": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo?at_medium=RSS&at_campaign=rss",
-        "summary": "Australia are forced to follow-on for only the third time in the past 38 years after being dismissed for 99 by South Africa on day four of the second Test in Gqeberha.",
-        "published": "2026-10-21T12:21:12Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d680/live/d5eeae30-cd46-11f1-9a39-31b474234113.jpg",
+        "summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+        "published": "2026-10-21T16:52:25Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d585/live/d17d8380-cd69-11f1-bc2e-018d645d8d21.jpg",
         "source": "BBC Sport",
         "section": "Sports"
       },
       {
-        "title": "Why has Lord's dug up its pitch and what comes next?",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
-        "summary": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?",
-        "published": "2026-10-21T12:02:29Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0819/live/aa6462f0-cd41-11f1-a64c-550be9e3c66b.jpg",
-        "source": "BBC Sport",
+        "title": "Australia collapse in chaotic fashion to leave South Africa in sight of victory",
+        "link": "https://www.theguardian.com/sport/2026/oct/21/south-africa-australia-second-test-day-four-match-report-cricket",
+        "summary": "Tourists all out for 99 and forced to follow on Batters left to conduct desperate rearguard on last day There it was, another entry in Australia’s hall of infamy against South Africa. There was 47 all out, in the innocent days when the 2011 Test was the worst humiliation in Cape Town. There was 85 all out in Hobart, 2016, that led to half the side being sacked. Now there is 99 all out in Gqeberha, one day after the home team blew past 400 , only for the visitors to follow on halfway through day four. At 156 for four, still 170 behind, Australia could yet save the second Test on its final day, but another batting failure has left the door wide open to defeat, and the table laden with defeat’s favourite snacks. Continue reading...",
+        "published": "2026-10-21T16:49:48Z",
+        "image": "https://i.guim.co.uk/img/media/6ef547ad799a44bf0ceb801ebd08a0e4a1c8e552/102_0_3102_2482/master/3102.jpg?width=140&quality=85&auto=format&fit=max&s=3f16e1897e2774b93b896e238f965ec9",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Ex-tennis pro Megan Rose appointed to lead 2031 men’s Rugby World Cup in US",
+        "link": "https://www.theguardian.com/sport/2026/oct/21/ex-tennis-pro-megan-rose-appointed-to-lead-2031-mens-rugby-world-cup-in-us",
+        "summary": "Tournament coming to the US for the first time Rose says tournament is a huge opportunity World Rugby has appointed Megan Rose, an American tennis pro turned United States Tennis Association (USTA) executive, as managing director of the 2031 men’s Rugby World Cup, a key appointment as the governing body prepares to host what is by some measures the third-biggest global sporting event on American soil for the first time. Rose said: “Rugby World Cup is one of the iconic events in global sport, defined by unforgettable moments on the pitch and the passion of fans around the world. To be entrusted with bringing Men’s Rugby World Cup to the United States for the first time is an extraordinary honour, and I’m thrilled to join this team.” Continue reading...",
+        "published": "2026-10-21T16:30:51Z",
+        "image": "https://i.guim.co.uk/img/media/e8227c0aa604a22037d94769693bf4ddf0608a02/0_219_2000_1599/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=970505cae80e8e8ea4d92f62a4cb3a07",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "No sour grapes: Venter on vintage form as he lays out Saracens vision",
+        "link": "https://www.theguardian.com/sport/2026/oct/21/rugby-union-brendan-venter-saracens-vision",
+        "summary": "Head of rugby culture and wine consultant wants people to see ‘the bigger picture’ as he rebuilds club to win the Prem Arm wrestling with Chas & Dave. Youth hostelling with Chris Eubank. Wine tasting with Brendan Venter. Two of those are among the suggestions made by a flailing Alan Partridge in the famous “smell my cheese” sketch, the other took place on a chilly Tuesday night in north London this week. No prizes for guessing which, given recent events, but 12 months ago it would not have been so easy. Things move fast in the Saracens world, however. When the invitation arrived, you could not help but smile. Saracens would dispute that Venter’s temporary job title change from director of rugby to head of rugby culture and wine consultant was, to put it bluntly, taking the mickey. But, still, there was something delicious about it. Curiosity took hold, invitation was accepted. A poisoned chalice or a peace offering? Continue reading...",
+        "published": "2026-10-21T16:00:23Z",
+        "image": "https://i.guim.co.uk/img/media/8d0f31b39919be44987cd8422d8d5556ad3eb904/425_231_2806_2245/master/2806.jpg?width=140&quality=85&auto=format&fit=max&s=d0ed0c5238cdcd2117c65ceca424e09c",
+        "source": "The Guardian",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
-        "title": "Why has a crumbling bottle plant been rebuilt in Paris? The stunning show suggesting the future is Ghana-shaped",
-        "link": "https://www.theguardian.com/artanddesign/2026/oct/21/ibrahim-mahama-ghana-colonialism-fondation-cartier-paris",
-        "summary": "Fondation Cartier, Paris Ibrahim Mahama put an entire factory in this exhibition exploring Ghana before and after it was ripped to shreds by colonialism. And it’s just one dazzling installation in a show full of hope Ibrahim Mahama has dug through the ruins of post-colonial Ghana, sorted through the ashes of its ancient history, picked through the industrial detritus, the corporate waste, the piles of rubbish, and found something pretty unique: hope. Sit on one of the Asante stools in his circular Parliament of Ghosts and you can almost feel a new future being worked out right in front of you. It’s the first installation in this huge exhibition at the Fondation Cartier in Paris, and it sums Mahama up pretty neatly. He’s looking at the collapse of the Ghanaian government in 1966, the way the hope of the post-colonial project was crushed in a military coup, and he’s looking at ancient Ghanaian history, at the empires that fell centuries ago and the way colonialism tore them to shreds. But he’s not lamenting any of them. He’s not mourning. Instead, he’s reclaiming them, asking how things can be rebuilt, how we can move forwards by learning from the past. Continue reading...",
-        "published": "2026-10-21T12:50:25Z",
-        "image": "https://i.guim.co.uk/img/media/2158ae4f0998fd87821f40a44e1566e56d049673/724_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=f9d5fee71e69cf8e80e24b888c8bc134",
-        "source": "The Guardian",
-        "section": "Culture"
-      },
-      {
-        "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-        "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
-        "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
-        "published": "2026-10-21T11:47:01Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg",
-        "source": "BBC News",
-        "section": "Culture"
-      },
-      {
-        "title": "‘Lincoln in the Bardo’ Review: From Book to Opera at the Met",
-        "link": "https://www.nytimes.com/2026/10/20/arts/music/lincoln-in-the-bardo-met-opera-review.html",
-        "summary": "Missy Mazzoli and Royce Vavrek are making their Metropolitan Opera debut with an imaginative, moving adaptation of George Saunders’s ghostly novel.",
-        "published": "2026-10-21T11:12:26Z",
-        "image": "https://static01.nyt.com/images/2026/10/21/multimedia/20cul-lincoln-in-the-bardo-review-hfmg/20cul-lincoln-in-the-bardo-review-hfmg-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Cardi B Is Using Her Music, Her Business and Her Politics to Express Herself",
-        "link": "https://www.nytimes.com/2026/10/21/t-magazine/cardi-b-music-albums.html",
-        "summary": "A shape-shifter with talent and personality to spare, the rapper keeps finding new ways to express herself.",
-        "published": "2026-10-21T11:05:04Z",
+        "title": "The Good List: 6 Things to Add Delight to Your Day",
+        "link": "https://www.nytimes.com/2026/10/21/briefing/21-the-good-list-nathan-fielder.html",
+        "summary": "Before Nathan Fielder, a modern detective story and little free everything.",
+        "published": "2026-10-21T17:56:03Z",
         "image": null,
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
-        "link": "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
-        "published": "2026-10-21T10:45:06Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000d/live/122bf790-cd38-11f1-935f-b9c228680c6f.jpg",
+        "title": "Radio presenter's 'wobbles' over Children in Need cycling challenge",
+        "link": "https://www.bbc.co.uk/news/articles/cwrkylee5px0o?at_medium=RSS&at_campaign=rss",
+        "summary": "Owain Wyn Evans says the 400-mile challenge doesn't \"feel like a thing I'm able to do\".",
+        "published": "2026-10-21T17:38:04Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b21/live/61890410-b9b3-11f1-929f-f1f9c2e672cb.png",
         "source": "BBC News",
         "section": "Culture"
       },
       {
-        "title": "High School Musical review – Disney fave is sweet, slick and as squeaky clean as ever",
-        "link": "https://www.theguardian.com/stage/2026/oct/21/high-school-musical-review-harry-judd-troubadour-wembley-park-theatre-london",
-        "summary": "Troubadour Wembley Park theatre, London Harry Judd is the coach while KayCee Stroh from the original movies is back to play a teacher in the hoop-shooting, pompom-waving romance Since soaring on screen 20 years ago, this Disney Channel favourite has cemented itself as a squeaky clean, painstakingly earnest but no less beloved descendant of Grease. Like Danny and Sandy, Troy Bolton and Gabriella Montez share a holiday romance and wind up at school together the following term, where the social pecking order initially keeps them apart. Driven by a shared love of singing, they defy conventions to end up together. This new stage production, first seen at Salford’s Lowry, is directed by Hope Mill theatre founders Joseph Houston and William Whelton. No, it can’t escape the limitations of the story’s spectacularly two-dimensional characters, who are siloed into the camps of jock, brainiac or drama kid, and whose stock traits are indulged in the book by David Simpatico, but it’s bright and buzzy nonetheless. Continue reading...",
-        "published": "2026-10-21T10:44:45Z",
-        "image": "https://i.guim.co.uk/img/media/eafb03f8c3214a5f1dffd05746a3da396d01bf2e/546_409_2770_2216/master/2770.jpg?width=140&quality=85&auto=format&fit=max&s=236808251bd90d5a789659d469e1c2f8",
+        "title": "Snoh Aalegra Put Her Secrets Into New Album, “Legendary Love”",
+        "link": "https://www.nytimes.com/2026/10/21/arts/music/snoh-aalegra-legendary-love-album.html",
+        "summary": "The enigmatic R&B singer returns with an intimate LP made her way. Inspired by ’80s sounds, it draws on her connections to Babyface, Stevie Wonder and Prince.",
+        "published": "2026-10-21T17:05:35Z",
+        "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21cul-snoh-aalegra-02-pkvh/21cul-snoh-aalegra-02-pkvh-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "What’s Next for the Beach Boys?",
+        "link": "https://www.nytimes.com/2026/10/20/arts/music/beach-boys-mike-love-future.html",
+        "summary": "Mike Love has been a constant, and sometimes contentious, steward of the band’s performances. Health problems and a recent concert appearance have prompted fans to ask what the future holds.",
+        "published": "2026-10-21T16:42:15Z",
+        "image": "https://static01.nyt.com/images/2026/10/22/arts/20CUL-BEACH-BOYS/20CUL-BEACH-BOYS-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "‘A vehicle to expose prejudice, bias, and stupidity’: Sacha Baron Cohen defends Ali G as satire",
+        "link": "https://www.theguardian.com/film/2026/oct/21/sacha-baron-cohen-defends-ali-g",
+        "summary": "The actor defended his new film, Ali G: Who Iz I?, saying his aim is to bring people ‘face-to-face with the danger of fanaticism and conspiracy theories’ Sacha Baron Cohen has launched an impassioned defence of satire, the right to offend, and his Ali G character on in a lengthy article for Time magazine . On the eve of the release of his new film, Ali G: Who Iz I?, Baron Cohen described satire as “more important than ever”, adding that “along the way, some people, instead of laughing, wince or worse, take offence.” Continue reading...",
+        "published": "2026-10-21T16:06:54Z",
+        "image": "https://i.guim.co.uk/img/media/0d0d9dd4c9437fbbc7f178777a3a20d525e353bd/0_2507_8736_6989/master/8736.jpg?width=140&quality=85&auto=format&fit=max&s=557f158097f822b27f85ec6694d53616",
         "source": "The Guardian",
         "section": "Culture"
       },
@@ -634,18 +625,27 @@
         "title": "MNEK cancels tour over lack of ticket sales and high production costs",
         "link": "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o?at_medium=RSS&at_campaign=rss",
         "summary": "The Grammy-nominated artist was due to start a run of shows for his latest album Bulldozer!! next month.",
-        "published": "2026-10-21T10:31:01Z",
+        "published": "2026-10-21T16:06:35Z",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca0b/live/6743e370-cd31-11f1-935f-b9c228680c6f.jpg",
         "source": "BBC News",
         "section": "Culture"
       },
       {
-        "title": "Is Wikipedia the ‘Last Best Place on the Internet’?",
-        "link": "https://www.nytimes.com/video/books/100000011164788/is-wikipedia-the-last-best-place-on-the-internet.html",
-        "summary": "Richard Cooke’s book, “The Last Best Place on the Internet” retells the history of Wikipedia with an emphasis on the human. Jennifer Szalai, a New York Times book critic, reviews the book.",
-        "published": "2026-10-21T10:23:43Z",
-        "image": null,
-        "source": "The New York Times",
+        "title": "Perle Noire: Meditations for Joséphine review – turgid tribute to pioneering star",
+        "link": "https://www.theguardian.com/music/2026/oct/21/perle-noire-meditations-for-josephine-review-turgid-tribute-to-pioneering-star",
+        "summary": "Barbican Hall, London Julia Bullock is magnetic in this discourse on Josephine Baker, but the 100-minute piece is slow-moving and lacking in intimacy Josephine Baker was many things: a civil rights activist; a spy for the French resistance; a woman who, born into poverty, became the best-paid stage star in Europe. But before she was any of these, she was an entertainer. So one wonders what on earth she would make of Perle Noire: Meditations for Joséphine, a turgid 100-minute piece developed by the soprano Julia Bullock, composer Tyshawn Sorey, poet Claudia Rankine and director Peter Sellars. This was its UK premiere, although Bullock and Sorey have been performing versions of it in the US and elsewhere over the past decade. It isn’t a tribute in the usual sense, but a discourse on racial discrimination, in Baker’s day and our own. Bullock, magnetic as ever, sings and speaks alongside six musicians, who include Sorey himself on piano, drum kit and percussion, plus electric guitar, violin, alto flute, saxophone and bassoon. On a platform, in front of a saturated square of brightly coloured light, Bullock declaims Rankine’s words and sings Sorey’s music, in which Baker’s songs are deconstructed, reformed, and mostly slowed right down. A riff on Bye Bye Blackbird has guitar and saxophone sounding suspiciously like the playout on a 1980s power ballad. Later, more rewardingly, the guitar gives a highlife flavour to a version of Je t’aime. But mostly the score is bloated and the instrumental episodes don’t unify the piece so much as draw it out. Ear-splitting bass drum and tam tam indicate emotional climaxes. Everyone is mic’d up, which works against any sense of intimacy. Continue reading...",
+        "published": "2026-10-21T15:39:09Z",
+        "image": "https://i.guim.co.uk/img/media/cccfc9540559b06f4660e9aef077458fbb8a5a4b/506_0_4149_3319/master/4149.jpg?width=140&quality=85&auto=format&fit=max&s=52024f7b57204926ae574fb79fff14f1",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
+      {
+        "title": "Glastonbury coach tickets oversold in admin error",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
+        "published": "2026-10-21T15:30:57Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0b/live/0dfe5e30-cd5e-11f1-b962-b7ff822cde72.jpg",
+        "source": "BBC News",
         "section": "Culture"
       }
     ]
