@@ -1,433 +1,451 @@
 {
-  "generated": "2026-10-29T21:48:48Z",
+  "generated": "2026-10-30T01:57:10Z",
   "lead": {
-    "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
-    "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-    "summary": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries.",
-    "published": "2026-10-29T21:36:23Z",
-    "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-miami-fgjl/29xp-miami-fgjl-mediumSquareAt3X.jpg",
-    "source": "The New York Times",
+    "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+    "link": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+    "summary": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions and business groups has said the Pacific nation is in the midst of a “national crisis”, but there appears to be “no coordinated plan to protect vulnerable communities from the worsening impacts of El Niño.” Continue reading...",
+    "published": "2026-10-30T01:45:56Z",
+    "image": "https://i.guim.co.uk/img/media/cc479bce593c1d686d94f80fcfd1feeee302eb1e/0_320_4337_3470/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=9316e0e00c0d8b46c88d9ee7eb7e3b96",
+    "source": "The Guardian",
     "section": "World"
   },
   "top": [
     {
-      "title": "Merck to boost next decade revenue forecast on new drugs optimism",
-      "link": "https://www.investing.com/news/stock-market-news/merck-tops-thirdquarter-estimates-as-keytruda-gardasil-outperform-4982557",
-      "summary": "",
-      "published": "2026-10-29T21:42:46Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S167_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Gilead hikes 2026 sales outlook, says Medicare cuts Biktarvy price by 38% starting in 2028",
-      "link": "https://www.investing.com/news/stock-market-news/gilead-hikes-2026-sales-outlook-says-medicare-cuts-biktarvy-price-by-38-starting-in-2028-4985399",
-      "summary": "",
-      "published": "2026-10-29T21:42:21Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2HQ_L.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Why is Gilead Sciences stock surging today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-gilead-sciences-stock-surging-today-93CH-4985390",
-      "summary": "",
-      "published": "2026-10-29T21:40:34Z",
-      "image": "https://content-media.investing.com/news/Gilead_800x533_L_1598282999.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    }
-  ],
-  "latest": [
-    {
-      "title": "Halloween Aboard the International Space Station",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]",
-      "published": "2026-10-29T21:44:23Z",
-      "image": null,
-      "source": "NASA",
-      "section": "Science"
-    },
-    {
-      "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-      "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-      "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
-      "published": "2026-10-29T21:44:15Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-      "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
-      "published": "2026-10-29T21:43:49Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Business"
-    },
-    {
-      "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-      "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-      "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-      "published": "2026-10-29T21:43:08Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
-      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-      "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
-      "published": "2026-10-29T21:42:06Z",
-      "image": null,
-      "source": "CNBC",
-      "section": "Markets"
-    },
-    {
-      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
-      "published": "2026-10-29T21:40:24Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14eb/live/d3634440-d3dc-11f1-b441-2b33b063138f.png",
-      "source": "BBC Sport",
-      "section": "Sports"
-    },
-    {
-      "title": "Why is Cavco Industries stock climbing today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-cavco-industries-stock-climbing-today-93CH-4985384",
-      "summary": "",
-      "published": "2026-10-29T21:38:21Z",
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "source": "Investing.com",
-      "section": "Markets"
-    },
-    {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "published": "2026-10-29T21:37:58Z",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+      "title": "Crypto worth billions frozen after suspected Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+      "published": "2026-10-30T01:53:32Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
       "source": "BBC News",
       "section": "Business"
     },
     {
-      "title": "Why is Strategy stock sliding today?",
-      "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4985380",
+      "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking News US email With days until the midterm elections, a new poll from CNN places Democrats well in the lead in key Senate races in Texas and Michigan, while projecting tighter contests in Kansas and Maine. In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%. Continue reading...",
+      "published": "2026-10-30T01:43:04Z",
+      "image": "https://i.guim.co.uk/img/media/7961a29a4736b94a504a27e050b549ed685d734f/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8b778c0ea90adbf58362f7f38b5137d9",
+      "source": "The Guardian",
+      "section": "World"
+    },
+    {
+      "title": "China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens",
+      "link": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
+      "summary": "Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao.",
+      "published": "2026-10-30T01:41:21Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-china-purges-01-jlqz/29int-china-purges-01-jlqz-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "World"
+    }
+  ],
+  "latest": [
+    {
+      "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+      "published": "2026-10-30T01:46:36Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Binance Suspends Transactions as It Probes What May Be Biggest-Ever Crypto Heist",
+      "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
+      "summary": "Changpeng Zhao said Binance users’ funds were safe. But hackers appeared to have made off with at least $1.7 billion—and possibly more, analysts said.",
+      "published": "2026-10-30T01:35:00Z",
+      "image": "https://images.wsj.net/im-68340011",
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+      "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+      "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
+      "published": "2026-10-30T01:34:32Z",
+      "image": null,
+      "source": "CNBC",
+      "section": "Markets"
+    },
+    {
+      "title": "Patrick Stewart dies: Tributes pour in for British acting legend – latest updates",
+      "link": "https://www.theguardian.com/culture/live/2026/oct/29/patrick-stewart-dead-at-86-live-updates",
+      "summary": "Acclaimed British stage and screen actor also known for X-Men among many roles has died aged 86 at home on Wednesday Patrick Stewart, titan of stage and screen, dies aged 86 Actor Bryan Batt , who starred with Stewart in the 90s romantic comedy Jeffrey , said he was heartbroken at the news of his passing. Batt wrote in a tribute on Instagram: He was one of the most talented, kindest, and generous actors I’ve ever had the honor of working with. I was lucky to play his lover in the film of Paul Rudnick’s Jeffrey. I learned it when I was 14. I memorized all the soliloquies just because I thought they were great. And they stuck, so I didn’t have to learn those bits of the play, which is a blessing, because learning lines has now become the one curse of this job. Continue reading...",
+      "published": "2026-10-30T01:32:58Z",
+      "image": "https://i.guim.co.uk/img/media/5b5e59392eec033fdaaa14d93e7d180be1069ab8/347_0_2902_2322/master/2902.jpg?width=140&quality=85&auto=format&fit=max&s=7568695b98e0e444230f7f8466592f7f",
+      "source": "The Guardian",
+      "section": "Culture"
+    },
+    {
+      "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+      "link": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
       "summary": "",
-      "published": "2026-10-29T21:36:39Z",
-      "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
+      "published": "2026-10-30T01:30:36Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T02L_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
     },
     {
-      "title": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
-      "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+      "title": "Trump administration renews bid to block Alaska election results",
+      "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+      "summary": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters.",
+      "published": "2026-10-30T01:30:30Z",
+      "image": null,
+      "source": "Al Jazeera",
+      "section": "World"
+    },
+    {
+      "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+      "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+      "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+      "published": "2026-10-30T01:30:27Z",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+      "source": "The New York Times",
+      "section": "Business"
+    },
+    {
+      "title": "Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets",
+      "link": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
       "summary": "",
-      "published": "2026-10-29T21:36:38Z",
-      "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
+      "published": "2026-10-30T01:30:23Z",
+      "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2L0_L.jpg",
       "source": "Investing.com",
       "section": "Markets"
+    },
+    {
+      "title": "Gold Declines, Weighed by Tighter Monetary Policy Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
+      "summary": "Gold declined in early Asian trade. U.S. inflation is still above the Fed’s 2% target and markets continue to price in and further tightening, keeping yields supported and weighing on gold, Infinox said.",
+      "published": "2026-10-30T01:21:00Z",
+      "image": null,
+      "source": "The Wall Street Journal",
+      "section": "Markets"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "published": "2026-10-30T01:20:48Z",
+      "image": null,
+      "source": "TechCrunch",
+      "section": "Technology"
     }
   ],
   "sections": {
     "World": [
       {
-        "title": "Young athlete and former minister among victims of Spain train crash",
-        "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
-        "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
-        "published": "2026-10-29T21:33:35Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c9/live/e9ad7380-d3c6-11f1-867c-77016fb236d7.jpg",
-        "source": "BBC News",
+        "title": "Trump administration renews bid to block Alaska election results",
+        "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss",
+        "summary": "The updated lawsuit cites a new report that Democratic operatives recruited a competitor to confuse voters.",
+        "published": "2026-10-30T01:30:30Z",
+        "image": null,
+        "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "After Crash, Spain Asks if Its Train System Is Too Old and Prone to Human Error",
-        "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-        "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.",
-        "published": "2026-10-29T21:32:39Z",
-        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "World"
-      },
-      {
-        "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-        "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-        "published": "2026-10-29T21:31:12Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/836b/live/07facba0-d37f-11f1-93e1-3b657b665bcf.jpg",
-        "source": "BBC News",
-        "section": "World"
-      },
-      {
-        "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
-        "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
-        "summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking News US email With days until the midterm elections, a new poll from CNN places Democrats well in the lead in key Senate races in Texas and Michigan, while projecting tighter contests in Kansas and Maine. In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%. Continue reading...",
-        "published": "2026-10-29T21:24:14Z",
-        "image": "https://i.guim.co.uk/img/media/7961a29a4736b94a504a27e050b549ed685d734f/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8b778c0ea90adbf58362f7f38b5137d9",
+        "title": "Vivek Ramaswamy discontinues attack ad that prompted wave of revulsion",
+        "link": "https://www.theguardian.com/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+        "summary": "Candidate for Ohio governor confirms campaign no longer airing ad that smeared rival and was defended by Trump Vivek Ramaswamy, the Republican nominee for Ohio governor, confirmed on Thursday that his campaign is no longer airing an attack ad that features the estranged mother of his Democratic opponent, Amy Acton. The ad prompted a wave of revulsion since Acton’s mother, Donna Arthur, lost custody of her daughter in 1978, when her second husband, Cledith Arthur, was charged with raping her daughter between the ages of 10 and 12. Continue reading...",
+        "published": "2026-10-30T01:10:33Z",
+        "image": "https://i.guim.co.uk/img/media/88cbc36411a9992d80dab2354c3518b6d2286582/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=493dc629b7370c6913f4e963fa66a28d",
         "source": "The Guardian",
         "section": "World"
       },
       {
-        "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-        "link": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
-        "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
-        "published": "2026-10-29T21:16:26Z",
+        "title": "Ethiopia border clashes leave families hungry and homeless in Kenya",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/ethiopia-border-clashes-leave-families-hungry-and-homeless-in-kenya?traffic_source=rss",
+        "summary": "Fighting over disputed land and water in Ethiopia’s Moyale border region has driven thousands of people into Kenya.",
+        "published": "2026-10-30T01:05:26Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
-        "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
-        "summary": "The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure.",
-        "published": "2026-10-29T21:12:21Z",
-        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-cuba-interview-jpgt/29int-cuba-interview-jpgt-mediumSquareAt3X.jpg",
+        "title": "EU force helicopter crash kills four in Bosnia",
+        "link": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+        "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.",
+        "published": "2026-10-30T00:56:49Z",
+        "image": null,
+        "source": "Al Jazeera",
+        "section": "World"
+      },
+      {
+        "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+        "link": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+        "summary": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over deadly beef Wellington lunch.",
+        "published": "2026-10-30T00:48:47Z",
+        "image": "https://static01.nyt.com/images/2026/10/30/world/30int-oz-mushroom-appeal-aohgq/30int-oz-mushroom-appeal-aohgq-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "World"
       },
       {
-        "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
-        "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
-        "published": "2026-10-29T21:10:13Z",
+        "title": "Erin Patterson to die in prison after losing appeal against mushroom murder convictions",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+        "summary": "Victorian court of appeal rules Patterson should be jailed for life with no parole over deadly beef wellington lunch that killed three people Erin Patterson mushroom murders appeal – live updates Get our breaking news email , free app or daily news podcast Erin Patterson has lost her bid to overturn her convictions and been resentenced to life behind bars with no chance of release, as Victoria’s highest court handed down its decision on two appeals regarding her triple murder case . The court of appeal ruled on the two appeals on Friday, after justices Lesley Taylor, Stephen McLeish and Peter Kidd heard arguments from her legal team and prosecutors in August. Continue reading...",
+        "published": "2026-10-30T00:48:00Z",
+        "image": "https://i.guim.co.uk/img/media/5254cf587c7c076dfd7c74396b859c0751b7d6b1/17_0_3058_2447/master/3058.jpg?width=140&quality=85&auto=format&fit=max&s=cdf2750e02c7dbe10d6e50b23afe7926",
+        "source": "The Guardian",
+        "section": "World"
+      },
+      {
+        "title": "Trump cancels Iowa, Kansas midterm events, opts for ‘tele-rallies’",
+        "link": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies?traffic_source=rss",
+        "summary": "The Republican National Committee has announced broadcasts in nearly 20 states after Trump nixes final rallies.",
+        "published": "2026-10-30T00:44:50Z",
         "image": null,
         "source": "Al Jazeera",
         "section": "World"
       },
       {
-        "title": "Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86",
-        "link": "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-        "summary": "Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart dies aged 86 – latest updates Patrick Stewart, the acclaimed British stage and screen actor renowned for both Shakespeare and sci-fi, has died. He was 86. The Star Trek: the Next Generation and X-Men star died on Wednesday at his home in Los Angeles after “a brief and poignant journey with Alzheimer’s disease and Lewy body dementia”, said Kelly Bush Novak, his longtime spokesperson, to the Hollywood Reporter . Continue reading...",
-        "published": "2026-10-29T21:02:36Z",
-        "image": "https://i.guim.co.uk/img/media/9aa4e1ddebae2518b26025974c624af6d3aa638e/1_0_2815_2253/master/2815.jpg?width=140&quality=85&auto=format&fit=max&s=8318bcaad508979c0d3815965cd0dce9",
+        "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
+        "link": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
+        "summary": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza, and a requirement that all visa applicants be screened for “the risk of holding antisemitic views”. In an updated plan released on Friday , Jillian Segal said Australia’s two public broadcasters should be subjected to greater oversight. Continue reading...",
+        "published": "2026-10-30T00:37:36Z",
+        "image": "https://i.guim.co.uk/img/media/a64738cc830426f354cd412e09123af48608ef4e/364_0_6258_5007/master/6258.jpg?width=140&quality=85&auto=format&fit=max&s=9abc4187649e85cccf3f9f70aedc11e5",
         "source": "The Guardian",
         "section": "World"
       }
     ],
     "Business": [
       {
-        "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-        "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-        "summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
-        "published": "2026-10-29T21:43:49Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
-      },
-      {
-        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-        "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-        "published": "2026-10-29T21:37:58Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-        "source": "BBC News",
-        "section": "Business"
-      },
-      {
-        "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
-        "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-        "summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
-        "published": "2026-10-29T21:29:59Z",
-        "image": null,
-        "source": "CNBC",
-        "section": "Business"
-      },
-      {
-        "title": "U.S. GDP Increased 3.4% in Third Quarter",
-        "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-        "summary": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.",
-        "published": "2026-10-29T21:10:37Z",
-        "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png",
-        "source": "The New York Times",
-        "section": "Business"
-      },
-      {
-        "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+        "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
         "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
         "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-        "published": "2026-10-29T20:53:41Z",
+        "published": "2026-10-30T01:30:27Z",
         "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Business"
       },
       {
-        "title": "Amazon shares sink as spending on AI overshadows growth in cloud unit",
-        "link": "https://fortune.com/2026/10/29/amazon-shares-sink-as-spending-on-ai-overshadows-growth-in-cloud-unit/",
-        "summary": "E-commerce giant is among the biggest spenders on AI infrastructure.",
-        "published": "2026-10-29T20:44:14Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2201505685-e1793147271914.jpg?w=2048",
+        "title": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
+        "link": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
+        "summary": "Search revenue missed forecasts and free cash flow went negative. Bank of America now values Google’s core search business at about 10 times earnings, against 18.7 for the S&P 500.",
+        "published": "2026-10-30T00:10:15Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297777932-e1793315976114.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
       },
       {
-        "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-        "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-        "summary": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
-        "published": "2026-10-29T20:14:15Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+        "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+        "summary": "A new generation is embracing eye-catching patching and visible mends.",
+        "published": "2026-10-30T00:00:35Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+        "source": "BBC News",
         "section": "Business"
       },
       {
-        "title": "Polymarket launches 15-minute ‘Up or Down’ contracts for the price of gold, plans to add stock and forex",
-        "link": "https://fortune.com/2026/10/29/polymarket-now-lets-you-bet-on-golds-price-going-up-or-down-in-the-next-15-minutes/",
-        "summary": "The contracts resemble popular 15 minute Bitcoin contracts with the final price determined by data from Chainlink",
-        "published": "2026-10-29T20:07:53Z",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300825651.jpg?w=2048",
+        "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
+        "link": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+        "summary": "The company said it was looking into hundreds of new accounts that had placed wagers in two markets related to the election on Tuesday.",
+        "published": "2026-10-29T23:37:35Z",
+        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Business"
+      },
+      {
+        "title": "Amazon CEO says shopping agents like Meta’s Muse ‘not great’",
+        "link": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
+        "summary": "In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.",
+        "published": "2026-10-29T23:37:04Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2265246744-e1793315821913.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "‘Star Trek’ and ‘X-Men’ icon Patrick Stewart dies at 86: ‘We lost one of the greats of stage and screen today’",
+        "link": "https://fortune.com/2026/10/29/patrick-stewart-dies-star-trek-x-men/",
+        "summary": "Captain Picard and Professor X sails into the undiscovered country.",
+        "published": "2026-10-29T22:57:11Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2069353775-e1793314619943.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "‘The logic points in that direction’: Drones strike a container ship off Bulgaria as attacks on NATO’s Black flank pile up",
+        "link": "https://fortune.com/2026/10/29/drones-strike-container-ship-bulgaria-black-sea-shipping-nato/",
+        "summary": "The attacks in Bulgaria and Romania’s exclusive economic zones threaten a global shipping route and left two people dead, with at least 25 still missing.",
+        "published": "2026-10-29T22:53:38Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26301743235729-web.jpg?w=2048",
+        "source": "Fortune",
+        "section": "Business"
+      },
+      {
+        "title": "Cyclone Arnab hits India’s data-center coast, where Google, Adani and Airtel plan to invest $15 billion in a hyperscale data center",
+        "link": "https://fortune.com/2026/10/29/cyclone-arnab-india-data-centers-google-adani-airtel/",
+        "summary": "Meteorologists said unusually high temperatures across the Bay of Bengal helped fuel Arnab.",
+        "published": "2026-10-29T22:52:53Z",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26301410169296-web.jpg?w=2048",
         "source": "Fortune",
         "section": "Business"
       }
     ],
     "Markets": [
       {
-        "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-        "link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-        "summary": "Amazon reported third-quarter earnings on Thursday after the bell.",
-        "published": "2026-10-29T21:44:15Z",
+        "title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+        "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+        "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+        "published": "2026-10-30T01:46:36Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Intel stock plunges 16% as chipmaker blames PC slowdown for weak guidance",
-        "link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-        "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-        "published": "2026-10-29T21:43:08Z",
-        "image": null,
-        "source": "CNBC",
+        "title": "Binance Suspends Transactions as It Probes What May Be Biggest-Ever Crypto Heist",
+        "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
+        "summary": "Changpeng Zhao said Binance users’ funds were safe. But hackers appeared to have made off with at least $1.7 billion—and possibly more, analysts said.",
+        "published": "2026-10-30T01:35:00Z",
+        "image": "https://images.wsj.net/im-68340011",
+        "source": "The Wall Street Journal",
         "section": "Markets"
       },
       {
-        "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+        "title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
         "link": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
         "summary": "Alaska's election could determine which party has a majority in the Senate. GOP Sen. Dan Sullivan faces a strong challenge from Democrat Mary Peltola.",
-        "published": "2026-10-29T21:42:06Z",
+        "published": "2026-10-30T01:34:32Z",
         "image": null,
         "source": "CNBC",
         "section": "Markets"
       },
       {
-        "title": "Why is Cavco Industries stock climbing today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-cavco-industries-stock-climbing-today-93CH-4985384",
+        "title": "Bayer wins Roundup weedkiller cancer trial while awaiting settlement ruling",
+        "link": "https://www.investing.com/news/stock-market-news/bayer-wins-roundup-weedkiller-cancer-trial-while-awaiting-settlement-ruling-4985676",
         "summary": "",
-        "published": "2026-10-29T21:38:21Z",
-        "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+        "published": "2026-10-30T01:30:36Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9T02L_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Why is Strategy stock sliding today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-sliding-today-93CH-4985380",
+        "title": "Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets",
+        "link": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
         "summary": "",
-        "published": "2026-10-29T21:36:39Z",
-        "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
+        "published": "2026-10-30T01:30:23Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2L0_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "Coinbase returns to profit as crypto investment gains cushion trading weakness",
-        "link": "https://www.investing.com/news/stock-market-news/coinbase-snaps-losing-streak-with-thirdquarter-profit-on-crypto-trading-rebound-4985073",
+        "title": "Gold Declines, Weighed by Tighter Monetary Policy Expectations",
+        "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
+        "summary": "Gold declined in early Asian trade. U.S. inflation is still above the Fed’s 2% target and markets continue to price in and further tightening, keeping yields supported and weighing on gold, Infinox said.",
+        "published": "2026-10-30T01:21:00Z",
+        "image": null,
+        "source": "The Wall Street Journal",
+        "section": "Markets"
+      },
+      {
+        "title": "Microsoft expects to raise $25 billion in US bond sale, sources say",
+        "link": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
         "summary": "",
-        "published": "2026-10-29T21:36:38Z",
-        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S2IL_L.jpg",
+        "published": "2026-10-30T01:18:25Z",
+        "image": "https://content-media.investing.com/trkd-images/LYNXNPEM9S1HI_L.jpg",
         "source": "Investing.com",
         "section": "Markets"
       },
       {
-        "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-        "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-        "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-        "published": "2026-10-29T21:36:00Z",
-        "image": "https://images.mktw.net/im-01171452",
-        "source": "MarketWatch",
-        "section": "Markets"
-      },
-      {
-        "title": "Why is Roblox stock plunging today?",
-        "link": "https://www.investing.com/news/stock-market-news/why-is-roblox-stock-plunging-today-93CH-4985377",
-        "summary": "",
-        "published": "2026-10-29T21:35:48Z",
-        "image": "https://content-media.investing.com/news/Roblox_800x533_L_1644999130.jpg",
-        "source": "Investing.com",
+        "title": "Oil Ticks Back Up as Uncertainty Clouds Peace Hopes",
+        "link": "https://www.wsj.com/finance/commodities-futures/oil-ticks-back-up-as-uncertainty-clouds-peace-hopes-bcefd8d8?mod=rss_markets_main",
+        "summary": "Oil prices gained in early Asia trade after settling lower on hopes of U.S.-Iran talks.",
+        "published": "2026-10-30T01:18:00Z",
+        "image": null,
+        "source": "The Wall Street Journal",
         "section": "Markets"
       }
     ],
     "Technology": [
       {
-        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-        "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-        "published": "2026-10-29T21:20:47Z",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "published": "2026-10-30T01:20:48Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "GM reaches $220M settlement over selling drivers’ private data",
-        "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-        "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-        "published": "2026-10-29T21:01:04Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "What to Know About China’s Top-Secret Spaceplane",
-        "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-        "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-        "published": "2026-10-29T20:45:36Z",
-        "image": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg",
-        "source": "Wired",
-        "section": "Technology"
-      },
-      {
-        "title": "Fan fiction site Archive of Our Own could be offline for up to 4 weeks",
-        "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-        "summary": "Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.",
-        "published": "2026-10-29T20:43:56Z",
-        "image": null,
-        "source": "TechCrunch",
-        "section": "Technology"
-      },
-      {
-        "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
-        "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-        "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-        "published": "2026-10-29T20:18:49Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
-        "source": "Ars Technica",
-        "section": "Technology"
-      },
-      {
-        "title": "Patrick Stewart has died at age 86",
-        "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-        "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, England, […]",
-        "published": "2026-10-29T20:10:02Z",
+        "title": "The director of Obsession put a new horror short on YouTube",
+        "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+        "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]",
+        "published": "2026-10-29T23:57:18Z",
         "image": null,
         "source": "The Verge",
         "section": "Technology"
       },
       {
-        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-        "published": "2026-10-29T20:08:31Z",
+        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+        "published": "2026-10-29T23:44:56Z",
         "image": null,
         "source": "TechCrunch",
         "section": "Technology"
       },
       {
-        "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-        "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-        "summary": "Inspector general rejected request from Democratic and Republican senators.",
-        "published": "2026-10-29T20:08:10Z",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+        "published": "2026-10-29T23:42:22Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Intel says it’s selling every affordable laptop chip it can make",
+        "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-optimized and we're seeing a […]",
+        "published": "2026-10-29T23:42:21Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+        "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+        "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+        "published": "2026-10-29T22:27:23Z",
+        "image": null,
+        "source": "TechCrunch",
+        "section": "Technology"
+      },
+      {
+        "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+        "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+        "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per […]",
+        "published": "2026-10-29T22:19:32Z",
+        "image": null,
+        "source": "The Verge",
+        "section": "Technology"
+      },
+      {
+        "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+        "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+        "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+        "published": "2026-10-29T21:47:57Z",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
         "source": "Ars Technica",
         "section": "Technology"
       }
     ],
     "Science": [
+      {
+        "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+        "link": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+        "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+        "published": "2026-10-30T00:07:39Z",
+        "image": null,
+        "source": "NASA",
+        "section": "Science"
+      },
+      {
+        "title": "What makes this golden eagle chick so important?",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The bird's arrival on a managed grouse moor in southern Scotland is seen as a key moment for the species.",
+        "published": "2026-10-29T23:00:41Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2733/live/013b63b0-d2bc-11f1-8cf0-c5d120932f9f.jpg",
+        "source": "BBC News",
+        "section": "Science"
+      },
       {
         "title": "Halloween Aboard the International Space Station",
         "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
@@ -448,7 +466,7 @@
       },
       {
         "title": "BBC Inside Science",
-        "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
         "summary": "Time is running out for one of the most ambitious environmental pledges in history.",
         "published": "2026-10-29T21:00:00Z",
         "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
@@ -481,107 +499,134 @@
         "image": null,
         "source": "NASA",
         "section": "Science"
-      },
-      {
-        "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-        "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-        "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]",
-        "published": "2026-10-29T18:00:35Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
-      },
-      {
-        "title": "NIH–NASA QuSAFE Challenge",
-        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
-        "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]",
-        "published": "2026-10-29T17:44:37Z",
-        "image": null,
-        "source": "NASA",
-        "section": "Science"
       }
     ],
     "Sports": [
       {
-        "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
-        "summary": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
-        "published": "2026-10-29T21:40:24Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14eb/live/d3634440-d3dc-11f1-b441-2b33b063138f.png",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Everton v Newcastle: Carabao Cup fourth round – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/29/everton-v-newcastle-carabao-cup-fourth-round-live",
-        "summary": "⚽ Grealish misses last-16 tie over ‘breach of discipline’ ⚽ Scores | Football Daily | Mail Scott with your thoughts 2 min: Dewsbury-Hall shoots. Deflected. Nothing comes of the corner. Everton are playing in blue, Newcastle a pinky purple. The match begins. Sky’s red-button treatment of this game, squirrelled away deep in its planner, is little short of a disgrace. Continue reading...",
-        "published": "2026-10-29T21:34:39Z",
-        "image": "https://i.guim.co.uk/img/media/b8e8c4a767f6ee591767af3ebef0b4c548705749/569_0_4592_3673/master/4592.jpg?width=140&quality=85&auto=format&fit=max&s=f1e2f948249546937e2faac39bda7ab9",
+        "title": "Premier League: 10 things to look out for this weekend",
+        "link": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+        "summary": "Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool are improving Premier League top scorers Michael Carrick and Bruno Fernandes held clear-the-air talks this week. Fernandes was an unused substitute against Bournemouth after criticising Carrick’s tactics during the Champions League defeat by Como but it seems the situation has been resolved – for now. Dropping Fernandes did not do United any good against Bournemouth, who ran riot at Old Trafford , and the captain is expected to return to the starting lineup for the trip to Chelsea. If that happens, he owes Carrick a performance. Fernandes has been poor this season and it is time he did his talking on the pitch. Jacob Steinberg Chelsea v Manchester United, Saturday 12.30pm (all times GMT) Manchester City v Brighton, Saturday 3pm Continue reading...",
+        "published": "2026-10-30T00:01:38Z",
+        "image": "https://i.guim.co.uk/img/media/b8f48f90b734894366e84eef746d93389ccd150a/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0e57dd8e7307537d43f9424e87d6c0a3",
         "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "Manchester City v Paris Saint-Germain: Women’s Champions League – live",
-        "link": "https://www.theguardian.com/football/live/2026/oct/29/manchester-city-v-paris-saint-germain-womens-champions-league-live",
-        "summary": "⚽ Women’s Champions League updates; kick-off 8pm GMT ⚽ Live scores | Read Moving the Goalposts | Mail Sarah 4 min : City have the first real chance as they try and find Shaw in the box but Karchaoui marshals the threat well. The hosts come again with Fujino finding the Jamaica international but she can’t connect with the cross. 2 min : Can you believe this is the first time these two clubs have met? That fun fact blew my mind a bit. Both teams starting slowly, trying to figure the other out. Continue reading...",
-        "published": "2026-10-29T21:33:33Z",
-        "image": "https://i.guim.co.uk/img/media/97428a0947c48993b4e4d075ba139e36cff75426/1075_0_4331_3466/master/4331.jpg?width=140&quality=85&auto=format&fit=max&s=97ce72d64e06d25d7b68190ed75a433c",
-        "source": "The Guardian",
-        "section": "Sports"
-      },
-      {
-        "title": "What have we learned from first round of Premiership?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&at_campaign=rss",
-        "summary": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland assesses the key things we have learned so far.",
-        "published": "2026-10-29T20:53:07Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/460c42b0-d3c6-11f1-867c-77016fb236d7.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Cundy's 20-year reign as world champion ends",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/cxj0lv0vzv7do?at_medium=RSS&at_campaign=rss",
-        "summary": "Jody Cundy's 20-year reign as para cycling's C4 kilo time trial world champion was ended by Australian Korey Boddington.",
-        "published": "2026-10-29T20:27:23Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aef/live/a91aedb0-d14c-11f1-b587-a3ec61e669b1.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Zverev seals world number one spot after win",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
-        "published": "2026-10-29T20:25:37Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6651/live/755ec310-d3d7-11f1-9c32-1532a6164171.jpg",
-        "source": "BBC Sport",
-        "section": "Sports"
-      },
-      {
-        "title": "Grealish dropped by Everton after 'breach of club discipline'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
-        "summary": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
-        "published": "2026-10-29T19:31:36Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png",
-        "source": "BBC Sport",
         "section": "Sports"
       },
       {
         "title": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
         "link": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
-        "summary": "England player left out of squad to face Newcastle Grealish is understood to have missed training Jack Grealish has been dropped from the Everton squad for tonight’s Carabao Cup tie against Newcastle over a breach of club discipline. Everton took the unusual step of announcing that Grealish’s omission was for disciplinary reasons on social media, after listing David Moyes’s team for the fourth-round tie at Hill Dickinson Stadium. The club posted on X: “Jarrad Branthwaite remains sidelined for a second successive game due to concussion protocols, while Jack Grealish is unavailable for selection due to a breach of club discipline.” Continue reading...",
-        "published": "2026-10-29T19:23:33Z",
+        "summary": "England player left out of squad to face Newcastle Moyes confirms he ‘supports’ the club decision Jack Grealish was dropped from Everton’s Carabao Cup win over Newcastle following a breach of club discipline. Everton took the unusual step of announcing that Grealish’s omission from the fourth-round tie was for disciplinary reasons on social media, after listing David Moyes’s team for the fourth-round tie at Hill Dickinson Stadium. The club posted on X: “Jarrad Branthwaite remains sidelined for a second successive game due to concussion protocols, while Jack Grealish is unavailable for selection due to a breach of club discipline.” Continue reading...",
+        "published": "2026-10-29T22:57:19Z",
         "image": "https://i.guim.co.uk/img/media/ea5a35cb1ef5c4fce921f4b4d82c95e188bab3f0/509_0_3172_2539/master/3172.jpg?width=140&quality=85&auto=format&fit=max&s=4f6a63f150172a269264c201f6583996",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "George Russell determined not to let disappointing F1 season define career",
+        "link": "https://www.theguardian.com/sport/2026/oct/29/george-russell-f1-formula-one-mexico-grand-prix",
+        "summary": "28-year-old still believes he will win world title one day Kimi Antonelli misses media duties with ‘viral illness’ George Russell has insisted he will not let his difficult Formula One season define his career and believes he still has plenty of years left to come back and win the world championship. Russell has been outdriven by his 20-year-old Mercedes teammate Kimi Antonelli in a bruising season for the British driver. Antonelli is set to win the title and become F1’s youngest world champion at this weekend’s Mexican Grand Prix if he finishes in ninth place or above. Continue reading...",
+        "published": "2026-10-29T22:53:06Z",
+        "image": "https://i.guim.co.uk/img/media/9795b6b4805f40bdcf102f28887e2d97db4d2ba7/441_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=6c5e2fbfe09cd4f755afc570b30e52f7",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "PSG score late to hold struggling Man City",
+        "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
+        "published": "2026-10-29T22:40:17Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2032/live/17c3a580-d3e7-11f1-a701-fddedf244c16.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Ireland's Furlong cleared of groin grab by disciplinary committee",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9wzqen751ko?at_medium=RSS&at_campaign=rss",
+        "summary": "Ireland's Tadhg Furlong is cleared by a disciplinary committee of grabbing Gavin Coombes in the groin during Leinster's United Rugby Championship win over Munster.",
+        "published": "2026-10-29T22:19:17Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d383/live/d94fbb90-d37d-11f1-bf63-739fb2907d03.jpg",
+        "source": "BBC Sport",
+        "section": "Sports"
+      },
+      {
+        "title": "Everton ease past Newcastle to set up Fleetwood trip after Grealish is dropped",
+        "link": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+        "summary": "The biggest night in Everton’s season started with a big call from David Moyes and demanded a big performance from his players. With the exception of Jack Grealish , they did not let him down. A quarter-final at Fleetwood Town is their prize after a clinical, committed display shattered Newcastle’s hopes of lifting the Carabao Cup for a second time in three seasons. Newcastle dominated spells of the fourth round tie and the stats – registering 28 shots to Everton’s 11, although only nine visiting attempts were on target – but individual defensive errors and an ineffective attack proved a ruinous combination. Matthias Jaissle denied his team are a soft touch, despite persuasive evidence to the contrary, yet called Newcastle “naive” and the defeat, in front of almost 8,000 of their fans, “shocking”. Andy Burnham was among the many Evertonians in attendance grateful for Newcastle’s generosity. Continue reading...",
+        "published": "2026-10-29T22:15:19Z",
+        "image": "https://i.guim.co.uk/img/media/7672daf0a53065aab3d83268e9a8ee77cd11127a/231_0_2218_1775/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=e276f21bfca645833049474bfb47ba89",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
+        "link": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+        "summary": "You cannot miss half a dozen big chances at Women’s Champions League level and expect to get away with it. That is the harsh lesson Manchester City learnt on Thursday against Paris Saint-Germain, who extended the English champions’ wait for their first win in Europe this season by striking late to secure a point at a disappointed Joie Stadium. City’s third draw from three Champions League games so far this season really ought to have been a victory. Instead, their hopes of a top-four spot and with it automatic qualification for the quarter-finals are looking increasingly slim. Continue reading...",
+        "published": "2026-10-29T22:14:01Z",
+        "image": "https://i.guim.co.uk/img/media/d7c0e299086deb6d1ee6be4835ffc086f5a775c4/302_0_2397_1918/master/2397.jpg?width=140&quality=85&auto=format&fit=max&s=f39b101e4723b522e983ea2968941c66",
+        "source": "The Guardian",
+        "section": "Sports"
+      },
+      {
+        "title": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+        "link": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+        "summary": "Generali Stadium will have 71,500-seat capacity Inter fans protest the plans outside gala event Internazionale and Milan have unveiled plans for their new Generali Stadium, which will replace the shared San Siro venue from the 2031-32 season. The stadium, sponsored by Generali – Italy’s largest insurance company – will have a capacity of 71,500 seats and is expected to cost the two clubs €1.2 billion (£1bn). The plans were revealed at a gala event at Milan’s Castello Sforzesco on Thursday – but some fans in attendance voiced their opposition to San Siro being demolished. Continue reading...",
+        "published": "2026-10-29T21:46:26Z",
+        "image": "https://i.guim.co.uk/img/media/761992491fd571f8e86d77998fce9bc1c7276cc0/371_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=a2cbe83f5536435421b7185202174b07",
         "source": "The Guardian",
         "section": "Sports"
       }
     ],
     "Culture": [
       {
-        "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
-        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-        "summary": "The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”",
-        "published": "2026-10-29T21:06:56Z",
-        "image": "https://static01.nyt.com/images/2026/10/31/multimedia/28patrick-stewart-ctmp-copy-print1/28patrick-stewart-ctmp-mediumSquareAt3X.jpg",
+        "title": "Patrick Stewart dies: Tributes pour in for British acting legend – latest updates",
+        "link": "https://www.theguardian.com/culture/live/2026/oct/29/patrick-stewart-dead-at-86-live-updates",
+        "summary": "Acclaimed British stage and screen actor also known for X-Men among many roles has died aged 86 at home on Wednesday Patrick Stewart, titan of stage and screen, dies aged 86 Actor Bryan Batt , who starred with Stewart in the 90s romantic comedy Jeffrey , said he was heartbroken at the news of his passing. Batt wrote in a tribute on Instagram: He was one of the most talented, kindest, and generous actors I’ve ever had the honor of working with. I was lucky to play his lover in the film of Paul Rudnick’s Jeffrey. I learned it when I was 14. I memorized all the soliloquies just because I thought they were great. And they stuck, so I didn’t have to learn those bits of the play, which is a blessing, because learning lines has now become the one curse of this job. Continue reading...",
+        "published": "2026-10-30T01:32:58Z",
+        "image": "https://i.guim.co.uk/img/media/5b5e59392eec033fdaaa14d93e7d180be1069ab8/347_0_2902_2322/master/2902.jpg?width=140&quality=85&auto=format&fit=max&s=7568695b98e0e444230f7f8466592f7f",
+        "source": "The Guardian",
+        "section": "Culture"
+      },
+      {
+        "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+        "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+        "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+        "published": "2026-10-30T01:20:13Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adc6/live/62ea9ce0-d3ff-11f1-b497-e5f21e10c3e0.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "Patrick Stewart Brought Elegance To ‘Star Trek’ as Jean-Luc Picard",
+        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
+        "summary": "Led by the Shakespearean veteran in his role as Jean-Luc Picard, “Star Trek: The Next Generation” gracefully went where the franchise had never gone before.",
+        "published": "2026-10-30T00:37:55Z",
+        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29stewart-fjvz/29stewart-fjvz-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Patrick Stewart: A Life in Pictures",
+        "link": "https://www.nytimes.com/2026/10/29/movies/patrick-stewart-photos.html",
+        "summary": "The motley mix of roles that won the British actor acclaim includes a Shakespearean hero, a “Star Trek” captain and an “X-Men” mutant.",
+        "published": "2026-10-30T00:19:14Z",
+        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cul-stewart-pictures-01-flhc/29cul-stewart-pictures-01-flhc-mediumSquareAt3X.jpg",
+        "source": "The New York Times",
+        "section": "Culture"
+      },
+      {
+        "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+        "link": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
+        "summary": "Could the faithfuls finally come good in Thursday's penultimate episode?",
+        "published": "2026-10-30T00:16:59Z",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92d/live/69d85f50-d3e7-11f1-8aed-e5579b6f5a98.jpg",
+        "source": "BBC News",
+        "section": "Culture"
+      },
+      {
+        "title": "‘The Heart’ Review: A Bracing New Musical Pulses With Life",
+        "link": "https://www.nytimes.com/2026/10/29/theater/the-heart-review-organ-transplant.html",
+        "summary": "The show’s electronic dance-influenced music perfectly suits its story about a young man’s death and the rush to carry out a heart transplant.",
+        "published": "2026-10-30T00:00:05Z",
+        "image": null,
         "source": "The New York Times",
         "section": "Culture"
       },
@@ -589,62 +634,17 @@
         "title": "How a Walmart Heir Is Transforming Rural Arkansas Into a Design Powerhouse",
         "link": "https://www.nytimes.com/2026/10/28/arts/design/walmart-alice-walton-bentonville-design.html",
         "summary": "Alice Walton is helping the Ozark region shed its “flyover” status by creating civic projects with top architects. The Waltons say they are “giving back.” What is the region giving up?",
-        "published": "2026-10-29T20:53:38Z",
+        "published": "2026-10-29T23:44:44Z",
         "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01bentonville-waltons-vljk/01bentonville-waltons-vljk-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       },
       {
-        "title": "A.I. Avatars Are Coming for Comedy",
-        "link": "https://www.nytimes.com/video/arts/100000011218664/sexy-ai-avatars-are-coming-for-comedy.html",
-        "summary": "Scantily-clad A.I.-generated avatars are stealing jokes from female comedians and retelling them to massive online audiences. The critic Jason Zinoman examines this new social media phenomenon, why female comics are particularly vulnerable and what it means for the state of stand-up comedy.",
-        "published": "2026-10-29T20:33:39Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
-        "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
-        "summary": "The actor’s long and varied career included Shakespearean roles, “Star Trek: The Next Generation,” comedy and a stint in the Marvel Universe.",
-        "published": "2026-10-29T20:30:31Z",
-        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00xp-stewart-moments/00xp-stewart-moments-mediumSquareAt3X-v2.png",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-        "link": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-        "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
-        "published": "2026-10-29T20:24:59Z",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68aa/live/62ba1a00-d3de-11f1-9c32-1532a6164171.jpg",
-        "source": "BBC News",
-        "section": "Culture"
-      },
-      {
-        "title": "Urgent Funding Sought to Retrieve U.S. ‘Art Olympics’ Sculptures",
-        "link": "https://www.nytimes.com/2026/10/29/arts/design/us-pavilion-venice-biennale.html",
-        "summary": "The commissioner of the U.S. Pavilion at the Venice Biennale said donations were badly needed to ship the artworks home from Italy. Her nonprofit group is facing a $1 million shortfall to cover the costs.",
-        "published": "2026-10-29T20:14:46Z",
-        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29cul-venice-stranded-qgpf/29cul-venice-stranded-qgpf-mediumSquareAt3X.jpg",
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "National Constitution Center Names New Leader",
-        "link": "https://www.nytimes.com/2026/10/29/arts/design/national-constitution-center-hiram-chodosh.html",
-        "summary": "Hiram E. Chodosh, a former president of Claremont McKenna, will take the reins of the center charged by Congress to promote the Constitution and its principles.",
-        "published": "2026-10-29T19:27:17Z",
-        "image": null,
-        "source": "The New York Times",
-        "section": "Culture"
-      },
-      {
-        "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
-        "link": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
-        "summary": "The photographer Taryn Simon spent a decade channeling an F.B.I. agent’s life into pictures. Is it good art? Does it matter?",
-        "published": "2026-10-29T18:37:31Z",
-        "image": null,
+        "title": "Oberlin College Professor and His Wife Are Murdered by His Son, Police Say",
+        "link": "https://www.nytimes.com/2026/10/29/us/oberlin-college-professor-murdered.html",
+        "summary": "Pipo Nguyen-duy, 64, was the studio art chairman at the liberal arts college in Ohio and had been honored for his photography, including being named a Guggenheim fellow.",
+        "published": "2026-10-29T23:30:53Z",
+        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29xp-oberlin/29xp-oberlin-mediumSquareAt3X.jpg",
         "source": "The New York Times",
         "section": "Culture"
       }
